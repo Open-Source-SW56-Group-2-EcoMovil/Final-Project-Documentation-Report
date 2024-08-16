@@ -1,14 +1,17 @@
+<h1>Informe del Trabajo Final</h1>
+
+---
+
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>    
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Carrera de Ingeniería de Software</strong><br>
+    <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW56</strong><br>
-    <br><strong>Profesor: Efraín Ricardo Bautista Ubillús</strong><br>
-    <br><strong><b>INFORME</strong></b><br>
+    <br><strong>Docente: Efraín Ricardo Bautista Ubillús</strong><br>
 </p>
 
 <p align="center">
-    <strong>Startup del Proyecto: EcoMovil</strong><br>
+    <strong>Startup: EcoMovil</strong><br>
     <strong>Producto: EcoMovil</strong><br>
 </p>
 
@@ -19,42 +22,85 @@
 <div>
     <table align="center">
         <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
+            <th style="text-align:center;">Nombre</th>
+            <th style="text-align:center;">Código</th>
         </tr>
         <tr>
-            <td>Calisaya Sánchez, Juan Jesús</td>
-            <td>U202121935</td>
+            <td style="text-align:center;">Calisaya Sánchez, Juan Jesús</td>
+            <td style="text-align:center;">U202121935</td>
         </tr>
         <tr>
-            <td>Gallo Quintana, David Ivanoff</td>
-            <td>U20201e475</td>
+            <td style="text-align:center;">Gallo Quintana, David Ivanoff</td>
+            <td style="text-align:center;">U20201e475</td>
         </tr>
         <tr>
-            <td>Hidalgo Lopez, Mathias Adriano</td>
-            <td>U202213222</td>
+            <td style="text-align:center;">Hidalgo Lopez, Mathias Adriano</td>
+            <td style="text-align:center;">U202213222</td>
         </tr>
         <tr>
-            <td>Oneglio De Paz, Beth Shantal</td>
-            <td>U202213423</td>
+            <td style="text-align:center;">Oneglio De Paz, Beth Shantal</td>
+            <td style="text-align:center;">U202213423</td>
         </tr>
         <tr>
-            <td>Vasquez Goicochea, Erick Alessander</td>
-            <td>U202019871</td>
+            <td style="text-align:center;">Vasquez Goicochea, Erick Alessander</td>
+            <td style="text-align:center;">U202019871</td>
         </tr>
     </table>
     </div>
 </body>
 
 <p align="center">
-<br><strong>2024-02</strong></p>
-<br>
+<br><strong>Ciclo 2024-02</strong></p>
 
 ---
 
 # Registro de Versiones del Informe 
 
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
+|-----------|-----------|-----------|-----------|
+| 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown. |
+| AGREGAR    | AGREGAR   | AGREGAR    | AGREGAR |
+
+**FALTA HACER**
+
 # Project Report Collaboration Insights 
+
+URL del repositorio para el Project Report en la organización de GitHub del equipo: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Final-Project-Documentation-Report
+
+**TB1**
+
+Para la elaboración del informe correspondiente a la entrega TB1, la implementación de las secciones se distribuyó entre los miembros del equipo de la siguiente manera:
+
+| **Integrante** | **Tareas Asignadas** | 
+|-----------|-----------|
+| Calisaya Sánchez, Juan Jesús    | Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista.   | 
+| Gallo Quintana, David Ivanoff    | User Personas. User Task Matrix. User Journey Mapping. Entrevista.   | 
+| Hidalgo Lopez, Mathias Adriano    | Entrevistas. Diseño de entrevistas. Análisis de entrevistas.    | 
+| Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista.  | 
+| Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista.    | 
+
+La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización Integradis.
+
+**GitHub Collaboration Insights**
+
+GitHub también muestra un historial de las ramas principales y los procesos de fusión realizados. Todas las ramas se crearon siguiendo el diseño de GitFlow para asegurar una adecuada organización al utilizar un sistema de control de versiones. 
+
+Los miembros del equipo son:
+
+- Calisaya Sánchez, Juan Jesús (JuanCali999)
+- Gallo Quintana, David Ivanoff (DavidRm1911)
+- Hidalgo Lopez, Mathias Adriano (mathiasadriano)
+- Oneglio De Paz, Beth Shantal (bethnlg)
+- Vasquez Goicochea, Erick Alessander (erick580)
+
+Se describen las ramas más destacadas de la siguiente manera:
+
+- **main**: Representada en negro. Es la rama principal del proyecto y se actualiza con cada entregable.
+- **develop**: Representada en azul. Es la rama principal para el proceso de desarrollo del proyecto.
+- **feature-product-design**: Representada en verde. Incluye el contenido de flujos de usuario y wireframes.
+- **feature-sprint1**: Representada en amarillo. Contiene los artefactos relacionados con el sprint 1 en el informe.
+
+**AGREGAR LAS FOTOS URGENTE AL ENVIAR**
 
 # Contenido 
 ## Tabla de contenidos
@@ -151,84 +197,7 @@
 
 # Student Outcome
 
----
-
-# COURSE PROJECT
-# Capítulo I: Introducción
-## 1.1. Startup Profile
-En esta sección presentamos al Startup y a los miembros que la conforman.
-### 1.1.1. Descripción de la Startup
-### Misión
-
-### Visión
-
-### 1.1.2. Perfiles de los integrantes del equipo
-
-## 1.2. Solution Profile
-
-Está compuesta por dos secciones:
-
-- Antecedentes y Problemática: Esta sección describe el problema que el proyecto busca resolver. Incluye el enunciado del problema, una descripción de los aspectos clave que la solución debe abordar, así como los objetivos y las restricciones del proyecto.
-
-- Lean UX Process: Esta sección aplica el proceso de Lean UX y detalla cómo se abordará la resolución del problema mediante el modelo de negocio.
-
-### 1.2.1. Antecedentes y problemática
-### Antecedentes:
-### Problemática (5Ws y 2Hs)
-### What/Qué
-#### ¿Cuál es el problema?
-
-### Where / Dónde
-#### ¿Dónde está el usuario cuando usa el producto?
-
-#### ¿Dónde surge el problema?
-
-### Why / Por Qué
-#### ¿Cuál es la causa del problema?
-
-### When / Cuándo
-#### ¿Cuándo sucede el problema?
-
-### Who / Quién
-#### ¿Quiénes están involucrados?
-
-#### ¿A quién le sucede el problema?
-
-#### ¿Quién lo utilizará?
-
-### How / Cómo
-#### ¿En qué condiciones los usuarios usan nuestro producto?
-
-#### ¿Cómo nos conocieron los usuarios?
-
-#### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
-
-### How much / Cuánto
-
-### 1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem statements
-
-#### 1.2.2.2. Lean UX Assumptions
-#### Features
-
-#### Business Outcomes
-
-#### Users
-
-#### User Outcomes & Benefits
-
-#### User assumptions
-#### Business Assumptions
-
-#### 1.2.2.4. Lean UX Hypothesis Statements
-### Hipótesis 1:
-
-### Hipótesis 2:
-
-### Hipótesis 3:
-
-### Hipótesis 4:
-
-#### 1.2.2.4. Lean UX Canvas
-
-## 1.3. Segmentos Objetivo
+| Criterio específico | Acciones realizadas | Conclusiones |
+|----|----|----|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br>*TB1*<br></br>**Gallo Quintana, David Ivanoff**<br>*TB1*<br></br>**Hidalgo Lopez, Mathias Adriano**<br>*TB1*<br></br>**Oneglio De Paz, Beth Shantal**<br>*TB1*<br> <br>**Vasquez Goicochea, Erick Alessander**<br>*TB1*<br> |  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br>*TB1*<br> </br>**Gallo Quintana, David Ivanoff**<br>*TB1*<br> </br>**Hidalgo Lopez, Mathias Adriano**<br>*TB1*<br> <br>**Oneglio De Paz, Beth Shantal**<br>*TB1*<br> <br>**Vasquez Goicochea, Erick Alessander**<br>*TB1*<br>|  |
