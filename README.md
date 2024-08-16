@@ -217,7 +217,7 @@ En esta sección se ofrece una descripción del startup y se detallan los perfil
 | Calisaya Sánchez, Juan Jesús     |       | 
 | Gallo Quintana, David Ivanoff     |      | 
 | Hidalgo Lopez, Mathias Adriano     |       | 
-| Mi nombre es **Beth Shantal Oneglio De Paz**, tengo 19 años y estudio Ingeniería de Software en la UPC. Me gusta trabajar en equipo y encontrar soluciones a problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación de ciclos anteriores.     | ![Beth](/Final-Project-Documentation-Report/assets/perfil/beth.jpg)   | 
+| Mi nombre es **Beth Shantal Oneglio De Paz**, tengo 19 años y estudio Ingeniería de Software en la UPC. Me gusta trabajar en equipo y encontrar soluciones a problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación de ciclos anteriores.     | ![Beth](/Final-Project-Documentation-Report/assets/perfil/beth-profile.jpg)   | 
 | Vasquez Goicochea, Erick Alessander     |       | 
 
 ## 1.2. Solution Profile
