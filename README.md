@@ -56,11 +56,10 @@
 
 # Registro de Versiones del Informe 
 
-| :**Versión**: | :**Fecha**: | :**Autor**: | :**Descripción de modificación**: |
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |-----------|-----------|-----------|-----------|
-| :1.0:    | :15/08/2024:    | :Calisaya, Gallo, Hidalgo, Oneglio, Vasquez.: | :Elaboración del documento de trabajo en formato Markdown: |
-| Dato 4    | Dato 5    | Dato 6    |-----------|
-| Dato 7    | Dato 8    | Dato 9    |-----------|
+| 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown |
+| AGREGAR    | AGREGAR   | AGREGAR    | AGREGAR |
 
 **FALTA HACER**
 
@@ -72,13 +71,13 @@ URL del repositorio para el Project Report en la organización de GitHub del equ
 
 Para la elaboración del informe correspondiente a la entrega TB1, la implementación de las secciones se distribuyó entre los miembros del equipo de la siguiente manera:
 
-| :**Integrante**: | :**Tareas Asignadas**: | 
+| **Integrante** | **Tareas Asignadas** | 
 |-----------|-----------|
-| :Calisaya Sánchez, Juan Jesús:    | :Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista.:   | 
-| :Gallo Quintana, David Ivanoff:    | :User Personas. User Task Matrix. User Journey Mapping. Entrevista.:   | 
-| :Hidalgo Lopez, Mathias Adriano:    | :Entrevistas. Diseño de entrevistas. Análisis de entrevistas.:    | 
-| :Oneglio De Paz, Beth Shantal:    | :Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista.:   | 
-| :Vasquez Goicochea, Erick Alessander:    | :Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista.:    | 
+| Calisaya Sánchez, Juan Jesús    | Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista.   | 
+| Gallo Quintana, David Ivanoff    | User Personas. User Task Matrix. User Journey Mapping. Entrevista.   | 
+| Hidalgo Lopez, Mathias Adriano    | Entrevistas. Diseño de entrevistas. Análisis de entrevistas.    | 
+| Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista.  | 
+| Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista.    | 
 
 La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización Integradis.
 
