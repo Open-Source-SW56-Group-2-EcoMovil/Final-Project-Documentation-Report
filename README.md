@@ -1,14 +1,17 @@
+<h1>Informe del Trabajo Final</h1>
+
+---
+
 <p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>    
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Carrera de Ingeniería de Software</strong><br>
+    <strong>Ingeniería de Software</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - SW56</strong><br>
-    <br><strong>Profesor: Efraín Ricardo Bautista Ubillús</strong><br>
-    <br><strong><b>INFORME</strong></b><br>
+    <br><strong>Docente: Efraín Ricardo Bautista Ubillús</strong><br>
 </p>
 
 <p align="center">
-    <strong>Startup del Proyecto: EcoMovil</strong><br>
+    <strong>Startup: EcoMovil</strong><br>
     <strong>Producto: EcoMovil</strong><br>
 </p>
 
@@ -19,42 +22,90 @@
 <div>
     <table align="center">
         <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
+            <th style="text-align:center;">Nombre</th>
+            <th style="text-align:center;">Código</th>
         </tr>
         <tr>
-            <td>Calisaya Sánchez, Juan Jesús</td>
-            <td>U202121935</td>
+            <td style="text-align:center;">Calisaya Sánchez, Juan Jesús</td>
+            <td style="text-align:center;">U202121935</td>
         </tr>
         <tr>
-            <td>Gallo Quintana, David Ivanoff</td>
-            <td>U20201e475</td>
+            <td style="text-align:center;">Gallo Quintana, David Ivanoff</td>
+            <td style="text-align:center;">U20201e475</td>
         </tr>
         <tr>
-            <td>Hidalgo Lopez, Mathias Adriano</td>
-            <td>U202213222</td>
+            <td style="text-align:center;">Hidalgo Lopez, Mathias Adriano</td>
+            <td style="text-align:center;">U202213222</td>
         </tr>
         <tr>
-            <td>Oneglio De Paz, Beth Shantal</td>
-            <td>U202213423</td>
+            <td style="text-align:center;">Oneglio De Paz, Beth Shantal</td>
+            <td style="text-align:center;">U202213423</td>
         </tr>
         <tr>
-            <td>Vasquez Goicochea, Erick Alessander</td>
-            <td>U202019871</td>
+            <td style="text-align:center;">Vasquez Goicochea, Erick Alessander</td>
+            <td style="text-align:center;">U202019871</td>
         </tr>
     </table>
     </div>
 </body>
 
 <p align="center">
-<br><strong>2024-02</strong></p>
-<br>
+<br><strong>Ciclo 2024-02</strong></p>
 
 ---
 
 # Registro de Versiones del Informe 
 
+| :**Versión**: | :**Fecha**: | :**Autor**: | :**Descripción de modificación**: |
+|-----------|-----------|-----------|-----------|
+| :1.0:    | :15/08/2024:    | :Calisaya, Gallo, Hidalgo, Oneglio, Vasquez.: | :Elaboración del documento de trabajo en formato Markdown: |
+| Dato 4    | Dato 5    | Dato 6    |-----------|
+| Dato 7    | Dato 8    | Dato 9    |-----------|
+
+**FALTA HACER**
+
 # Project Report Collaboration Insights 
+
+URL del repositorio para el Project Report en la organización de GitHub del equipo: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Final-Project-Documentation-Report
+
+**TB1**
+
+Para la elaboración del informe correspondiente a la entrega TB1, la implementación de las secciones se distribuyó entre los miembros del equipo de la siguiente manera:
+
+| :**Integrante**: | :**Tareas Asignadas**: | 
+|-----------|-----------|
+| :Calisaya Sánchez, Juan Jesús:    | :Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista.:   | 
+| :Gallo Quintana, David Ivanoff:    | :User Personas. User Task Matrix. User Journey Mapping. Entrevista.:   | 
+| :Hidalgo Lopez, Mathias Adriano:    | :Entrevistas. Diseño de entrevistas. Análisis de entrevistas.:    | 
+| :Oneglio De Paz, Beth Shantal:    | :Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista.:   | 
+| :Vasquez Goicochea, Erick Alessander:    | :Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista.:    | 
+
+La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización Integradis.
+
+**GitHub Collaboration Insights**
+
+GitHub también muestra un historial de las ramas principales y los procesos de fusión realizados. Todas las ramas se crearon siguiendo el diseño de GitFlow para asegurar una adecuada organización al utilizar un sistema de control de versiones. 
+
+Los miembros del equipo son:
+
+- Calisaya Sánchez, Juan Jesús (JuanCali999)
+- Gallo Quintana, David Ivanoff (DavidRm1911)
+- Hidalgo Lopez, Mathias Adriano (mathiasadriano)
+- Oneglio De Paz, Beth Shantal (bethnlg)
+- Vasquez Goicochea, Erick Alessander (erick580)
+
+Se describen las ramas más destacadas de la siguiente manera:
+
+- **main**: Representada en negro. Es la rama principal del proyecto y se actualiza con cada entregable.
+- **develop**: Representada en azul. Es la rama principal para el proceso de desarrollo del proyecto.
+- **feature-product-design**: Representada en verde. Incluye el contenido de flujos de usuario y wireframes.
+- **feature-sprint1**: Representada en amarillo. Contiene los artefactos relacionados con el sprint 1 en el informe.
+
+**AGREGAR LAS FOTOS URGENTE AL ENVIAR**
+
+# Student Outcome
+
+**FALTA CUADRO SUBIR**
 
 # Contenido 
 ## Tabla de contenidos
@@ -149,20 +200,26 @@
 
 --- 
 
-# Student Outcome
-
----
-
 # COURSE PROJECT
 # Capítulo I: Introducción
-## 1.1. Startup Profile
-En esta sección presentamos al Startup y a los miembros que la conforman.
-### 1.1.1. Descripción de la Startup
+## 1.1. Startup Profile.
+
+En esta sección se ofrece una descripción del startup y se detallan los perfiles de los integrantes del equipo.
+
+### 1.1.1. Descripción de la startup.
 ### Misión
 
 ### Visión
 
 ### 1.1.2. Perfiles de los integrantes del equipo
+
+| Descripción de los Miembros del Equipo | Perfiles de los Miembros del Equipo      | 
+|:----------|:-----------:|
+| Calisaya Sánchez, Juan Jesús     |       | 
+| Gallo Quintana, David Ivanoff     |      | 
+| Hidalgo Lopez, Mathias Adriano     |       | 
+| Mi nombre es **Beth Shantal Oneglio De Paz**, tengo 19 años y estudio Ingeniería de Software en la UPC. Me gusta trabajar en equipo y encontrar soluciones a problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación de ciclos anteriores.     | ![Beth](/Final-Project-Documentation-Report/assets/perfil/beth.jpg)   | 
+| Vasquez Goicochea, Erick Alessander     |       | 
 
 ## 1.2. Solution Profile
 
