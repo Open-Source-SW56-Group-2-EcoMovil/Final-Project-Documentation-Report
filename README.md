@@ -58,7 +58,7 @@
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |-----------|-----------|-----------|-----------|
-| 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown |
+| 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown. |
 | AGREGAR    | AGREGAR   | AGREGAR    | AGREGAR |
 
 **FALTA HACER**
