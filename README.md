@@ -37,10 +37,10 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <td align="center">Proporciona una solución de movilidad sostenible en Miraflores, Lima, a través de bicicletas públicas.</td>
   </tr>
   <tr>
-    <td align="center" rowspan="2"><strong>Perfil del Marketing/strong></td>
+    <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
     <td align="center"><strong>Mercado objetivo</strong></td>
     <td align="center"> Falta </td>
-    <td align="center">Residentes urbanos que valoran la convivencia y rapidez en sus desplazamientos.</td>
+    <td align="center"> Falta </td>
     <td align="center">Viajeros que buscan opciones de alojamiento únicas y auténticas en todo el mundo.</td>
     <td align="center">Residentes y visitantes de Miraflores, Lima, interesados en una movilidad sostenible y activa.</td>
   </tr>
