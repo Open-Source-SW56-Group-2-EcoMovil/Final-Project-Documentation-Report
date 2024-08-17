@@ -12,8 +12,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-      <td colspan="5" align="center">¿Quiénes son nuestros principales competidores?<br>
-      <td colspan="5" align="center">Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.</td>
+      <td colspan="5" align="center">¿Quiénes son nuestros principales competidores?<br>Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.<br></td>
       </tr>
     <tr>
       <td colspan="2"></td>
