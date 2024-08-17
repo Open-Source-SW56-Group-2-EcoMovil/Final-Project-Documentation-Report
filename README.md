@@ -36,36 +36,69 @@ Está compuesta por dos secciones:
 
 ### 1.2.1. Antecedentes y problemática
 ### Antecedentes:
+
+En la última década, las ciudades han experimentado un cambio en el transporte debido a la creciente conciencia sobre la sostenibilidad y la innovación tecnológica. La popularidad de alternativas ecológicas como bicicletas y scooters eléctricos ha crecido, reflejando la demanda de soluciones de transporte más ágiles y responsables.
+
+Ademas, para la población de la ciudad de Lima metropolitana, el problema más agudo que presentan es el ocasionado por el transporte urbano, caracterizado por la informalidad, ineficiencia y baja calidad de servicio, calificado como transporte inseguro, con una alta tasa de accidentalidad y generador de contaminación ambiental, causante de congestión vehicular (MTC, 2013), y señalado por la OMS como una de las ciudades de Latinoamérica con mayor contaminación sonora (Solís Fonseca, Salazar Bravo, Romero Carrión, & Solís Salazar, 2013).
+
+Ante este panorama, la necesidad de alternativas de movilidad más ágiles, sostenibles y accesibles se ha vuelto apremiante. En particular, las bicicletas, scooters, skateboards y motos eléctricas se presentan como soluciones viables que no solo ayudan a reducir la huella de carbono, sino que también fomentan un estilo de vida más activo y saludable.
+
+Según el Ministerio de Educación, la tasa de deserción acumulada en la educación superior universitaria pasó de 19.3 % en 2019 a 23.2 % en 2021. Un incremento explicable por el covid-19, pero que indica que muchos de los estudiantes requieren un plus de confianza de parte del sector financiero para poder continuar sus estudios en entidades privadas.(Universidad San Ignacio de Loyola. [USIL], s/f)
+
+Entonces, a medida que aumenta la demanda por movilidad ecológica, también surge la oportunidad de abordar la necesidad de ingresos flexibles entre los estudiantes universitarios. Con el costo de vida en alza y las presiones académicas, muchos jóvenes buscan fuentes de ingresos que no afecten sus estudios, aprovechando la economía digital para generar ingresos mediante la venta o alquiler de bienes y servicios.
+
+Nuestra aplicación web tiene como objetivo transformar la movilidad en Lima y empoderar a los estudiantes universitarios al ofrecerles una plataforma que les permite generar ingresos de manera flexible. Conectamos a propietarios de vehículos ecológicos con usuarios interesados en alquilarlos, creando un ecosistema que integra sostenibilidad y emprendimiento. Buscamos reducir la huella de carbono y mejorar el bienestar económico de los estudiantes mediante herramientas de monetización justa y elementos de gamificación. Cada trayecto realizado con un vehículo eléctrico a través de nuestra plataforma simboliza un paso hacia el equilibrio entre las necesidades económicas y el compromiso con el medio ambiente.
+
 ### Problemática (5Ws y 2Hs)
+
 ### What/Qué
+
 #### ¿Cuál es el problema?
 
+No existe una plataforma que combine la movilidad sostenible con la opción de alquilar o vender vehículos menores, mientras proporciona a los estudiantes universitarios una fuente de ingresos flexible. Los estudiantes tienen dificultades para encontrar formas de ganar dinero que se adapten a sus horarios y la ciudad enfrenta problemas de transporte y contaminación.
+
 ### Where / Dónde
-#### ¿Dónde está el usuario cuando usa el producto?
 
 #### ¿Dónde surge el problema?
+
+El problema se presenta principalmente en Lima, una ciudad con alta congestión y contaminación. Sin embargo, la necesidad de ingresos flexibles afecta a estudiantes en diversas ciudades.
 
 ### Why / Por Qué
 #### ¿Cuál es la causa del problema?
 
+La falta de una solución que combine movilidad ecológica con oportunidades de ingresos flexibles limita tanto la capacidad de los estudiantes para mejorar su situación económica como la posibilidad de reducir la contaminación y mejorar la movilidad en la ciudad.
+
 ### When / Cuándo
-#### ¿Cuándo sucede el problema?
+#### ¿Cuándo se presenta el problema?
+
+El problema es persistente y ha aumentado en la última década con el crecimiento urbano y la necesidad creciente de alternativas de transporte sostenibles. La necesidad de ingresos flexibles se ha vuelto más urgente debido al aumento en el costo de vida y las presiones académicas.
 
 ### Who / Quién
 #### ¿Quiénes están involucrados?
 
-#### ¿A quién le sucede el problema?
+Los estudiantes universitarios, quienes buscan ingresos adicionales, y los residentes de Lima que enfrentan problemas de movilidad y contaminación. 
 
 #### ¿Quién lo utilizará?
+
+Los estudiantes universitarios, quienes buscan ingresos adicionales, y los residentes de Lima que enfrentan problemas de movilidad y contaminación.
 
 ### How / Cómo
 #### ¿En qué condiciones los usuarios usan nuestro producto?
 
+Los usuarios acceden a la plataforma desde cualquier lugar con internet, utilizando dispositivos como computadoras, tabletas o teléfonos inteligentes. La plataforma está diseñada para ser accesible y fácil de usar en diversos entornos, ya sea en casa o en espacios públicos.
+
 #### ¿Cómo nos conocieron los usuarios?
+
+Los usuarios pueden descubrir la plataforma a través de recomendaciones, redes sociales, campañas de marketing digital, eventos universitarios o publicidad en medios relacionados con transporte y sostenibilidad.
 
 #### ¿Cómo prefieren los usuarios acceder a nuestro servicio?
 
+Prefieren usar una aplicación móvil o una plataforma web que sea intuitiva, optimizada para distintos dispositivos, y que ofrezca opciones para motivar el uso de la plataforma.
+
 ### How much / Cuánto
+### ¿Cuánto impacta el problema?
+
+El impacto es significativo, ya que contribuye a la alta contaminación y congestión en Lima, además de afectar la calidad de vida de los estudiantes que necesitan equilibrar sus estudios con la búsqueda de ingresos adicionales. La falta de soluciones efectivas afecta tanto el bienestar económico de los estudiantes como la sostenibilidad ambiental en la ciudad.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem statements
