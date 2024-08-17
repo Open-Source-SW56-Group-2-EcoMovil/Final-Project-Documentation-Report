@@ -22,7 +22,7 @@ Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitand
 | Descripción de los Miembros del Equipo | Perfiles de los Miembros del Equipo      | 
 |:----------|:-----------:|
 | Mi nombre es **Juan Jesús Calisaya Sánchez - u202121935**, tengo 20 años y actualmente curso Ingeniería de Software. Me considero una persona responsable, amigable y empática. Poseo conocimientos en C++, SQL, Python, HTML/CSS, JavaScript, C#, entre otros lenguajes y tecnologías. Estas habilidades me serán de gran utilidad para llevar a cabo el proyecto. | ![Juan](/assets/perfil/juan.png) | 
-| Gallo Quintana, David Ivanoff     |      | 
+| Mi nombre es **David Ivanoff Gallo Quintana - u20201e475**, tengo 21 años y actualmente curso Ingeniería de Software. Considero que soy una persona trabajadora, activa y que le gusta ser responsable con los trabajos dados. Ademas de esto poseo conocimientos en algunos lenguajes de programación como Swift, C++ y Python. Tambien abierto a conocer nuevas tecnologías. Estas cualidades considero que me ayudarán a llevar a cabo el proyecto dado.     |      | 
 | Hidalgo Lopez, Mathias Adriano     |       | 
 | Mi nombre es **Beth Shantal Oneglio De Paz**, tengo 19 años y estudio Ingeniería de Software en la UPC. Me gusta trabajar en equipo y encontrar soluciones a problemas digitales. Estoy capacitada para enfrentar situaciones estresantes con responsabilidad y liderazgo. Poseo conocimientos avanzados en gestión y programación de ciclos anteriores.     | ![Beth](/assets/perfil/beth.jpg)  | 
 | Vasquez Goicochea, Erick Alessander     |       | 
