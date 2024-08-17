@@ -84,27 +84,27 @@ Está compuesta por dos secciones:
 
 #### 1.2.2.4. Lean UX Hypothesis Statements
 
-- ** Hypothesis Statement 01:** <br>
+- **Hypothesis Statement 01:** <br>
 **Creemos que** al ofrecer una plataforma que permita a los universitarios alquilar sus vehículos, ayudaremos al medio ambiente al reducir la necesidad de vehículos personales y promover el uso compartido.<br>
 **Sabremos** que hemos tenido éxito.<br>
 **Cuando** los universitarios generen ingresos adicionales y recomienden la aplicación a más personas, aumentando así la adopción de la plataforma.<br>
 
-- ** Hypothesis Statement 02:** <br>
+- **Hypothesis Statement 02:** <br>
 **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable entre los universitarios.<br>
 **Sabremos** que hemos tenido éxito.<br>
 **Cuando** en distintos distritos de Lima se incrementen los esfuerzos por mejorar la infraestructura para vehículos sostenibles, como la creación de más carriles para bicicletas y monopatines.<br>
 
-- ** Hypothesis Statement 03:** <br>
+- **Hypothesis Statement 03:** <br>
 **Creemos que** al proporcionar una variedad más amplia de vehículos, atraeremos a más usuarios a nuestra aplicación.<br>
 **Sabremos** que hemos tenido éxito.<br>
 **Cuando** nuestra base de clientes crezca notablemente tras la adición de nuevos tipos de vehículos.<br>
 
-- ** Hypothesis Statement 04:** <br>
+- **Hypothesis Statement 04:** <br>
 **Creemos que** al garantizar la seguridad y el mantenimiento de los vehículos, incrementaremos la confianza y satisfacción de los usuarios.<br>
 **Sabremos** que hemos tenido éxito.<br>
 **Cuando** la tasa de retención de usuarios aumente y recibamos comentarios positivos sobre la seguridad y el mantenimiento.
 
-- ** Hypothesis Statement 05:** <br>
+- **Hypothesis Statement 05:** <br>
 **Creemos que** al mejorar la experiencia de usuario de la aplicación, facilitaremos el acceso y el uso de la plataforma para todos los universitarios.<br>
 **Sabremos** que hemos tenido éxito.<br>
 **Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.<br>
