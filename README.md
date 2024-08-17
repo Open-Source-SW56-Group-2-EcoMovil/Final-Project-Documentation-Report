@@ -115,6 +115,6 @@ El Lean UX Canvas es una herramienta empleada en el ámbito del diseño centrado
 
 ![canvas](/assets/lean-ux-canvas.jpg)
 
-Enlace para acceder al Lean UX ![Canvas](https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 1.3. Segmentos Objetivo
