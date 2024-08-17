@@ -36,12 +36,12 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center"><strong>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
       <td align="center">Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
-      <td align="center">Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
-          <br> El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
-      <td align="center"> Proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
-<br> Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
-      <td align="center"> Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
-<br> Los costos de alquiler suelen ser accesibles en comparación con otros medios de transporte, haciendo que el uso de bicicletas compartidas sea una opción económica.</td>
+      <td align="center"> • Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
+          <br> • El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
+      <td align="center"> • Proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
+<br> • Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
+      <td align="center"> • Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
+<br> • Los costos de alquiler suelen ser accesibles en comparación con otros medios de transporte, haciendo que el uso de bicicletas compartidas sea una opción económica.</td>
     </tr>
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
