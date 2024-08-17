@@ -8,12 +8,12 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 
 <table>
   <tr>
-    <td colspan=6>Competitive Analysis Lanscape</td>
+    <td colspan=6>Competitive Analysis Landscape</td>
   </tr>
   <tr>
-    <td>¿Por qué llevar a cabo este análisis?</td><td colspan=5>Este análisis nos permitirá saber qué tan eficiente somos.</td>
+    <td>¿Por qué llevar a cabo este análisis?</td><td colspan=5>¿Quiénes son nuestros principales competidores?<br>Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.</td>
   </tr>
-  <td colspan=2></td><td align="center">Ruedarent<img src="https://i.ibb.co/C983y2G/image-removebg-preview.png"></a><td align="center">WHOOSH<img src="https://i.ibb.co/zfYky3B/image-removebg-preview-3.png"</td><td align="center">Airbnb <img src="https://i.ibb.co/BzbnJ7z/image.png"</td><td align="center">CityBikeLima <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"</td>
+  <td colspan=2></td><td align="center">EcoMovil ![EcoMovil](/assets/perfil/ecomovil.jpg)</a><td align="center">Tembici (Bici Lima) ![Tembici](/assets/perfil/tembici.png) </td><td align="center">Airbnb <img src="https://i.ibb.co/BzbnJ7z/image.png"</td><td align="center">CityBikeLima <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"</td>
   <tr>
     <td align="center" rowspan=2>Perfil</td><td align="center">Overview</td><td text-align= "justify">Una app web conecta usuarios y proveedores de vehículos eléctricos para alquiler, agilizando la movilidad urbana, reduciendo contaminación y promoviendo un estilo de vida activo.</td><td text-align= "justify">Whoosh garantiza acceso rápido a cualquier lugar clave en la ciudad en 15 minutos, eliminando distancias con una movilidad inteligente y asequible.</td><td text-align= "justify">Plataforma de alojamiento que conecta viajeros con anfitriones en todo el mundo.</td><td text-align= "justify">Solución de movilidad con bicicletas públicas en Miraflores, Lima.</td>
   </tr>
