@@ -8,7 +8,6 @@ EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles
 
 Lo que nos diferencia de otras plataformas es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a estudiantes universitarios, quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
 
-
 ### Misión
 
 Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una plataforma digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para estudiantes universitarios.
@@ -111,5 +110,11 @@ Está compuesta por dos secciones:
 **Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.
 
 #### 1.2.2.4. Lean UX Canvas
+
+El Lean UX Canvas es una herramienta empleada en el ámbito del diseño centrado en el usuario (UX) y la metodología Lean, con el propósito de desarrollar productos de manera más eficiente y eficaz. Su finalidad es ofrecer un marco estructurado que facilita la colaboración entre equipos multidisciplinarios. A continuación, se presenta el Lean UX Canvas que el equipo ha trabajado utilizando Canva.
+
+![canvas](/assets/lean-ux-canvas.jpg)
+
+Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 1.3. Segmentos Objetivo
