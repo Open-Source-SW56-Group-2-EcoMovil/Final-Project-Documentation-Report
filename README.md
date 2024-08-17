@@ -39,85 +39,78 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
           <br> El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
       <td align="center"> Proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
-<br> 2.- Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
+<br> Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
       <td align="center"> Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
 <br> Los costos de alquiler suelen ser accesibles en comparación con otros medios de transporte, haciendo que el uso de bicicletas compartidas sea una opción económica.</td>
     </tr>
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
       <td align="center"><strong>Mercado objetivo</strong></td>
-      <td align="center"> Personas interesadas en movilidad sostenible y sin emisiones, especialmente en zonas urbanas. </td>
-      <td align="center"> Usuarios urbanos que buscan una alternativa de transporte ecológica y económica. </td>
-      <td align="center">Viajeros que buscan opciones de alojamiento únicas y auténticas en todo el mundo.</td>
-      <td align="center">Residentes y visitantes de Miraflores, Lima, interesados en una movilidad sostenible y activa.</td>
+      <td align="center"> Estudiante universitario que posee un vehículo menor. <br>
+<br> Usuarios que alquilan o compran vehículos a través de la aplicación. </td>
+      <td align="center">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
+      <td align="center">Viajeros y turistas, profesionales de negocios, anfitriones de propiedades y experiencias, familias y grupos.</td>
+      <td align="center">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
     </tr>
     <tr>
       <td align="center"><strong>Estrategias de marketing</strong></td>
-      <td align="center">Publicidad en redes sociales enfocada en sostenibilidad, colaboraciones con gobiernos locales.</td>
-      <td align="center">Promociones especiales para estudiantes y trabajadores que usen el servicio diariamente.</td>
-      <td align="center">Estrategias de contenido en redes sociales que resalten experiencias únicas y testimonios de viajeros satisfechos.</td>
-      <td align="center">Ofertas especiales y descuentos para residentes locales que se registren en el servicio.</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center" rowspan="3"><strong>Perfil del Producto</strong></td>
       <td align="center"><strong>Productos & Servicios</strong></td>
-      <td align="center">	- Alquiler de bicicletas y scooters eléctricos.
-        - Aplicación móvil para gestionar alquileres.
-        - Estaciones de recarga para vehículos eléctricos.</td>
-      <td align="center">- Servicio de bicicletas compartidas.
-        - Suscripciones mensuales o pago por uso.
-        - Integración con aplicaciones móviles para fácil acceso.</td>
-      <td align="center">- Plataforma web y aplicación móvil para búsqueda, reserva y gestión de alojamientos.<br>- Amplia variedad de opciones de alojamiento, que incluyen desde habitaciones privadas hasta casas enteras y experiencias únicas.<br>- Sistema de revisión y calificación para garantizar la confianza y seguridad de los usuarios.</td>
-      <td align="center">- Red de estaciones de bicicletas públicas distribuidas estratégicamente en el distrito de Miraflores.<br>- Bicicletas disponibles para alquiler a través de un sistema automatizado en las estaciones.<br>- Tarifas de alquiler por período de tiempo, como por hora o por día.</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
-      <td align="center">- Tarifas de alquiler: $2/hora para bicicletas y scooters.
-        - Comisiones: 5% para estaciones asociadas.</td>
-      <td align="center">- Tarifas de alquiler: $0.50/30 minutos.
-        - Suscripción mensual: $10.</td>
-      <td align="center">- Precios de alojamiento: Desde $50/noche.<br>- Comisiones: 3%-5% por reserva.</td>
-      <td align="center">- Tarifas de alquiler: $1/30 minutos.<br>- Comisiones: 10% a establecimientos.</td>
+      <td align="center">Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:
+<br>Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.
+<br>Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.
+<br>Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center"><strong>Canales de distribución (Web y/o Móvil)</strong></td>
-      <td align="center">- Página web: EcoMovil.com
-        - Redes sociales:
-        @EcoMovil en Facebook, Instagram y Twitter</td>
-      <td align="center">- Página web: Tembici.com
-        - Redes sociales:
-        @Tembici en Facebook, Instagram y Twitter</td>
-      <td align="center">- Página web: Airbnb.com<br>- Redes sociales:<br>@Airbnb en Facebook, Instagram y Twitter</td>
-      <td align="center">- Página web: CityBikeLima.com<br>- Redes sociales:<br>@CityBikeLima en Facebook, Instagram y Twitter</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center" rowspan="4"><strong>Análisis SWOT</strong></td>
       <td align="center"><strong>Fortalezas</strong></td>
-      <td align="center">Red de recarga y alquiler en varias ciudades del Perú, integración con múltiples opciones de transporte.</td>
-      <td align="center">Amplia red de estaciones en ciudades clave, fácil acceso y bajo costo de uso.</td>
-      <td align="center">- Amplia oferta de alojamientos únicos en todo el mundo.<br>- Experiencias personalizadas para viajeros.</td>
-      <td align="center">- Movilidad sostenible en Miraflores.<br>- Facilita el transporte en bicicleta en la ciudad.</td>
-    </tr>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     <tr>
       <td align="center"><strong>Debilidades</strong></td>
-      <td align="center">Dependencia de infraestructura de recarga limitada en algunas zonas.</td>
-      <td align="center">Operación limitada a ciudades con infraestructura adecuada para bicicletas.</td>
-      <td align="center">- Riesgo de experiencias negativas debido a la falta de estándares uniformes en alojamientos.<br>- Posibles desafíos regulatorios y disputas legales.</td>
-      <td align="center">- Demanda limitada en áreas con infraestructura vial poco adecuada para ciclistas.<br>- Posibles problemas de vandalismo o robo de bicicletas.</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center"><strong>Oportunidades</strong></td>
-      <td align="center">Expansión a nuevas ciudades, alianzas con empresas para incentivos de movilidad.</td>
-      <td align="center">Expansión a más ciudades y países, integración con sistemas de transporte público.</td>
-      <td align="center">Diversificación de servicios y expansión a mercados emergentes.</td>
-      <td align="center">Expansión a más distritos y promoción de eventos de ciclismo.</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
     </tr>
     <tr>
       <td align="center"><strong>Amenazas</strong></td>
-      <td align="center">Competencia de nuevas startups de movilidad, cambios en regulaciones sobre transporte eléctrico.</td>
-      <td align="center">Competencia de servicios de scooters eléctricos, posibles cambios en regulaciones locales.</td>
-      <td align="center">Regulaciones locales y resistencia de residentes a la proliferación de alquileres turísticos.</td>
-      <td align="center">Riesgo de accidentes y falta de apoyo gubernamental para la expansión de la infraestructura ciclista.</td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
+      <td align="center">                     </td>
      </tr>
   </table>
   </body>
