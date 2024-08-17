@@ -28,17 +28,20 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="2"><strong>Perfil</strong></td>
       <td align="center"><strong>Overview</strong></td>
-      <td align="center"> Plataforma que ofrece alquiler de vehículos eléctricos y bicicletas en diversas ciudades de Perú. </td>
-      <td align="center"> Servicio de bicicletas compartidas con estaciones en varias ciudades de América Latina. </td>
-      <td align="center">Plataforma de alojamiento que conecta viajeros con anfitriones en todo el mundo.</td>
-      <td align="center">Solución de movilidad con bicicletas públicas en Miraflores, Lima.</td>
+      <td align="center">Es una plataforma web que conecta a personas interesadas en usar estos medios de transporte con aquellos que los poseen, simplificando el proceso de alquiler o compra y fomentando una comunidad más consciente del medio ambiente en Perú.</td>
+      <td align="center">Es una empresa líder en soluciones de movilidad urbana en América Latina, conocida principalmente por sus sistemas de bicicletas compartidas. Fundada en 2010 en Brasil, Tembici ha expandido sus operaciones a varias ciudades en Brasil, Argentina, y Chile, promoviendo un estilo de vida más saludable y sostenible.</td>
+      <td align="center">Es una plataforma de alojamiento en línea que permite a los usuarios alquilar o reservar alojamientos únicos en todo el mundo, desde habitaciones privadas y apartamentos hasta casas completas y propiedades únicas como castillos o casas en árboles.</td>
+      <td align="center">Es un sistema de bicicletas compartidas en Lima, Perú, diseñado para ofrecer una alternativa de transporte urbano sostenible y eficiente. El servicio está enfocado en facilitar el desplazamiento en la ciudad, especialmente en áreas con alta congestión vehicular.</td>
     </tr>
     <tr>
       <td align="center"><strong>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
-      <td align="center"> Red de estaciones de recarga para vehículos eléctricos, flexibilidad en tiempos de alquiler. </td>
-      <td align="center"> Gran cantidad de estaciones y bicicletas disponibles, suscripción mensual accesible. </td>
-      <td align="center">Conecta viajeros con anfitriones locales, ofreciendo una amplia variedad de alojamientos en todo el mundo.</td>
-      <td align="center">Proporciona una solución de movilidad sostenible en Miraflores, Lima, a través de bicicletas públicas.</td>
+      <td align="center">Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
+      <td align="center">- Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
+          - El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
+      <td align="center">- Airbnb proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
+- Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
+      <td align="center">- CityBike Lima ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
+- Los costos de alquiler suelen ser accesibles en comparación con otros medios de transporte, haciendo que el uso de bicicletas compartidas sea una opción económica.</td>
     </tr>
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
