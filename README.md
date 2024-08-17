@@ -84,13 +84,31 @@ Está compuesta por dos secciones:
 #### Business Assumptions
 
 #### 1.2.2.4. Lean UX Hypothesis Statements
-### Hipótesis 1:
 
-### Hipótesis 2:
+**- Hypothesis Statement 01:**
+**Creemos que** al ofrecer una plataforma que permita a los universitarios alquilar sus vehículos, ayudaremos al medio ambiente al reducir la necesidad de vehículos personales y promover el uso compartido.
+**Sabremos** que hemos tenido éxito.
+**Cuando** los universitarios generen ingresos adicionales y recomienden la aplicación a más personas, aumentando así la adopción de la plataforma.
 
-### Hipótesis 3:
+**- Hypothesis Statement 02:**
+**Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable entre los universitarios.
+**Sabremos** que hemos tenido éxito.
+**Cuando** en distintos distritos de Lima se incrementen los esfuerzos por mejorar la infraestructura para vehículos sostenibles, como la creación de más carriles para bicicletas y monopatines.
 
-### Hipótesis 4:
+**- Hypothesis Statement 03:**
+**Creemos que** al proporcionar una variedad más amplia de vehículos, atraeremos a más usuarios a nuestra aplicación.
+**Sabremos** que hemos tenido éxito.
+**Cuando** nuestra base de clientes crezca notablemente tras la adición de nuevos tipos de vehículos.
+
+**- Hypothesis Statement 04:**
+**Creemos que** al garantizar la seguridad y el mantenimiento de los vehículos, incrementaremos la confianza y satisfacción de los usuarios.
+**Sabremos** que hemos tenido éxito.
+**Cuando** la tasa de retención de usuarios aumente y recibamos comentarios positivos sobre la seguridad y el mantenimiento.
+
+**- Hypothesis Statement 05:**
+**Creemos que** al mejorar la experiencia de usuario de la aplicación, facilitaremos el acceso y el uso de la plataforma para todos los universitarios.
+**Sabremos** que hemos tenido éxito.
+**Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.
 
 #### 1.2.2.4. Lean UX Canvas
 
