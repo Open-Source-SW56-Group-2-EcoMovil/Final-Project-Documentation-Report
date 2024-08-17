@@ -69,9 +69,9 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
-      <td align="center">Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:
-<br>Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.
-<br>Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.
+      <td align="center">Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:<br>
+<br>Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
+<br>Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.<br>
 <br>Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
       <td align="center">                     </td>
       <td align="center">                     </td>
