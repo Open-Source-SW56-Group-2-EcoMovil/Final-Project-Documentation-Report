@@ -123,7 +123,8 @@ Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/
 *ESPERAR INFO DE JUAN*
 
 **1.3.1. Stakeholders.**
-**-Stakelholder Internos:** Equipo Integradis y el resto de los miembros del equipo de desarrollo.
+
+**-Stakelholder Internos:** Equipo Integradis y el resto de los miembros del equipo de desarrollo.<br>
 **-Stakelholder Externos:** Estudiante universitario que posee un vehículo menor. Usuarios que alquilan o compran vehículos a través de la aplicación.
 
 *Agregar imagen*
