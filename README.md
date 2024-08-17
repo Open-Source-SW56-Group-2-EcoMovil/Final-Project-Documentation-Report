@@ -46,8 +46,8 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
       <td align="center"><strong>Mercado objetivo</strong></td>
-      <td align="center"> Estudiante universitario que posee un vehículo menor. <br>
-<br> Usuarios que alquilan o compran vehículos a través de la aplicación. </td>
+      <td align="center"> • Estudiante universitario que posee un vehículo menor. <br>
+<br> • Usuarios que alquilan o compran vehículos a través de la aplicación. </td>
       <td align="center">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
       <td align="center">Viajeros y turistas, profesionales de negocios, anfitriones de propiedades y experiencias, familias y grupos.</td>
       <td align="center">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
@@ -70,18 +70,18 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
       <td align="center">Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:<br>
-<br>Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
-<br>Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.<br>
-<br>Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
-      <td align="center">Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.<br>
-<br>Plan Mensual: Cuesta entre $25.00 y $40.00.<br>
-<br>Plan Anual: Está en el rango de $150.00 a $300.00.<br></td>
-      <td align="center"><br>Alojamientos por Noche: Los precios pueden variar desde alrededor de $30 a $200 o más por noche, dependiendo de la ciudad, el tipo de propiedad y la temporada.<br>
-<br>Estancias Largas: Muchos anfitriones ofrecen descuentos para estancias de una semana o más, que pueden reducir el costo por noche.<br>
-<br>Experiencias: Los precios para experiencias (actividades o tours ofrecidos por locales) generalmente oscilan entre $20 y $100 por persona, aunque pueden variar ampliamente.<br></td>
-      <td align="center">Plan Diario: Aproximadamente S/ 8.00 a S/ 15.00 por día.<br>
-<br>Plan Mensual: Alrededor de S/ 50.00 a S/ 100.00.<br>
-<br>Plan Anual: S/ 300.00 a S/ 600.00, dependiendo de la suscripción y beneficios adicionales.<br></td>
+<br> • Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
+<br> • Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.<br>
+<br> • Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
+      <td align="center"> • Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.<br>
+<br> • Plan Mensual: Cuesta entre $25.00 y $40.00.<br>
+<br> • Plan Anual: Está en el rango de $150.00 a $300.00.<br></td>
+      <td align="center"><br> • Alojamientos por Noche: Los precios pueden variar desde alrededor de $30 a $200 o más por noche, dependiendo de la ciudad, el tipo de propiedad y la temporada.<br>
+<br> • Estancias Largas: Muchos anfitriones ofrecen descuentos para estancias de una semana o más, que pueden reducir el costo por noche.<br>
+<br> • Experiencias: Los precios para experiencias (actividades o tours ofrecidos por locales) generalmente oscilan entre $20 y $100 por persona, aunque pueden variar ampliamente.<br></td>
+      <td align="center"> • Plan Diario: Aproximadamente S/ 8.00 a S/ 15.00 por día.<br>
+<br> • Plan Mensual: Alrededor de S/ 50.00 a S/ 100.00.<br>
+<br> • Plan Anual: S/ 300.00 a S/ 600.00, dependiendo de la suscripción y beneficios adicionales.<br></td>
     </tr>
     <tr>
       <td align="center"><strong>Canales de distribución (Web y/o Móvil)</strong></td>
