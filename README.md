@@ -12,14 +12,19 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
   </tr>
   <tr>
     <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-    <td colspan="5" align="center">¿Quiénes son nuestros principales competidores?<br>Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.</td>
+    <td colspan="5" align="center">¿Quiénes son nuestros principales competidores?<br>
+      Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.</td>
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td align="center">EcoMovil <img src="/assets/perfil/ecomovil.jpg"></td>
-    <td align="center">Tembici (Bici Lima) <img src="/assets/perfil/tembici.png"></td>
-    <td align="center">Airbnb <img src="https://i.ibb.co/BzbnJ7z/image.png"></td>
-    <td align="center">CityBikeLima <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"></td>
+    <td align="center">EcoMovil 
+      <img src="/assets/perfil/ecomovil.jpg"></td>
+    <td align="center">Tembici 
+      <img src="/assets/perfil/tembici.png"></td>
+    <td align="center">Airbnb 
+      <img src="https://i.ibb.co/BzbnJ7z/image.png"></td>
+    <td align="center">CityBikeLima 
+      <img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"></td>
   </tr>
   <tr>
     <td align="center" rowspan="2"><strong>Perfil</strong></td>
