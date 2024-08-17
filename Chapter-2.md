@@ -278,7 +278,42 @@ Finalmente ambos coinciden en la importancia de la seguridad que se brinda frent
 #### User Journey Mapping: Camila
 ![User Journey Mapping Camila](/assets/Chapter-2/JourneyMapCamila.png)
 ### 2.3.4. Empathy Mapping
+![Empathy Mapping 1](/assets/Chapter-2/EmpathyMapping1.png)
 
+![Empathy Mapping 2](/assets/Chapter-2/EmpathyMapping2.png)
 ### 2.3.5. As-is Scenario Mapping
+#### Segmento: Universitarios
+![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
+
+#### Segmento: Personas naturales
+![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
 
 ## 2.4. Ubiquitous Language
+- **Urban Mobility**: Son los medios que permiten a las personas desplazarse de un lugar a otro dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas, y otros vehículos alternativos.
+
+
+- **Owner**: Usuario que posee un vehículo y lo publica en la plataforma para alquiler o venta, a cambio de un beneficio económico.
+
+
+- **Renter**: Persona que utiliza la plataforma para alquilar temporalmente un vehículo disponible, pagando una tarifa al Propietario.
+
+
+- **Renting**: Es el proceso mediante el cual un renter paga una cantidad específica de dinero por el uso temporal de un vehículo al owner.
+
+
+- **Advanced Search**: Funcionalidad en la plataforma que permite a los usuarios filtrar y encontrar vehículos específicos de acuerdo a distintos criterios como ubicación, tipo de vehículo, precio, etc.
+
+
+- **Temporary Insurance**: Opción disponible para los Renter al alquilar un vehículo, que proporciona cobertura contra accidentes o daños durante el período de alquiler.
+
+
+- **Review and Rating**: Es el apartado en donde los usuarios pueden calificar y dejar comentarios sobre su experiencia con cierto vehículo o propietario, proporcionando feedback que ayuda a otros usuarios a tomar decisiones informadas.
+
+
+- **Subscription Plan**: Son los diferentes niveles de membresía que los owners pueden adquirir para acceder a beneficios adicionales en la plataforma.
+
+
+- **Flexible Income**: Se refiere a los ingresos generados que reciben los owners al alquilar sus vehículos.
+
+
+- **Marketplace**: Es el sitio en la plataforma donde los usuarios pueden interactuar para alquilar o comprar vehículos.
