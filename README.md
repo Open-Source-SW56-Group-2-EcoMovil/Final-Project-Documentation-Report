@@ -76,11 +76,17 @@ El problema es persistente y ha aumentado en la última década con el crecimien
 ### Who / Quién
 #### ¿Quiénes están involucrados?
 
-Los estudiantes universitarios, quienes buscan ingresos adicionales, y los residentes de Lima que enfrentan problemas de movilidad y contaminación. 
+Estudiantes universitarios: Que poseen vehículos menores como bicicletas, scooters, o patinetas y buscan generar ingresos adicionales alquilándolos o vendiéndolos.
+Usuarios que alquilan o compran vehículos a través de la aplicación: Esto incluye a trabajadores, turistas, y cualquier persona en Lima que necesita opciones de transporte más económicas, flexibles y sostenibles.
+
+### ¿A quién le sucede el problema?
+
+El problema afecta principalmente a los estudiantes universitarios que buscan formas de monetizar sus vehículos menores para obtener ingresos adicionales sin afectar sus estudios. También impacta a los usuarios que alquilan o compran vehículos a través de la aplicación, como trabajadores y turistas, quienes enfrentan desafíos relacionados con la congestión y la contaminación, y que buscan alternativas de transporte más sostenibles y accesibles.
 
 #### ¿Quién lo utilizará?
 
-Los estudiantes universitarios, quienes buscan ingresos adicionales, y los residentes de Lima que enfrentan problemas de movilidad y contaminación.
+Estudiantes universitarios: Que alquilan o venden sus vehículos menores a través de la plataforma para generar ingresos adicionales.
+Usuarios que alquilan o compran vehículos a través de la aplicación: Incluyendo a trabajadores y turistas que necesitan soluciones de movilidad prácticas, económicas y ecológicas en Lima.
 
 ### How / Cómo
 #### ¿En qué condiciones los usuarios usan nuestro producto?
@@ -103,12 +109,19 @@ El impacto es significativo, ya que contribuye a la alta contaminación y conges
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem statements
 
-Nuestro propósito es desarrollar una aplicación que conecte a estudiantes universitarios que necesitan ingresos flexibles con residentes de Lima que buscan opciones de movilidad más económicas y ecológicas.
+Nuestro propósito es desarrollar una aplicación que conecte a estudiantes universitarios que
+ya no utilizan sus medios de transporte con aquellos que buscan opciones de movilidad más
+económicas y ecológicas.
 
-Hemos observado que muchos estudiantes poseen vehículos como bicicletas, scooters o patinetas que no utilizan regularmente, mientras que los residentes de Lima enfrentan dificultades para encontrar alternativas de transporte accesibles y sostenibles debido a la alta congestión y contaminación en la ciudad.
+Hemos observado que muchos estudiantes tienen vehículos como bicicletas, scooters o
+patinetas que están en desuso, mientras que otros necesitan alternativas de transporte
+accesibles y sostenibles.
 
-Este problema refleja una preocupación creciente por los costos de transporte, la sostenibilidad ambiental y la necesidad de los estudiantes de equilibrar sus estudios con fuentes de ingresos adicionales. La pregunta que nos planteamos es:
-¿Cómo podemos diseñar una plataforma que permita a los estudiantes alquilar estos vehículos a los residentes de manera eficiente, promoviendo un transporte económico, sostenible y que apoye la flexibilidad económica de los estudiantes?
+Este problema refleja una preocupación creciente por los costos de transporte, el impacto
+ambiental y la necesidad de mantener un estilo de vida saludable. La pregunta que nos
+planteamos es:
+¿Cómo podemos diseñar una plataforma que permita a los estudiantes compartir estos
+vehículos de manera eficiente, promoviendo un transporte económico, sostenible y saludable?
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -152,22 +165,27 @@ Acceso Simplificado al Transporte: Facilitan el acceso a medios de transporte en
 
 ¿Quién es el usuario?
 
-- Estudiantes universitarios con vehículos menores: Se asume que estos usuarios tienen vehículos como bicicletas, scooters o patinetas que ya no utilizan y están interesados en generar ingresos adicionales alquilándolos.
-Residentes de Lima que buscan opciones de transporte: Se asume que estos usuarios están interesados en opciones de movilidad ecológicas, económicas y accesibles como bicicletas, scooters y motos eléctricas.
+- Estudiantes universitarios con vehículos menores: Se asume que estos usuarios poseen vehículos como bicicletas, scooters o patinetas que no utilizan regularmente y están interesados en generar ingresos adicionales alquilándolos o vendiéndolos a través de la plataforma.
+
+- Usuarios que alquilan o compran vehículos a través de la aplicación: Este grupo incluye residentes de Lima, como turistas o trabajadores, que buscan opciones de transporte más ecológicas, económicas y accesibles, tales como bicicletas, scooters y motos eléctricas.
+
 ¿Dónde encaja nuestro producto en sus trabajos o vidas?
 
-- Estudiantes universitarios: La plataforma les proporciona una oportunidad para monetizar vehículos que no están usando, ayudando a cubrir sus gastos y aliviar la presión financiera.
-Residentes de Lima: La plataforma les ofrece una alternativa de transporte más sostenible y económica, que puede mejorar su movilidad diaria y reducir su impacto ambiental.
+- Estudiantes universitarios: La plataforma les brinda la oportunidad de monetizar vehículos que no están utilizando, ayudando a cubrir sus gastos y aliviar la presión financiera, todo ello sin interferir en sus horarios de estudio.
+
+- Usuarios que alquilan o compran vehículos a través de la aplicación: La plataforma les ofrece una alternativa de transporte más sostenible y económica, que puede mejorar su movilidad diaria y reducir su impacto ambiental en la ciudad.
 
 ¿Qué problema resuelve nuestro producto?
 
-- Para los estudiantes universitarios: Resuelve el problema de generar ingresos adicionales de manera flexible y sin comprometer su horario académico, al proporcionar una forma fácil de alquilar o vender vehículos que no usan.
-- Para los residentes de Lima: Ofrece una solución de transporte más ecológica y económica, abordando la falta de opciones accesibles y contribuyendo a la reducción de la contaminación y congestión urbana.
+- Para los estudiantes universitarios: Resuelve el problema de generar ingresos adicionales de manera flexible, sin comprometer su tiempo de estudio, al proporcionar una forma sencilla de alquilar o vender los vehículos que no usan.
+
+- Para los usuarios que alquilan o compran vehículos a través de la aplicación: Ofrece una solución de transporte más ecológica y económica, abordando la falta de opciones accesibles y contribuyendo a la reducción de la contaminación y la congestión urbana.
 
 ¿Cuándo y cómo es usado nuestro producto?
 
-- Estudiantes universitarios: Usan la plataforma cuando tienen un vehículo disponible que desean alquilar o vender. Acceden a la aplicación en cualquier momento para gestionar sus publicaciones y revisar solicitudes.
-Residentes de Lima: Usan la plataforma para buscar y alquilar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles.
+- Estudiantes universitarios: Usan la plataforma cuando tienen un vehículo disponible que desean alquilar o vender. Pueden acceder a la aplicación en cualquier momento para gestionar sus publicaciones y revisar las solicitudes de alquiler o compra.
+
+- Usuarios que alquilan o compran vehículos a través de la aplicación: Usan la plataforma para buscar y alquilar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles y económicas.
 
 ¿Qué características son importantes?
 
@@ -182,7 +200,7 @@ Residentes de Lima: Usan la plataforma para buscar y alquilar vehículos cuando 
 #### Business Assumptions
 
 Necesidades de los Clientes:
-- Creemos que nuestros clientes buscan una solución que combine movilidad sostenible con una fuente de ingresos flexible. Los estudiantes universitarios necesitan generar ingresos adicionales sin comprometer su tiempo de estudio, mientras que los residentes de Lima buscan alternativas de transporte ecológicas y accesibles.
+- Creemos que nuestros clientes buscan una solución que combine movilidad sostenible con una fuente de ingresos flexible. Los estudiantes universitarios necesitan generar ingresos adicionales sin comprometer su tiempo de estudio, mientras que los usuarios que alquilan como los trabajadores o turistas, buscan alternativas de transporte ecológicas y accesibles.
 
 Solución Propuesta:
 - Nuestra aplicación web está diseñada para conectar a los estudiantes que poseen vehículos menores (como bicicletas, scooters, skateboards) con personas interesadas en alquilarlos o comprarlos. Esto permitirá a los estudiantes monetizar los vehículos que no utilizan, al mismo tiempo que ofrece a los usuarios alternativas de transporte más ecológicas y económicas.
