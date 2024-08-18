@@ -54,18 +54,22 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Estrategias de marketing</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">Proporcionar una prueba gratuita a los usuarios (estrategias de incentivo).</td>
+      <td align="center"> • Promociones y descuentos especiales.<br>
+<br> • Campañas en redes sociales y medios digitales.</td>
+      <td align="center"> • Publicidad digital y en redes sociales.<br>
+<br> • Colaboraciones con influencers y creadores de contenido.</td>
+      <td align="center"> • Colaboraciones con universidades y empresas.<br>
+<br> • Eventos locales para promover el uso de bicicletas.<br>
+<br> • Programas de fidelización y recompensas.</td>
     </tr>
     <tr>
       <td align="center" rowspan="3"><strong>Perfil del Producto</strong></td>
       <td align="center"><strong>Productos & Servicios</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">Aplicación web que conecta a usuarios interesados en alquilar o comprar bicicletas, scooters, skateboards, motos eléctricas, y otros vehículos con aquellos que tienen estos vehículos disponibles.</td>
+      <td align="center">Alquiler de bicicletas mediante una aplicación móvil, facilitando la movilidad urbana sostenible y flexible para los usuarios.</td>
+      <td align="center">Plataforma en línea que ofrece una amplia gama de opciones de alojamiento, desde habitaciones privadas hasta casas completas, en todo el mundo.</td>
+      <td align="center">Proporcionar movilidad urbana sostenible y accesible a través de una aplicación móvil que permite el alquiler y gestión de las bicicletas.</td>
     </tr>
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
