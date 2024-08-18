@@ -260,7 +260,7 @@ Además, considerando el incremento en la tasa de deserción universitaria, que 
 
 **1.3.1. Stakeholders.**
 
-- **Stakelholder Internos:** Equipo Integradis y el resto de los miembros del equipo de desarrollo.<br>
+- **Stakelholder Internos:** El resto de los miembros del equipo de desarrollo.<br>
 - **Stakelholder Externos:** Estudiante universitario que posee un vehículo menor. Usuarios que alquilan o compran vehículos a través de la aplicación.
 
 ![stakeholders](/assets/stakeholders-open.png)
