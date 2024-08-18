@@ -103,17 +103,117 @@ El impacto es significativo, ya que contribuye a la alta contaminación y conges
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem statements
 
+Nuestro propósito es desarrollar una aplicación que conecte a estudiantes universitarios que necesitan ingresos flexibles con residentes de Lima que buscan opciones de movilidad más económicas y ecológicas.
+
+Hemos observado que muchos estudiantes poseen vehículos como bicicletas, scooters o patinetas que no utilizan regularmente, mientras que los residentes de Lima enfrentan dificultades para encontrar alternativas de transporte accesibles y sostenibles debido a la alta congestión y contaminación en la ciudad.
+
+Este problema refleja una preocupación creciente por los costos de transporte, la sostenibilidad ambiental y la necesidad de los estudiantes de equilibrar sus estudios con fuentes de ingresos adicionales. La pregunta que nos planteamos es:
+¿Cómo podemos diseñar una plataforma que permita a los estudiantes alquilar estos vehículos a los residentes de manera eficiente, promoviendo un transporte económico, sostenible y que apoye la flexibilidad económica de los estudiantes?
+
 #### 1.2.2.2. Lean UX Assumptions
+
 #### Features
+
+- Implementar un sistema de calificación con estrellas que permita a los usuarios dejar reseñas y calificaciones sobre la experiencia de alquiler o venta.
+
+- Desarrollar una función de búsqueda avanzada que permita a los usuarios filtrar vehículos por criterios como tipo de vehículo, ubicación, precio y disponibilidad.
+
+- Crear un panel de usuario donde los rentadores puedan ver un historial detallado de todas las transacciones realizadas, incluyendo alquileres y ventas de vehículos.
+
+- Integrar un foro de ayuda dentro de la aplicación donde los usuarios puedan hacer preguntas, compartir consejos y resolver dudas relacionadas con el alquiler o venta de vehículos.
+
+- Implementar un mapa interactivo que muestre la ubicación de los puntos de recepción y entrega de vehículos.
+
+- Añadir elementos de gamificación, como logros y badges, para recompensar a los usuarios por acciones específicas, como realizar el primer alquiler, completar un número de alquileres sin incidentes o referir amigos a la plataforma.
 
 #### Business Outcomes
 
+- Lograr que los usuarios confirmen que la página funciona correctamente y sin interrupciones, asegurando una experiencia de usuario óptima y continua.
+
+- Lograr que el 70% de los usuarios estén satisfechos con el servicio durante el primer trimestre después del lanzamiento, garantizando una alta retención y recomendación del producto.
+
+- Alcanzar una reducción del 40% en la contaminación generada por los usuarios de la plataforma, apoyando la lucha contra el cambio climático a través de soluciones de movilidad ecológica.
+
 #### Users
+
+Los usuarios principales de nuestra aplicación son estudiantes universitarios que poseen vehículos menores, como bicicletas, scooters o patinetas, y buscan generar ingresos adicionales alquilándolos o vendiéndolos. Por otro lado, están los usuarios que necesitan alternativas de transporte más económicas y ecológicas, quienes alquilan o compran estos vehículos a través de la plataforma, aprovechando la conveniencia y sostenibilidad que ofrece el servicio.
 
 #### User Outcomes & Benefits
 
+- Para Estudiantes Universitarios que Poseen un Vehículo Menor:
+Generar Ingresos Adicionales: Ofrecen una fuente de ingresos flexibles al alquilar vehículos que no utilizan.
+Contribuir a la Sostenibilidad: Apoyan una comunidad más ecológica y responsable mediante el uso compartido de recursos.
+
+- Para Usuarios que Alquilan Vehículos a Través de la Aplicación:
+Reducir la Huella de Carbono: Optan por alternativas de transporte sostenibles, disminuyendo su impacto ambiental.
+Acceso Simplificado al Transporte: Facilitan el acceso a medios de transporte en momentos de necesidad, mejorando su movilidad.
+
 #### User assumptions
+
+¿Quién es el usuario?
+
+- Estudiantes universitarios con vehículos menores: Se asume que estos usuarios tienen vehículos como bicicletas, scooters o patinetas que ya no utilizan y están interesados en generar ingresos adicionales alquilándolos.
+Residentes de Lima que buscan opciones de transporte: Se asume que estos usuarios están interesados en opciones de movilidad ecológicas, económicas y accesibles como bicicletas, scooters y motos eléctricas.
+¿Dónde encaja nuestro producto en sus trabajos o vidas?
+
+- Estudiantes universitarios: La plataforma les proporciona una oportunidad para monetizar vehículos que no están usando, ayudando a cubrir sus gastos y aliviar la presión financiera.
+Residentes de Lima: La plataforma les ofrece una alternativa de transporte más sostenible y económica, que puede mejorar su movilidad diaria y reducir su impacto ambiental.
+
+¿Qué problema resuelve nuestro producto?
+
+- Para los estudiantes universitarios: Resuelve el problema de generar ingresos adicionales de manera flexible y sin comprometer su horario académico, al proporcionar una forma fácil de alquilar o vender vehículos que no usan.
+- Para los residentes de Lima: Ofrece una solución de transporte más ecológica y económica, abordando la falta de opciones accesibles y contribuyendo a la reducción de la contaminación y congestión urbana.
+
+¿Cuándo y cómo es usado nuestro producto?
+
+- Estudiantes universitarios: Usan la plataforma cuando tienen un vehículo disponible que desean alquilar o vender. Acceden a la aplicación en cualquier momento para gestionar sus publicaciones y revisar solicitudes.
+Residentes de Lima: Usan la plataforma para buscar y alquilar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles.
+
+¿Qué características son importantes?
+
+- Valoraciones y Reseñas: Para que los usuarios puedan evaluar la calidad de los vehículos y los servicios de alquiler.
+- Búsqueda Avanzada por Filtro: Para encontrar vehículos según tipo, ubicación, y otros criterios específicos.
+- Historial de Alquileres o Venta de Vehículo: Para mantener un registro de transacciones y facilitar la gestión de los vehículos.
+- Foro de Ayuda: Para resolver dudas y ofrecer soporte a los usuarios.
+- Mapa Interactivo de los Puntos de Recepción de Vehículo: Para localizar fácilmente dónde recoger o entregar los vehículos.
+- Gamificación: Elementos como logros o badges para incentivar el uso y la participación en la plataforma.
+- Seguro Temporal: Opciones para adquirir un seguro que proteja a los usuarios en caso de accidentes o daños durante el alquiler.
+
 #### Business Assumptions
+
+Necesidades de los Clientes:
+- Creemos que nuestros clientes buscan una solución que combine movilidad sostenible con una fuente de ingresos flexible. Los estudiantes universitarios necesitan generar ingresos adicionales sin comprometer su tiempo de estudio, mientras que los residentes de Lima buscan alternativas de transporte ecológicas y accesibles.
+
+Solución Propuesta:
+- Nuestra aplicación web está diseñada para conectar a los estudiantes que poseen vehículos menores (como bicicletas, scooters, skateboards) con personas interesadas en alquilarlos o comprarlos. Esto permitirá a los estudiantes monetizar los vehículos que no utilizan, al mismo tiempo que ofrece a los usuarios alternativas de transporte más ecológicas y económicas.
+
+Valor Principal:
+- Para los Estudiantes: Una plataforma que les permite alquilar o vender sus vehículos menores, generando ingresos adicionales de manera flexible y sin interferir con sus horarios de estudio.
+- Para los Usuarios que Alquilan: Acceso a vehículos ecológicos que facilitan la movilidad en la ciudad, reduciendo la huella de carbono y mejorando la sostenibilidad del transporte urbano.
+
+Beneficios Adicionales:
+- Sostenibilidad Ambiental: La plataforma contribuye a la reducción de la contaminación urbana al promover el uso de vehículos ecológicos.
+- Flexibilidad Económica: Los estudiantes pueden adaptar sus ingresos a sus horarios y necesidades personales.
+- Facilidad de Acceso: Los usuarios tienen una forma sencilla y eficiente de encontrar y utilizar alternativas de transporte sostenibles.
+- Simplicidad y Práctica: La aplicación será diseñada para ser simple y práctica, ahorrando tiempo a los usuarios y facilitando un proceso eficiente tanto para alquilar como para buscar vehículos.
+
+Adquisición de Clientes:
+- La promoción de la plataforma se realizará a través de redes sociales, campañas de marketing dirigidas a universidades y eventos relacionados con la sostenibilidad y movilidad.
+
+Modelo de Ingresos:
+- Suscripciones para Propietarios: Modelos de suscripción mensual para publicar y destacar vehículos en la plataforma.
+- Comisiones por Transacciones: Un porcentaje de las tarifas de alquiler o venta puede ser destinado como comisión para la plataforma.
+
+Competencia:
+- Competiremos con otros servicios de alquiler y venta de vehículos como City Bike Lima, Bee Perú y otras plataformas de movilidad urbana. Nuestra ventaja será la combinación única de sostenibilidad, flexibilidad económica y una interfaz intuitiva diseñada específicamente para estudiantes. La aplicación será simple y práctica, diseñada para ahorrar tiempo y facilitar el uso.
+
+Riesgos Principales:
+- Adopción del Usuario: La principal preocupación es lograr una base activa de usuarios tanto para alquilar como para poner en alquiler los vehículos.
+- Satisfacción del Cliente: Es crucial asegurar que la plataforma cumpla con las expectativas en términos de funcionalidad, seguridad y usabilidad.
+
+Estrategias para Mitigar Riesgos:
+- Desarrollo de Comunidad Activa: Fomentar la participación y el feedback continuo de los usuarios para mejorar la plataforma.
+- Garantizar Seguridad y Fiabilidad: Implementar medidas de seguridad y seguros temporales para proteger tanto a los propietarios como a los usuarios de los vehículos.
 
 #### 1.2.2.4. Lean UX Hypothesis Statements
 
