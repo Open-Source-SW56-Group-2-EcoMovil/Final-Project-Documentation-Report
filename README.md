@@ -85,10 +85,10 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Canales de distribución (Web y/o Móvil)</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">El servicio estará disponible de manera temporal a través de la plataforma web.</td>
+      <td align="center">App móvil, el sitio web, estaciones físicas, alianzas con empresas y universidades, y redes sociales.</td>
+      <td align="center">Sitio web, la app móvil, colaboraciones con agencias de viajes y plataformas de terceros, y redes sociales. </td>
+      <td align="center">App móvil, el sitio web, estaciones físicas y redes sociales.</td>
     </tr>
     <tr>
       <td align="center" rowspan="4"><strong>Análisis SWOT</strong></td>
@@ -99,24 +99,26 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">                     </td>
     <tr>
       <td align="center"><strong>Debilidades</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">Baja visibilidad y promoción.</td>
+      <td align="center">Cobertura limitada en algunas áreas, mantenimiento y disponibilidad de bicicletas.</td>
+      <td align="center">Problemas de seguridad y confianza, inconsistencias en la calidad de las propiedades, falta de regulación y cumplimiento normativo, dificultades en la gestión de disputas, y dependencia de la satisfacción del anfitrión para la experiencia del huésped.</td>
+      <td align="center">Infraestructura insuficiente, mantenimiento irregular de bicicletas, problemas con la tecnología de la app, escasa presencia en medios y redes, limitaciones en la expansión y baja fidelización de usuarios</td>
     </tr>
     <tr>
       <td align="center"><strong>Oportunidades</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center"> • Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado.<br> 
+    <br>• Poca presencia de competidores en el mercado.<br> 
+    <br> • Gran demanda entre los estudiantes universitarios peruanos que poseen vehículos menores no utilizados.**</td>
+      <td align="center">Expansión a nuevas áreas, alianzas con universidades y empresas, mejora de infraestructura, innovaciones en la app, campañas de concientización e integración con otros transportes.</td>
+      <td align="center">Expansión a nuevos destinos, ofertas para grupos, mejoras en la experiencia del huésped, colaboraciones con empresas locales, herramientas para anfitriones y aumento de seguridad mediante tecnología avanzada.</td>
+      <td align="center">Expansión a más áreas de la ciudad, asociaciones con universidades y empresas, mejora de la infraestructura de estaciones, actualización tecnológica de la app, campañas de promoción y integración con otros medios de transporte.</td>
     </tr>
     <tr>
       <td align="center"><strong>Amenazas</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">Inflación y volatilidad económica. </td>
+      <td align="center">Problemas de seguridad, condiciones climáticas adversas, falta de infraestructura adecuada.</td>
+      <td align="center">Cambios en regulaciones locales, competencia de otras plataformas de hospedaje.</td>
+      <td align="center">Robo o vandalismo de bicicletas.</td>
      </tr>
   </table>
   </body>
