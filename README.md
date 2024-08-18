@@ -93,10 +93,22 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="4"><strong>Análisis SWOT</strong></td>
       <td align="center"><strong>Fortalezas</strong></td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
-      <td align="center">                     </td>
+      <td align="center">Comunicación flexible entre el estudiante universitario que posee un vehículo menor y el usuario que alquila o compra vehículos.</td>
+      <td align="center"> • Red de bicicletas amplia y bien establecida.<br>
+<br> • Tecnología avanzada en la app.<br>
+<br> • Cobertura en múltiples ciudades.<br>
+<br> • Asociaciones con empresas y universidades.<br>
+<br> • Enfoque en sostenibilidad y movilidad urbana.</td>
+      <td align="center">• Amplia variedad de opciones de alojamiento.<br>
+<br> • Plataforma global con presencia en numerosos países.<br>
+<br> • Sistema de reseñas y calificaciones para confianza y transparencia.<br>
+<br> • Flexibilidad en los tipos de hospedaje y precios.<br>
+<br> • Experiencias locales ofrecidas por anfitriones.<br></td>
+      <td align="center"> • Red de estaciones bien distribuida.<br>
+<br> • Sistema de bicicletas moderno y eficiente.<br>
+<br> • Tecnología avanzada en la app para gestión de alquileres.<br>
+<br> • Enfoque en movilidad sostenible.<br>
+<br> • Servicios de soporte y atención al cliente accesibles.<br></td>
     <tr>
       <td align="center"><strong>Debilidades</strong></td>
       <td align="center">Baja visibilidad y promoción.</td>
