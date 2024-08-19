@@ -275,10 +275,3 @@ Según el Ministerio de Transportes y Comunicaciones, el transporte en Lima Metr
 En respuesta a esta situación, nuestro segmento objetivo está compuesto por estudiantes universitarios de Lima Metropolitana, con edades entre 18 y 28 años, pertenecientes a niveles socioeconómicos medios, que buscan soluciones de transporte que les permitan desplazarse de manera segura y ecológica. Estos jóvenes, motivados por una creciente conciencia sobre la sostenibilidad y la necesidad de reducir su huella de carbono, encuentran en nuestra plataforma una solución para satisfacer sus necesidades de movilidad diaria.
 
 Además, considerando el incremento en la tasa de deserción universitaria, que pasó de 19.3 % en 2019 a 23.2 % en 2021, muchos estudiantes necesitan fuentes de ingresos adicionales para continuar sus estudios en universidades privadas (USIL, s/f). Nuestra aplicación web no solo ofrece una solución de movilidad, sino que también les proporciona una oportunidad para generar ingresos flexibles mediante el alquiler de vehículos ecológicos, ayudándoles a mejorar su bienestar económico sin afectar su rendimiento académico.
-
-**1.3.1. Stakeholders.**
-
-- **Stakelholder Internos:** El resto de los miembros del equipo de desarrollo.<br>
-- **Stakelholder Externos:** Estudiante universitario que posee un vehículo menor. Usuarios que alquilan o compran vehículos a través de la aplicación.
-
-![stakeholders](/assets/stakeholders-open.png)
