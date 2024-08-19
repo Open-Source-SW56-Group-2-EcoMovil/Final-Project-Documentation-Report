@@ -59,7 +59,9 @@
 | **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
 |-----------|-----------|-----------|-----------|
 | 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown. |
-| AGREGAR    | AGREGAR   | AGREGAR    | AGREGAR |
+| 1.1    | 18/08/2024   | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez.    | Desarrollo del perfil de la startup y del perfil de la solución, identificación de segmentos objetivo, y formulación de preguntas para el diseño de entrevistas. |
+|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
 
 **FALTA HACER**
 
