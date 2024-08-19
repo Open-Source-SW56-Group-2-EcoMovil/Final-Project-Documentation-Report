@@ -155,10 +155,67 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 
 ### 2.3.2. User Task Matrix
 
-
 ### 2.3.3. User Journey Mapping 
 
-### 2.3.5. As-is Scenario Mapping
+### 2.3.4. Empathy Mapping
+#### Segmento: Universitarios
+![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
+#### Segmento: Personas naturales
+![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
+
+
+### 2.3.5. As-is Scenario Mapping
+#### Segmento: Universitarios
+![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
+
+#### Segmento: Personas naturales
+![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
 
 ## 2.4. Ubiquitous Language
+- **Urban Mobility**: Son los medios que permiten a las personas desplazarse de un lugar a otro dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas, y otros vehículos alternativos.
+
+
+- **Owner**: Usuario que posee un vehículo y lo publica en la plataforma para alquiler o venta, a cambio de un beneficio económico.
+
+
+- **Renter**: Persona que utiliza la plataforma para alquilar temporalmente un vehículo disponible, pagando una tarifa al Propietario.
+
+
+- **Renting**: Es el proceso mediante el cual un renter paga una cantidad específica de dinero por el uso temporal de un vehículo al owner.
+
+
+- **Advanced Search**: Funcionalidad en la plataforma que permite a los usuarios filtrar y encontrar vehículos específicos de acuerdo a distintos criterios como ubicación, tipo de vehículo, precio, etc.
+
+
+- **Temporary Insurance**: Opción disponible para los Renter al alquilar un vehículo, que proporciona cobertura contra accidentes o daños durante el período de alquiler.
+
+
+- **Review and Rating**: Es el apartado en donde los usuarios pueden calificar y dejar comentarios sobre su experiencia con cierto vehículo o propietario, proporcionando feedback que ayuda a otros usuarios a tomar decisiones informadas.
+
+
+- **Subscription Plan**: Son los diferentes niveles de membresía que los owners pueden adquirir para acceder a beneficios adicionales en la plataforma.
+
+
+- **Flexible Income**: Se refiere a los ingresos generados que reciben los owners al alquilar sus vehículos.
+
+
+- **Marketplace**: Es el sitio en la plataforma donde los usuarios pueden interactuar para alquilar o comprar vehículos.
+
+
+- **Eco-Friendly**: Características de ciertos vehículos ofrecidos en la aplicación que minimizan el impacto ambiental.
+
+
+- **Gamification**: Sistema que introduceelementos de logros en la aplicación para motivar a los usuarios por ciertas acciones.
+
+
+- **Cachimbo Plan**: Plan básico para propiertarios que le permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
+
+
+- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, soporte prioritario, etc.
+
+
+- **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la plataforma.
+
+
+- **Forum**: Sección de la plataforma donde los usuarios pueden hacer preguntas, escribir experiencias y comunicarse entre ellos.
