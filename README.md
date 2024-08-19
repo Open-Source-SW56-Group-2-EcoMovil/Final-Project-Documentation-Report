@@ -58,7 +58,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br>
-<br>• Colaboraciones con influencers y creadores de contenido.</td>
+<br>Colaboraciones con influencers y creadores de contenido.</td>
       <td align="center">Colaboraciones con universidades y empresas.<br>
 <br>• Eventos locales para promover el uso de bicicletas.<br>
 <br>• Programas de fidelización y recompensas.</td>
