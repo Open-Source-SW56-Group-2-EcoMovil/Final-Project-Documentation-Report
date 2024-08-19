@@ -142,6 +142,42 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+A travéz de un analisis de nuestros posibles competidores diseñamos tacticas y estrategias para diferenciar a nuestra aplicacion y atraer más usuarios a ella.
+
+**Estrategias**
+
+**-Segmentación de Mercado Específica:**
+Nos enfocaremos en estudiantes y jóvenes profesionales, ofreciendo tarifas especiales, programas de lealtad y opciones de alquiler a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente a universidades o trabajos.
+
+**-Sostenibilidad y Responsabilidad Social:**
+Promoveremos EcoMovil como una opción ecológica y sostenible. Implementaremos programas de reforestación o reducción de carbono por cada alquiler realizado, y destacaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
+
+**-Integración con Campus Universitarios:**
+Estableceremos alianzas con universidades para crear estaciones de alquiler dentro de los campus. Ofreceremos tarifas con descuento a estudiantes y personal universitario, lo que nos permitirá crear una base de usuarios estable y recurrente.
+
+**-Plataforma Tecnológica Avanzada:**
+Desarrollaremos una app con funciones únicas como el rastreo en tiempo real de los vehículos, la reserva anticipada, y la posibilidad de compartir vehículos entre amigos o compañeros de clase. También incluiremos elementos de gamificación para mantener a los usuarios comprometidos.
+
+**-Modelos de Suscripción Flexibles:**
+Ofreceremos modelos de suscripción donde los usuarios puedan pagar una tarifa mensual para tener acceso ilimitado a los vehículos, con diferentes niveles de precios según el tipo y la frecuencia de uso.
+
+**Tácticas**
+
+**-Promociones Estacionales y Eventos:**
+Organizaremos eventos de lanzamiento en universidades o zonas clave, ofreciendo viajes gratuitos o con descuento durante la primera semana. Crearemos promociones especiales durante la temporada de exámenes o inicio de clases.
+
+**-Programa de Referidos:**
+Implementaremos un sistema de referidos donde los usuarios actuales puedan ganar créditos o descuentos por cada nuevo usuario que se registre usando su código. Esto incentivará la expansión del servicio de manera orgánica.
+
+**-Expansión Geográfica Estratégica:**
+Identificaremos áreas de alto tránsito estudiantil o de jóvenes profesionales donde la competencia es limitada. Estableceremos operaciones en estas áreas antes que nuestros competidores, capturando una porción significativa del mercado local.
+
+**-Atención al Cliente Personalizada:**
+Ofreceremos soporte 24/7 con atención personalizada a través de chat o llamada, especialmente durante horas pico de uso, como las mañanas antes de clases o durante la salida de la oficina. Esto nos diferenciará de competidores con soporte limitado.
+
+**-Aliados Comerciales Locales:**
+Colaboraremos con negocios locales, como cafeterías y tiendas de conveniencia, para ofrecer descuentos combinados. Por ejemplo, alquilar un vehículo de EcoMovil podría dar derecho a un café con descuento en una tienda aliada.
+
 ## 2.2. Entrevistas
 
 La sección trata sobre el proceso de estudiar nuestros segmentos de mercado mediante la recopilación de datos a través de entrevistas.
