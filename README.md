@@ -156,16 +156,14 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
-| <center>![entrevistavalle](/assets/perfil/entrevistavalle.png)</center>  | <center>Info</center>  | 
+| <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>Info</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 2**        | **Nombres y Apellidos**         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
@@ -180,13 +178,11 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 | <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center>  | <center>Se entrevisto a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabajando durante sus vacaciones. Camila comenta que, aprovechando sus vacaciones, ha decidido viajar a Perú con una amiga, y le ha parecido buena idea realizar paseos en bicicleta por Miraflores. Debido a estas circunstancias, ella compartió las características que le gustaría ver en una aplicación de renta de vehículos como bicicletas, basándose en sus experiencias con sus padres. Además mencionó que encontró interesante la propuesta y que principalmente una de las características que le gustaría ver sería un mapa interactivo.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 2**        | **Nombres y Apellidos**         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
-|:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
