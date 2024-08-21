@@ -41,10 +41,10 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 - Heading 03: Tamaño de 17px.
 - Heading 04: Tamaño de 15px.
 
-<img src="/assets/perfil/heading.jpg">
-<img src="/assets/perfil/button.jpg">
-<img src="/assets/perfil/caption.jpg">
-<img src="/assets/perfil/body.jpg">
+<img src="/assets/perfil/heading.png">
+<img src="/assets/perfil/button.png">
+<img src="/assets/perfil/caption.png">
+<img src="/assets/perfil/body.png">
 
 ### 4.1.2. Web Style Guidelines
 
