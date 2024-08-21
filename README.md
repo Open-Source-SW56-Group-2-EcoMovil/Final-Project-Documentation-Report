@@ -205,7 +205,7 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 
-**Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.
+**Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.**
 
 | **Entrevista 1**        | **Camila de Jesus Perez Novoa**         | 
 |:-------------------:|:-------------------:|
