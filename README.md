@@ -20,19 +20,33 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 
 **Brand Name:**
 
-El nombre de la propuesta de solución es EcoMovil. Combina "Eco", que refleja ecología y sostenibilidad, con "Movil", que subraya la movilidad urbana. Esta aplicación promueve el emprendimiento universitario y la sostenibilidad en Perú, permitiendo a los estudiantes generar ingresos mediante el alquiler o venta de vehículos ecológicos, al tiempo que reduce la contaminación y fomenta un estilo de vida activo.
+EcoMovil es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
 
 <img src="/assets/perfil/ecomovil.jpg">
 
 **Colores:**
 
-Los colores juegan un papel crucial en la primera impresión que tienen los usuarios. En base a los principios de la psicología del color, se ha elegido el verde como el color principal para la paleta de la plataforma. Este color representa crecimiento y creatividad, valores centrales de la startup. Además, el verde está vinculado con la ecología, el enfoque de la plataforma, y con el concepto de armonía, que buscamos transmitir a través de la interacción con el servicio. Las tonalidades secundarias seleccionadas incluyen diferentes matices de verde claro, verde oscuro y verde pálido.
+Los colores desempeñan un papel fundamental en la primera impresión que los usuarios tienen de la plataforma. Basándose en los principios de la psicología del color, se ha seleccionado el verde como el color principal de la paleta cromática. Este color simboliza crecimiento y creatividad, que son valores esenciales de la startup. Además, el verde está asociado con la ecología, que es el enfoque principal de la plataforma, y con la armonía, un concepto que buscamos reflejar en la interacción con el servicio. Las tonalidades secundarias elegidas abarcan distintos matices de verde claro, verde oscuro y verde pálido. Como colores secundarios, también se incluyen variantes de verde fosforescente, crema claro y anaranjado amarillo.
+
+<img src="/assets/perfil/paletacolores.jpg">
 
 **Tipografia:**
 
+La tipografía juega un papel crucial en establecer la jerarquía entre los diferentes grupos de contenido en la página, además de guiar al usuario a través de la interfaz. Para el proyecto, se ha elegido la fuente "Alata" en sus estilos Medium y Normal, para asegurar una mayor legibilidad. Además, la organización tipográfica se estructura en cuatro niveles para los elementos del diseño web (body y heading), lo que ayuda a mantener una disposición clara y coherente del contenido.
+
+La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarquía para los encabezados:
+
+- Heading 01: Tamaño de 34px.
+- Heading 02: Tamaño de 22px.
+- Heading 03: Tamaño de 17px.
+- Heading 04: Tamaño de 15px.
+
+<img src="/assets/perfil/heading.jpg">
+<img src="/assets/perfil/button.jpg">
+<img src="/assets/perfil/caption.jpg">
+<img src="/assets/perfil/body.jpg">
+
 ### 4.1.2. Web Style Guidelines
-
-
 
 **Tarjetas:**
 
