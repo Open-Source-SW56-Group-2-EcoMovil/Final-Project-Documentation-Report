@@ -81,6 +81,11 @@ Suscripciones
 ...
 
 ### 4.2.3. SEO Tags and Meta Tags
+En este apartado abordaremos las etiquetas SEO y Meta, que sirven para proporcionar información sobre nuestras páginas web a los motores de búsqueda y para optimizar estas búsquedas y su relevancia.
+
+Landing page:
+
+Aplicación web:
 
 ### 4.2.4. Searching Systems
 
