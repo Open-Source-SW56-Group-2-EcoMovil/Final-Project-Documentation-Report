@@ -70,6 +70,15 @@ El sistema de organización de la página de "EcoMovil" está diseñado para est
 ### 4.2.1. Organization System
 
 ### 4.2.2. Labeling System
+En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado y representado para que el usuario pueda identificar y usar las distintas funciones brindadas, que sirve para encontrar la información, de una manera intuitiva y sencilla.
+
+Etiquetas:
+
+Home 
+
+Suscripciones
+
+...
 
 ### 4.2.3. SEO Tags and Meta Tags
 
