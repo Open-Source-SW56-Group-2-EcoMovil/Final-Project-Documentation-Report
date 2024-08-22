@@ -90,6 +90,15 @@ Aplicación web:
 ### 4.2.4. Searching Systems
 El sistema de búsqueda en EcoMovil es una funcionalidad que permitirá a los usuarios encontrar rápidamente los vehículos que desean alquilar o comprar según sus necesidades. Este ofrecerá una búsqueda fluida y eficiente. Sus principales funciones será la búsqueda por palabras claves para poder buscar vehículos en específico, la opción de filtros avanzados para una búsqueda de acuerdo a ciertos criterios y la existencia de un historial de búsquedas recientes para que se pueda acceder rápidamente a las búsquedas que ya se han realizado.
 ### 4.2.5. Navigation Systems
+El Sistema de navegación es importante para lograr que los usuarios puedan navegar a través de la aplicación de una manera más sencilla. Esto es crucial para lograr una experiencia de usuario satisfactoria.
+En la aplicación web se tendrá una barra de navegación que contará con diversas opciones que guiarán al usuario al apartado de su interés.
+
+(Imagen Navegation bar)
+
+También contaremos con un footer, que será el pie de página. Este contará con enlaces adicionales a distintas secciones como Sobre Nosotros (información sobre nuestra visión y el equipo detrás de la aplicación), Contacto (formulario para poder contactarnos), etc.
+
+(Imagen Footer)
+
 
 ## 4.3. Landing Page UI Design
 
