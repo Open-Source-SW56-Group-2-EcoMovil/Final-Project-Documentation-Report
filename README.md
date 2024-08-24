@@ -10,7 +10,7 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 
 **Branding:**
 
-**Branding Overview:**
+**Brand Overview:**
 
 **EcoMovil** es una plataforma que ofrece una alternativa ágil y ecológica para la movilidad urbana, conectando a usuarios que desean alquilar o comprar vehículos sostenibles como bicicletas, scooters, skateboards y motos eléctricas con quienes los tienen disponibles. La aplicación facilita el proceso de alquiler o compra, apoyando también a estudiantes en la generación de ingresos flexibles. Entre sus características clave se incluyen un sistema de valoraciones y reseñas con estrellas, búsqueda avanzada con filtros, un historial de transacciones, un mapa interactivo de puntos de recepción y entrega, inclusión de IGV en las transacciones, elementos de gamificación con logros y recompensas, y la opción de adquirir un seguro temporal durante el alquiler. EcoMovil promueve una movilidad sostenible y un estilo de vida activo y responsable con el medio ambiente.
 
@@ -69,7 +69,7 @@ Dado que EcoMovil gestiona un flujo funcional esencial para el negocio, es funda
 
 El sistema de organización de la página de "EcoMovil" está diseñado para estructurar visualmente el contenido y facilitar la navegación. La página principal se divide en secciones clave: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto.
 
-- **Up-Section**: En la parte superior de la página principal, se encuentran las opciones de navegación a otras secciones, siguiendo un patrón de diseño F que subraya la importancia de que los usuarios conozcan la empresa y su oferta. Los botones de registro e inicio de sesión están situados en el extremo derecho. Además, hay un botón de modo oscuro para ajustar el tema visual según las preferencias del usuario y un botón para cambiar el idioma entre Español e Inglés, mejorando la accesibilidad. (ME FALTA AGREGAR MÁS)
+- **Up-Section**: En la parte superior de la página principal, se encuentran las opciones de navegación a otras secciones, siguiendo un patrón de diseño F que subraya la importancia de que los usuarios conozcan la empresa y su oferta. Los botones de registro e inicio de sesión están situados en el extremo derecho. Además, hay un botón de modo oscuro para ajustar el tema visual según las preferencias del usuario y un botón para cambiar el idioma entre Español e Inglés, mejorando la accesibilidad.
 
 ### 4.2.2. Labeling System
 En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado y representado para que el usuario pueda identificar y usar las distintas funciones brindadas, que sirve para encontrar la información, de una manera intuitiva y sencilla.
