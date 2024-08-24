@@ -6,7 +6,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - SW56</strong><br>
+    <br><strong>Desarrollo de Aplicaciones Open Source - SW56</strong><br>
     <br><strong>Docente: Efraín Ricardo Bautista Ubillús</strong><br>
 </p>
 
