@@ -12,8 +12,7 @@
 
 <p align="center">
     <strong>Startup: EcoMovil</strong>
-    <br>
-    <strong>Producto: EcoMovil</strong><br>
+    <br><strong>Producto: EcoMovil</strong><br>
 </p>
 
 <div>
