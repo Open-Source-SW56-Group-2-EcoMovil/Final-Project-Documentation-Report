@@ -30,6 +30,7 @@ Los colores desempeñan un papel fundamental en la primera impresión que los us
 
 <img src="/assets/perfil/primaryandsecondary.png">
 <img src="/assets/perfil/wireframeandtext.png">
+<img src="/assets/perfil/gradient.png">
 
 **Tipografia:**
 
@@ -42,12 +43,7 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 - Heading 03: Tamaño de 17px.
 - Heading 04: Tamaño de 15px.
 
-<img src="/assets/perfil/heading.png">
-<img src="/assets/perfil/button.png">
-<img src="/assets/perfil/caption.png">
-<img src="/assets/perfil/body.png">
-
-(MEJORAR LAS IMAGENES EN FIGMA)
+<img src="/assets/perfil/typography2.png">
 
 ### 4.1.2. Web Style Guidelines
 
