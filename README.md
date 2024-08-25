@@ -29,7 +29,7 @@ EcoMovil es una solución que surge de la combinación de "Eco", representando e
 Los colores desempeñan un papel fundamental en la primera impresión que los usuarios tienen de la plataforma. Basándose en los principios de la psicología del color, se ha seleccionado el verde como el color principal de la paleta cromática. Este color simboliza crecimiento y creatividad, que son valores esenciales de la startup. Además, el verde está asociado con la ecología, que es el enfoque principal de la plataforma, y con la armonía, un concepto que buscamos reflejar en la interacción con el servicio. Las tonalidades secundarias elegidas abarcan distintos matices de verde claro, verde oscuro y verde pálido. Como colores secundarios, también se incluyen variantes de verde fosforescente, crema claro y anaranjado amarillo.
 
 <img src="/assets/perfil/primaryandsecondary.png">
-<img src="/assets/perfil/wireframe-and-text.png">
+<img src="/assets/perfil/wireframeandtext.png">
 
 **Tipografia:**
 
