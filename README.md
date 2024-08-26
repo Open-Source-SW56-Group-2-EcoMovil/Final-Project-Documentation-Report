@@ -28,31 +28,31 @@ Escenario 2: Funcionalidad de Navegación
 Dado el universitario o rentador accede a la landing page y visualiza la barra de navegación,
 Cuando hace clic en cualquiera de los enlaces de la barra de navegación,
 Entonces debe ser redirigido a la sección correspondiente de la página web.</td>
-        <td>No corresponde</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td>EP02</td>
-        <td>Gestión de cuenta de usuario</td>
-        <td><b>Como</b> Owner/Cliente de MoviRent <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
+        <td>US02</td>
+        <td>Sección Hero en la Landing Page</td>
+        <td>Como universitario o rentador, quiero ver una sección hero atractiva y clara al acceder a la Landing Page para entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
         <td>No corresponde</td>
-        <td>No corresponde</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td>EP03</td>
+        <td>US03</td>
         <td>Gestión de scooters en alquiler</td>
         <td><b>Como</b> Owner en MoviRent <b>Quiero</b> agregar y gestionar mis scooters <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
-        <td>EP04</td>
+        <td>US04</td>
         <td>Gestión de reservas</td>
         <td><b>Como</b> cliente de MoviRent <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
-        <td>EP05</td>
+        <td>US05</td>
         <td>Gestionar historial de reservas</td>
         <td><b>Cómo</b> Cliente de Movitech <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b> Para</b> acceder a la información de estos de manera sencilla.
         <b>Y</b> tener un control de mi historial</td>
@@ -60,14 +60,14 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
         <td>No corresponde</td>
     </tr>
     <tr>
-        <td>EP06</td>
+        <td>US06</td>
         <td>Gestión de planes</td>
         <td><b>Cómo</b> cliente de MoviRent <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
-        <td>US01</td>
+        <td>US07</td>
         <td>Descripción de la aplicación</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar una descripción del producto ofrecido
@@ -87,7 +87,7 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
             <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
-        <td>EP01</td>
+        <td>EP08</td>
     </tr>
     <tr>
         <td>US02</td>
