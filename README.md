@@ -34,37 +34,80 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
         <td>US02</td>
         <td>Sección Hero en la Landing Page</td>
         <td>Como universitario o rentador, quiero ver una sección hero atractiva y clara al acceder a la Landing Page para entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
-        <td>No corresponde</td>
+        <td>Escenario 1: Visualización de la Sección Hero
+
+Dado que el universitario o rentador está en la Landing Page,
+Cuando la sección hero es visible,
+Entonces debe mostrar un titular principal claro y llamativo que comunique el valor de la aplicación.
+
+Escenario 2: Botón de “Descubre Más”
+
+Dado que el universitario o rentador está en la Landing Page,
+Cuando visualiza la sección hero,
+Entonces debe estar el botón “Descubre Más” que sea claramente visible y clicable.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US03</td>
-        <td>Gestión de scooters en alquiler</td>
-        <td><b>Como</b> Owner en MoviRent <b>Quiero</b> agregar y gestionar mis scooters <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
-        <td>No corresponde</td>
-        <td>No corresponde</td>
+        <td>Sección Footer en la Landing Page</td>
+        <td><b>Como universitario o rentador, quiero visualizar un footer en la página web para acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
+        <td>Escenario 1: Visualización del Footer
+
+Dado que el universitario o rentador accede a la Landing Page,
+Cuando la página se desplaza hasta el final,
+Entonces el footer debe estar visible en la parte inferior con sus enlaces a las redes sociales.
+
+Escenario 2: Funcionalidad de Enlaces del Footer
+
+Dado que el universitario o rentador visualiza el footer en la Landing Page,
+Cuando hace clic en cualquiera de los enlaces del footer,
+Entonces debe ser redirigido a las redes sociales de la startup.</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>US04</td>
-        <td>Gestión de reservas</td>
-        <td><b>Como</b> cliente de MoviRent <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
-        <td>No corresponde</td>
-        <td>No corresponde</td>
+        <td>Sección de Beneficios en la Landing Page</td>
+        <td><b>Como universitario o rentador, quiero ver una sección de beneficios que tenga las características principales de EcoMovil, para entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la plataforma </td>
+        <td>Escenario 1: Visualización de la Sección de Beneficios
+
+Dado que el universitario o rentador está en la Landing Page,
+Cuando se desplaza hacia la sección de beneficios,
+Entonces debe ver una sección destacada que contiene al menos 2 beneficios clave de la aplicación, basados en las características principales.</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>US05</td>
-        <td>Gestionar historial de reservas</td>
-        <td><b>Cómo</b> Cliente de Movitech <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b> Para</b> acceder a la información de estos de manera sencilla.
-        <b>Y</b> tener un control de mi historial</td>
-        <td>No corresponde</td>
-        <td>No corresponde</td>
+        <td>Sección de Contacto en la Landing Page</td>
+        <td>Como universitario o rentador, quiero tener acceso a una sección de contacto clara y funcional para poder comunicarme con el equipo de EcoMovil para resolver dudas, obtener soporte o hacer sugerencias</td>
+        <td>Escenario 1: Visualización de la Sección de Contacto
+
+Dado que el universitario o rentador está en la Landing Page,
+Cuando se desplaza hacia la sección de contacto,
+Entonces debe ver una sección claramente identificada que contenga información de contacto y opciones para comunicarse con el equipo de EcoMovil.
+
+Escenario 2: Información de Contacto
+
+Dado que el universitario o rentador está en la Landing Page,
+Cuando visualiza la sección de contacto,
+Entonces debe ver un formulario donde puedan ingresar su nombre, teléfono y correo electrónico para comunicarnos con el usuario a través de la página.</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>US06</td>
-        <td>Gestión de planes</td>
-        <td><b>Cómo</b> cliente de MoviRent <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
-        <td>No corresponde</td>
-        <td>No corresponde</td>
+        <td>Landing Page Responsive con diferentes dispositivos.</td>
+        <td>Como universitario o rentador, quiero que la landing page sea responsive para que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
+        <td>Escenario 1: Adaptación Automática a Diferentes Tamaños de Pantalla
+
+Dado que el universitario o rentador accede a la Landing Page,
+Cuando utiliza un dispositivo con cualquier tamaño de pantalla (móvil, tablet o escritorio),
+Entonces el contenido de la página debe ajustarse automáticamente para adaptarse al tamaño de la pantalla, asegurando una presentación clara y coherente.
+
+Escenario 2: Navegación y Menús Responsive
+
+Dado el visitante accede a la Landing Page desde un dispositivo móvil,
+Cuando la página se carga completamente,
+Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al hacer clic, debe desplegarse de forma fluida sin solaparse con otros elementos de la página.</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>US07</td>
@@ -87,10 +130,10 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
             <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
-        <td>EP08</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td>US02</td>
+        <td>US08</td>
         <td>Descripción de la startup</td>
         <td><b>Cómo</b> visitante interesado 
         <b>Quiero</b> ver una descripción clara de la startup
@@ -105,10 +148,10 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
             <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
             <b>Cuando</b> navegue hasta la sección “About The Team”<br/>
             <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
-        <td>EP01</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td>US03</td>
+        <td>US09</td>
         <td>Acceder a la aplicación desde la landing page </td>
         <td><b>Cómo</b> visitante de la landing page 
         <b>Quiero</b> poder acceder a la aplicación MoviRent desde la landing page
@@ -123,10 +166,10 @@ Entonces debe ser redirigido a la sección correspondiente de la página web.</t
             <b>Dado que</b> el visitante se encuentre en la landing page <br/>
             <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección<br/>
             <b>Entonces</b> el usuario obtiene un mensaje de error.<br/>
-        <td>EP01</td>
+        <td>1</td>
     </tr>
     <tr>
-        <td>US04</td>
+        <td>US10</td>
         <td>Registrar usuario</td>
         <td><b>Cómo</b> visitante de la aplicación web de MoviRent
         <b>Quiero</b> poder crear una cuenta personal
