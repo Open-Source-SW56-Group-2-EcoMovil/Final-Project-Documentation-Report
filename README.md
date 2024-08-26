@@ -125,7 +125,7 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
 </td>
         <td>
             <br/>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>US09</td>
@@ -133,7 +133,7 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
         <td>Como Rentador, quiero ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios para tomar decisiones informadas</td>
         <td>
             <br/>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>US10</td>
@@ -141,7 +141,7 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
         <td>Como Rentador, quiero alquilar un vehículo rápidamente a través de la aplicación para moverme por la ciudad cuando lo necesite.</td>
         <td>
             <br/>
-        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>US11</td>
@@ -154,210 +154,87 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
     </tr>
     <tr>
         <td>US12</td>
-        <td>Visualizar perfil de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
-        <b>Quiero</b> visualizar mi perfil personal 
-        <b>Para</b> visualizar mis datos actuales</td>
+        <td>Recibir notificaciones</td>
+        <td>Como Rentador, quiero recibir notificaciones cuando mi alquiler esté próximo a vencer para devolver el vehículo a tiempo sin penalidades y nuevas publicaciones de vehículos en alquiler que coincidan con mis preferencias</td>
         <td>
             <br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US07</td>
-        <td>Cambiar datos personales </td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
-        <b>Quiero</b> cambiar los datos asociados a mi perfil
-        <b>Para</b> actualizar la información</td>
-        <td>
-            <b>Scenario 1: Cambiar contraseña</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
-            <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio<br/>
-            <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
-            <br>
-            <b>Scenario 2: Cambiar nombre</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su nombre<br/>
-            <b>Cuando</b> ingrese el nuevo nombre, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio <br/>
-            <b>Entonces</b> el nuevo nombre será guardado y la información actualizada<br/>
-            <br>
-            <b>Scenario 3: Cambiar foto</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su foto <br/>
-            <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario <br><b>Y</b> confirme su intención de proceder con el cambio<br/>
-            <b>Entonces</b> la nueva foto será guardada y la información actualizada<br/>
-            <br>
-            <b>Scenario 4: Cambiar número de celular</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su número de celular <br/>
-            <b>Cuando</b> ingrese el nuevo número, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio <br/>
-            <b>Entonces</b> el nuevo número será guardado y la información actualizada<br/>
-            <br>
-            <b>Scenario 5: Ingreso de datos inválidos</b> <br/>
-            <b>Dado que</b> el usuario quiera cambiar su información <br/>
-            <b>Cuando</b> ingrese datos inválidos<br/>
-            <b>Entonces</b> se mostrará un mensaje de dato no válido<br/>
-            <br>
-            <b>Scenario 6: No cambiar información</b> <br/>
-            <b>Dado que</b> el usuario no quiera cambiar su información <br/>
-            <b>Cuando</b> aparezca el pop up para confirmar el cambio <br><b>Y</b> seleccione la opción para cancelar cambio<br/>
-            <b>Entonces</b> el pop up desaparecerá y el cambio no se realizará<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US08</td>
-        <td>Eliminar cuenta de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
-        <b>Quiero</b> eliminar mi cuenta de usuario
-        <b>Para</b> dejar de usar los servicios de la aplicación</td>
-        <td>
-            <b>Scenario 1: Owner/Cliente elimina cuenta de usuario </b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil <br><b>Y</b> confirme su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
-            <br>
-            <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario</b> <br/>
-            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
-            <b>Cuando</b> niegue su intención para proceder con la operación<br/>
-            <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
-        <td>EP02</td>
-    </tr>
-    <tr>
-        <td>US09</td>
-        <td>Publicar scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico  
-        <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
-        <b>Para</b> que pueda ser alquilado por un cliente</td>
-        <td>
-            <b>Scenario 1: Owner publica su scooter en MoviRent </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter <br><b>Y</b> le de al botón “Publicar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido publicado. <br/>
-            <br>
-           <b>Scenario 2: Owner cancela la publicación de su scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter”  <br/>
-            <b>Cuando</b> le de al botón de “Cancelar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
-            <br>
-           <b>Scenario 3: Owner no publica su scooter en MoviRent </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su scooter <br><b>Y</b> le de al botón “Publicar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <br><b>Y</b> no se publica su scooter<br/>
-        <td>EP03</td>
-    </tr>
-    <tr>
-        <td>US10</td>
-        <td>Visualizar un scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
-        <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
-        <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
-        <td>
-            <b>Scenario 1: Owner visualiza su scooter en MoviTech </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviRent <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver mis scooters”<br/>
-            <b>Entonces</b> el sistema le mostrará la información de los scooters publicados.<br/>
-            <br>
-            <b>Scenario 2: Owner cancela la visualización de su scooter en MoviRent </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviRent<br/>
-            <b>Cuando</b> se dirija a la opción de “Ver mis scooters” <br><b>Y</b> le de al botón de “Salir” <br/>
-            <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis scooters”<br/>
-        <td>EP03</td>
-    </tr>
-    <tr>
-        <td>US11</td>
-        <td>Editar Scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
-        <b>Quiero</b> editar la publicación de mi scooter
-        <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
-        <td>
-            <b>Scenario 1: Owner edita la publicación de su scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
-            <b>Cuando</b> actualice correctamente la información<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido actualizado<br/>
-            <br>
-            <b>Scenario 2: Owner cancela la edición de la publicación de su scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
-            <b>Cuando</b> le de al botón de “Cancelar”<br/>
-            <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
-            <br>
-            <b>Scenario 3: Owner no edita la publicación de su scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Editar” de una publicación. <br/>
-            <b>Cuando</b> ingrese incorrectamente la información <br><b>Y</b> le de al botón de “Aceptar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que su scooter no ha sido actualizado.<br/>
-        <td>EP03</td>
-    </tr>
-    <tr>
-        <td>US12</td>
-        <td>Eliminar scooter en alquiler</td>
-        <td><b>Cómo</b> Owner 
-        <b>Quiero</b> eliminar un scooter en alquiler
-        <b>Para</b> mantener la integridad de la información almacenada.</td>
-        <td>
-            <b>Scenario 1: Owner borra scooter en alquiler</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Eliminar” de una publicación. <br/>
-            <b>Cuando</b> confirme su intención de borrar los datos<br/>
-            <b>Entonces</b> el sistema eliminará de la base de datos toda la información almacenada de ese scooter<br/>
-            <br>
-            <b>Scenario 2: Owner decide no borrar scooter </b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <br><b>Y</b> le de al botón “Eliminar” de una publicación.<br/>
-            <b>Cuando</b> o niegue su intención de borrar los datos <br/>
-            <b>Entonces</b> el sistema no eliminará la información del scooter. <br/>
-        <td>EP03</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>US13</td>
-        <td>Búsqueda de scooters cercano</td>
-        <td><b>Cómo</b> cliente de MoviRent 
-        <b>Quiero</b> poder buscar scooters disponibles en mi distrito
-        <b>Para</b> facilitar mi desplazamiento.</td>
+        <td>Acceso a historial </td>
+        <td>Como Rentador, quiero acceder a un historial de mis alquileres anteriores para revisar mis actividades y gastos.</td>
         <td>
-            <b>Scenario 1: Búsqueda de scooters cercanos</b> <br/>
-            <b>Dado que</b> se encuentre en la sección de búsqueda de scooters <br/>
-            <b>Cuando</b> el usuario use un filtro por distrito <br>
-            <b>Entonces</b> se mostrará en una lista al usuario los scooters cercanos<br/>
-            <br>
-            <b>Scenario 2: No encuentra disponibilidad</b> <br/>
-            <b>Dado que</b> el usuario use un filtro por distrito <br><b>Y</b> no hay scooters disponibles en esa zona <br/>
-            <b>Cuando</b> el usuario realiza la búsqueda <br/>
-            <b>Entonces</b> se muestra un mensaje indicando que no hay scooters disponibles en la zona seleccionada en este momento.<br/>
-        <td>EP04</td>
+            <br/>
+        <td>2</td>
     </tr>
     <tr>
         <td>US14</td>
-        <td>Alquiler Scooter</td>
-        <td><b>Cómo</b> Cliente de MoviRent
-        <b>Quiero</b> alquilar un scooter
-        <b>Para</b> llegar rápido a mi destino.</td>
+        <td>Mapa interactivo</td>
+        <td>Como Rentador, quiero utilizar un mapa interactivo para localizar los puntos de recogida y 
+devolución de vehículos cercanos a mi ubicación.
+</td>
         <td>
-            <b>Scenario 1: Owner alquila un scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación. <br><b>Y</b> se dé al botón de “Alquilar” <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
-            <br>
-            <b>Scenario 2: Owner cancela el alquiler de un scooter en MoviRent </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
-            <br>
-            <b>Scenario 3: Owner no alquila un scooter en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles” de una publicación <br><b>Y</b> se dé al botón de “Alquilar”<br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
-        <td>EP04</td>
+            <br/>
+        <td>2</td>
     </tr>
     <tr>
         <td>US15</td>
-        <td>Calificación y reseñas</td>
-        <td><b>Cómo</b> cliente de MoviRent
-        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
-        <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
+        <td>Pagos en linea</td>
+        <td>Como Rentador, quiero tener la opción de pagar en línea de manera segura a través de la aplicación para mayor comodidad.</td>
         <td>
-            <b>Scenario 1: Calificación y reseñas </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br><b>Y</b> haya utilizado un vehículo recientemente <br/>
-            <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
-            <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
-            <br>
-            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
-            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
-            <b>Cuando</b> el usuario busque reseñas <br/>
-            <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
-        <td>EP04</td>
+            <br/>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Contacto al propietario</td>
+        <td>Como Rentador, quiero poder contactar al propietario antes de alquilar un vehículo para aclarar dudas o detalles específicos.
+</td>
+        <td>
+           <br/>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US17</td>
+        <td>visualizacion de ofertas</td>
+        <td>Como Rentador, quiero acceder a ofertas especiales o descuentos en vehículos destacados para ahorrar en mis alquileres.
+</td>
+        <td>
+            <br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Tiempo de llegadar</td>
+        <td>Como Rentador, quiero ver el tiempo estimado para llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
+        <td>
+           <br/>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Calificacion de alquiler</td>
+        <td>Como Rentador, quiero poder calificar al propietario después de cada alquiler para ayudar a otros usuarios a conocer su reputación</td>
+        <td>
+            <br/>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Extencion de tiempo de alquiler</td>
+        <td>Como Rentador, quiero poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
+        <td>
+            <br/>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Publicacion de vehiculos</td>
+        <td>Como Propietario, quiero publicar mis vehículos de manera rápida y sencilla para que los rentadores puedan verlos y contactarme.</td>
+        <td>
+            <br/>
+        <td>3</td>
     </tr>
     <tr>
         <td>US16</td>
