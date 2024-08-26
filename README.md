@@ -120,92 +120,46 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
     </tr>
     <tr>
         <td>US08</td>
-        <td>Descripción de la startup</td>
-        <td><b>Cómo</b> visitante interesado 
-        <b>Quiero</b> ver una descripción clara de la startup
-        <b>Para</b> conocer a sus integrantes y su propósito como startup</td>
+        <td>Busqueda de vehiculos disponibles</td>
+        <td>Como Rentador, quiero buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, para encontrar el más adecuado para mis necesidades.
+</td>
         <td>
-            <b>Scenario 1: Acceder a la sección "About us</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b> navegue hasta la sección “About Us” <br/>
-            <b>Entonces</b> se muestra información importante sobre la startup. <br/>
-            <br>
-            <b>Scenario 2: Conocer al equipo en "About The Team"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b> navegue hasta la sección “About The Team”<br/>
-            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
+            <br/>
         <td>1</td>
     </tr>
     <tr>
         <td>US09</td>
-        <td>Acceder a la aplicación desde la landing page </td>
-        <td><b>Cómo</b> visitante de la landing page 
-        <b>Quiero</b> poder acceder a la aplicación MoviRent desde la landing page
-        <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
+        <td>valoracion de los vehiculos</td>
+        <td>Como Rentador, quiero ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios para tomar decisiones informadas</td>
         <td>
-            <b>Scenario 1: Usuario ingresa a aplicación</b> <br/>
-            <b>Dado que</b> el visitante se encuentra en la landing page <br/>
-            <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado<br/>
-            <b>Entonces</b> es redirigido a la aplicación desplegada<br/>
-            <br>
-            <b>Scenario 2: Fallo en el acceso a la aplicación</b> <br/>
-            <b>Dado que</b> el visitante se encuentre en la landing page <br/>
-            <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección<br/>
-            <b>Entonces</b> el usuario obtiene un mensaje de error.<br/>
+            <br/>
         <td>1</td>
     </tr>
     <tr>
         <td>US10</td>
-        <td>Registrar usuario</td>
-        <td><b>Cómo</b> visitante de la aplicación web de MoviRent
-        <b>Quiero</b> poder crear una cuenta personal
-        <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
+        <td>Alquiler de vehiculo</td>
+        <td>Como Rentador, quiero alquilar un vehículo rápidamente a través de la aplicación para moverme por la ciudad cuando lo necesite.</td>
         <td>
-            <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
-            <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación MoviRent <br/>
-            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos MoviRent, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
-            <b>Entonces</b> se creará la cuenta de usuario.<br/>
-            <br>
-            <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
-            <b>Dado que</b> Usuario ingresa credenciales incorrectas. <br/>
-            <b>Cuando</b> ingrese una dirección de correo electrónico o contraseña o DNI que no cumplen con los requisitos especificados<br/>
-            <b>Entonces</b> se le denegará la operación<br/>
-        <td>EP02</td>
+            <br/>
+        <td>1</td>
     </tr>
     <tr>
-        <td>US05</td>
-        <td>Iniciar sesión</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
-        <b>Quiero</b> iniciar sesión
-        <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
+        <td>US11</td>
+        <td>Recomendaciones</td>
+        <td>Como Rentador, quiero recibir recomendaciones de vehículos basadas en mis preferencias y búsquedas anteriores para facilitar mi elección.
+</td>
         <td>
-            <b>Scenario 1: Usuario ingresa credenciales válidas </b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent <br><b>Y</b> desee iniciar sesión <br/>
-            <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
-            <b>Entonces</b> el sistema permitirá el acceso a la aplicación<br/>
-            <br>
-            <b>Scenario 2: Usuario ingresa credenciales incorrectas</b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent <br><b>Y</b> desea iniciar sesión <br/>
-            <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
-            <b>Entonces</b> el sistema denegará la solicitud<br/>
-        <td>EP02</td>
+            <br/>
+        <td></td>
     </tr>
     <tr>
-        <td>US06</td>
+        <td>US12</td>
         <td>Visualizar perfil de usuario</td>
         <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> visualizar mi perfil personal 
         <b>Para</b> visualizar mis datos actuales</td>
         <td>
-            <b>Scenario 1: Acceder al perfil personal</b> <br/>
-            <b>Dado que</b> el usuario desee visualizar su información personal <br/>
-            <b>Cuando</b>  ingrese a su perfil <br/>
-            <b>Entonces</b> obtendrá toda la información que registró previamente<br/>
-            <br>
-            <b>Scenario 2: Problema al acceder al perfil personal </b> <br/>
-            <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
-            <b>Cuando</b> intente ingresar a su perfil <br><b>Y</b> experimente un error de conexión o de servidor <br/>
-            <b>Entonces</b> no se visualizarán los datos del perfil <br/>
+            <br/>
         <td>EP02</td>
     </tr>
     <tr>
