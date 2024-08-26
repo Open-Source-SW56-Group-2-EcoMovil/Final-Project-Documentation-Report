@@ -111,25 +111,11 @@ Entonces el menú de navegación debe convertirse en un menú hamburguesa, y al 
     </tr>
     <tr>
         <td>US07</td>
-        <td>Descripción de la aplicación</td>
-        <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar una descripción del producto ofrecido
-        <b>Para</b> conocer los beneficios que puedo adquirir mediante el uso de la aplicación.</td>
+        <td>Registro a la pagina</td>
+        <td>Como universitario o rentador, quiero registrarme en la aplicación fácilmente para poder acceder a vehículos en alquiler y/o venderlos.
+</td>
         <td>
-            <b>Scenario 1: Visualizar sección Home</b> <br/>
-            <b>Dado que</b> el visitante ingresa a la página<br/>
-            <b>Cuando</b>la página cargue <br/>
-            <b>Entonces</b> se muestra una sección llamativa que anime al usuario a usar la aplicación.<br/>
-            <br>
-            <b>Scenario 2: Acceder a la sección "Services"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Services” <br/>
-            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviRent<br/>
-            <br>
-            <b>Scenario 3: Explorar la sección "Pricing"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
-            <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
+            <br/>
         <td>1</td>
     </tr>
     <tr>
