@@ -7,16 +7,16 @@
 
 <table >
     <tr>
-        <th>Epic / Story ID</th>
+        <th>User Story ID</th>
         <th>Título</th>
         <th>Descripción</th>
         <th>Criterios de Aceptación</th>
         <th>Relacionado con (Epic ID)</th>
     </tr>
     <tr>
-        <td>EP01</td>
-        <td>Landing page para la aplicacion MoviRent</td>
-        <td><b>Como</b> Owner/Cliente MoviRent <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
+        <td>US01</td>
+        <td>Barra de navegación en la Landing Page</td>
+        <td><b>Como universitario o rentador quiero visualizar una página web para conocer los servicios de la aplicación.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
