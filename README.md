@@ -17,7 +17,17 @@
         <td>US01</td>
         <td>Barra de navegación en la Landing Page</td>
         <td><b>Como universitario o rentador quiero visualizar una página web para conocer los servicios de la aplicación.</td>
-        <td>No corresponde</td>
+        <td>Escenario 1: Visualización de la Barra de Navegación
+
+Dado que el universitario o rentador se encuentre en la landing page,
+Cuando se muestra la barra de navegación, 
+Entonces podrá visualizar diversas secciones y botones.
+
+Escenario 2: Funcionalidad de Navegación
+
+Dado el universitario o rentador accede a la landing page y visualiza la barra de navegación,
+Cuando hace clic en cualquiera de los enlaces de la barra de navegación,
+Entonces debe ser redirigido a la sección correspondiente de la página web.</td>
         <td>No corresponde</td>
     </tr>
     <tr>
