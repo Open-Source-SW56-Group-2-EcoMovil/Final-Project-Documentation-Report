@@ -104,12 +104,12 @@ También contaremos con un footer, que será el pie de página. Este contará co
 Se diseñó esta interfaz con simplicidad en mente, utilizando colores claros como el verde para reflejar nuestro compromiso con el medio ambiente. También se diseñó para que los usuarios se sientan cómodos leyendo en cualquier dispositivo, manteniendo un tamaño de letra adecuado (F). Además, la interfaz es totalmente responsive, lo que significa que se adaptará a cualquier dispositivo con dimensiones adecuadas para una experiencia de usuario óptima.
 
 ### 4.3.1. Landing Page Wireframe
-![wireframe_landingpage_1](/assets/chapter-4/wireframe_L1.png)
-![wireframe_landingpage_2](/assets/chapter-4/wireframe_L2.png)
-![wireframe_landingpage_3](/assets/chapter-4/wireframe_L3.png)
-![wireframe_landingpage_4](/assets/chapter-4/wireframe_L4.png)
-![wireframe_landingpage_5](/assets/chapter-4/wireframe_L5.png)
-![wireframe_landingpage_6](/assets/chapter-4/wireframe_L6.png)
+![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
+![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
+![wireframe_landingpage_3](/assets/chapter-4/wireframe-L3.png)
+![wireframe_landingpage_4](/assets/chapter-4/wireframe-L4.png)
+![wireframe_landingpage_5](/assets/chapter-4/wireframe-L5.png)
+![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
 Enlace de los Wireframes: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
 
 ### 4.3.2. Landing Page Mockup
