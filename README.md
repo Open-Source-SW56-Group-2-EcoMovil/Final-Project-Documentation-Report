@@ -13,10 +13,12 @@ Lo que nos diferencia de otras plataformas es que no solo promovemos una alterna
 
 **Visión:** Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
-**Logotipo de la Startup:**
+**Logotipo de la Startup:**<br>
+
 ![startup](/assets/ecomovilsquad.png)
 
 **Logotipo del Servicio:**<br>
+
 ![service](/assets/ecomovil.jpg)
 
 ### 1.1.2. Perfiles de los integrantes del equipo
