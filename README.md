@@ -227,11 +227,11 @@ Competiremos con otros servicios de alquiler y venta de vehículos como City Bik
 - Lograr que el 70% de los usuarios estén satisfechos con el servicio durante el primer trimestre después del lanzamiento, garantizando una alta retención y recomendación del producto.
 - Alcanzar una reducción del 40% en la contaminación generada por los usuarios de la plataforma, apoyando la lucha contra el cambio climático a través de soluciones de movilidad ecológica.
 
-#### Users: 
+#### Users
 
 Los usuarios principales de nuestra aplicación son estudiantes universitarios que poseen vehículos menores, como bicicletas, scooters o patinetas, y buscan generar ingresos adicionales alquilándolos o vendiéndolos. Por otro lado, están los usuarios que necesitan alternativas de transporte más económicas y ecológicas, quienes alquilan o compran estos vehículos a través de la plataforma, aprovechando la conveniencia y sostenibilidad que ofrece el servicio.
 
-#### User Outcomes & Benefits:
+#### User Outcomes & Benefits
 
 - **Para Estudiantes Universitarios que Poseen un Vehículo Menor:**
 **Generar Ingresos Adicionales:** Ofrecen una fuente de ingresos flexibles al alquilar vehículos que no utilizan.
