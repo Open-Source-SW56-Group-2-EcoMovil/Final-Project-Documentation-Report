@@ -136,12 +136,25 @@ Enlace del mock-up: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Arquitecture
+En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
 
 ### 4.6.1. Software Architecture Context Diagram 
+![C4_Context](./assets/chapter-4/c41.png)
 
 ### 4.6.2. Software Architecture Container Diagram
-
+![C4_Container](./assets/chapter-4/c42.png)
 ### 4.6.3. Software Architecture Component Diagram
+- En esta primera sección se muestran los requerimientos no funcionales de la aplicación.
+![C4_Component_Profile](./assets/chapter-4/c43.png)
+
+- Aqui se muestran los componentes de perfil
+![C4_Component_Profile2](./assets/chapter-4/c45.png)
+
+- Aqui se muestran los componentes de vehicle
+![C4_Component_Profile3](./assets/chapter-4/c44.png)
+
+- Aqui se muestran los componentes de autenticación
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
