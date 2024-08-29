@@ -17,7 +17,6 @@ Lo que nos diferencia de otras plataformas es que no solo promovemos una alterna
 ![startup](/assets/ecomovilsquad.png)
 
 **Logotipo del Servicio:**<br>
-<br>
 ![service](/assets/ecomovil.jpg)
 
 ### 1.1.2. Perfiles de los integrantes del equipo
