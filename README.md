@@ -184,7 +184,7 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 ### 2.2.1. Diseño de entrevistas
 
-#### **Preguntas dirigidas a los rentadores**
+**Preguntas dirigidas a los rentadores**
 
 **–*Preguntas Principales*:**
 
@@ -233,7 +233,55 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 
 
+**Preguntas dirigidas al propietario universitario de vehículo menor.**
 
+-***Preguntas principales*:**
+
+¿Podrías decirme tu nombre completo y edad?
+
+¿En qué distrito resides actualmente?
+
+¿Cuál es tu estado civil?
+
+¿Dónde naciste?
+
+¿Que dispositivos tecnológicos?
+
+¿Que navegadores utilizas?
+
+¿Qué tipo de vehículo(s) menor(es) posees?
+
+¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
+
+¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
+
+¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
+
+¿Qué tipos de vehículos tienes disponibles para alquilar?
+
+¿Cómo determinar el precio de alquiler de tus vehículos?
+
+¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de alquilarlos?
+
+¿Cómo manejas la limpieza y desinfección de los vehículos?
+
+¿Cuáles son los requisitos o condiciones para alquilar uno de tus vehículos?
+
+**-*Preguntas complementarias*:**
+
+¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
+
+¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles rentadores?
+
+¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
+
+¿Cómo manejas las valoraciones y reseñas que dejan los rentadores?
+
+Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentadores?
+
+¿Estás abierto a considerar descuentos o promociones especiales para atraer más rentadores?
+
+¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?
 
 
 ### 2.2.2. Registro de entrevistas
