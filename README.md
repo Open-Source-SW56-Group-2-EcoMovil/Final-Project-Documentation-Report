@@ -184,9 +184,9 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 ### 2.2.1. Diseño de entrevistas
 
-**Preguntas dirigidas a los rentadores**
+# **Preguntas dirigidas a los rentadores**
 
-–Preguntas Principales:
+**–*Preguntas Principales*:**
 
 ¿Podrías decirme tu nombre completo y edad?
 
@@ -218,7 +218,7 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
 
-–Preguntas Complementarias:
+**–*Preguntas Complementarias*:**
 
 
 ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
