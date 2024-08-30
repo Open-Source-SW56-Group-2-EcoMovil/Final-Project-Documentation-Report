@@ -184,6 +184,13 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 ### 2.2.1. Diseño de entrevistas
 
+**Preguntas dirigidas a los rentadores**
+
+
+
+
+
+
 ### 2.2.2. Registro de entrevistas
 
 **Entrevista a estudiante universitario que posee un vehículo menor.**
@@ -194,7 +201,7 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
 | <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la plataforma le facilita el proceso de alquilar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
-| **Entrevista 2**        | **Nombres y Apellidos**         | 
+| **Entrevista 2**        | ****         | 
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
