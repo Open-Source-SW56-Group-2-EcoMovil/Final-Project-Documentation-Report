@@ -293,6 +293,7 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
 | <center>Timing: </center>  | <center>URL: https://acortar.link/4RuFHY </center>  | 
 
+<br>
 **Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.**
 
 |                              **Entrevista 1**                               |                                                                                                                                                                                                                                                                                                                                  **Camila de Jesus Perez Novoa**                                                                                                                                                                                                                                                                                                                                  | 
