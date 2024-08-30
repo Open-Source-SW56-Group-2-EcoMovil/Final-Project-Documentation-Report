@@ -246,7 +246,7 @@ devolución de vehículos cercanos a mi ubicación.
     <tr>
         <td>US22</td>
         <td></td>
-        <td><</td>
+        <td></td>
         <td>
              <br/>
         <td>3</td>
