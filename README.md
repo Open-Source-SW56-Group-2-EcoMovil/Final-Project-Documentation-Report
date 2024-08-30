@@ -355,21 +355,21 @@ Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3
             <td>1</td>
             <td>US01</td>
             <td>Barra de navegación en la Landing Page</td>
-            <td><b>**Como**</b> universitario o rentador <b>**quiero**</b> visualizar una página web <b>**para**</b> conocer los servicios de la aplicación</td>
+            <td><b>Como</b> universitario o rentador <b>quiero</b> visualizar una página web <b>para</b> conocer los servicios de la aplicación</td>
             <td>3</td>
         </tr>
         <tr>
             <td>2</td>
             <td>US02</td>
             <td>Sección Hero en la Landing Page</td>
-            <td><b>**Como**</b> universitario o rentador, <b>**quiero**</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>**para**</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+            <td><b>Como</b> universitario o rentador, <b>quiero</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>para</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>3</td>
             <td>US03</td>
             <td>Sección Footer en la Landing Page</td>
-            <td><b>**Como**</b> universitario o rentador, <b>**quiero**</b> visualizar un footer en la página web <b>**para**</b> acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
+            <td><b>Como</b> universitario o rentador, <b>quiero</b> visualizar un footer en la página web <b>para</b> acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
             <td>2</td>
         </tr>
         <tr>
@@ -383,14 +383,14 @@ Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3
             <td>5</td>
             <td>US05</td>
             <td>Sección de Contacto en la Landing Page</td>
-            <td><b>**Como**</b> universitario o rentador, <b>**quiero**</b> tener acceso a una sección de contacto clara y funcional <b>**para**</b> poder comunicarme con el equipo de EcoMovil para resolver dudas, obtener soporte o hacer sugerencias.</td>
+            <td><b>Como</b> universitario o rentador, <b>quiero</b> tener acceso a una sección de contacto clara y funcional <b>para</b> poder comunicarme con el equipo de EcoMovil para resolver dudas, obtener soporte o hacer sugerencias.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>6</td>
             <td>US06</td>
             <td>Landing Page Responsive con diferentes dispositivos</td>
-            <td><b>**Como**</b> universitario o rentador, <b>**quiero**</b> que la landing page sea responsive <b>**para**</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
+            <td><b>Como</b> universitario o rentador, <b>quiero</b> que la landing page sea responsive <b>para</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
             <td>8</td>
         </tr>
     </tbody>
