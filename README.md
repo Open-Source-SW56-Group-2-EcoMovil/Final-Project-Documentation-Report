@@ -222,37 +222,7 @@ La sección detalla cómo investigamos nuestros segmentos objetivo mediante la r
 
 ### 2.2.1. Diseño de entrevistas
 
-Preguntas dirigidas a los Usuarios que desean alquilar o comprar un vehículo.
-
-----
-
-- **Preguntas Principales:**
-
-1. ¿Podrías decirme tu nombre completo y edad?
-2. ¿En qué distrito resides actualmente?
-3. ¿Dónde naciste y en qué lugar vives actualmente?
-4. ¿Cuál es tu estado civil?
-5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
-6. ¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
-7. ¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
-8. ¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
-9. ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
-10. ¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
-11. ¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
-12. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
-13. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
-14. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
-15. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
-
-- **Preguntas Complementarias:**
-
-1. ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
-2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
-3. ¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
-4. ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
-5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
-
-Preguntas dirigidas al propietario Universitario de vehículo menor.
+Preguntas dirigidas a estudiante universitario que posee un vehículo menor.
 
 ----
 
@@ -282,7 +252,37 @@ Preguntas dirigidas al propietario Universitario de vehículo menor.
 4. ¿Cómo manejas las valoraciones y reseñas que dejan los rentadores?
 5. Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentadores?
 6. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más rentadores?
-7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?
+7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?<br>
+
+Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la aplicación.
+
+----
+
+- **Preguntas Principales:**
+
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Dónde naciste y en qué lugar vives actualmente?
+4. ¿Cuál es tu estado civil?
+5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+6. ¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
+7. ¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
+8. ¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
+9. ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
+10. ¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
+11. ¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
+12. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+13. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+14. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
+15. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
+
+- **Preguntas Complementarias:**
+
+1. ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
+2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
+3. ¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
+4. ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
+5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -326,17 +326,17 @@ Preguntas dirigidas al propietario Universitario de vehículo menor.
 
 ### 2.2.3. Análisis de entrevistas
 
-**Análisis del segmento de Universitarios**
+**Análisis del segmento estudiante universitario que posee un vehículo menor**
 
-**Análisis del segmento de Usuarios que alquilan o compran vehículos**
+**Análisis del segmento usuarios que alquilan o compran vehículos a través de la aplicación**
 
 ## 2.3. Needfinding
 
-- User persona Universitario
+- User persona estudiante universitario que posee un vehículo menor.
 
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
-- User persona Usuario que alquila o compra vehículos
+- User persona usuarios que alquilan o compran vehículos a través de la aplicación.
 
 ![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
 
@@ -344,7 +344,7 @@ Preguntas dirigidas al propietario Universitario de vehículo menor.
 
 Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los User Personas, incluyendo su importancia y frecuencia. A continuación, se proporciona un resumen basado en la información presentada.
 
-<table align="center" border="1" width="90%" style="text-align:center;">
+<style="text-align:center;">
     <tr>
         <td></td>
         <td colspan=4>
@@ -354,10 +354,10 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Propietario</b> </br>(Alex Hidalgo)
+            <b>Propietario</b>
         </td>
         <td colspan=2>
-            <b>Rentador</b> </br> (Camila Solano)
+            <b>Rentador</b>
         </td>
     </tr>
     <tr>
@@ -603,21 +603,21 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ### 2.3.4. Empathy Mapping
 
-- Segmento Universitario:
+- Segmento estudiante universitario que posee un vehículo menor:
   
 ![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
-- Segmento Usuario que alquila o compra vehículos:
+- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
   
 ![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
-- Segmento Universitario:
+- Segmento estudiante universitario que posee un vehículo menor:
   
 ![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
 
-- Segmento Usuario que alquila o compra vehículos:
+- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
   
 ![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
 
