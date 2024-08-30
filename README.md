@@ -184,7 +184,7 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 
 ### 2.2.1. Diseño de entrevistas
 
-# **Preguntas dirigidas a los rentadores**
+#### **Preguntas dirigidas a los rentadores**
 
 **–*Preguntas Principales*:**
 
