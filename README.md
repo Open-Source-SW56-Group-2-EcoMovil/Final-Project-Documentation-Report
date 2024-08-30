@@ -9,7 +9,6 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 <table>
     <tr>
       <td colspan="6" align="center"><strong>Competitive Analysis Landscape</strong></td>
-      <td align="center"><strong>¿Quiénes son nuestros principales competidores?</strong></td>
     </tr>
     <tr>
       <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
@@ -223,7 +222,7 @@ La sección detalla cómo investigamos nuestros segmentos objetivo mediante la r
 
 ### 2.2.1. Diseño de entrevistas
 
-Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo.
+Preguntas dirigidas a los Usuarios que desean alquilar o comprar un vehículo.
 
 ----
 
@@ -327,17 +326,23 @@ Preguntas dirigidas al propietario Universitario de vehículo menor.
 
 ### 2.2.3. Análisis de entrevistas
 
+**Análisis del segmento de Universitarios**
+
+**Análisis del segmento de Usuarios que alquilan o compran vehículos**
+
 ## 2.3. Needfinding
-#### Sector Propietario:
+
+- User persona Universitario
+
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
-#### Sector Retandor
+- User persona Usuario que alquila o compra vehículos
+
 ![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
 
 ### 2.3.2. User Task Matrix
 
-Se presenta el Task Matrix, una tabla que contiene las tareas que realizan los User Persona junto con la importancia y su frecuencia, seguido de esto se ofrece un resumen en base a la información dada.
-
+Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los User Personas, incluyendo su importancia y frecuencia. A continuación, se proporciona un resumen basado en la información presentada.
 
 <table align="center" border="1" width="90%" style="text-align:center;">
     <tr>
@@ -578,77 +583,74 @@ Se presenta el Task Matrix, una tabla que contiene las tareas que realizan los U
     </tr>
 </table>
 
-En este caso podemos observar que para Camila, las tareas que están relacionadas con la gestion de la huella de carbono son prioritarias y de alta importancia, lo que refleja su preocupación por el medio ambiente. En el caso de Alex Hidalgo, su principal tarea esta relacionada con el ingreso de dinero, dada su necesidad de comprarse cosas personales y apoyar a su familia.
+En este caso, observamos que para Camila, las tareas relacionadas con la gestión de la huella de carbono son de alta prioridad e importancia, reflejando su fuerte preocupación por el medio ambiente. Camila también se enfoca en explorar nuevos lugares y compartir sus experiencias con amigos y en redes sociales.
 
-Ademas de lo anterior, algunas diferencias a mencionar son que Camila se enfoca en el medio ambiente, así como en la exploración de nuevos lugares y compartir experiencias tanto con sus amigos como con las redes sociales. En cambio Alex, se centra principalmente en cumplir con sus responsabilidades académicas.
+Por otro lado, para Alex Hidalgo, la tarea principal está orientada hacia la generación de ingresos, motivado por su necesidad de comprar artículos personales y apoyar a su familia. Alex se centra principalmente en cumplir con sus responsabilidades académicas.
 
-Finalmente ambos coinciden en la importancia de la seguridad que se brinda frente a posibles incidentes.
+A pesar de sus diferencias, ambos comparten una valoración común en la importancia de la seguridad frente a posibles incidentes.
+
 ### 2.3.3. User Journey Mapping 
 
-#### User Journey Mapping: Alex
+En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y Usuarios que alquilan o compran. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
+
+- Segmento Universitario:
+  
 ![User journey Mappign Alex](/assets/Chapter-2/JourneyMapAlex.png)
 
-#### User Journey Mapping: Camila
+- Segmento Usuario que alquila o compra vehículos:
+
 ![User Journey Mapping Camila](/assets/Chapter-2/JourneyMapCamila.png)
+
 ### 2.3.4. Empathy Mapping
-#### Segmento: Universitarios
+
+- Segmento Universitario:
+  
 ![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
-#### Segmento: Personas naturales
+- Segmento Usuario que alquila o compra vehículos:
+  
 ![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
 
-
 ### 2.3.5. As-is Scenario Mapping
-#### Segmento: Universitarios
+
+- Segmento Universitario:
+  
 ![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
 
-#### Segmento: Personas naturales
+- Segmento Usuario que alquila o compra vehículos:
+  
 ![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
 
 ## 2.4. Ubiquitous Language
-- **Urban Mobility**: Son los medios que permiten a las personas desplazarse de un lugar a otro dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas, y otros vehículos alternativos.
 
+- **Urban Mobility**: Se refiere a los medios de transporte que facilitan el desplazamiento dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas y otros vehículos alternativos.
 
-- **Owner**: Usuario que posee un vehículo y lo publica en la plataforma para alquiler o venta, a cambio de un beneficio económico.
+- **Owner**: Usuario que posee un vehículo y lo publica en la plataforma para alquiler o venta, con el objetivo de obtener un beneficio económico.
 
+- **Renter**: Persona que utiliza la plataforma para alquilar temporalmente un vehículo disponible, pagando una tarifa al Owner.
 
-- **Renter**: Persona que utiliza la plataforma para alquilar temporalmente un vehículo disponible, pagando una tarifa al Propietario.
+- **Renting**: Proceso mediante el cual un Renter paga una cantidad específica por el uso temporal de un vehículo al Owner.
 
+- **Advanced Search**: Funcionalidad en la plataforma que permite a los usuarios filtrar y encontrar vehículos específicos según criterios como ubicación, tipo de vehículo y precio.
 
-- **Renting**: Es el proceso mediante el cual un renter paga una cantidad específica de dinero por el uso temporal de un vehículo al owner.
+- **Temporary Insurance**: Opción disponible para los Renters al alquilar un vehículo, que ofrece cobertura contra accidentes o daños durante el período de alquiler.
 
+- **Review and Rating**: Sección en la que los usuarios pueden calificar y dejar comentarios sobre su experiencia con un vehículo o Owner, proporcionando retroalimentación que ayuda a otros usuarios a tomar decisiones informadas.
 
-- **Advanced Search**: Funcionalidad en la plataforma que permite a los usuarios filtrar y encontrar vehículos específicos de acuerdo a distintos criterios como ubicación, tipo de vehículo, precio, etc.
+- **Subscription Plan**: Diferentes niveles de membresía que los Owners pueden adquirir para acceder a beneficios adicionales en la plataforma.
 
+- **Flexible Income**: Ingresos generados por los Owners al alquilar sus vehículos, permitiendo una fuente de ingresos variable.
 
-- **Temporary Insurance**: Opción disponible para los Renter al alquilar un vehículo, que proporciona cobertura contra accidentes o daños durante el período de alquiler.
+- **Marketplace**: Área en la plataforma donde los usuarios pueden interactuar para alquilar o comprar vehículos.
 
+- **Eco-Friendly**: Características de ciertos vehículos en la aplicación que reducen el impacto ambiental.
 
-- **Review and Rating**: Es el apartado en donde los usuarios pueden calificar y dejar comentarios sobre su experiencia con cierto vehículo o propietario, proporcionando feedback que ayuda a otros usuarios a tomar decisiones informadas.
+- **Gamification**: Sistema que incorpora elementos de juego en la aplicación para motivar a los usuarios a realizar ciertas acciones.
 
+- **Cachimbo Plan**: Plan básico para propietarios que permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
 
-- **Subscription Plan**: Son los diferentes niveles de membresía que los owners pueden adquirir para acceder a beneficios adicionales en la plataforma.
-
-
-- **Flexible Income**: Se refiere a los ingresos generados que reciben los owners al alquilar sus vehículos.
-
-
-- **Marketplace**: Es el sitio en la plataforma donde los usuarios pueden interactuar para alquilar o comprar vehículos.
-
-
-- **Eco-Friendly**: Características de ciertos vehículos ofrecidos en la aplicación que minimizan el impacto ambiental.
-
-
-- **Gamification**: Sistema que introduceelementos de logros en la aplicación para motivar a los usuarios por ciertas acciones.
-
-
-- **Cachimbo Plan**: Plan básico para propiertarios que le permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
-
-
-- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, soporte prioritario, etc.
-
+- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, soporte prioritario y otros beneficios.
 
 - **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la plataforma.
 
-
-- **Forum**: Sección de la plataforma donde los usuarios pueden hacer preguntas, escribir experiencias y comunicarse entre ellos.
+- **Forum**: Sección de la plataforma donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
