@@ -189,27 +189,46 @@ La sección trata sobre el proceso de estudiar nuestros segmentos de mercado med
 –Preguntas Principales:
 
 ¿Podrías decirme tu nombre completo y edad?
+
 ¿En qué distrito resides actualmente?
+
 ¿Dónde naciste y en qué lugar vives actualmente?
+
 ¿Cuál es tu estado civil?
+
 ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+
 ¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
+
 ¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
+
 ¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
+
 ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
+
 ¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
+
 ¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
+
 ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+
 ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+
 ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
+
 ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
 
 –Preguntas Complementarias:
 
+
 ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
+
 ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
+
 ¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
+
 ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
+
 ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
 
