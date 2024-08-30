@@ -244,91 +244,76 @@ devolución de vehículos cercanos a mi ubicación.
         <td>3</td>
     </tr>
     <tr>
-        <td>US16</td>
-        <td>Visualizar historial de scooters alquilados</td>
-        <td><b>**Cómo**</b> cliente de EcoMovil
-        <b>**quiero**</b> visualizar mi historial de scooters alquilados
-        <b>**para**</b> acceder fácilmente a su información</td>
+        <td>US22</td>
+        <td></td>
+        <td><</td>
         <td>
-            <b>**Escenario 1: Cliente visualiza su historial de scooters alquilados**</b> <br/>
-            <br>
-            <b>**Dado que**</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente<br/>
-            <b>**Cuando**</b> se dirija a la opción de “Ver historial”<br/>
-            <b>**Entonces**</b> el sistema le mostrará la información de los scooters que alquiló anteriormente.<br/>
-            <br>
-            <b>**Escenario 2: Cliente no visualiza su historial de scooters alquilados**</b> <br/>
-            <br>
-            <b>**Dado que**</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> no ha alquilado scooters anteriormente <br/>
-            <b>**Cuando**</b> se dirija a la opción de “Ver historial”<br/>
-            <b>**Entonces**</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún scooter. <br/>
-        <td>EP05</td>
+             <br/>
+        <td>3</td>
     </tr>
     <tr>
-        <td>US17</td>
-        <td>Borrar historial de scooters alquilados</td>
-        <td><b>Cómo</b> cliente de EcoMovil,
-        <b>**quiero**</b> o borrar mi historial de scooters alquilados,
-        <b>**para**</b> ya no tener información que considere innecesaria. </td>
+        <td>US23</td>
+        <td></td>
+        <td> </td>
         <td>
-            <b>**Escenario 1: Cliente elimina su historial de scooters alquilados**</b> <br/>
-            <br>
-            <b>**Dado que**</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente. <br/>
-            <b>**Cuando**</b> se dirija a la opción de “Ver historial” <br><b>**Y**</b> le de al botón de “Borrar historial” <br><b>**Y**</b> confirme la acción.<br/>
-            <b>**Entonces**</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>**Y**</b> ya no mostrará la información del historial.<br/>
-            <br>
-            <b>**Escenario 2: Cliente no elimina su historial de scooters alquilados**</b> <br/>
-            <br>
-            <b>**Dado que**</b> el cliente se encuentre en la aplicación de EcoMovil <br><b>Y</b> ya ha alquilado scooters anteriormente. <br/>
-            <b>**Cuando**</b> se dirija a la opción de “Ver historial” <br><b>**Y**</b> le de al botón de “Borrar historial” <br><b>**Y**</b> cancele la acción. <br/>
-            <b>**Entonces**</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado. <br><b>**Y**</b> seguirá mostrando la información del historial.<br/>
-        <td>EP05</td>
+            <br/>
+        <td>3</td>
     </tr>
     <tr>
-        <td>US18</td>
-        <td>Adquirir Plan</td>
-        <td><b>**Como**</b> cliente de EcoMovil. 
-        <b>**Quiero**</b> comprar un plan.
-        <b>**Para**</b> acceder a sus beneficios al usar la aplicación. </td>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
         <td>
-            <b>**Escenario 1: Cliente compra una membresía en EcoMovil**</b> <br/>
-            <br>
-            <b>**Dado que**</b> el cliente se encuentra en el apartado de “Membresía” <br><b>**Y**</b> el cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
-            <br>
-            <b>Scenario 2: Cliente cancela compra una membresía en MoviRent </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se dé al botón de cancelar<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
-            <br>
-            <b>Scenario 3: Cliente no compra una membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Cliente no cuente con una membresía <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida <br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
-            <br>
-            <b>Scenario 4: Cliente cambia de membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
-        <td>EP06</td>
+            <br/>
+        <td></td>
     </tr>
     <tr>
-        <td>US19</td>
-        <td>Cancelar suscripción </td>
-        <td><b>Cómo</b> Cliente de MoviRent
-        <b>Quiero</b> cancelar mi suscripción
-        <b>Para</b> ya no seguir teniendo cobros de esta. </td>
+        <td>25</td>
+        <td> </td>
+        <td></td>
         <td>
-            <b>Scenario 1: Cliente cancela una membresía en MoviRent</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> se confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
-            <br>
-            <b>Scenario 2: Cliente no cancela una membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
-        <td>EP06</td>
+            <br/>
+        <td></td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
+        <td>
+            <br/>
+        <td></td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
+        <td>
+            <br/>
+        <td></td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
+        <td>
+            <br/>
+        <td></td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
+        <td>
+            <br/>
+        <td></td>
+    </tr>
+    <tr>
+        <td>US24</td>
+        <td></td>
+        <td> </td>
+        <td>
+            <br/>
+        <td></td>
     </tr>
 </table>
 
