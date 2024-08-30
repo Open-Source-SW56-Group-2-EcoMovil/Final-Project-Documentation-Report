@@ -294,10 +294,10 @@ Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentad
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
 | <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la plataforma le facilita el proceso de alquilar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
-| **Entrevista 2**        | ****         | 
-| <center>Edad</center>  | <center>Su Edad</center>  |
-| <center>Distrito</center>  | <center>Su Distrito</center>  | 
-| <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
+| **Entrevista 2**        | **Brissa Arakemi Hoyos Arevalo**         | 
+| <center>Edad</center>  | <center>19</center>  |
+| <center>Distrito</center>  | <center>Rimac</center>  | 
+| <center>Foto de la Entrevista</center>  | <center>Brissa valora los aspectos de la aplicacion **EcoMovil** debido a que le promueven una solucion para aprovechar un vehiculo menor que no usa. Le interesa la metodologia que utilizamos par afacilitar el alquiler y venta de vehiculos menores, asi como su registro de estos. Aprecia lo sencillo que puede ser para una persona que busca dar servicios de alquiler utilizar nuestra web. Agrega que deberia mejorar en las interaciones de Alquiler con la persona que alquila. </center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
 | <center>Edad</center>  | <center>Su Edad</center>  |
