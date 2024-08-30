@@ -12,7 +12,8 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-      <td colspan="5" align="center">¿Quiénes son nuestros principales competidores?<br>Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.<br></td>
+      <td align="center"><strong>¿Quiénes son nuestros principales competidores?</strong></td>
+      <td colspan="5" align="center">Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.<br></td>
       </tr>
     <tr>
       <td colspan="2"></td>
@@ -34,10 +35,11 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">Es un sistema de bicicletas compartidas en Lima, Perú, diseñado para ofrecer una alternativa de transporte urbano sostenible y eficiente. El servicio está enfocado en facilitar el desplazamiento en la ciudad, especialmente en áreas con alta congestión vehicular.</td>
     </tr>
     <tr>
-      <td align="center"><strong>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
-      <td align="center">Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
+      <td align="center"><strong>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
+      <td align="center">• Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. <br>
+        • Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
       <td align="center">• Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
-          <br>• El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
+        • El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
       <td align="center">• Proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
 <br>• Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
       <td align="center">• Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
@@ -45,7 +47,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
-      <td align="center"><strong>Mercado objetivo</strong></td>
+      <td align="center"><strong>Mercado Objetivo</strong></td>
       <td align="center">• Estudiante universitario que posee un vehículo menor. <br>
 <br>• Usuarios que alquilan o compran vehículos a través de la aplicación. </td>
       <td align="center">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
@@ -53,13 +55,13 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
     </tr>
     <tr>
-      <td align="center"><strong>Estrategias de marketing</strong></td>
+      <td align="center"><strong>Estrategias de Marketing</strong></td>
       <td align="center">Proporcionar una prueba gratuita a los usuarios (estrategias de incentivo).</td>
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br>
-<br>Colaboraciones con influencers y creadores de contenido.</td>
-      <td align="center">Colaboraciones con universidades y empresas.<br>
+• Colaboraciones con influencers y creadores de contenido.</td>
+      <td align="center">• Colaboraciones con universidades y empresas.<br>
 <br>• Eventos locales para promover el uso de bicicletas.<br>
 <br>• Programas de fidelización y recompensas.</td>
     </tr>
@@ -73,7 +75,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
-      <td align="center">Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:<br>
+      <td align="center">• Prueba gratuita de 1 mes. Después del período de prueba, los costos se clasifican en los siguientes planes:<br>
 <br>• Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
 <br>• Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.<br>
 <br>• Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
@@ -122,7 +124,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Oportunidades</strong></td>
-      <td align="center">Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado.<br> 
+      <td align="center">• Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado.<br> 
     <br>• Poca presencia de competidores en el mercado.<br> 
     <br>• Gran demanda entre los estudiantes universitarios peruanos que poseen vehículos menores no utilizados.**</td>
       <td align="center">Expansión a nuevas áreas, alianzas con universidades y empresas, mejora de infraestructura, innovaciones en la app, campañas de concientización e integración con otros transportes.</td>
@@ -142,147 +144,146 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-A travéz de un analisis de nuestros posibles competidores diseñamos tacticas y estrategias para diferenciar a nuestra aplicacion y atraer más usuarios a ella.
+Basado en el análisis competitivo previo, se identificaron claramente las fortalezas, oportunidades, debilidades y amenazas de los competidores. Esta información es fundamental para diseñar estrategias y tácticas que permitan superar a la competencia cuando el servicio se lance al mercado de manera rentable. A continuación, se presentan una serie de estrategias y tácticas planificadas para lograr este objetivo.
+
+**Afrontando las fortalezas de nuestros competidores:**
+
+- Lanzar nuevas funcionalidades tecnológicas para destacar en el mercado.
+- Ofrecer soporte 24/7 personalizado y proactivo.
+- Formar colaboraciones exclusivas para fortalecer nuestra posición.
+
+**Comprendemos que nuestras fortalezas son:**
+
+- Desarrollo de nuevas características tecnológicas.
+- Diferenciación en mercados poco atendidos.
+
+Podemos implementar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-**-Segmentación de Mercado Específica:**
-Nos enfocaremos en estudiantes y jóvenes profesionales, ofreciendo tarifas especiales, programas de lealtad y opciones de alquiler a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente a universidades o trabajos.
-
-**-Sostenibilidad y Responsabilidad Social:**
-Promoveremos EcoMovil como una opción ecológica y sostenible. Implementaremos programas de reforestación o reducción de carbono por cada alquiler realizado, y destacaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
-
-**-Integración con Campus Universitarios:**
-Estableceremos alianzas con universidades para crear estaciones de alquiler dentro de los campus. Ofreceremos tarifas con descuento a estudiantes y personal universitario, lo que nos permitirá crear una base de usuarios estable y recurrente.
-
-**-Plataforma Tecnológica Avanzada:**
-Desarrollaremos una app con funciones únicas como el rastreo en tiempo real de los vehículos, la reserva anticipada, y la posibilidad de compartir vehículos entre amigos o compañeros de clase. También incluiremos elementos de gamificación para mantener a los usuarios comprometidos.
-
-**-Modelos de Suscripción Flexibles:**
-Ofreceremos modelos de suscripción donde los usuarios puedan pagar una tarifa mensual para tener acceso ilimitado a los vehículos, con diferentes niveles de precios según el tipo y la frecuencia de uso.
+- Nos enfocaremos en estudiantes y jóvenes profesionales, ofreciendo tarifas especiales, programas de lealtad y opciones de alquiler a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente a universidades o trabajos.
 
 **Tácticas**
 
-**-Promociones Estacionales y Eventos:**
-Organizaremos eventos de lanzamiento en universidades o zonas clave, ofreciendo viajes gratuitos o con descuento durante la primera semana. Crearemos promociones especiales durante la temporada de exámenes o inicio de clases.
+- Organizaremos eventos de lanzamiento en universidades o zonas clave, ofreciendo viajes gratuitos o con descuento durante la primera semana. Crearemos promociones especiales durante la temporada de exámenes o inicio de clases.
 
-**-Programa de Referidos:**
-Implementaremos un sistema de referidos donde los usuarios actuales puedan ganar créditos o descuentos por cada nuevo usuario que se registre usando su código. Esto incentivará la expansión del servicio de manera orgánica.
+**Afrontando las oportunidades de nuestros competidores:**
 
-**-Expansión Geográfica Estratégica:**
-Identificaremos áreas de alto tránsito estudiantil o de jóvenes profesionales donde la competencia es limitada. Estableceremos operaciones en estas áreas antes que nuestros competidores, capturando una porción significativa del mercado local.
+- Implementaremos rápidamente nuevas funciones y mejoras.
+- Ofreceremos un servicio al cliente excepcional.
 
-**-Atención al Cliente Personalizada:**
-Ofreceremos soporte 24/7 con atención personalizada a través de chat o llamada, especialmente durante horas pico de uso, como las mañanas antes de clases o durante la salida de la oficina. Esto nos diferenciará de competidores con soporte limitado.
+**Comprendemos que nuestras debilidades son:**
 
-**-Aliados Comerciales Locales:**
-Colaboraremos con negocios locales, como cafeterías y tiendas de conveniencia, para ofrecer descuentos combinados. Por ejemplo, alquilar un vehículo de EcoMovil podría dar derecho a un café con descuento en una tienda aliada.
+- No tenemos la misma presencia que competidores establecidos, lo que puede dificultar la captación de usuarios.
+- Nuestros recursos son menores, limitando nuestra inversión en marketing y tecnología.
+
+**Estrategias**
+
+- Promoveremos EcoMovil como una opción ecológica y sostenible. Implementaremos programas de reforestación o reducción de carbono por cada alquiler realizado, y destacaremos el uso de vehículos eléctricos y de bajo impacto ambiental.
+
+**Tácticas**
+
+- Implementaremos un sistema de referidos donde los usuarios actuales puedan ganar créditos o descuentos por cada nuevo usuario que se registre usando su código. Esto incentivará la expansión del servicio de manera orgánica.
+- Identificaremos áreas de alto tránsito estudiantil o de jóvenes profesionales donde la competencia es limitada. Estableceremos operaciones en estas áreas antes que nuestros competidores, capturando una porción significativa del mercado local.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+- Resaltaremos nuestro enfoque en la sostenibilidad.
+- Nos enfocaremos en áreas con poca competencia y alta demanda.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Menor reconocimiento de marca.
+- Presupuesto más ajustado.
+- Presencia inicial limitada.
+
+**Estrategias**
+
+- Estableceremos alianzas con universidades para crear estaciones de alquiler dentro de los campus. Ofreceremos tarifas con descuento a estudiantes y personal universitario, lo que nos permitirá crear una base de usuarios estable y recurrente.
+
+**Tácticas**
+
+- Ofreceremos soporte 24/7 con atención personalizada a través de chat o llamada, especialmente durante horas pico de uso, como las mañanas antes de clases o durante la salida de la oficina. Esto nos diferenciará de competidores con soporte limitado.
+- Colaboraremos con negocios locales, como cafeterías y tiendas de conveniencia, para ofrecer descuentos combinados. Por ejemplo, alquilar un vehículo de EcoMovil podría dar derecho a un café con descuento en una tienda aliada.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+- Aprovecharemos asociaciones con universidades y negocios locales para aumentar nuestra visibilidad y atraer usuarios.
+- Ofreceremos atención personalizada 24/7 para destacar en servicio al cliente.
+
+**Comprendemos que nuestras debilidades son:**
+
+- Reconocimiento de marca limitado.
+- Presupuesto más reducido para marketing y operaciones.
+- Presencia aún en expansión.
 
 ## 2.2. Entrevistas
 
-La sección trata sobre el proceso de estudiar nuestros segmentos de mercado mediante la recopilación de datos a través de entrevistas.
+La sección detalla cómo investigamos nuestros segmentos objetivo mediante la recopilación de datos a través de entrevistas.
 
 ### 2.2.1. Diseño de entrevistas
 
-**Preguntas dirigidas a los rentadores**
+Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo
 
-**–*Preguntas Principales*:**
+----
 
-¿Podrías decirme tu nombre completo y edad?
+- **Preguntas Principales:**
 
-¿En qué distrito resides actualmente?
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Dónde naciste y en qué lugar vives actualmente?
+4. ¿Cuál es tu estado civil?
+5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+6. ¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
+7. ¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
+8. ¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
+9. ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
+10. ¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
+11. ¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
+12. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+13. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+14. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
+15. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
 
-¿Dónde naciste y en qué lugar vives actualmente?
+– **Preguntas Complementarias:**
 
-¿Cuál es tu estado civil?
+1. ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
+2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
+3. ¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
+4. ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
+5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
-¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
+- **Preguntas dirigidas al propietario Universitario de vehículo menor.**
 
-¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
+----
 
-¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
+- Preguntas principales:
 
-¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
+1. ¿Podrías decirme tu nombre completo y edad?
+2. ¿En qué distrito resides actualmente?
+3. ¿Cuál es tu estado civil?
+4. ¿Dónde naciste?
+5. ¿Que dispositivos tecnológicos?
+6. ¿Que navegadores utilizas?
+7. ¿Qué tipo de vehículo(s) menor(es) posees?
+8. ¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
+9. ¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
+10. ¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
+11. ¿Qué tipos de vehículos tienes disponibles para alquilar?
+12. ¿Cómo determinar el precio de alquiler de tus vehículos?
+13. ¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de alquilarlos?
+14. ¿Cómo manejas la limpieza y desinfección de los vehículos?
+15. ¿Cuáles son los requisitos o condiciones para alquilar uno de tus vehículos?
 
-¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
+- Preguntas complementarias:
 
-¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
-
-¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
-
-¿Qué métodos de pago prefieres para realizar transacciones en línea?
-
-¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
-
-¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
-
-¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
-
-**–*Preguntas Complementarias*:**
-
-
-¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
-
-¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
-
-¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
-
-¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
-
-¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
-
-
-
-**Preguntas dirigidas al propietario universitario de vehículo menor.**
-
--***Preguntas principales*:**
-
-¿Podrías decirme tu nombre completo y edad?
-
-¿En qué distrito resides actualmente?
-
-¿Cuál es tu estado civil?
-
-¿Dónde naciste?
-
-¿Que dispositivos tecnológicos?
-
-¿Que navegadores utilizas?
-
-¿Qué tipo de vehículo(s) menor(es) posees?
-
-¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
-
-¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
-
-¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
-
-¿Qué tipos de vehículos tienes disponibles para alquilar?
-
-¿Cómo determinar el precio de alquiler de tus vehículos?
-
-¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de alquilarlos?
-
-¿Cómo manejas la limpieza y desinfección de los vehículos?
-
-¿Cuáles son los requisitos o condiciones para alquilar uno de tus vehículos?
-
-**-*Preguntas complementarias*:**
-
-¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
-
-¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles rentadores?
-
-¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
-
-¿Cómo manejas las valoraciones y reseñas que dejan los rentadores?
-
-Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentadores?
-
-¿Estás abierto a considerar descuentos o promociones especiales para atraer más rentadores?
-
-¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?
-
+1. ¿Sigues algún protocolo específico para la limpieza y desinfección, y con qué frecuencia realizas estas tareas?
+2. ¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles rentadores?
+3. ¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
+4. ¿Cómo manejas las valoraciones y reseñas que dejan los rentadores?
+5. Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentadores?
+6. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más rentadores?
+7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -293,17 +294,17 @@ Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentad
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
 | <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la plataforma le facilita el proceso de alquilar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
-| **Entrevista 2**        | **Brissa Arakemi Hoyos Arevalo**         | 
-| <center>Edad</center>  | <center>19</center>  |
-| <center>Distrito</center>  | <center>Rimac</center>  | 
-| <center>Foto de la Entrevista</center>  | <center>Brissa valora los aspectos de la aplicacion **EcoMovil** debido a que le promueven una solucion para aprovechar un vehiculo menor que no usa. Le interesa la metodologia que utilizamos par afacilitar el alquiler y venta de vehiculos menores, asi como su registro de estos. Aprecia lo sencillo que puede ser para una persona que busca dar servicios de alquiler utilizar nuestra web. Agrega que deberia mejorar en las interaciones de Alquiler con la persona que alquila. </center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
+| <center>Timing: </center>  | <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>  | 
+| **Entrevista 2**        | ****         | 
+| <center>Edad</center>  | <center>Su Edad</center>  |
+| <center>Distrito</center>  | <center>Su Distrito</center>  | 
+| <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
+| <center>Timing: </center>  | <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>  | 
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
+| <center>Timing: </center>  | <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>  | 
 
 **Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.**
 
@@ -312,18 +313,17 @@ Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentad
 |                            <center>Edad</center>                            |                                                                                                                                                                                                                                                                                                                                     <center>22 Años</center>                                                                                                                                                                                                                                                                                                                                      |
 |                          <center>Distrito</center>                          |                                                                                                                                                                                                                                                                                                                                    <center>Barcelona</center>                                                                                                                                                                                                                                                                                                                                     | 
 |  <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center>  | <center>Se entrevisto a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabajando durante sus vacaciones. Camila comenta que, aprovechando sus vacaciones, ha decidido viajar a Perú con una amiga, y le ha parecido buena idea realizar paseos en bicicleta por Miraflores. Debido a estas circunstancias, ella compartió las características que le gustaría ver en una aplicación de renta de vehículos como bicicletas, basándose en sus experiencias con sus padres. Además mencionó que encontró interesante la propuesta y que principalmente una de las características que le gustaría ver sería un mapa interactivo.</center> | 
-|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: </center>                                                                                                                                                                                                                                                                                                                                       | 
+|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>                                                                                                                                                                                                                                                                                                                                       | 
 |                              **Entrevista 2**                               |                                                                                                                                                                                                                                                                                                                                **Paola Andrea Vasquez Goicochea**                                                                                                                                                                                                                                                                                                                                 | 
 |                            <center>Edad</center>                            |                                                                                                                                                                                                                                                                                                                                     <center>27 Años</center>                                                                                                                                                                                                                                                                                                                                      |
 |                          <center>Distrito</center>                          |                                                                                                                                                                                                                                                                                                                                  <center>Independencia</center>                                                                                                                                                                                                                                                                                                                                   | 
 | <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> |                                                                                                                                                                                                                                                                                                                                      <center> Paola que vive en Lima, Independencia, de nivel socioeconómico medio compartió su experiencia y expectativas al usar aplicaciones de alquiler de vehículos. Destaca que su principal motivo por los que uso estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la plataforma. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de alquiler de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center>                                                                                                                                                                                                                                                                                                                                       | 
-|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: </center>                                                                                                                                                                                                                                                                                                                                       | 
+|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>                                                                                                                                                                                                                                                                                                                                       | 
 |                              **Entrevista 3**                               |                                                                                                                                                                                                                                                                                                                                      **Silvia Alexandra Flores Garcia**                                                                                                                                                                                                                                                                                                                                      | 
 |                            <center>Edad</center>                            |                                                                                                                                                                                                                                                                                                                                     <center>19</center>                                                                                                                                                                                                                                                                                                                                      |
 |                          <center>Distrito</center>                          |                                                                                                                                                                                                                                                                                                                                   <center>San Martin</center>                                                                                                                                                                                                                                                                                                                                    | 
 |                   <center>Foto de la Entrevista</center>                    |                                                                                                                                                                                                                                                                                                                                       <center>Silvia es una estudiante de veterianria a la cual entrevistamos para la obtencion de informacion valiosa para nuestro proyecto. Opinó que la experiencia de poder rentar a traves de una aplicacion es muy novedosa, sobre todo si se trata de vehiculos menores que ayudan al medio ambiente, tambien valora el echo de los metodos de cobro como la tarjeta de credito para su dinamismo y rapidez. Por ultimo menciona que le encantaria poder tener una relacion o un contacto con el propietario para hablar detalles del alquiler y sobre el estado de su vehiculo, ademas de valorarlo.</center>                                                                                                                                                                                                                                                                                                                                       | 
-|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: </center>                                                                                                                                                                                                                                                                                                                                       | 
-
+|                          <center>Timing: </center>                          |                                                                                                                                                                                                                                                                                                                                      <center>URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EbE6bRc1Ai1DjEtXuglN0joBLZckA_CkGczr-SsawgA_Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlDKkO </center>                                                                                                                                                                                                                                                                                                                                       | 
 
 ### 2.2.3. Análisis de entrevistas
 
