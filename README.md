@@ -9,10 +9,10 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
 <table>
     <tr>
       <td colspan="6" align="center"><strong>Competitive Analysis Landscape</strong></td>
+      <td align="center"><strong>¿Quiénes son nuestros principales competidores?</strong></td>
     </tr>
     <tr>
       <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
-      <td align="center"><strong>¿Quiénes son nuestros principales competidores?</strong></td>
       <td colspan="5" align="center">Al analizar la competencia en el mercado, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.<br></td>
       </tr>
     <tr>
@@ -37,9 +37,9 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center"><strong>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
       <td align="center">• Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. <br>
-        • Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
+       <br>• Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
       <td align="center">• Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
-        • El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
+        <br>• El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
       <td align="center">• Proporciona acceso a una amplia gama de opciones de alojamiento, desde apartamentos y casas hasta propiedades únicas como casas en árboles, castillos, y casas flotantes.<br>
 <br>• Incluyen actividades y eventos organizados por locales, como tours, clases de cocina, y aventuras al aire libre.</td>
       <td align="center">• Ofrece una variedad de planes de suscripción que permiten a los usuarios elegir entre opciones diarias, semanales y mensuales, adaptándose a diferentes necesidades y presupuestos.<br>
@@ -60,7 +60,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br>
-• Colaboraciones con influencers y creadores de contenido.</td>
+<br>• Colaboraciones con influencers y creadores de contenido.</td>
       <td align="center">• Colaboraciones con universidades y empresas.<br>
 <br>• Eventos locales para promover el uso de bicicletas.<br>
 <br>• Programas de fidelización y recompensas.</td>
@@ -223,7 +223,7 @@ La sección detalla cómo investigamos nuestros segmentos objetivo mediante la r
 
 ### 2.2.1. Diseño de entrevistas
 
-Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo
+Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo.
 
 ----
 
@@ -245,7 +245,7 @@ Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo
 14. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
 15. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
 
-– **Preguntas Complementarias:**
+- **Preguntas Complementarias:**
 
 1. ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
 2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
@@ -253,7 +253,7 @@ Preguntas dirigidas a los Usuarios que desean Alquilar o Comprar un vehículo
 4. ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
 5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
-- **Preguntas dirigidas al propietario Universitario de vehículo menor.**
+Preguntas dirigidas al propietario Universitario de vehículo menor.
 
 ----
 
