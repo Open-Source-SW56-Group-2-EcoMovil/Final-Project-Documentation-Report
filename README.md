@@ -121,7 +121,13 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>Registro a la pagina</td>
         <td>**Como** universitario o rentador, **quiero** registrarme en la aplicación fácilmente **para** poder acceder a vehículos en alquiler y/o venderlos.
 </td>
-        <td></td>
+
+<td>**Escenario 1: Registro en la plataforma** 
+  
+**Dado** que el usuario está en la pantalla de registro,
+**Cuando** ingresa un nombre completo válido, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
+**Entonces** el sistema debe mostrar un mensaje indicando que el registro fue exitoso y enviar un correo de confirmación.         
+</td>
         <td>1</td>
     </tr>
     <tr>
