@@ -121,16 +121,14 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>Registro a la pagina</td>
         <td>**Como** universitario o rentador, **quiero** registrarme en la aplicación fácilmente **para** poder acceder a vehículos en alquiler y/o venderlos.
 </td>
-        <td>
-            <br/>
+        <td></td>
         <td>1</td>
     </tr>
     <tr>
         <td>US08</td>
         <td>Búsqueda de vehiculos disponibles</td>
         <td>**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
-        <td>
-            <br/>
+        <td></td>
         <td>2</td>
     </tr>
     <tr>
