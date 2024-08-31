@@ -343,12 +343,6 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
 <table>
     <tr>
         <td></td>
-        <td colspan=4>
-            <b>User Persona</b>
-        </td>
-    </tr>
-    <tr>
-        <td></td>
         <td colspan=2>
             <b>Propietario</b>
         </td>
