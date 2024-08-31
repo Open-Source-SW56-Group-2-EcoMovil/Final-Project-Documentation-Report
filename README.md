@@ -60,6 +60,8 @@
 |-----------|-----------|-----------|-----------|
 | 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown. |
 | 1.1    | 18/08/2024   | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez.    | Desarrollo del perfil de la startup y del perfil de la solución, identificación de segmentos objetivo, y formulación de preguntas para el diseño de entrevistas. |
+| 1.2 | 31/08/2024 | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración y registro de entrevistas a los segmentos objetivo, así como el análisis de las mismas. Elaboración del Impact Mapping. Redacción de las guías de estilo (Style Guidelines) y la arquitectura de la información (Information Architecture). |
+|-----------|-----------|-----------|-----------|
 |-----------|-----------|-----------|-----------|
 |-----------|-----------|-----------|-----------|
 
