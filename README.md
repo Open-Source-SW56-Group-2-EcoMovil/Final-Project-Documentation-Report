@@ -292,7 +292,7 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
-| <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
+| <center>[Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Info</center>  | 
 | <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
 <br>
