@@ -82,9 +82,42 @@ Suscripciones
 ### 4.2.3. SEO Tags and Meta Tags
 En este apartado abordaremos las etiquetas SEO y Meta, que sirven para proporcionar información sobre nuestras páginas web a los motores de búsqueda y para optimizar estas búsquedas y su relevancia.
 
-Landing page:
 
-Aplicación web:
+**Landing page:**
+
+
+`<`meta charset="UTF-8"`>`
+
+`<`meta name="viewport" content="width=device-width, initial-scale=1.0"`>`
+
+`<`link href="./src/css/styles.css" rel="stylesheet"`>`
+
+`<`title>EcoMovil - Urban Mobility Solution Landing Page</title`>`
+
+`<`meta name="description" content= "Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today."`>`
+
+`<`meta name="keywords" content="urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation"`>`
+
+`<`meta name="author" content="EcoMovil Team"`>`
+
+
+
+**Aplicación web:**
+
+
+`<`meta charset="UTF-8"`>`
+
+`<`meta name="viewport" content="width=device-width, initial-scale=1.0"`>`
+
+`<`link href="./src/css/styles.css" rel="stylesheet"`>`
+
+`<`title>EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles</title`>`
+
+`<`meta name="description" content="EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease."`>`
+
+`<`meta name="keywords" content="vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options"`>`
+
+`<`meta name="author" content="EcoMobility Team"`>`
 
 ### 4.2.4. Searching Systems
 El sistema de búsqueda en EcoMovil es una funcionalidad que permitirá a los usuarios encontrar rápidamente los vehículos que desean alquilar o comprar según sus necesidades. Este ofrecerá una búsqueda fluida y eficiente. Sus principales funciones será la búsqueda por palabras claves para poder buscar vehículos en específico, la opción de filtros avanzados para una búsqueda de acuerdo a ciertos criterios y la existencia de un historial de búsquedas recientes para que se pueda acceder rápidamente a las búsquedas que ya se han realizado.
