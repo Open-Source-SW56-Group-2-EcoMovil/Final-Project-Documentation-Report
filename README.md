@@ -17,7 +17,8 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 - **Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una plataforma digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para estudiantes universitarios.
 
 - **Visión:** Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
-<br>
+
+  
 ![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
 
 **Brand Name:**
@@ -84,25 +85,27 @@ Las metas etiquetas que utilizaremos son:
 
 ### Landing Page
 
-|--------------|
-| <meta charset="UTF-8"> |  
-| <meta name="viewport" content="width=device-width, initial-scale=1.0"> |  
-| <link href="./src/css/styles.css" rel="stylesheet"> |  
-| <title>EcoMovil - Urban Mobility Solution Landing Page</title> |  
-| <meta name="description" content="Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today."> |  
-| <meta name="keywords" content="urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation"> | 
-| <meta name="author" content="EcoMovil Team"> |  
+| **Meta Tag** | **Content** |
+|--------------|-------------|
+| `<meta charset="UTF-8">` |  |
+| `<meta name="viewport" content="width=device-width, initial-scale=1.0">` |  |
+| `<link href="./src/css/styles.css" rel="stylesheet">` |  |
+| `<title>EcoMovil - Urban Mobility Solution Landing Page</title>` |  |
+| `<meta name="description" content="Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today.">` |  |
+| `<meta name="keywords" content="urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation">` |  |
+| `<meta name="author" content="EcoMovil Team">` |  |
 
 ### Aplicación Web
 
-|--------------|
-| <meta charset="UTF-8"> |  
-| <meta name="viewport" content="width=device-width, initial-scale=1.0"> |  
-| <link href="./src/css/styles.css" rel="stylesheet"> |  
-| <title>EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles</title> |  
-| <meta name="description" content="EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease."> |  
-| <meta name="keywords" content="vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options"> |  
-| <meta name="author" content="EcoMovil Team"> |  
+| **Meta Tag** | **Content** |
+|--------------|-------------|
+| `<meta charset="UTF-8">` |  |
+| `<meta name="viewport" content="width=device-width, initial-scale=1.0">` |  |
+| `<link href="./src/css/styles.css" rel="stylesheet">` |  |
+| `<title>EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles</title>` |  |
+| `<meta name="description" content="EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease.">` |  |
+| `<meta name="keywords" content="vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options">` |  |
+| `<meta name="author" content="EcoMovil Team">` |  |
 
 ### 4.2.4. Searching Systems
 
