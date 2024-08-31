@@ -125,15 +125,17 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
 <td>**Escenario 1: Registro en la plataforma** 
   
 **Dado** que el usuario está en la pantalla de registro,
-**Cuando** ingresa un nombre completo válido, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
-**Entonces** el sistema debe mostrar un mensaje indicando que el registro fue exitoso y enviar un correo de confirmación.         
+**Cuando** ingresa un nombre completo, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
+**Entonces** el sistema debe mostrar un mensaje indicando "el registro fue exitoso" y enviar un correo de confirmación.         
 </td>
         <td>1</td>
     </tr>
     <tr>
         <td>US08</td>
         <td>Búsqueda de vehiculos disponibles</td>
-        <td>**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
+        <td>
+   
+**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
         <td></td>
         <td>2</td>
     </tr>
@@ -165,7 +167,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <tr>
         <td>US12</td>
         <td>Recibir Notificaciones</td>
-        <td>**Como** Rentador, **quiero** recibir notificaciones cuando mi alquiler esté próximo a vencer **para** devolver el vehículo a tiempo sin penalidades y nuevas publicaciones de vehículos en alquiler que coincidan con mis preferencias</td>
+        <td>
+
+**Como** Rentador, **quiero** recibir notificaciones cuando mi alquiler esté próximo a vencer **para** devolver el vehículo a tiempo sin penalidades y nuevas publicaciones de vehículos en alquiler que coincidan con mis preferencias</td>
         <td>
             <br/>
         <td>2</td>
