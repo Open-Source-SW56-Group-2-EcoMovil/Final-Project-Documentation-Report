@@ -386,7 +386,7 @@ Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3
             <td>4</td>
             <td>US04</td>
             <td>Sección de Beneficios en la Landing Page</td>
-            <td><b>**Como**</b> universitario o rentador, <b>**quiero**</b> ver una sección de beneficios que tenga las características principales de EcoMovil, <b>**para**</b> entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la plataforma.</td>
+            <td><b>Como</b> universitario o rentador, <b>quiero</b> ver una sección de beneficios que tenga las características principales de EcoMovil, <b>para</b> entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la plataforma.</td>
             <td>5</td>
         </tr>
         <tr>
