@@ -222,17 +222,30 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         <td>Recibir Notificaciones</td>
         <td>
 
-**Como** Rentador, **quiero** recibir notificaciones cuando mi alquiler esté próximo a vencer **para** devolver el vehículo a tiempo sin penalidades y nuevas publicaciones de vehículos en alquiler que coincidan con mis preferencias</td>
-        <td>
-            <br/>
+**Como** Rentador, **quiero** recibir notificaciones cuando mi alquiler esté próximo a vencer **para** devolver el vehículo a tiempo sin penalidades.</td>
+        <td>**Escenario 1: Notificación de Vencimiento Próximo de Alquiler**
+
+**Dado** que el rentador tiene un vehículo alquilado cuya devolución es inminente,
+**Cuando** faltan 30 minutos para que venza el alquiler,
+**Entonces** el sistema debe enviar una notificación al rentador recordándole devolver el vehículo a tiempo para evitar penalidades.
+
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US13</td>
         <td>Acceso al Historial</td>
-        <td>**Como** Rentador, **quiero** acceder a un historial de mis alquileres anteriores **para** revisar mis actividades y gastos.</td>
         <td>
-            <br/>
+            
+**Como** Rentador, **quiero** acceder a un historial de mis alquileres anteriores **para** revisar mis actividades y gastos.</td>
+<td>
+
+**Escenario 1: Acceso y Visualización del Historial de Alquileres**
+
+**Dado** que el rentador está en la pantalla principal de la aplicación,
+**Cuando** selecciona la opción de "Historial de Alquileres" desde el menú,
+**Entonces** el sistema debe mostrar una lista de todos los alquileres anteriores del rentador con detalles básicos como tipo de vehículo, fechas de alquiler, y costo total.
+</td>
         <td>2</td>
     </tr>
     <tr>
