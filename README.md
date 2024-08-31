@@ -31,7 +31,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <tr>
         <td>US01</td>
         <td>Barra de navegación en la Landing Page</td>
-        <td><b>**Como** universitario o rentador **quiero** visualizar una página web **para** conocer los servicios de la aplicación.</td>
+        <td>
+    
+<b>**Como** universitario o rentador **quiero** visualizar una página web **para** conocer los servicios de la aplicación.</td>
         <td>**Escenario 1: Visualización de la Barra de Navegación**
 <br>
 **Dado que** el universitario o rentador se encuentre en la landing page,
