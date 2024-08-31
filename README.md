@@ -1,4 +1,4 @@
-# Capítulo III: Requirements Specification
+v# Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
 
@@ -251,69 +251,113 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
     <tr>
         <td>US14</td>
         <td>Mapa Interactivo</td>
-        <td>**Como** Rentador, **quiero** utilizar un mapa interactivo **para** localizar los puntos de recogida y 
-devolución de vehículos cercanos a mi ubicación.
+        <td>
+            
+**Como** Rentador, **quiero** utilizar un mapa interactivo **para** localizar los puntos de recogida y devolución de vehículos cercanos a mi ubicación.
 </td>
         <td>
-            <br/>
+            
+**Escenario 1: Visualización de Puntos de Recogida y Devolución Cercanos**
+
+**Dado** que el rentador está en la pantalla principal de la aplicación,
+**Cuando** selecciona la opción de "Mapa Interactivo",
+**Entonces** el sistema debe mostrar un mapa centrado en la ubicación actual del rentador con marcadores de los puntos de recogida y devolución de vehículos cercanos.
+
+**Escenario 2: Obtener Detalles de un Punto de Recogida**
+
+**Dado** que el rentador está utilizando el mapa interactivo,
+**Cuando** hace clic en un marcador de un punto de recogida en el mapa,
+**Entonces** el sistema debe mostrar detalles adicionales sobre el punto de recogida, como la dirección, la cantidad de vehículos disponibles, y los tipos de vehículos.
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US15</td>
         <td>Pagos en Línea</td>
-        <td>**Como** Rentador, **quiero** tener la opción de pagar en línea de manera segura a través de la aplicación **para** mayor comodidad.</td>
         <td>
-            <br/>
+
+**Como** Rentador, **quiero** tener la opción de pagar en línea de manera segura a través de la aplicación **para** mayor comodidad.</td>
+        <td>**Escenario 1: Pago en Línea con Tarjeta de Crédito**
+
+**Dado** que el rentador ha seleccionado un vehículo para alquilar,
+**Cuando** el rentador elige la opción de pagar en línea con tarjeta de crédito y completa los campos requeridos (número de tarjeta, fecha de vencimiento, CVV),
+**Entonces** el sistema debe procesar el pago de manera segura y mostrar una confirmación del pago exitoso.
+
+**Escenario 2: Selección y Confirmación de Método de Pago**
+
+**Dado** que el rentador está en la página de confirmación del alquiler,
+**Cuando** selecciona su método de pago preferido (por ejemplo, billetera digital),
+**Entonces** el sistema debe mostrar un flujo de pago correspondiente al método seleccionado y, tras la finalización del pago, debe enviar una notificación de confirmación con los detalles de la transacción.
+        
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US16</td>
         <td>Contacto al propietario</td>
-        <td>**Como** Rentador, **quiero** poder contactar al propietario antes de alquilar un vehículo **para** aclarar dudas o detalles específicos.
+        <td>
+        
+**Como** Rentador, **quiero** poder contactar al propietario antes de alquilar un vehículo **para** aclarar dudas o detalles específicos.
 </td>
         <td>
-           <br/>
+           
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US17</td>
         <td>visualización de Ofertas</td>
-        <td>**Como** Rentador, **quiero** acceder a ofertas especiales o descuentos en vehículos destacados **para** ahorrar en mis alquileres.
+        <td>
+            
+**Como** Rentador, **quiero** acceder a ofertas especiales o descuentos en vehículos destacados **para** ahorrar en mis alquileres.
 </td>
         <td>
-            <br/>
+    
+</td>
         <td>EP03</td>
     </tr>
     <tr>
         <td>US18</td>
         <td>Tiempo de llegada</td>
-        <td>**Como** Rentador, **quiero** ver el tiempo estimado **para** llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
         <td>
-           <br/>
+            
+**Como** Rentador, **quiero** ver el tiempo estimado **para** llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
+        <td>
+           
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US19</td>
         <td>Calificación de Alquiler</td>
-        <td>**Como** Rentador, **quiero** poder calificar al propietario después de cada alquiler **para** ayudar a otros usuarios a conocer su reputación</td>
         <td>
-            <br/>
+            
+**Como** Rentador, **quiero** poder calificar al propietario después de cada alquiler **para** ayudar a otros usuarios a conocer su reputación</td>
+        <td>
+            
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US20</td>
         <td>Extensión de tiempo de Alquiler</td>
-        <td>**Como Rentador**, **quiero** poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
         <td>
-            <br/>
+            
+**Como Rentador**, **quiero** poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
+        <td>
+            
+</td>
         <td>2</td>
     </tr>
     <tr>
         <td>US21</td>
         <td>Publicación de Vehículos</td>
-        <td>**Como** Propietario, **quiero** publicar mis vehículos de manera rápida y sencilla **para** que los rentadores puedan verlos y contactarme.</td>
         <td>
-            <br/>
+            
+**Como** Propietario, **quiero** publicar mis vehículos de manera rápida y sencilla **para** que los rentadores puedan verlos y contactarme.</td>
+        <td>
+            
+</td>
         <td>3</td>
     </tr>
     <tr>
