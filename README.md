@@ -289,10 +289,10 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>Distrito</center>  | <center>Molina</center>  | 
 | <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere alquilarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
 | <center>Timing: 4:58-10:04 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
-| **Entrevista 3**        | **Nombres y Apellidos**         | 
-| <center>Edad</center>  | <center>Su Edad</center>  |
-| <center>Distrito</center>  | <center>Su Distrito</center>  | 
-| <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Info</center>  | 
+| **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
+| <center>Edad</center>  | <center>19</center>  |
+| <center>Distrito</center>  | <center>Rimac</center>  | 
+| <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora los aspectos de la aplicacion **EcoMovil** debido a que le promueven una solucion para aprovechar un vehiculo menor que no usa. Le interesa la metodologia que utilizamos par afacilitar el alquiler y venta de vehiculos menores, asi como su registro de estos. Aprecia lo sencillo que puede ser para una persona que busca dar servicios de alquiler utilizar nuestra web. Agrega que deberia mejorar en las interaciones de Alquiler con la persona que alquila.</center>  | 
 | <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
 <br>
