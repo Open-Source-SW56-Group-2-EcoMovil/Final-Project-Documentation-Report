@@ -270,7 +270,7 @@ devolución de vehículos cercanos a mi ubicación.
         <td></td>
     </tr>
     <tr>
-        <td>25</td>
+        <td>US25</td>
         <td>Peronalizar publicaciones</td>
         <td>Como Propietario, quiero personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
         <td>
