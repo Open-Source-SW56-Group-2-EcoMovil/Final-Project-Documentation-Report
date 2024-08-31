@@ -81,29 +81,29 @@ Las metaetiquetas proporcionan información codificada y definen los metadatos d
 
 Las metas etiquetas que utilizaremos son:
 
-#### Landing Page
+### Landing Page
 
-| **Tag**      |
-|--------------|
-| Charset: UTF-8 |
-| Viewport: width=device-width, initial-scale=1.0 |
-| CSS Link: ./src/css/styles.css |
-| Title: EcoMovil - Urban Mobility Solution Landing Page |
-| Description: Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
-| Keywords: urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
-| Author: EcoMovil Team |
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoMovil - Urban Mobility Solution Landing Page |
+| Description   | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
+| Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
+| Author        | EcoMovil Team |
 
-#### Aplicación Web
+### Aplicación Web
 
-| **Tag**      |
-|--------------|
-| Charset: UTF-8 |
-| Viewport: width=device-width, initial-scale=1.0 |
-| CSS Link: ./src/css/styles.css |
-| Title: EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
-| Description: EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
-| Keywords: vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
-| Author: EcoMovil Team |
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
+| Description   | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
+| Keywords      | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
+| Author        | EcoMovil Team |
 
 ### 4.2.4. Searching Systems
 
