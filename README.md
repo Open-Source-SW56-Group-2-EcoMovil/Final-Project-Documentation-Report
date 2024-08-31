@@ -128,8 +128,7 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <tr>
         <td>US08</td>
         <td>Búsqueda de vehiculos disponibles</td>
-        <td>**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.
-</td>
+        <td>**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
         <td>
             <br/>
         <td>2</td>
@@ -245,116 +244,49 @@ devolución de vehículos cercanos a mi ubicación.
     </tr>
     <tr>
         <td>US22</td>
-        <td></td>
-        <td></td>
+        <td>Notificaciones de alquiler de vehiculo</td>
+        <td> Como Propietario, quiero recibir notificaciones cuando alguien esté interesado en alquilar o comprar mi vehículo para no perder oportunidades y sobre el estado de mis publicaciones, como expiraciones o renovaciones, para mantenerlas actualizadas.
+</td>
         <td>
              <br/>
         <td>3</td>
     </tr>
     <tr>
         <td>US23</td>
-        <td></td>
-        <td> </td>
+        <td>Historial de alquiler y venta</td>
+        <td>Como Propietario, quiero acceder a un historial de mis alquileres y ventas para llevar un control detallado de mis ingresos.
+</td>
         <td>
             <br/>
         <td>3</td>
     </tr>
     <tr>
         <td>US24</td>
-        <td></td>
-        <td> </td>
+        <td>Brindar soporte de ayuda</td>
+        <td>Como Propietario, quiero recibir soporte prioritario si tengo problemas con la plataforma para resolverlos rápidamente.
+</td>
         <td>
             <br/>
         <td></td>
     </tr>
     <tr>
         <td>25</td>
-        <td> </td>
-        <td></td>
+        <td>Peronalizar publicaciones</td>
+        <td>Como Propietario, quiero personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
         <td>
             <br/>
         <td></td>
     </tr>
     <tr>
         <td>US26</td>
-        <td></td>
-        <td> </td>
+        <td>Recordatorio de vencimiento de membresia</td>
+        <td>Como Propietario, quiero recibir recordatorios cuando mi suscripción esté próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
+</td>
         <td>
             <br/>
         <td></td>
     </tr>
     <tr>
-        <td>US27</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US28</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US29</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US30</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US31</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US32</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US33</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US34</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
-    <tr>
-        <td>US35</td>
-        <td></td>
-        <td> </td>
-        <td>
-            <br/>
-        <td></td>
-    </tr>
 </table>
 
 
