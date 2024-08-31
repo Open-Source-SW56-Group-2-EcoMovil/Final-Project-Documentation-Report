@@ -71,13 +71,25 @@ El sistema de organización de la página de "EcoMovil" está diseñado para est
 ### 4.2.2. Labeling System
 En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado y representado para que el usuario pueda identificar y usar las distintas funciones brindadas, que sirve para encontrar la información, de una manera intuitiva y sencilla.
 
-Etiquetas:
+**Etiquetas:**
 
-Home 
+Logo/Home:
+Es un botón invisible integrado en el logo de la plataforma que redirige a la página principal.
 
-Suscripciones
+How it Works:
+Redirige a una sección que explica y ayuda a los usuarios a entender el funcionamiento general de la plataforma y sus características.
 
-...
+Who can use:
+sección que detalla los tipos de usuarios que pueden beneficiarse de la plataforma.
+
+Plans:
+Muestra los diferentes planes de suscripción y precios disponibles.
+
+Start your journey:
+Botón que redirige a la aplicación web para que los usuarios puedan conocer la plataforma.
+
+Sign up:
+Es un botón que lleva a la página de creación de cuenta.
 
 ### 4.2.3. SEO Tags and Meta Tags
 En este apartado abordaremos las etiquetas SEO y Meta, que sirven para proporcionar información sobre nuestras páginas web a los motores de búsqueda y para optimizar estas búsquedas y su relevancia.
