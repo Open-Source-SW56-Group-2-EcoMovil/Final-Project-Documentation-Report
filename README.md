@@ -18,6 +18,9 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 
 - **Visión:** Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
+  
+![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
+
 **Brand Name:**
 
 EcoMovil es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
@@ -69,35 +72,46 @@ El sistema de organización de la página de "EcoMovil" está diseñado para est
 - **Up-Section**: En la parte superior de la página principal, se encuentran las opciones de navegación a otras secciones, siguiendo un patrón de diseño F que subraya la importancia de que los usuarios conozcan la empresa y su oferta. Los botones de registro e inicio de sesión están situados en el extremo derecho. Además, hay un botón de modo oscuro para ajustar el tema visual según las preferencias del usuario y un botón para cambiar el idioma entre Español e Inglés, mejorando la accesibilidad.
 
 ### 4.2.2. Labeling System
-En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado y representado para que el usuario pueda identificar y usar las distintas funciones brindadas, que sirve para encontrar la información, de una manera intuitiva y sencilla.
 
-Etiquetas:
-
-Home 
-
-Suscripciones
-
-...
+En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado y claramente representado para que los usuarios puedan identificar y utilizar las diversas funciones de manera intuitiva y sencilla. El **Logo/Home** es un botón oculto dentro del logo de la plataforma que redirige a los usuarios a la página de inicio. La etiqueta **How it Works** dirige a una sección que explica cómo funciona la plataforma y sus principales características para que los usuarios las comprendan. **Who can use** describe los tipos de usuarios que pueden beneficiarse de la plataforma, mientras que **Plans** presenta las opciones de suscripción disponibles junto con sus precios. El botón **Start your journey** enlaza a la aplicación web para que los usuarios puedan explorar la plataforma. Finalmente, **Sign up** es un botón que lleva a la página para crear una cuenta nueva.
 
 ### 4.2.3. SEO Tags and Meta Tags
-En este apartado abordaremos las etiquetas SEO y Meta, que sirven para proporcionar información sobre nuestras páginas web a los motores de búsqueda y para optimizar estas búsquedas y su relevancia.
 
-Landing page:
+Las metaetiquetas proporcionan información codificada y definen los metadatos de una página web. Aunque no son visibles para los usuarios, son leídas por navegadores y rastreadores web, lo que permite un análisis más sencillo de los archivos HTML y facilita el mantenimiento del contenido. Además, estas etiquetas son fundamentales para mejorar el posicionamiento de nuestra página en los motores de búsqueda. 
 
-Aplicación web:
+Las metas etiquetas que utilizaremos son:
+
+### Landing Page
+
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoMovil - Urban Mobility Solution Landing Page |
+| Description   | Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today. |
+| Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
+| Author        | EcoMovil Team |
+
+### Aplicación Web
+
+| **Attribute** | **Value** |
+|---------------|-----------|
+| Charset       | UTF-8     |
+| Viewport      | width=device-width, initial-scale=1.0 |
+| CSS Link      | ./src/css/styles.css |
+| Title         | EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles |
+| Description   | EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease. |
+| Keywords      | vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options |
+| Author        | EcoMovil Team |
 
 ### 4.2.4. Searching Systems
-El sistema de búsqueda en EcoMovil es una funcionalidad que permitirá a los usuarios encontrar rápidamente los vehículos que desean alquilar o comprar según sus necesidades. Este ofrecerá una búsqueda fluida y eficiente. Sus principales funciones será la búsqueda por palabras claves para poder buscar vehículos en específico, la opción de filtros avanzados para una búsqueda de acuerdo a ciertos criterios y la existencia de un historial de búsquedas recientes para que se pueda acceder rápidamente a las búsquedas que ya se han realizado.
+
+El sistema de búsqueda en EcoMovil permitirá a los usuarios encontrar de manera rápida y eficiente los vehículos que desean alquilar o comprar, adaptándose a sus necesidades. Entre sus principales funciones se incluyen la búsqueda por palabras clave para localizar vehículos específicos, filtros avanzados que permiten refinar la búsqueda según ciertos criterios, y un historial de búsquedas recientes que facilita el acceso rápido a búsquedas ya realizadas.
+
 ### 4.2.5. Navigation Systems
-El Sistema de navegación es importante para lograr que los usuarios puedan navegar a través de la aplicación de una manera más sencilla. Esto es crucial para lograr una experiencia de usuario satisfactoria.
-En la aplicación web se tendrá una barra de navegación que contará con diversas opciones que guiarán al usuario al apartado de su interés.
 
-(Imagen Navegation bar)
-
-También contaremos con un footer, que será el pie de página. Este contará con enlaces adicionales a distintas secciones como Sobre Nosotros (información sobre nuestra visión y el equipo detrás de la aplicación), Contacto (formulario para poder contactarnos), etc.
-
-(Imagen Footer)
-
+El sistema de navegación es fundamental para que los usuarios puedan desplazarse fácilmente por la aplicación, lo que es clave para garantizar una experiencia de usuario satisfactoria. La aplicación web contará con una barra de navegación que ofrecerá varias opciones, orientando al usuario hacia la sección de su interés. Además, contará con un footer, o pie de página, que incluirá enlaces adicionales a diversas secciones, como Sobre Nosotros, donde podrán conocer nuestra visión y al equipo detrás de la aplicación, y Contacto, que ofrecerá un formulario para que los usuarios puedan ponerse en comunicación con nosotros, entre otros.
 
 ## 4.3. Landing Page UI Design
 
