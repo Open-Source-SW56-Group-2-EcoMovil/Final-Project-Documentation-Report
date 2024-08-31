@@ -317,7 +317,7 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 |:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
-| <center>Foto de la Entrevista</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de alquilar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, como el uso de tarjetas de crédito, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el propietario para discutir detalles del alquiler, conocer el estado del vehículo y poder dejar una valoración.</center> |
+| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de alquilar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, como el uso de tarjetas de crédito, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el propietario para discutir detalles del alquiler, conocer el estado del vehículo y poder dejar una valoración.</center> |
 | <center>Timing: 25:02-29:34 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 ### 2.2.3. Análisis de entrevistas
