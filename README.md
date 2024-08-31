@@ -299,7 +299,18 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         
 **Como** Rentador, **quiero** poder contactar al propietario antes de alquilar un vehículo **para** aclarar dudas o detalles específicos.
 </td>
-        <td>
+        <td>Escenario 1: Enviar Mensaje al Propietario desde la Página de Detalles del Vehículo
+
+Dado que el rentador está viendo los detalles de un vehículo que le interesa alquilar,
+Cuando hace clic en el botón "Contactar al Propietario",
+Entonces el sistema debe mostrar un formulario de mensaje para que el rentador escriba su pregunta o duda,
+Y al enviar el mensaje, el propietario debe recibir una notificación de que ha recibido un nuevo mensaje.
+Escenario 2: Recibir Respuesta del Propietario
+
+Dado que el rentador ha enviado un mensaje al propietario desde la aplicación,
+Cuando el propietario responde al mensaje del rentador,
+Entonces el sistema debe enviar una notificación al rentador informándole que ha recibido una respuesta,
+Y la respuesta debe aparecer en la sección de "Mensajes" o "Contacto" de la aplicación.
            
 </td>
         <td>2</td>
