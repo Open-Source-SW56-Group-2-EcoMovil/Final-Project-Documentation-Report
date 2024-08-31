@@ -324,6 +324,10 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 
 **Análisis del segmento estudiante universitario que posee un vehículo menor**
 
+Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar el alquiler y venta de vehículos menores inactivos, lo que les permite generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la plataforma optimiza el proceso de alquilar o vender estos vehículos, destacando su utilidad en maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
+
+Sin embargo, hay áreas de mejora según las entrevistas. Un 67% de los usuarios, como Rodrigo, sugiere la incorporación de promociones u ofertas para atraer más arrendatarios y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre arrendadores y arrendatarios, como se indicó en la tercera entrevista, para hacer el proceso de alquiler más eficiente. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción y las ofertas podría potenciar aún más la experiencia del usuario.
+
 **Análisis del segmento usuarios que alquilan o compran vehículos a través de la aplicación**
 
 El 100% de los entrevistados valoran la presencia de un mapa interactivo y opciones de personalización de vehículos, como cascos y soporte para teléfonos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias. No obstante, un 33 % ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios. Un 67% también valora la atención al cliente y la posibilidad de comunicarse directamente con el propietario. Finalmente, todos los entrevistados consideran que las ventajas ambientales del servicio son importantes. 
