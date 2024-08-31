@@ -345,9 +345,16 @@ devolución de vehículos cercanos a mi ubicación.
 
 ## 3.3. Impact Mapping
 
+En esta sección, presentamos el Impact Mapping para el proyecto de EcoMovil, con el objetivo de desarrollar e implementar un mapa interactivo que facilite la localización de puntos de recogida y devolución de vehículos. Este mapa es crucial para mejorar la experiencia de nuestros usuarios y alcanzar nuestros objetivos de negocio.
+
+![ImpactMapping](/assets/sprint1/Impactmap1.png)
+
+Este Impact Mapping proporciona una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interrelacionan. Asegura que cada aspecto del desarrollo esté alineado con nuestras metas y contribuya al éxito del proyecto EcoMovil, mejorando tanto la experiencia de los propietarios como la de los usuarios de vehículos.
+
 ## 3.4. Product Backlog
 
 [![Sprint1](/assets/sprint1/sprint1.png)](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 )
+
 Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 
 
 <table>
