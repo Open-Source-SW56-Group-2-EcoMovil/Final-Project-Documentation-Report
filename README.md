@@ -326,6 +326,9 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 
 **Análisis del segmento usuarios que alquilan o compran vehículos a través de la aplicación**
 
+El 100% de los entrevistados valoran la presencia de un mapa interactivo y opciones de personalización de vehículos, como cascos y soporte para teléfonos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias. No obstante, un 33 % ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios. Un 67% también valora la atención al cliente y la posibilidad de comunicarse directamente con el propietario. Finalmente, todos los entrevistados consideran que las ventajas ambientales del servicio son importantes. 
+
+
 ## 2.3. Needfinding
 
 - User persona estudiante universitario que posee un vehículo menor.
