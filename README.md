@@ -283,17 +283,17 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
 | <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la plataforma le facilita el proceso de alquilar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
-| <center>Timing: </center>  | <center>URL: https://acortar.link/4RuFHY </center>  | 
+| <center>Timing: 0:00-4:57 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
-| <center>Edad</center>  | <center>21</center>  |
+| <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
 | <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere alquilarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
-| <center>Timing: </center>  | <center>URL: https://acortar.link/4RuFHY </center>  | 
+| <center>Timing: 4:58-10:04 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 3**        | **Nombres y Apellidos**         | 
 | <center>Edad</center>  | <center>Su Edad</center>  |
 | <center>Distrito</center>  | <center>Su Distrito</center>  | 
 | <center>Foto de la Entrevista</center>  | <center>Info</center>  | 
-| <center>Timing: </center>  | <center>URL: https://acortar.link/4RuFHY </center>  | 
+| <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
 <br>
 
@@ -304,22 +304,21 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>Edad</center> | <center>22 Años</center> |
 | <center>Distrito</center> | <center>Barcelona</center> |
 | <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center> | <center>Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabajando durante sus vacaciones. Camila comenta que, aprovechando sus vacaciones, ha decidido viajar a Perú con una amiga, y le ha parecido buena idea realizar paseos en bicicleta por Miraflores. Debido a estas circunstancias, ella compartió las características que le gustaría ver en una aplicación de renta de vehículos como bicicletas, basándose en sus experiencias con sus padres. Además mencionó que encontró interesante la propuesta y que principalmente una de las características que le gustaría ver sería un mapa interactivo.</center> |
-| <center>Timing:</center> | <center>URL: https://acortar.link/4RuFHY</center> |
+| <center>Timing: 14:53-20:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 |:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
 | <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, que vive en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas al usar aplicaciones de alquiler de vehículos. Destaca que su principal motivo para usar estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la plataforma. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de alquiler de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center> |
-| <center>Timing:</center> | <center>URL: https://acortar.link/4RuFHY</center> |
+| <center>Timing: 20:02-25:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 |:---------------:|:----------------------------------:|
-| <center>Edad</center> | <center>19</center> |
-| <center>Distrito</center> | <center>San Martin</center> |
-| <center>Foto de la Entrevista</center> | <center>Silvia es una estudiante de veterinaria a la cual entrevistamos para la obtención de información valiosa para nuestro proyecto. Opinó que la experiencia de poder rentar a través de una aplicación es muy novedosa, sobre todo si se trata de vehículos menores que ayudan al medio ambiente. También valora el hecho de los métodos de cobro como la tarjeta de crédito por su dinamismo y rapidez. Por último menciona que le encantaría poder tener una relación o un contacto con el propietario para hablar detalles del alquiler y sobre el estado de su vehículo, además de valorarlo.</center> |
-| <center>Timing:</center> | <center>URL: https://acortar.link/4RuFHY</center> |
-
+| <center>Edad</center> | <center>19 Años</center> |
+| <center>Distrito</center> | <center>San Martín</center> |
+| <center>Foto de la Entrevista</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de alquilar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, como el uso de tarjetas de crédito, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el propietario para discutir detalles del alquiler, conocer el estado del vehículo y poder dejar una valoración.</center> |
+| <center>Timing: 25:02-29:34 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 ### 2.2.3. Análisis de entrevistas
 
