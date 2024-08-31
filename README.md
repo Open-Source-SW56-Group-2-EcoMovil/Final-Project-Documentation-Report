@@ -195,10 +195,18 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
     <tr>
         <td>US11</td>
         <td>Recomendaciones</td>
-        <td>**Como** Rentador, **quiero** recibir recomendaciones de vehículos basadas en mis preferencias y búsquedas anteriores **para** facilitar mi elección.
+        <td>
+          
+**Como** Rentador, **quiero** recibir recomendaciones de vehículos basadas en mis preferencias y búsquedas anteriores **para** facilitar mi elección.
 </td>
         <td>
-            <br/>
+          
+**Escenario 1: Ver Recomendaciones Basadas en Preferencias**
+
+**Dado** que el rentador está en la pantalla principal de la aplicación,
+**Cuando** accede a la sección de recomendaciones personalizadas,
+**Entonces** el sistema debe mostrar una lista de vehículos recomendados basados en las preferencias establecidas por el rentador (tipo de vehículo, rango de precio, ubicación).
+</td>
         <td></td>
     </tr>
     <tr>
