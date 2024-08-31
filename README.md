@@ -92,12 +92,11 @@ El sistema de búsqueda en EcoMovil es una funcionalidad que permitirá a los us
 El Sistema de navegación es importante para lograr que los usuarios puedan navegar a través de la aplicación de una manera más sencilla. Esto es crucial para lograr una experiencia de usuario satisfactoria.
 En la aplicación web se tendrá una barra de navegación que contará con diversas opciones que guiarán al usuario al apartado de su interés.
 
-(Imagen Navegation bar)
+![Navegation_Bar](/assets/chapter-4/NavegationBar.png)
 
 También contaremos con un footer, que será el pie de página. Este contará con enlaces adicionales a distintas secciones como Sobre Nosotros (información sobre nuestra visión y el equipo detrás de la aplicación), Contacto (formulario para poder contactarnos), etc.
 
-(Imagen Footer)
-
+![Footer](/assets/chapter-4/Footer.png)
 
 ## 4.3. Landing Page UI Design
 
