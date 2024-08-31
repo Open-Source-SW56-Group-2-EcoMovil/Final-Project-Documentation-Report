@@ -303,10 +303,12 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
 </td>
         <td>Escenario 1: Enviar Mensaje al Propietario desde la Página de Detalles del Vehículo
 
+
 Dado que el rentador está viendo los detalles de un vehículo que le interesa alquilar,
 Cuando hace clic en el botón "Contactar al Propietario",
 Entonces el sistema debe mostrar un formulario de mensaje para que el rentador escriba su pregunta o duda,
 Y al enviar el mensaje, el propietario debe recibir una notificación de que ha recibido un nuevo mensaje.
+
 Escenario 2: Recibir Respuesta del Propietario
 
 Dado que el rentador ha enviado un mensaje al propietario desde la aplicación,
@@ -324,10 +326,14 @@ Y la respuesta debe aparecer en la sección de "Mensajes" o "Contacto" de la apl
             
 **Como** Rentador, **quiero** acceder a ofertas especiales o descuentos en vehículos destacados **para** ahorrar en mis alquileres.
 </td>
-        <td>
+        <td>Escenario 1: Visualización de Vehículos con Ofertas Especiales en la Pantalla Principal
+
+Dado que el rentador está en la pantalla principal de la aplicación,
+Cuando hay vehículos destacados con ofertas especiales o descuentos disponibles,
+Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un banner visible, indicando claramente el porcentaje de descuento o la oferta especial.
     
 </td>
-        <td>EP03</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>US18</td>
