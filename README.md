@@ -5,8 +5,16 @@
 Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, EcoMovil, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
 
 - Estudiante universitario que posee un vehículo menor:
-  
+
+
+![ImpactMapping1](/assets/sprint1/TobemappingSegmento2.jpg)
+
+
 - Usuarios que alquilan o compran vehículos a través de la aplicación:
+
+
+![ToBeMapping2](/assets/sprint1/Tobemappingsegmento1.jpg)
+
 
 ## 3.2. User Stories
 
