@@ -17,7 +17,7 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 - **Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una plataforma digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para estudiantes universitarios.
 
 - **Visión:** Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
-
+<br>
 ![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
 
 **Brand Name:**
@@ -82,35 +82,27 @@ Las metas etiquetas que utilizaremos son:
 
 **Landing Page:**
 
-`<`meta charset="UTF-8"`>`
+### Landing Page
 
-`<`meta name="viewport" content="width=device-width, initial-scale=1.0"`>`
+|--------------|
+| <meta charset="UTF-8"> |  
+| <meta name="viewport" content="width=device-width, initial-scale=1.0"> |  
+| <link href="./src/css/styles.css" rel="stylesheet"> |  
+| <title>EcoMovil - Urban Mobility Solution Landing Page</title> |  
+| <meta name="description" content="Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today."> |  
+| <meta name="keywords" content="urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation"> | 
+| <meta name="author" content="EcoMovil Team"> |  
 
-`<`link href="./src/css/styles.css" rel="stylesheet"`>`
+### Aplicación Web
 
-`<`title>EcoMovil - Urban Mobility Solution Landing Page</title`>`
-
-`<`meta name="description" content= "Explore our Landing page to redirect you to rent or buy eco-friendly vehicles like bicycles, scooters, and more. Start your journey towards a green city today."`>`
-
-`<`meta name="keywords" content="urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation"`>`
-
-`<`meta name="author" content="EcoMovil Team"`>`
-
-**Aplicación Web:**
-
-`<`meta charset="UTF-8"`>`
-
-`<`meta name="viewport" content="width=device-width, initial-scale=1.0"`>`
-
-`<`link href="./src/css/styles.css" rel="stylesheet"`>`
-
-`<`title>EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles</title`>`
-
-`<`meta name="description" content="EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease."`>`
-
-`<`meta name="keywords" content="vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options"`>`
-
-`<`meta name="author" content="EcoMovil Team"`>`
+|--------------|
+| <meta charset="UTF-8"> |  
+| <meta name="viewport" content="width=device-width, initial-scale=1.0"> |  
+| <link href="./src/css/styles.css" rel="stylesheet"> |  
+| <title>EcoMovil - Your Eco-Friendly Vehicle Rental Platform with interesting features to rent or buy eco-friendly vehicles</title> |  
+| <meta name="description" content="EcoMobility provides a user-friendly platform for renting or buying bicycles, scooters, and other eco-friendly vehicles. Explore, book, and manage your rentals with ease."> |  
+| <meta name="keywords" content="vehicle rental, bike rental, scooter rental, eco-friendly vehicles, urban mobility, sustainable travel, temporary insurance, badges, flexible income options"> |  
+| <meta name="author" content="EcoMovil Team"> |  
 
 ### 4.2.4. Searching Systems
 
@@ -118,13 +110,7 @@ El sistema de búsqueda en EcoMovil permitirá a los usuarios encontrar de maner
 
 ### 4.2.5. Navigation Systems
 
-El sistema de navegación es fundamental para que los usuarios puedan desplazarse fácilmente por la aplicación, lo que es clave para garantizar una experiencia de usuario satisfactoria. La aplicación web contará con una barra de navegación que ofrecerá varias opciones, orientando al usuario hacia la sección de su interés.
-
-![Navegation_Bar](/assets/chapter-4/NavegationBar.png)
-
-Además, la aplicación contará con un footer, o pie de página, que incluirá enlaces adicionales a diversas secciones. Estos enlaces dirigirán a los usuarios a áreas como Sobre Nosotros, donde podrán conocer nuestra visión y al equipo detrás de la aplicación, y Contacto, que ofrecerá un formulario para que los usuarios puedan ponerse en comunicación con nosotros, entre otros.
-
-![Footer](/assets/chapter-4/Footer.png)
+El sistema de navegación es fundamental para que los usuarios puedan desplazarse fácilmente por la aplicación, lo que es clave para garantizar una experiencia de usuario satisfactoria. La aplicación web contará con una barra de navegación que ofrecerá varias opciones, orientando al usuario hacia la sección de su interés. Además, contará con un footer, o pie de página, que incluirá enlaces adicionales a diversas secciones, como Sobre Nosotros, donde podrán conocer nuestra visión y al equipo detrás de la aplicación, y Contacto, que ofrecerá un formulario para que los usuarios puedan ponerse en comunicación con nosotros, entre otros.
 
 ## 4.3. Landing Page UI Design
 
