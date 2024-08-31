@@ -157,8 +157,12 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
           
 **Como** Rentador, **quiero** ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios **para** tomar decisiones informadas.</td>
        
-  <td>**Escenario 1: 
-
+  <td>
+    
+**Escenario 1: Ver Reseñas Detalladas de los Vehículos**
+**Dado** que el rentador está en la página de detalles de un vehículo,
+**Cuando** hace clic en el enlace o botón para ver todas las reseñas,
+**Entonces** el sistema debe mostrar una lista de todas las reseñas con texto descriptivo, calificación, y el nombre del usuario que la hizo.
 
   </td>
         <td>2</td>
@@ -166,9 +170,26 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <tr>
         <td>US10</td>
         <td>Alquiler de vehiculo</td>
-        <td>**Como** Rentador, **quiero** alquilar un vehículo rápidamente a través de la aplicación **para** moverme por la ciudad cuando lo necesite.</td>
         <td>
-            <br/>
+          
+  **Como** Rentador, **quiero** alquilar un vehículo rápidamente a través de la aplicación **para** moverme por la ciudad cuando lo necesite.</td>
+        <td>**Escenario 1: Búsqueda y Selección Rápida de Vehículo**
+        
+**Dado** que el rentador está en la pantalla de búsqueda de vehículos,
+**Cuando** ingresa la ubicación actual y selecciona un tipo de vehículo,
+**Entonces** el sistema debe mostrar una lista de vehículos disponibles cerca de esa ubicación.
+**Y** el rentador selecciona un vehículo de la lista para ver más detalles.
+
+
+**Escenario 2: Proceso de Alquiler y Confirmación**
+
+**Dado** que el rentador está en la página de detalles de un vehículo,
+**Cuando** hace clic en el botón "Alquilar Ahora" y elige la duración del alquiler,
+**Entonces** el sistema debe mostrar un resumen del alquiler, incluyendo el costo total estimado.
+**Y** el rentador confirma el alquiler.
+Entonces el sistema debe enviar una notificación de confirmación con los detalles de la reserva y un código de confirmación al rentador. 
+        
+  </td>
         <td>2</td>
     </tr>
     <tr>
