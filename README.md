@@ -120,10 +120,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>US07</td>
         <td>Registro a la pagina</td>
         <td>**Como** universitario o rentador, **quiero** registrarme en la aplicación fácilmente **para** poder acceder a vehículos en alquiler y/o venderlos.
-</td>
-
-<td>**Escenario 1: Registro en la plataforma** 
+</td>      <td>
   
+  **Escenario 1: Registro en la plataforma** 
 **Dado** que el usuario está en la pantalla de registro,
 **Cuando** ingresa un nombre completo, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
 **Entonces** el sistema debe mostrar un mensaje indicando "el registro fue exitoso" y enviar un correo de confirmación.         
@@ -136,15 +135,32 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>
    
 **Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
-        <td></td>
+        <td>
+**Escenario 1: Busqueda de vehiculos**
+
+**Dado** que el rentador está en la pantalla de búsqueda de vehículos,
+**Cuando** el rentador presiona el botón de búsqueda,
+**Entonces** el sistema debe mostrar una lista de todos los vehículos disponibles.
+
+**Escenario 2: Busqueda de vehiculos con filtro**
+
+**Dado** que el rentador está en la pantalla de búsqueda de vehículos,
+**Cuando** el rentador selecciona un vehiculo de su preferencia (bicicletas, scooters, patines, etc) y presiona el botón de búsqueda,
+**Entonces** el sistema debe mostrar solo la lista de todos los vehículos disponibles que selecciono.
+  </td>
         <td>2</td>
     </tr>
     <tr>
         <td>US09</td>
         <td>Valoracion de los Vehículos</td>
-        <td>**Como** Rentador, **quiero** ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios **para** tomar decisiones informadas.</td>
         <td>
-            <br/>
+          
+**Como** Rentador, **quiero** ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios **para** tomar decisiones informadas.</td>
+       
+  <td>**Escenario 1: 
+
+
+  </td>
         <td>2</td>
     </tr>
     <tr>
