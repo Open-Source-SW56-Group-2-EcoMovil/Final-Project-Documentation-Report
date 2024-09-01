@@ -295,8 +295,6 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora **EcoMovil** porque le proporciona una solución para aprovechar un vehículo menor que no utiliza. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler a través de nuestra web. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen el alquiler.</center>  | 
 | <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
-<br>
-
 **Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.**
 
 | **Entrevista 1** | **Camila de Jesus Perez Novoa** | 
@@ -305,14 +303,12 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>Distrito</center> | <center>Barcelona</center> |
 | <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center> | <center>Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabajando durante sus vacaciones. Camila comenta que, aprovechando sus vacaciones, ha decidido viajar a Perú con una amiga, y le ha parecido buena idea realizar paseos en bicicleta por Miraflores. Debido a estas circunstancias, ella compartió las características que le gustaría ver en una aplicación de renta de vehículos como bicicletas, basándose en sus experiencias con sus padres. Además mencionó que encontró interesante la propuesta y que principalmente una de las características que le gustaría ver sería un mapa interactivo.</center> |
 | <center>Timing: 14:53-20:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
-
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 |:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
 | <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, que vive en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas al usar aplicaciones de alquiler de vehículos. Destaca que su principal motivo para usar estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la plataforma. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de alquiler de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center> |
 | <center>Timing: 20:02-25:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
-
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 |:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>19 Años</center> |
@@ -338,11 +334,11 @@ Además, algunos usuarios sugirieron la inclusión de características adicional
 
 ## 2.3. Needfinding
 
-- User persona estudiante universitario que posee un vehículo menor.
+- Estudiante universitario que posee un vehículo menor.
 
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
-- User persona usuarios que alquilan o compran vehículos a través de la aplicación.
+- Usuarios que alquilan o compran vehículos a través de la aplicación.
 
 ![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
 
@@ -354,10 +350,10 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Propietario</b>
+            <b>Estudiante Universitario</b>
         </td>
         <td colspan=2>
-            <b>Rentador</b>
+            <b>Comprador/Rentador</b>
         </td>
     </tr>
     <tr>
@@ -593,11 +589,11 @@ A pesar de sus diferencias, ambos comparten una valoración común en la importa
 
 En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y Usuarios que alquilan o compran. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
 
-- Segmento Universitario:
+- Segmento estudiante universitario que posee un vehículo menor:
   
 ![User journey Mappign Alex](/assets/Chapter-2/JourneyMapAlex.png)
 
-- Segmento Usuario que alquila o compra vehículos:
+- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
 
 ![User Journey Mapping Camila](/assets/Chapter-2/JourneyMapCamila.png)
 
