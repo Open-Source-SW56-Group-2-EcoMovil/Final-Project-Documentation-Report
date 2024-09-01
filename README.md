@@ -361,7 +361,12 @@ Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un 
         <td>
             
 **Como** Rentador, **quiero** poder calificar al propietario después de cada alquiler **para** ayudar a otros usuarios a conocer su reputación</td>
-        <td>
+        <td>Escenario 1: Calificación al Propietario al Finalizar el Alquiler
+
+Dado que el alquiler ha terminado y el rentador ha devuelto el vehículo,
+Cuando el rentador accede a la sección de "Historial de Alquileres" o recibe una notificación de finalización de alquiler,
+Entonces debe ver una opción para calificar al propietario,
+Y el rentador debe poder seleccionar una calificación en estrellas y dejar un comentario opcional.
             
 </td>
         <td>2</td>
@@ -372,7 +377,26 @@ Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un 
         <td>
             
 **Como Rentador**, **quiero** poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
-        <td>
+        <td>Escenario 1: Solicitud de Extensión de Alquiler
+
+Dado que el rentador está en la sección de "Mis Alquileres" y el período de alquiler actual está próximo a finalizar,
+Cuando el rentador selecciona la opción para extender el alquiler y elige el nuevo período deseado,
+Entonces el sistema debe verificar la disponibilidad del vehículo y mostrar el costo adicional,
+Y si el vehículo está disponible, el rentador debe confirmar la extensión y recibir una notificación de confirmación con los nuevos detalles del alquiler.
+
+Escenario 2: Imposibilidad de Extensión
+
+Dado que el rentador ha solicitado una extensión del alquiler,
+Cuando el sistema verifica la disponibilidad del vehículo y encuentra que no está disponible para el nuevo período,
+Entonces el rentador debe recibir una notificación indicando que la extensión no es posible,
+Y el sistema debe proporcionar opciones alternativas si están disponibles, como otro vehículo o una nueva fecha y hora.
+
+Escenario 3: Confirmación de Extensión del Alquiler
+
+Dado que el rentador ha confirmado la extensión del alquiler,
+Cuando el sistema actualiza el período del alquiler,
+Entonces el rentador debe recibir una notificación con la confirmación de la extensión, incluyendo los nuevos detalles del período de alquiler y el costo adicional,
+Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización del alquiler.
             
 </td>
         <td>2</td>
