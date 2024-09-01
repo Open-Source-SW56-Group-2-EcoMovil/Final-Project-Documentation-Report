@@ -12,9 +12,9 @@ En Ecomovil hemos optado varias convenciones de estilos para el desarrollo de c�
 #### Tecnologías usadas
 
 *HTML y CSS (Google HTLM/CSS Style Guide)*
-- Se declara el tipo de documento al principio del archivo con <!DOCTYPE html>.
+- Se declara el tipo de documento al principio del archivo con !DOCTYPE html.
 - Se incluyen los meta tags pertinentes.
-- El elemento <title> se coloca dentro de las etiquetas <head>.
+- El elemento title se coloca dentro de las etiquetas head.
 - Se utiliza una indentación de dos espacios.
 - Se emplean minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
 - Los atributos de los elementos HTML se encierran entre comillas.
@@ -51,6 +51,25 @@ En Ecomovil hemos optado varias convenciones de estilos para el desarrollo de c�
 
 
 ### 5.1.4. Software Deployment Configuration
+En esta sección, abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en GitHub Pages. A continuación, se describirán los pasos que se realizaron para lograr este objetivo.
+
+- Primeramente, es indispensable verificar que el repositorio este configurado correctamente.
+![Merged-Picture](./assets/perfil/merged1.png)
+
+- Debido a que en este caso se creo un Landing Page con angular se ha optado por hacer uso de la herramienta angular-cli-pages, esta ayudará a actualizar la página y llevarla a github pages.
+![Angular-Cli](./assets/perfil/angular-cli.png)
+
+- Luego de esto debemos de crear una carpeta dist la cual contendrá todos los archivos necesarios para el despliegue.
+![Dist](./assets/perfil/dist.png)
+
+- Después de, esto hacemos uso de ngh para que se cree una nueva rama que contendrá los archivos para el despliegue, esta rama se llamara gh-pages nombrada asi por la herramienta anteriormente mencionada.
+![gh-pages](./assets/perfil/gh.png)
+
+- Finalmente una vez todos los archivos hayan sido publicados en una rama, en el apartado de "Settings" en "Pages" en la sección de Branch colocamos gh-pages y /(root), al guardar y esperar un momento podremos ver la página publicada.
+![publish](./assets/perfil/publish.png)
+
+- De esta manera se visualizaría asi la página.
+![page](./assets/perfil/page.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
