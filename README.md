@@ -341,8 +341,17 @@ Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un 
         <td>
             
 **Como** Rentador, **quiero** ver el tiempo estimado **para** llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
-        <td>
-           
+        <td>**Escenario 1: Ver Tiempo Estimado en el Mapa Interactivo**
+
+**Dado** que el rentador está en la pantalla del mapa interactivo y ha seleccionado un punto de recogida,
+**Cuando** el sistema calcula el tiempo estimado para llegar desde la ubicación actual del rentador,
+**Entonces** debe mostrar el tiempo estimado claramente en el mapa, junto con una indicación de la ruta sugerida.
+
+**Escenario 2: Selección de Ruta Alternativa**
+
+**Dado** que el rentador ha seleccionado un punto de recogida y el sistema muestra varias rutas alternativas,
+**Cuando** el rentador elige una ruta alternativa,
+**Entonces** el sistema debe mostrar el tiempo estimado para esa ruta y actualizar el mapa en consecuencia.
 </td>
         <td>2</td>
     </tr>
