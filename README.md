@@ -1,4 +1,4 @@
-v# Capítulo III: Requirements Specification
+# Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
 
@@ -6,15 +6,11 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Estudiante universitario que posee un vehículo menor:
 
-
 ![ImpactMapping1](/assets/sprint1/TobemappingSegmento2.jpg)
-
 
 - Usuarios que alquilan o compran vehículos a través de la aplicación:
 
-
 ![ToBeMapping2](/assets/sprint1/Tobemappingsegmento1.jpg)
-
 
 ## 3.2. User Stories
 
@@ -42,127 +38,127 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
 
 **Escenario 2: Funcionalidad de Navegación**
 
-**Dado** el universitario o rentador accede a la landing page y visualiza la barra de navegación,
+**Dado que** el universitario o rentador accede a la landing page y visualice la barra de navegación,
 **cuando** hace clic en cualquiera de los enlaces de la barra de navegación,
-**entonces** debe ser redirigido a la sección correspondiente de la página web.</td>
+**entonces** debe ser redirigido a la sección correspondiente de la aplicación.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US02</td>
         <td>Sección Hero en la Landing Page</td>
-        <td>**Como** universitario o rentador, **quiero** ver una sección hero atractiva y clara al acceder a la Landing Page **para** entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+        <td>**Como** universitario o rentador, **quiero** ver una sección hero atractiva y clara al acceder a la landing page **para** entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
         <td>**Escenario 1: Visualización de la Sección Hero**
 
-**Dado que** el universitario o rentador está en la Landing Page,
+**Dado que** el universitario o rentador está en la landing page,
 **cuando** la sección hero es visible,
 **entonces** debe mostrar un titular principal claro y llamativo que comunique el valor de la aplicación.
 
 **Escenario 2: Botón de “Descubre Más”**
 
-**Dado que** el universitario o rentador está en la Landing Page,
-**Cuando** visualiza la sección hero,
-**Entonces** debe estar el botón “Descubre Más” que sea claramente visible y clicable.</td>
+**Dado que** el universitario o rentador está en la landing page,
+**cuando** visualiza la sección hero,
+**entonces** debe estar el botón “Descubre Más” que sea claramente visible.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US03</td>
         <td>Sección Footer en la Landing Page</td>
-        <td><b>**Como** universitario o rentador, **quiero** visualizar un footer en la página web **para** acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
+        <td><b>**Como** universitario o rentador, **quiero** visualizar un footer en la aplicación **para** acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
         <td>**Escenario 1: Visualización del Footer**
 
-**Dado que** el universitario o rentador accede a la Landing Page,
-**Cuando** la página se desplaza hasta el final,
-**Entonces** el footer debe estar visible en la parte inferior con sus enlaces a las redes sociales.
+**Dado que** el universitario o rentador accede a la landing page,
+**cuando** la página se desplaza hasta el final,
+**entonces** el footer debe estar visible en la parte inferior con sus enlaces a las redes sociales.
 
 **Escenario 2: Funcionalidad de Enlaces del Footer**
 
-**Dado que** el universitario o rentador visualiza el footer en la Landing Page,
-**Cuando** hace clic en cualquiera de los enlaces del footer,
-**Entonces** debe ser redirigido a las redes sociales de la startup.</td>
+**Dado que** el universitario o rentador visualiza el footer en la landing page,
+**cuando** hace clic en cualquiera de los enlaces del footer,
+**entonces** debe ser redirigido a las redes sociales de la startup.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US04</td>
         <td>Sección de Beneficios en la Landing Page</td>
-        <td><b>**Como** universitario o rentador, **quiero** ver una sección de beneficios que tenga las características principales de EcoMovil, **para** entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la plataforma </td>
+        <td><b>**Como** universitario o rentador, **quiero** ver una sección de beneficios que tenga las características principales de EcoMovil, **para** entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la aplicación.</td>
         <td>**Escenario 1: Visualización de la Sección de Beneficios**
 
-**Dado que** el universitario o rentador está en la Landing Page,
-**Cuando** se desplaza hacia la sección de beneficios,
-**Entonces** debe ver una sección destacada que contiene al menos 2 beneficios clave de la aplicación, basados en las características principales.</td>
+**Dado que** el universitario o rentador está en la landing page,
+**cuando** se desplaza hacia la sección de beneficios,
+**entonces** debe ver una sección destacada que contiene al menos 2 beneficios clave de la aplicación, basados en las características principales.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US05</td>
         <td>Sección de Contacto en la Landing Page</td>
-        <td>**Como** universitario o rentador, **quiero** tener acceso a una sección de contacto clara y funcional **para** poder comunicarme con el equipo de EcoMovil **para** resolver dudas, obtener soporte o hacer sugerencias</td>
+        <td>**Como** universitario o rentador, **quiero** tener acceso a una sección de contacto clara y funcional **para** poder comunicarme con el equipo de EcoMovil **para** resolver dudas, obtener soporte o hacer sugerencias.</td>
         <td>**Escenario 1: Visualización de la Sección de Contacto**
 
-**Dado que** el universitario o rentador está en la Landing Page,
-**Cuando** se desplaza hacia la sección de contacto,
-**Entonces** debe ver una sección claramente identificada que contenga información de contacto y opciones para comunicarse con el equipo de EcoMovil.
+**Dado que** el universitario o rentador está en la landing page,
+**cuando** se desplaza hacia la sección de contacto,
+**entonces** debe ver una sección claramente identificada que contenga información de contacto y opciones para comunicarse con el equipo de EcoMovil.
 
 **Escenario 2: Información de Contacto**
 
-**Dado que** el universitario o rentador está en la Landing Page,
-**Cuando** visualiza la sección de contacto,
-**Entonces** debe ver un formulario donde puedan ingresar su nombre, teléfono y correo electrónico para comunicarnos con el usuario a través de la página.</td>
+**Dado que** el universitario o rentador está en la landing page,
+**cuando** visualiza la sección de contacto,
+**entonces** debe ver un formulario donde puedan ingresar su nombre, teléfono y correo electrónico para comunicarnos con el usuario a través de la aplicación.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US06</td>
-        <td>Landing Page Responsive con diferentes dispositivos.</td>
+        <td>Landing Page Responsive con diferentes dispositivos</td>
         <td>**Como** universitario o rentador, **quiero** que la landing page sea responsive **para** que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
         <td>**Escenario 1: Adaptación Automática a Diferentes Tamaños de Pantalla**
 
-**Dado que** el universitario o rentador accede a la Landing Page,
-**Cuando** utiliza un dispositivo con cualquier tamaño de pantalla (móvil, tablet o escritorio),
-**Entonces** el contenido de la página debe ajustarse automáticamente para adaptarse al tamaño de la pantalla, asegurando una presentación clara y coherente.
+**Dado que** el universitario o rentador accede a la landing page,
+**cuando** utiliza un dispositivo con cualquier tamaño de pantalla (móvil, tablet o escritorio),
+**entonces** el contenido de la aplicación debe ajustarse automáticamente para adaptarse al tamaño de la pantalla, asegurando una presentación clara y coherente.
 
 **Escenario 2: Navegación y Menús Responsive**
 
-**Dado** el visitante accede a la Landing Page desde un dispositivo móvil,
-**Cuando** la página se carga completamente,
-**Entonces** el menú de navegación debe convertirse en un menú hamburguesa, y al hacer clic, debe desplegarse de forma fluida sin solaparse con otros elementos de la página.</td>
+**Dado que** el visitante accede a la landing page desde un dispositivo móvil,
+**cuando** la aplicación se carga completamente,
+**entonces** el menú de navegación debe convertirse en un menú hamburguesa, y al hacer clic, debe desplegarse de forma fluida sin solaparse con otros elementos de la aplicación.</td>
         <td>1</td>
     </tr>
     <tr>
         <td>US07</td>
-        <td>Registro a la pagina</td>
+        <td>Registro a la aplicación</td>
         <td>**Como** universitario o rentador, **quiero** registrarme en la aplicación fácilmente **para** poder acceder a vehículos en alquiler y/o venderlos.
 </td>      <td>
   
-  **Escenario 1: Registro en la plataforma** 
-**Dado** que el usuario está en la pantalla de registro,
-**Cuando** ingresa un nombre completo, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
-**Entonces** el sistema debe mostrar un mensaje indicando "el registro fue exitoso" y enviar un correo de confirmación.         
+  **Escenario 1: Registro en la aplicación EcoMovil** 
+**Dado que** el usuario está en la pantalla de registro,
+**cuando** ingresa un nombre completo, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
+**entonces** el sistema debe mostrar un mensaje indicando "El registro fue exitoso." y enviar un correo de confirmación.         
 </td>
         <td>1</td>
     </tr>
     <tr>
         <td>US08</td>
-        <td>Búsqueda de vehiculos disponibles</td>
+        <td>Búsqueda de vehículos disponibles</td>
         <td>
    
-**Como** Rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
+**Como** rentador, **quiero** buscar vehículos disponibles usando filtros avanzados, como tipo de vehículo, precio y ubicación, **para** encontrar el más adecuado para mis necesidades.</td>
         <td>
-**Escenario 1: Busqueda de vehiculos**
+**Escenario 1: Búsqueda de vehículos**
 
 **Dado** que el rentador está en la pantalla de búsqueda de vehículos,
-**Cuando** el rentador presiona el botón de búsqueda,
-**Entonces** el sistema debe mostrar una lista de todos los vehículos disponibles.
+**cuando** el rentador presiona el botón de búsqueda,
+**entonces** el sistema debe mostrar una lista de todos los vehículos disponibles.
 
-**Escenario 2: Busqueda de vehiculos con filtro**
+**Escenario 2: Búsqueda de vehículos con filtro**
 
-**Dado** que el rentador está en la pantalla de búsqueda de vehículos,
-**Cuando** el rentador selecciona un vehiculo de su preferencia (bicicletas, scooters, patines, etc) y presiona el botón de búsqueda,
-**Entonces** el sistema debe mostrar solo la lista de todos los vehículos disponibles que selecciono.
+**Dado que** el rentador está en la pantalla de búsqueda de vehículos,
+**cuando** el rentador selecciona un vehículo de su preferencia (bicicletas, scooters, patines, etc.) y presiona el botón de búsqueda,
+**entonces** el sistema debe mostrar solo la lista de todos los vehículos disponibles que seleccionó.
   </td>
         <td>2</td>
     </tr>
     <tr>
         <td>US09</td>
-        <td>Valoracion de los Vehículos</td>
+        <td>Valoración de los Vehículos</td>
         <td>
           
 **Como** Rentador, **quiero** ver valoraciones y reseñas de otros usuarios sobre los vehículos y propietarios **para** tomar decisiones informadas.</td>
@@ -170,31 +166,31 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
   <td>
     
 **Escenario 1: Ver Reseñas Detalladas de los Vehículos**
-**Dado** que el rentador está en la página de detalles de un vehículo,
-**Cuando** hace clic en el enlace o botón para ver todas las reseñas,
-**Entonces** el sistema debe mostrar una lista de todas las reseñas con texto descriptivo, calificación, y el nombre del usuario que la hizo.
+**Dado** que el rentador está en la aplicación de detalles de un vehículo,
+**cuando** hace clic en el enlace o botón para ver todas las reseñas,
+**entonces** el sistema debe mostrar una lista de todas las reseñas con texto descriptivo, calificación, y el nombre del usuario que realizó.
 
   </td>
         <td>2</td>
     </tr>
     <tr>
         <td>US10</td>
-        <td>Alquiler de vehiculo</td>
+        <td>Alquiler de vehículo</td>
         <td>
           
   **Como** Rentador, **quiero** alquilar un vehículo rápidamente a través de la aplicación **para** moverme por la ciudad cuando lo necesite.</td>
         <td>**Escenario 1: Búsqueda y Selección Rápida de Vehículo**
         
 **Dado** que el rentador está en la pantalla de búsqueda de vehículos,
-**Cuando** ingresa la ubicación actual y selecciona un tipo de vehículo,
-**Entonces** el sistema debe mostrar una lista de vehículos disponibles cerca de esa ubicación.
+**cuando** ingresa la ubicación actual y selecciona un tipo de vehículo,
+**entonces** el sistema debe mostrar una lista de vehículos disponibles cerca de esa ubicación.
 **Y** el rentador selecciona un vehículo de la lista para ver más detalles.
 
 
 **Escenario 2: Proceso de Alquiler y Confirmación**
 
 **Dado** que el rentador está en la página de detalles de un vehículo,
-**Cuando** hace clic en el botón "Alquilar Ahora" y elige la duración del alquiler,
+**cuando** hace clic en el botón "Alquilar ahora" y elige la duración del alquiler,
 **Entonces** el sistema debe mostrar un resumen del alquiler, incluyendo el costo total estimado.
 **Y** el rentador confirma el alquiler.
 Entonces el sistema debe enviar una notificación de confirmación con los detalles de la reserva y un código de confirmación al rentador. 
@@ -214,8 +210,8 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
 **Escenario 1: Ver Recomendaciones Basadas en Preferencias**
 
 **Dado** que el rentador está en la pantalla principal de la aplicación,
-**Cuando** accede a la sección de recomendaciones personalizadas,
-**Entonces** el sistema debe mostrar una lista de vehículos recomendados basados en las preferencias establecidas por el rentador (tipo de vehículo, rango de precio, ubicación).
+**cuando** accede a la sección de recomendaciones personalizadas,
+**entonces** el sistema debe mostrar una lista de vehículos recomendados basados en las preferencias establecidas por el rentador (tipo de vehículo, rango de precio, ubicación).
 </td>
         <td></td>
     </tr>
@@ -228,8 +224,8 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         <td>**Escenario 1: Notificación de Vencimiento Próximo de Alquiler**
 
 **Dado** que el rentador tiene un vehículo alquilado cuya devolución es inminente,
-**Cuando** faltan 30 minutos para que venza el alquiler,
-**Entonces** el sistema debe enviar una notificación al rentador recordándole devolver el vehículo a tiempo para evitar penalidades.
+**cuando** faltan 30 minutos para que venza el alquiler,
+**entonces** el sistema debe enviar una notificación al rentador recordándole devolver el vehículo a tiempo para evitar penalidades.
 
 </td>
         <td>2</td>
@@ -245,8 +241,8 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
 **Escenario 1: Acceso y Visualización del Historial de Alquileres**
 
 **Dado** que el rentador está en la pantalla principal de la aplicación,
-**Cuando** selecciona la opción de "Historial de Alquileres" desde el menú,
-**Entonces** el sistema debe mostrar una lista de todos los alquileres anteriores del rentador con detalles básicos como tipo de vehículo, fechas de alquiler, y costo total.
+**cuando** selecciona la opción de "Historial de Alquileres" desde el menú,
+**entonces** el sistema debe mostrar una lista de todos los alquileres anteriores del rentador con detalles básicos como tipo de vehículo, fechas de alquiler, y costo total.
 </td>
         <td>2</td>
     </tr>
@@ -255,21 +251,21 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         <td>Mapa Interactivo</td>
         <td>
             
-**Como** Rentador, **quiero** utilizar un mapa interactivo **para** localizar los puntos de recogida y devolución de vehículos cercanos a mi ubicación.
+**Como** rentador, **quiero** utilizar un mapa interactivo **para** localizar los puntos de recogida y devolución de vehículos cercanos a mi ubicación.
 </td>
         <td>
             
 **Escenario 1: Visualización de Puntos de Recogida y Devolución Cercanos**
 
 **Dado** que el rentador está en la pantalla principal de la aplicación,
-**Cuando** selecciona la opción de "Mapa Interactivo",
-**Entonces** el sistema debe mostrar un mapa centrado en la ubicación actual del rentador con marcadores de los puntos de recogida y devolución de vehículos cercanos.
+**cuando** selecciona la opción de "Mapa Interactivo",
+**entonces** el sistema debe mostrar un mapa centrado en la ubicación actual del rentador con marcadores de los puntos de recogida y devolución de vehículos cercanos.
 
 **Escenario 2: Obtener Detalles de un Punto de Recogida**
 
-**Dado** que el rentador está utilizando el mapa interactivo,
-**Cuando** hace clic en un marcador de un punto de recogida en el mapa,
-**Entonces** el sistema debe mostrar detalles adicionales sobre el punto de recogida, como la dirección, la cantidad de vehículos disponibles, y los tipos de vehículos.
+**Dado que** el rentador está utilizando el mapa interactivo,
+**cuando** hace clic en un marcador de un punto de recogida en el mapa,
+**entonces** el sistema debe mostrar detalles adicionales sobre el punto de recogida, como la dirección, la cantidad de vehículos disponibles, y los tipos de vehículos.
 </td>
         <td>2</td>
     </tr>
@@ -282,21 +278,21 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         <td>**Escenario 1: Pago en Línea con Tarjeta de Crédito**
 
 **Dado** que el rentador ha seleccionado un vehículo para alquilar,
-**Cuando** el rentador elige la opción de pagar en línea con tarjeta de crédito y completa los campos requeridos (número de tarjeta, fecha de vencimiento, CVV),
-**Entonces** el sistema debe procesar el pago de manera segura y mostrar una confirmación del pago exitoso.
+**cuando** el rentador elige la opción de pagar en línea con tarjeta de crédito y completa los campos requeridos (número de tarjeta, fecha de vencimiento, CVV),
+**entonces** el sistema debe procesar el pago de manera segura y mostrar una confirmación del pago exitoso.
 
 **Escenario 2: Selección y Confirmación de Método de Pago**
 
-**Dado** que el rentador está en la página de confirmación del alquiler,
-**Cuando** selecciona su método de pago preferido (por ejemplo, billetera digital),
-**Entonces** el sistema debe mostrar un flujo de pago correspondiente al método seleccionado y, tras la finalización del pago, debe enviar una notificación de confirmación con los detalles de la transacción.
+**Dado que** el rentador está en la página de confirmación del alquiler,
+**cuando** selecciona su método de pago preferido (por ejemplo, billetera digital),
+**entonces** el sistema debe mostrar un flujo de pago correspondiente al método seleccionado y, tras la finalización del pago, debe enviar una notificación de confirmación con los detalles de la transacción.
         
 </td>
         <td>2</td>
     </tr>
     <tr>
         <td>US16</td>
-        <td>Contacto al propietario</td>
+        <td>Contacto al Propietario</td>
         <td>
         
 **Como** Rentador, **quiero** poder contactar al propietario antes de alquilar un vehículo **para** aclarar dudas o detalles específicos.
@@ -304,17 +300,17 @@ Entonces el sistema debe enviar una notificación de confirmación con los detal
         <td>Escenario 1: Enviar Mensaje al Propietario desde la Página de Detalles del Vehículo
 
 
-Dado que el rentador está viendo los detalles de un vehículo que le interesa alquilar,
-Cuando hace clic en el botón "Contactar al Propietario",
-Entonces el sistema debe mostrar un formulario de mensaje para que el rentador escriba su pregunta o duda,
-Y al enviar el mensaje, el propietario debe recibir una notificación de que ha recibido un nuevo mensaje.
+**Dado que** el rentador está viendo los detalles de un vehículo que le interesa alquilar,
+**cuando** hace clic en el botón "Contactar al Propietario",
+**entonces** el sistema debe mostrar un formulario de mensaje para que el rentador escriba su pregunta o duda,
+**y** al enviar el mensaje, el propietario debe recibir una notificación de que ha recibido un nuevo mensaje.
 
 Escenario 2: Recibir Respuesta del Propietario
 
-Dado que el rentador ha enviado un mensaje al propietario desde la aplicación,
-Cuando el propietario responde al mensaje del rentador,
-Entonces el sistema debe enviar una notificación al rentador informándole que ha recibido una respuesta,
-Y la respuesta debe aparecer en la sección de "Mensajes" o "Contacto" de la aplicación.
+**Dado que** el rentador ha enviado un mensaje al propietario desde la aplicación,
+**cuando** el propietario responde al mensaje del rentador,
+**entonces** el sistema debe enviar una notificación al rentador informándole que ha recibido una respuesta,
+**y** la respuesta debe aparecer en la sección de "Mensajes" o "Contacto" de la aplicación.
            
 </td>
         <td>2</td>
@@ -324,13 +320,13 @@ Y la respuesta debe aparecer en la sección de "Mensajes" o "Contacto" de la apl
         <td>visualización de Ofertas</td>
         <td>
             
-**Como** Rentador, **quiero** acceder a ofertas especiales o descuentos en vehículos destacados **para** ahorrar en mis alquileres.
+**Como** rentador, **quiero** acceder a ofertas especiales o descuentos en vehículos destacados **para** ahorrar en mis alquileres.
 </td>
         <td>Escenario 1: Visualización de Vehículos con Ofertas Especiales en la Pantalla Principal
 
-Dado que el rentador está en la pantalla principal de la aplicación,
-Cuando hay vehículos destacados con ofertas especiales o descuentos disponibles,
-Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un banner visible, indicando claramente el porcentaje de descuento o la oferta especial.
+**Dado que** el rentador está en la pantalla principal de la aplicación,
+**cuando** hay vehículos destacados con ofertas especiales o descuentos disponibles,
+**entonces** el sistema debe mostrar estos vehículos en una sección dedicada o un banner visible, indicando claramente el porcentaje de descuento o la oferta especial.
     
 </td>
         <td>2</td>
@@ -340,18 +336,18 @@ Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un 
         <td>Tiempo de llegada</td>
         <td>
             
-**Como** Rentador, **quiero** ver el tiempo estimado **para** llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
+**Como** rentador, **quiero** ver el tiempo estimado **para** llegar a un punto de recogida de vehículos en el mapa interactivo.</td>
         <td>**Escenario 1: Ver Tiempo Estimado en el Mapa Interactivo**
 
-**Dado** que el rentador está en la pantalla del mapa interactivo y ha seleccionado un punto de recogida,
-**Cuando** el sistema calcula el tiempo estimado para llegar desde la ubicación actual del rentador,
-**Entonces** debe mostrar el tiempo estimado claramente en el mapa, junto con una indicación de la ruta sugerida.
+**Dado que** el rentador está en la pantalla del mapa interactivo y ha seleccionado un punto de recogida,
+**cuando** el sistema calcula el tiempo estimado para llegar desde la ubicación actual del rentador,
+**entonces** debe mostrar el tiempo estimado claramente en el mapa, junto con una indicación de la ruta sugerida.
 
 **Escenario 2: Selección de Ruta Alternativa**
 
 **Dado** que el rentador ha seleccionado un punto de recogida y el sistema muestra varias rutas alternativas,
-**Cuando** el rentador elige una ruta alternativa,
-**Entonces** el sistema debe mostrar el tiempo estimado para esa ruta y actualizar el mapa en consecuencia.
+**cuando** el rentador elige una ruta alternativa,
+**entonces** el sistema debe mostrar el tiempo estimado para esa ruta y actualizar el mapa en consecuencia.
 </td>
         <td>2</td>
     </tr>
@@ -360,13 +356,13 @@ Entonces el sistema debe mostrar estos vehículos en una sección dedicada o un 
         <td>Calificación de Alquiler</td>
         <td>
             
-**Como** Rentador, **quiero** poder calificar al propietario después de cada alquiler **para** ayudar a otros usuarios a conocer su reputación</td>
+**Como** rentador, **quiero** poder calificar al propietario después de cada alquiler **para** ayudar a otros usuarios a conocer su reputación.</td>
         <td>Escenario 1: Calificación al Propietario al Finalizar el Alquiler
 
-Dado que el alquiler ha terminado y el rentador ha devuelto el vehículo,
-Cuando el rentador accede a la sección de "Historial de Alquileres" o recibe una notificación de finalización de alquiler,
-Entonces debe ver una opción para calificar al propietario,
-Y el rentador debe poder seleccionar una calificación en estrellas y dejar un comentario opcional.
+**Dado que** el alquiler ha terminado y el rentador ha devuelto el vehículo,
+**cuando** el rentador accede a la sección de "Historial de Alquileres" o recibe una notificación de finalización de alquiler,
+**entonces** debe ver una opción para calificar al propietario,
+**y** el rentador debe poder seleccionar una calificación en estrellas y dejar un comentario opcional.
             
 </td>
         <td>2</td>
@@ -376,27 +372,27 @@ Y el rentador debe poder seleccionar una calificación en estrellas y dejar un c
         <td>Extensión de tiempo de Alquiler</td>
         <td>
             
-**Como Rentador**, **quiero** poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
+**Como** rentador, **quiero** poder extender el tiempo de mi alquiler si necesito usar el vehículo por más tiempo del planeado.</td>
         <td>Escenario 1: Solicitud de Extensión de Alquiler
 
-Dado que el rentador está en la sección de "Mis Alquileres" y el período de alquiler actual está próximo a finalizar,
-Cuando el rentador selecciona la opción para extender el alquiler y elige el nuevo período deseado,
-Entonces el sistema debe verificar la disponibilidad del vehículo y mostrar el costo adicional,
-Y si el vehículo está disponible, el rentador debe confirmar la extensión y recibir una notificación de confirmación con los nuevos detalles del alquiler.
+**Dado que** el rentador está en la sección de "Mis Alquileres" y el período de alquiler actual está próximo a finalizar,
+**cuando** el rentador selecciona la opción para extender el alquiler y elige el nuevo período deseado,
+**entonces** el sistema debe verificar la disponibilidad del vehículo y mostrar el costo adicional,
+**y** si el vehículo está disponible, el rentador debe confirmar la extensión y recibir una notificación de confirmación con los nuevos detalles del alquiler.
 
 Escenario 2: Imposibilidad de Extensión
 
-Dado que el rentador ha solicitado una extensión del alquiler,
-Cuando el sistema verifica la disponibilidad del vehículo y encuentra que no está disponible para el nuevo período,
-Entonces el rentador debe recibir una notificación indicando que la extensión no es posible,
-Y el sistema debe proporcionar opciones alternativas si están disponibles, como otro vehículo o una nueva fecha y hora.
+**Dado que** el rentador ha solicitado una extensión del alquiler,
+**cuando** el sistema verifica la disponibilidad del vehículo y encuentra que no está disponible para el nuevo período,
+**entonces** el rentador debe recibir una notificación indicando que la extensión no es posible,
+**y** el sistema debe proporcionar opciones alternativas si están disponibles, como otro vehículo o una nueva fecha y hora.
 
 Escenario 3: Confirmación de Extensión del Alquiler
 
-Dado que el rentador ha confirmado la extensión del alquiler,
-Cuando el sistema actualiza el período del alquiler,
-Entonces el rentador debe recibir una notificación con la confirmación de la extensión, incluyendo los nuevos detalles del período de alquiler y el costo adicional,
-Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización del alquiler.
+**Dado que** el rentador ha confirmado la extensión del alquiler,
+**cuando** el sistema actualiza el período del alquiler,
+**entonces** el rentador debe recibir una notificación con la confirmación de la extensión, incluyendo los nuevos detalles del período de alquiler y el costo adicional,
+**y** el perfil del rentador debe reflejar la nueva fecha y hora de finalización del alquiler.
             
 </td>
         <td>2</td>
@@ -406,7 +402,7 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
         <td>Publicación de Vehículos</td>
         <td>
             
-**Como** Propietario, **quiero** publicar mis vehículos de manera rápida y sencilla **para** que los rentadores puedan verlos y contactarme.</td>
+**Como** propietario, **quiero** publicar mis vehículos de manera rápida y sencilla **para** que los rentadores puedan verlos y logren contactarme.</td>
         <td>
             
 </td>
@@ -414,8 +410,8 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
     </tr>
     <tr>
         <td>US22</td>
-        <td>Notificaciones de alquiler de vehiculo</td>
-        <td> Como Propietario, quiero recibir notificaciones cuando alguien esté interesado en alquilar o comprar mi vehículo para no perder oportunidades y sobre el estado de mis publicaciones, como expiraciones o renovaciones, para mantenerlas actualizadas.
+        <td>Notificaciones de Alquiler de Vehículo</td>
+        <td>**Como** propietario, **quiero** recibir notificaciones cuando alguien esté interesado en alquilar o comprar mi vehículo para no perder oportunidades y sobre el estado de mis publicaciones, como expiraciones o renovaciones, para mantenerlas actualizadas.
 </td>
         <td>
              <br/>
@@ -423,8 +419,8 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
     </tr>
     <tr>
         <td>US23</td>
-        <td>Historial de alquiler y venta</td>
-        <td>Como Propietario, quiero acceder a un historial de mis alquileres y ventas para llevar un control detallado de mis ingresos.
+        <td>Historial de Alquiler y Venta</td>
+        <td>**Como** propietario, **quiero** acceder a un historial de mis alquileres y ventas para llevar un control detallado de mis ingresos.
 </td>
         <td>
             <br/>
@@ -433,7 +429,7 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
     <tr>
         <td>US24</td>
         <td>Brindar soporte de ayuda</td>
-        <td>Como Propietario, quiero recibir soporte prioritario si tengo problemas con la plataforma para resolverlos rápidamente.
+        <td>**Como** propietario, **quiero** recibir soporte prioritario si tengo problemas con la aplicación para resolverlos rápidamente.
 </td>
         <td>
             <br/>
@@ -441,16 +437,16 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
     </tr>
     <tr>
         <td>US25</td>
-        <td>Peronalizar publicaciones</td>
-        <td>Como Propietario, quiero personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
+        <td>Peronalizar Publicaciones</td>
+        <td>**Como** propietario, **quiero** personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
         <td>
             <br/>
         <td></td>
     </tr>
     <tr>
         <td>US26</td>
-        <td>Recordatorio de vencimiento de membresia</td>
-        <td>Como Propietario, quiero recibir recordatorios cuando mi suscripción esté próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
+        <td>Recordatorio de vencimiento de membresía</td>
+        <td>**Como** propietario, **quiero** recibir recordatorios cuando mi suscripción este próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
 </td>
         <td>
             <br/>
@@ -458,7 +454,6 @@ Y el perfil del rentador debe reflejar la nueva fecha y hora de finalización de
     </tr>
     <tr>
 </table>
-
 
 ## 3.3. Impact Mapping
 
