@@ -403,7 +403,15 @@ Escenario 3: Confirmación de Extensión del Alquiler
         <td>
             
 **Como** propietario, **quiero** publicar mis vehículos de manera rápida y sencilla **para** que los rentadores puedan verlos y logren contactarme.</td>
-        <td>
+        <td>**Escenario 1: Publicación Rápida del Vehículo**
+
+**Dado** que el propietario está en la sección "Mis Vehículos" de la aplicación,
+**Cuando** hace clic en el botón "Publicar Nuevo Vehículo",
+Y completa los campos obligatorios del formulario de publicación (tipo de vehículo, marca, modelo, año, ubicación, precio de alquiler, disponibilidad),
+**Entonces** debe poder subir imágenes del vehículo,
+Y elegir sus métodos de contacto preferidos,
+Y revisar toda la información antes de publicar,
+Y al confirmar, el sistema debe mostrar una notificación de éxito indicando que el vehículo ha sido publicado.
             
 </td>
         <td>3</td>
@@ -411,10 +419,25 @@ Escenario 3: Confirmación de Extensión del Alquiler
     <tr>
         <td>US22</td>
         <td>Notificaciones de Alquiler de Vehículo</td>
-        <td>**Como** propietario, **quiero** recibir notificaciones cuando alguien esté interesado en alquilar o comprar mi vehículo para no perder oportunidades y sobre el estado de mis publicaciones, como expiraciones o renovaciones, para mantenerlas actualizadas.
-</td>
         <td>
-             <br/>
+        
+**Como** propietario, **quiero** recibir notificaciones cuando alguien esté interesado en alquilar o comprar mi vehículo para no perder oportunidades y sobre el estado de mis publicaciones, como expiraciones o renovaciones, para mantenerlas actualizadas.
+</td>
+        <td>**Escenario 1: Notificación de Interés en el Vehículo**
+
+**Dado** que un usuario ha mostrado interés en alquilar o comprar el vehículo de un propietario,
+**Cuando** el usuario envía una solicitud o mensaje de interés,
+**Entonces** el sistema debe enviar una notificación al propietario con los detalles del interesado,
+Y debe proporcionar un enlace directo para que el propietario pueda responder al interesado rápidamente.
+
+**Escenario 2: Notificación de Expiración de Publicación Próxima**
+
+**Dado** que una publicación de vehículo del propietario está próxima a expirar,
+**Cuando** el plazo de expiración se acerca (por ejemplo, 3 días antes de la expiración),
+**Entonces** el sistema debe enviar una notificación al propietario informándole de la próxima expiración,
+Y debe incluir un enlace directo o botón para renovar la publicación fácilmente.
+
+ <br/>
         <td>3</td>
     </tr>
     <tr>
