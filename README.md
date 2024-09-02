@@ -531,6 +531,34 @@ Y cualquier rentador interesado debe recibir una notificación de que la publica
 **Como** propietario, **quiero** recibir recordatorios cuando mi suscripción este próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
 </td>
         <td>
+        
+**Escenario 1: Recibir Notificación de Vencimiento de Suscripción**
+
+**Dado** que la suscripción del propietario está próxima a vencerse,
+**Cuando** la fecha de vencimiento está a 7 días de distancia,
+**Entonces** la aplicación debe enviar una notificación al propietario informando del próximo vencimiento,
+Y debe incluir un enlace directo a la página de renovación de suscripción.
+
+**Escenario 2: Notificaciones Adicionales Cercanas a la Fecha de Vencimiento**
+
+**Dado** que la suscripción del propietario está a 3 días de vencerse,
+**Cuando** se acerca la fecha de vencimiento,
+**Entonces** la aplicación debe enviar una segunda notificación recordándole al propietario de la necesidad de renovar,
+Y debe proporcionar opciones rápidas para renovar directamente desde la notificación.
+
+**Escenario 3: Renovación de Suscripción desde la Aplicación**
+
+**Dado** que el propietario ha recibido una notificación de vencimiento de suscripción,
+**Cuando** selecciona el enlace para renovar su suscripción,
+**Entonces** debe ser dirigido a una página de renovación donde puede seleccionar la duración de la suscripción y el método de pago,
+Y debe poder completar el proceso de renovación directamente desde la aplicación.
+
+**Escenario 4: Confirmación de Renovación de Suscripción**
+
+**Dado** que el propietario ha completado la renovación de su suscripción,
+**Cuando** la transacción se completa con éxito,
+**Entonces** la aplicación debe enviar una notificación de confirmación,
+Y incluir un recibo de pago y la nueva fecha de vencimiento de la suscripción.
             
 </td>
         <td></td>
