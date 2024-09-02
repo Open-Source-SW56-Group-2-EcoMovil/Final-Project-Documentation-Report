@@ -71,6 +71,8 @@ En esta sección, abordaremos el despliegue de nuestra Landing Page mediante el 
 - De esta manera se visualizaría asi la página.
 ![page](./assets/perfil/page.png)
 
+Link: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
