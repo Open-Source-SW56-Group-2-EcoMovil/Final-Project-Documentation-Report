@@ -455,33 +455,84 @@ Y debe incluir un enlace directo o botón para renovar la publicación fácilmen
 Y cada transacción debe mostrar información como fecha, tipo de transacción, vehículo, nombre del cliente, y monto recibido.
 
             
-<br/>
+</td>
         <td>3</td>
     </tr>
     <tr>
         <td>US24</td>
         <td>Brindar soporte de ayuda</td>
-        <td>**Como** propietario, **quiero** recibir soporte prioritario si tengo problemas con la aplicación para resolverlos rápidamente.
+        <td>
+            
+**Como** propietario, **quiero** recibir soporte prioritario si tengo problemas con la aplicación para resolverlos rápidamente.
 </td>
         <td>
-            <br/>
+            
+**Escenario 1: Seguimiento de Caso de Soporte**
+
+**Dado** que el propietario ha iniciado una solicitud de soporte prioritario,
+**Cuando** el caso de soporte es creado,
+**Entonces** el sistema debe generar un número de referencia único para el caso,
+Y el propietario debe poder rastrear el estado del caso de soporte desde una sección dedicada en la aplicación,
+Y recibir actualizaciones sobre cualquier progreso o resolución del problema.
+
+**Escenario 2: Notificación de Tiempo de Espera y Respuesta**
+
+**Dado** que el propietario ha solicitado soporte prioritario,
+**Cuando** selecciona el canal de soporte preferido,
+**Entonces** la aplicación debe mostrar el tiempo estimado de espera para ese canal específico,
+Y debe informar al propietario si hay algún retraso inesperado en la respuesta.
+            
+</td>
         <td></td>
     </tr>
     <tr>
         <td>US25</td>
         <td>Peronalizar Publicaciones</td>
-        <td>**Como** propietario, **quiero** personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
         <td>
-            <br/>
+            
+**Como** propietario, **quiero** personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
+        <td>**Escenario 1: Edición de la Descripción de una Publicación**
+
+**Dado** que el propietario desea mejorar la presentación de su vehículo,
+**Cuando** accede a la sección "Mis Publicaciones" y selecciona una publicación específica,
+**Entonces** debe poder editar la descripción del vehículo utilizando texto enriquecido,
+Y después de realizar los cambios, debe poder guardar la descripción actualizada.
+
+**Escenario 2: Subida y Organización de Fotos**
+
+**Dado** que el propietario quiere actualizar las fotos de su vehículo para hacerlo más atractivo,
+**Cuando** selecciona la opción para editar una publicación,
+**Entonces** debe poder subir nuevas fotos desde su dispositivo,
+Y organizar el orden de las fotos, seleccionar una foto principal, y eliminar las fotos que ya no desea usar,
+Y después de realizar los cambios, debe poder guardar la nueva configuración de fotos.
+
+**Escenario 3: Vista Previa antes de Publicar Cambios**
+
+**Dado** que el propietario ha editado la descripción y actualizado las fotos de su publicación,
+**Cuando** hace clic en la opción de "Vista Previa",
+**Entonces** debe ver cómo se verá la publicación con la nueva descripción y fotos,
+Y decidir si desea realizar más cambios o confirmar los cambios para publicarlos.
+
+**Escenario 4: Confirmación y Publicación de Cambios**
+
+**Dado** que el propietario está satisfecho con los cambios realizados en la descripción y fotos de su publicación,
+**Cuando** selecciona la opción de "Confirmar y Publicar",
+**Entonces** los cambios deben reflejarse inmediatamente en la plataforma para los rentadores,
+Y cualquier rentador interesado debe recibir una notificación de que la publicación ha sido actualizada.
+            
+</td>
         <td></td>
     </tr>
     <tr>
         <td>US26</td>
         <td>Recordatorio de vencimiento de membresía</td>
-        <td>**Como** propietario, **quiero** recibir recordatorios cuando mi suscripción este próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
+        <td>
+            
+**Como** propietario, **quiero** recibir recordatorios cuando mi suscripción este próxima a vencerse para renovarla y evitar interrupciones en mis publicaciones.
 </td>
         <td>
-            <br/>
+            
+</td>
         <td></td>
     </tr>
     <tr>
