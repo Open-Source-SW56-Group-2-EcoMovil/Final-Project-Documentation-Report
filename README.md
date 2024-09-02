@@ -80,7 +80,7 @@ Para la elaboración del informe correspondiente a la entrega TB1, la implementa
 | Calisaya Sánchez, Juan Jesús    | Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista.   | 
 | Gallo Quintana, David Ivanoff    | User Personas. User Task Matrix. User Journey Mapping. Entrevista. C4 Components, Containers. Landing Page.   | 
 | Hidalgo Lopez, Mathias Adriano    | Entrevistas. Diseño de entrevistas. Análisis de entrevistas.    | 
-| Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista. Web Applications Wireframes, Web Applications Wireflow Diagrams, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. | 
+| Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista. Landing Page. Web Applications Wireframes, Web Applications Wireflow Diagrams, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. | 
 | Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista.    | 
 
 La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización Integradis.
