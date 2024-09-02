@@ -59,7 +59,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br>
-<br>• Colaboraciones con influencers y creadores de contenido.</td>
+• Colaboraciones con influencers y creadores de contenido.</td>
       <td align="center">• Colaboraciones con universidades y empresas.<br>
 <br>• Eventos locales para promover el uso de bicicletas.<br></td>
     </tr>
@@ -112,7 +112,8 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Oportunidades</strong></td>
-      <td align="center">• Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado.<br> 
+      <td align="center">
+    • Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado.<br> 
     <br>• Gran demanda entre los estudiantes universitarios peruanos que poseen vehículos menores no utilizados.**</td>
       <td align="center">Expansión a nuevas áreas, alianzas con universidades y empresas, mejora de infraestructura, innovaciones en la app, campañas de concientización e integración con otros transportes.</td>
       <td align="center">Expansión a nuevos destinos, ofertas para grupos, mejoras en la experiencia del huésped, colaboraciones con empresas locales, herramientas para anfitriones y aumento de seguridad mediante tecnología avanzada.</td>
