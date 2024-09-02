@@ -446,7 +446,16 @@ Y debe incluir un enlace directo o botón para renovar la publicación fácilmen
         <td>**Como** propietario, **quiero** acceder a un historial de mis alquileres y ventas para llevar un control detallado de mis ingresos.
 </td>
         <td>
-            <br/>
+            
+**Escenario 1: Visualización del Historial de Transacciones**
+
+**Dado** que el propietario está en el panel principal de la aplicación,
+**Cuando** selecciona la opción de "Historial de Transacciones",
+**Entonces** debe poder ver una lista detallada de todas sus transacciones de alquileres y ventas,
+Y cada transacción debe mostrar información como fecha, tipo de transacción, vehículo, nombre del cliente, y monto recibido.
+
+            
+<br/>
         <td>3</td>
     </tr>
     <tr>
