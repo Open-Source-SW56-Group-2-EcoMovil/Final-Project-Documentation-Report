@@ -304,13 +304,11 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center> | <center>Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabajando durante sus vacaciones. Camila comenta que, aprovechando sus vacaciones, ha decidido viajar a Perú con una amiga, y le ha parecido buena idea realizar paseos en bicicleta por Miraflores. Debido a estas circunstancias, ella compartió las características que le gustaría ver en una aplicación de renta de vehículos como bicicletas, basándose en sus experiencias con sus padres. Además mencionó que encontró interesante la propuesta y que principalmente una de las características que le gustaría ver sería un mapa interactivo.</center> |
 | <center>Timing: 14:53-20:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
-|:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
 | <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, que vive en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas al usar aplicaciones de alquiler de vehículos. Destaca que su principal motivo para usar estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la plataforma. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de alquiler de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center> |
 | <center>Timing: 20:02-25:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
-|:---------------:|:----------------------------------:|
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
 | <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de alquilar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, como el uso de tarjetas de crédito, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el propietario para discutir detalles del alquiler, conocer el estado del vehículo y poder dejar una valoración.</center> |
@@ -353,7 +351,7 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
             <b>Estudiante Universitario</b>
         </td>
         <td colspan=2>
-            <b>Comprador/Rentador</b>
+            <b>Usuario que Alquila o Compra</b>
         </td>
     </tr>
     <tr>
