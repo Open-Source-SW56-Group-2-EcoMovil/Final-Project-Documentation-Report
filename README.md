@@ -173,6 +173,14 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
+Payment Bounded Context
+![Payment.png](./assets/chapter-4/Payment.png)
+
+User Bounded Context
+![User.png](./assets/chapter-4/User.png)
+
+Rental Bounded Context
+![Rental.png](./assets/chapter-4/Rental.png)
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
