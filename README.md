@@ -135,6 +135,6 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 | Oneglio De Paz, Beth Shantal | Desarrollo de la sección "Acerca de" y el pie de página ("footer") de la página de inicio. | 
 | Vasquez Goicochea, Erick Alessander | Creación del encabezado ("header") y la sección "Cómo Funciona" ("how-it-works"). | 
 
-Repositorio Landing-Page-EcoMovil:
+- Repositorio Landing-Page-EcoMovil:
 
 ![Insights](./assets/perfil/insightlanding.png) 
