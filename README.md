@@ -48,8 +48,6 @@ En Ecomovil hemos optado varias convenciones de estilos para el desarrollo de c�
 - Inyección de Dependencias para gestioanr servicios
 - Convenciones de codigo con nombres que describan claramente su propósito.
 
-
-
 ### 5.1.4. Software Deployment Configuration
 En esta sección, abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en GitHub Pages. A continuación, se describirán los pasos que se realizaron para lograr este objetivo.
 
@@ -140,5 +138,3 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Landing-Page-EcoMovil:
 
 ![Insights](./assets/perfil/insightlanding.png) 
-
-Agregar imagen
