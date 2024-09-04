@@ -83,7 +83,7 @@ Para la elaboración del informe correspondiente a la entrega TB1, la implementa
 | Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista. Landing Page. Web Applications Wireframes, Web Applications Wireflow Diagrams, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. | 
 | Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista. Labeling Systems. Seo Tag & Meta Tag. Searching System. Class Diagram. Landing Page. Sprint 1.                                                                                                                                                                                 | 
 
-La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización EcoMovil.
+La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización EcoMovil Squad.
 
 **GitHub Collaboration Insights**
 
