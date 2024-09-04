@@ -207,7 +207,7 @@ Se describen las ramas más destacadas de la siguiente manera:
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br>*TB1*<br> Coordiné con el equipo para configurar el Software Development Environment y gestionar el Source Code, garantizando una base sólida para el desarrollo y la colaboración continua. Las reuniones regulares ayudaron a mantenernos alineados y a resolver cualquier problema que surgiera durante el proceso. </br>**Gallo Quintana, David Ivanoff**<br>*TB1*<br> Como grupo, consideramos que realizamos las ideas dadas eran tanto plausibles para nosotros como equipo como efectivas hacia los usuarios potenciales. Después de asegurarnos que estas consideraciones se cumplieran, coincidimos tanto en diseño UX/UI en la elaboración de la landing page, además de esto pasamos por varios diseños para llegar al más convincente en cuestión de web app design. </br>**Hidalgo Lopez, Mathias Adriano**<br>*TB1*<br>Mantuvimos reuniones iniciales para alinear nuestra misión y documentar objetivos claros. Durante el desarrollo, aseguré una comunicación constante, compartiendo ideas y actualizaciones regularmente. Utilicé reportes y mensajes para mantener al equipo informado y comprometido. Esto garantizó un progreso fluido y una colaboración efectiva en todas las etapas del proyecto.<br>**Oneglio De Paz, Beth Shantal**<br>*TB1*<br>Al comenzar el trabajo, nos reunimos para revisar a los usuarios y confirmar que nuestra idea y misión estuvieran claramente definidas. Tras plasmar nuestro objetivo en un documento de Word, iniciamos reuniones semanales para avanzar en las entrevistas y hacer un seguimiento detallado de los capítulos. Durante el desarrollo de la landing page, compartimos ideas y ejemplos de diseño para asegurar un progreso más organizado en el futuro.<br>**Vasquez Goicochea, Erick Alessander**<br>*TB1*<br>Al inicio del proyecto, nos reunimos para evaluar nuestras ideas y verificar su viabilidad. Posteriormente, mantuve una comunicación constante con el equipo durante la elaboración del diagrama de clases, asegurando que todos comprendieran la estructura del software y contribuyeran al diseño. Además, mantuve un flujo de comunicación efectivo mediante mensajes y reportes, manteniendo a todos los miembros informados sobre los avances del proyecto.</br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
 
 
-## Conclusiones
+# Conclusiones
 
 Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
 
@@ -220,7 +220,7 @@ Las tareas asignadas para la entrega TB1 han sido completadas y están documenta
 
 Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega de un informe de alta calidad.
 
-## Bibliografía
+# Bibliografía
 
 Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
 
@@ -232,7 +232,7 @@ FontAwesome. (n.d.). FontAwesome documentation. Recuperado de https://docs.fonta
 
 Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailwindcss.com/docs
 
-## Anexos  
+# Anexos  
 
 Enlace para acceder a la Landing Page EcoMovil:
 Video de Presentación TB1:
