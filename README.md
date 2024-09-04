@@ -28,14 +28,14 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="2"><strong>Perfil</strong></td>
       <td align="center"><strong>Overview</strong></td>
-      <td align="center">Es una plataforma web que conecta a personas interesadas en usar estos medios de transporte con aquellos que los poseen, simplificando el proceso de alquiler o compra y fomentando una comunidad más consciente del medio ambiente en Perú.</td>
+      <td align="center">Es una aplicación web que conecta a personas interesadas en usar estos medios de transporte con aquellos que los poseen, simplificando el proceso de renta o compra y fomentando una comunidad más consciente del medio ambiente en Perú.</td>
       <td align="center">Es una empresa líder en soluciones de movilidad urbana en América Latina, conocida principalmente por sus sistemas de bicicletas compartidas. Fundada en 2010 en Brasil, Tembici ha expandido sus operaciones a varias ciudades en Brasil, Argentina, y Chile, promoviendo un estilo de vida más saludable y sostenible.</td>
       <td align="center">Es una plataforma de alojamiento en línea que permite a los usuarios alquilar o reservar alojamientos únicos en todo el mundo, desde habitaciones privadas y apartamentos hasta casas completas y propiedades únicas como castillos o casas en árboles.</td>
       <td align="center">Es un sistema de bicicletas compartidas en Lima, Perú, diseñado para ofrecer una alternativa de transporte urbano sostenible y eficiente. El servicio está enfocado en facilitar el desplazamiento en la ciudad, especialmente en áreas con alta congestión vehicular.</td>
     </tr>
     <tr>
       <td align="center"><strong>Ventaja Competitiva<br>¿Qué valor ofrece a los clientes?</strong></td>
-      <td align="center">• Facilita la movilidad urbana conectando usuarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. <br>
+      <td align="center">• Facilita la movilidad urbana conectando universitarios con vehículos mediante características clave como valoraciones y reseñas, búsqueda avanzada, historial de alquileres, y un mapa interactivo. <br>
        <br>• Ofrece transparencia en costos con el IGV incluido, incentiva la participación con gamificación y proporciona protección adicional con un seguro temporal. </td>
       <td align="center">• Las estaciones de Tembici están ubicadas en puntos clave de las ciudades, como estaciones de metro, áreas comerciales y zonas residenciales. <br> 
         <br>• El servicio está disponible las 24 horas del día, los 7 días de la semana.</td>
@@ -47,15 +47,15 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
       <td align="center"><strong>Mercado Objetivo</strong></td>
-      <td align="center">• Estudiante universitario que posee un vehículo menor. <br>
-<br>• Usuarios que alquilan o compran vehículos a través de la aplicación. </td>
+      <td align="center">• Universitario <br>
+<br>• Compradores/Rentadores </td>
       <td align="center">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
       <td align="center">Viajeros y turistas, profesionales de negocios, anfitriones de propiedades y experiencias, familias y grupos.</td>
       <td align="center">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
     </tr>
     <tr>
       <td align="center"><strong>Estrategias de Marketing</strong></td>
-      <td align="center">Proporcionar una prueba gratuita a los usuarios (estrategias de incentivo).</td>
+      <td align="center">Proporcionar una prueba gratuita a los usuarios. (Estrategias de Incentivo)</td>
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br></td>
@@ -65,16 +65,16 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="3"><strong>Perfil del Producto</strong></td>
       <td align="center"><strong>Productos & Servicios</strong></td>
-      <td align="center">Aplicación web que conecta a usuarios interesados en alquilar o comprar bicicletas, scooters, skateboards, motos eléctricas, y otros vehículos con aquellos que tienen estos vehículos disponibles.</td>
+      <td align="center">Aplicación web que conecta a usuarios interesados en rentar o comprar bicicletas, scooters, skateboards, motos eléctricas, y otros vehículos con aquellos que tienen estos vehículos disponibles.</td>
       <td align="center">Alquiler de bicicletas mediante una aplicación móvil, facilitando la movilidad urbana sostenible y flexible para los usuarios.</td>
       <td align="center">Plataforma en línea que ofrece una amplia gama de opciones de alojamiento, desde habitaciones privadas hasta casas completas, en todo el mundo.</td>
       <td align="center">Proporcionar movilidad urbana sostenible y accesible a través de una aplicación móvil que permite el alquiler y gestión de las bicicletas.</td>
     </tr>
     <tr>
       <td align="center"><strong>Precios & Costos</strong></td>
-      <td align="center">• Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para alquilar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
+      <td align="center">• Plan Cachimbo: Ofrece hasta 2 publicaciones al mes para rentar o vender vehículos, con soporte básico. El costo es de $1.99 al mes después del período de prueba.<br>
 <br>• Plan Universitario: Permite hasta 10 publicaciones al mes, con la opción de destacar tus publicaciones y soporte prioritario. El costo es de $5.99 al mes después del período de prueba.<br>
-<br>• Plan Graduado: Proporciona publicaciones ilimitadas para alquiler o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
+<br>• Plan Graduado: Proporciona publicaciones ilimitadas para rentar o venta de vehículos, con soporte 24/7. El costo es de $19.99 al mes después del período de prueba.                 </td>
       <td align="center">• Plan Diario: Aproximadamente $0.50 a $1.00 por hora, con un costo máximo diario que varía entre $5.00 y $10.00.<br>
 <br>• Plan Mensual: Cuesta entre $25.00 y $40.00.<br>
 <br>• Plan Anual: Está en el rango de $150.00 a $300.00.<br></td>
@@ -87,7 +87,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Canales de distribución (Web y/o Móvil)</strong></td>
-      <td align="center">El servicio estará disponible de manera temporal a través de la plataforma web.</td>
+      <td align="center">El servicio estará disponible de manera temporal a través de la aplicación web.</td>
       <td align="center">App móvil, el sitio web, estaciones físicas, alianzas con empresas y universidades, y redes sociales.</td>
       <td align="center">Sitio web, la app móvil, colaboraciones con agencias de viajes y plataformas de terceros, y redes sociales. </td>
       <td align="center">App móvil, el sitio web, estaciones físicas y redes sociales.</td>
@@ -95,7 +95,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="4"><strong>Análisis SWOT</strong></td>
       <td align="center"><strong>Fortalezas</strong></td>
-      <td align="center">Comunicación flexible entre el estudiante universitario que posee un vehículo menor y el usuario que alquila o compra vehículos.</td>
+      <td align="center">Comunicación flexible entre el universitario y el comprador/rentador.</td>
       <td align="center">• Red de bicicletas amplia y bien establecida.<br>
 <br>• Tecnología avanzada en la app.<br></td>
       <td align="center">• Amplia variedad de opciones de alojamiento.<br>
@@ -112,7 +112,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center"><strong>Oportunidades</strong></td>
       <td align="center">
-   Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado y aprovechamiento de la gran demanda entre los estudiantes universitarios peruanos que poseen vehículos menores no utilizados.</td>
+   Optimización de las áreas deficientes en las ofertas de nuestros competidores en el mercado y aprovechamiento de la gran demanda entre los universitarios peruanos que poseen vehículos menores no utilizados.</td>
       <td align="center">Expansión a nuevas áreas, alianzas con universidades y empresas, mejora de infraestructura, innovaciones en la app, campañas de concientización e integración con otros transportes.</td>
       <td align="center">Expansión a nuevos destinos, ofertas para grupos, mejoras en la experiencia del huésped, colaboraciones con empresas locales, herramientas para anfitriones y aumento de seguridad mediante tecnología avanzada.</td>
       <td align="center">Expansión a más áreas de la ciudad, asociaciones con universidades y empresas, mejora de la infraestructura de estaciones, actualización tecnológica de la app, campañas de promoción y integración con otros medios de transporte.</td>
@@ -147,11 +147,11 @@ Podemos implementar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-- Nos enfocaremos en estudiantes y jóvenes profesionales, ofreciendo tarifas especiales, programas de lealtad y opciones de alquiler a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente a universidades o trabajos.
+- Nos enfocaremos en universitarios, ofreciendo tarifas especiales, programas de lealtad y opciones de renta o compra a largo plazo para aquellos que necesiten vehículos menores para desplazarse diariamente.
 
 **Tácticas**
 
-- Organizaremos eventos de lanzamiento en universidades o zonas clave, ofreciendo viajes gratuitos o con descuento durante la primera semana. Crearemos promociones especiales durante la temporada de exámenes o inicio de clases.
+- Organizaremos eventos de lanzamiento en universidades o zonas clave.
 
 **Afrontando las oportunidades de nuestros competidores:**
 
@@ -169,7 +169,6 @@ Podemos implementar las siguientes estrategias y tácticas:
 
 **Tácticas**
 
-- Implementaremos un sistema de referidos donde los usuarios actuales puedan ganar créditos o descuentos por cada nuevo usuario que se registre usando su código. Esto incentivará la expansión del servicio de manera orgánica.
 - Identificaremos áreas de alto tránsito estudiantil o de jóvenes profesionales donde la competencia es limitada. Estableceremos operaciones en estas áreas antes que nuestros competidores, capturando una porción significativa del mercado local.
 
 **Afrontando las oportunidades de nuestros competidores:**
@@ -185,16 +184,14 @@ Podemos implementar las siguientes estrategias y tácticas:
 
 **Estrategias**
 
-- Estableceremos alianzas con universidades para crear estaciones de alquiler dentro de los campus. Ofreceremos tarifas con descuento a estudiantes y personal universitario, lo que nos permitirá crear una base de usuarios estable y recurrente.
+- Ofreceremos tarifas con descuento a estudiantes y personal universitario, lo que nos permitirá crear una base de usuarios estable y recurrente.
 
 **Tácticas**
 
-- Ofreceremos soporte 24/7 con atención personalizada a través de chat o llamada, especialmente durante horas pico de uso, como las mañanas antes de clases o durante la salida de la oficina. Esto nos diferenciará de competidores con soporte limitado.
-- Colaboraremos con negocios locales, como cafeterías y tiendas de conveniencia, para ofrecer descuentos combinados. Por ejemplo, alquilar un vehículo de EcoMovil podría dar derecho a un café con descuento en una tienda aliada.
+- Ofreceremos soporte 24/7 con atención personalizada a través de un foro de ayuda, especialmente durante horas pico de uso, como las mañanas antes de clases o durante la salida de la oficina. Esto nos diferenciará de competidores con soporte limitado.
 
 **Afrontando las oportunidades de nuestros competidores:**
 
-- Aprovecharemos asociaciones con universidades y negocios locales para aumentar nuestra visibilidad y atraer usuarios.
 - Ofreceremos atención personalizada 24/7 para destacar en servicio al cliente.
 
 **Comprendemos que nuestras debilidades son:**
@@ -209,7 +206,7 @@ La sección detalla cómo investigamos nuestros segmentos objetivo mediante la r
 
 ### 2.2.1. Diseño de entrevistas
 
-Preguntas dirigidas a estudiante universitario que posee un vehículo menor.
+Preguntas dirigidas a Universitarios.
 
 ----
 
@@ -225,11 +222,11 @@ Preguntas dirigidas a estudiante universitario que posee un vehículo menor.
 8. ¿Qué habilidades consideras que tienes en relación con el manejo o mantenimiento de tu(s) vehículo(s)?
 9. ¿Qué factores consideras al elegir un vehículo menor? (Ej. economía, estilo, funcionalidad)
 10. ¿Qué influencias (familia, amigos, medios, etc.) han afectado tus decisiones al comprar un vehículo?
-11. ¿Qué tipos de vehículos tienes disponibles para alquilar?
+11. ¿Qué tipos de vehículos tienes disponibles para rentar?
 12. ¿Cómo determinar el precio de alquiler de tus vehículos?
-13. ¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de alquilarlos?
+13. ¿Qué medidas de seguridad implementadas para asegurarte de que tus vehículos estén siempre en buen estado antes de rentarlos?
 14. ¿Cómo manejas la limpieza y desinfección de los vehículos?
-15. ¿Cuáles son los requisitos o condiciones para alquilar uno de tus vehículos?
+15. ¿Cuáles son los requisitos o condiciones para rentar uno de tus vehículos?
 
 - Preguntas complementarias:
 
@@ -237,11 +234,11 @@ Preguntas dirigidas a estudiante universitario que posee un vehículo menor.
 2. ¿Qué proceso sigues para verificar la identidad y credibilidad de los posibles rentadores?
 3. ¿Cómo organizas la entrega y recogida de los vehículos? ¿Tienes puntos de recogida específicos o cómo coordinas estos procesos?
 4. ¿Cómo manejas las valoraciones y reseñas que dejan los rentadores?
-5. Durante el periodo de alquiler, ¿qué tipo de soporte proporcionas a los rentadores?
+5. Durante el periodo de renta, ¿qué tipo de soporte proporcionas a los rentadores?
 6. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más rentadores?
 7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?<br>
 <br>
-Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la aplicación.
+Preguntas dirigidas a Compradores/Rentadores.
 
 ----
 
@@ -252,22 +249,21 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 3. ¿Dónde naciste y en qué lugar vives actualmente?
 4. ¿Cuál es tu estado civil?
 5. ¿Podrías describir tu nivel socioeconómico? ¿Te consideras en un nivel alto, intermedio o bajo?
-6. ¿Puedes contarnos un poco sobre ti y tu experiencia con el alquiler o compra de vehículos?
-7. ¿Qué te motivó a buscar una plataforma para alquilar o comprar vehículos?
-8. ¿Qué te gustaría lograr al usar una aplicación para alquilar o comprar vehículos?
-9. ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con alquileres de vehículos?
-10. ¿Qué características consideras más importantes en una aplicación para alquilar o comprar vehículos?
-11. ¿Qué nivel de interacción y comunicación esperas tener con los propietarios o vendedores de los vehículos?
-12. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
-13. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
-14. ¿Cuál ha sido tu experiencia con la seguridad y protección en el alquiler de vehículos?
-15. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de alquiler o compra de vehículos?
+6. ¿Puedes contarnos un poco sobre ti y tu experiencia con el renta o compra de vehículos?
+7. ¿Qué te motivó a buscar una aplicación para rentar o comprar vehículos?
+8. ¿Qué te gustaría lograr al usar una aplicación para rentar o comprar vehículos?
+9. ¿Qué dificultades o problemas has encontrado en tus experiencias anteriores con rentas de vehículos?
+10. ¿Qué características consideras más importantes en una aplicación para rentar o comprar vehículos?
+11. ¿Qué métodos de pago prefieres para realizar transacciones en línea?
+12. ¿Cómo te gustaría recibir notificaciones sobre tus reservas y el estado de los vehículos?
+13. ¿Cuál ha sido tu experiencia con la seguridad y protección en la renta de vehículos?
+14. ¿Qué mejoras o características adicionales crees que podrían mejorar tu experiencia al usar una aplicación de renta o compra de vehículos?
 
 - **Preguntas Complementarias:**
 
-1. ¿Cómo has manejado el alquiler o la compra de vehículos en el pasado?
-2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de alquiler o compra?
-3. ¿Tienes alguna preferencia particular en cuanto a la plataforma o tecnología que se utiliza para acceder a la aplicación?
+1. ¿Cómo has manejado la renta o compra de vehículos en el pasado?
+2. ¿Qué tipo de soporte o asistencia esperas recibir durante el proceso de renta o compra?
+3. ¿Tienes alguna preferencia particular en cuanto a la aplicación o tecnología que se utiliza para acceder a la aplicación?
 4. ¿Cómo prefieres gestionar la búsqueda y reserva de vehículos en una aplicación?
 5. ¿Qué tipo de información te gustaría ver en las descripciones de los vehículos?
 
@@ -275,26 +271,26 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 
 ### 2.2.2. Registro de entrevistas
 
-**Entrevista a estudiante universitario que posee un vehículo menor.**
+**Entrevista a Universitario.**
 
 | **Entrevista 1**        | **Abel Andrés Valle Zuta**         | 
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
-| <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la plataforma le facilita el proceso de alquilar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
+| <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la aplicación le facilita el proceso de rentar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
 | <center>Timing: 0:00-4:57 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
-| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere alquilarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
+| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere rentarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
 | <center>Timing: 4:58-10:04 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Rímac</center>  | 
-| <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora **EcoMovil** porque le proporciona una solución para aprovechar un vehículo menor que no utiliza. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler a través de nuestra web. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen el alquiler.</center>  | 
+| <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora **EcoMovil** porque le proporciona una solución para aprovechar un vehículo menor que no utiliza. Le interesa nuestra metodología para facilitar la renta y venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de renta a través de nuestra aplicación. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes rentan y quienes ofrecen la renta.</center>  | 
 | <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
-**Entrevista a usuarios que alquilan o compran vehículos a través de la aplicación.**
+**Entrevista a Compradores/Rentadores.**
 
 | **Entrevista 1** | **Camila de Jesus Perez Novoa** | 
 |:---------------:|:-------------------------------:|
@@ -305,37 +301,37 @@ Preguntas dirigidas a usuarios que alquilan o compran vehículos a través de la
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
-| <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, que vive en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas al usar aplicaciones de alquiler de vehículos. Destaca que su principal motivo para usar estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la plataforma. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de alquiler de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center> |
+| <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, que vive en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas al usar aplicaciones de renta de vehículos. Destaca que su principal motivo para usar estos servicios fue porque quería recorrer distancias medias y poder disfrutar del paisaje. Ella valora que en estas aplicaciones exista una amplia gama de vehículos disponibles y soporte rápido en la aplicación. Nos contó que tuvo una mala experiencia debido a un cobro inesperado al usar su tarjeta de crédito en una aplicación de renta de vehículos. Y, por último, sugirió mejoras como opciones de personalización del vehículo para poder añadir comodidades extras como cascos, soportes para teléfono, etc.</center> |
 | <center>Timing: 20:02-25:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
-| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de alquilar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, como el uso de tarjetas de crédito, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el propietario para discutir detalles del alquiler, conocer el estado del vehículo y poder dejar una valoración.</center> |
+| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para recabar información valiosa para nuestro proyecto, expresó que la idea de rentar vehículos menores a través de una aplicación es innovadora, especialmente cuando se trata de opciones que benefician al medio ambiente. Además, destacó la conveniencia de los métodos de pago, por su rapidez y eficiencia. Finalmente, mencionó que le gustaría tener la posibilidad de comunicarse directamente con el universitario para discutir detalles de la renta, conocer el estado del vehículo y poder dejar una valoración.</center> |
 | <center>Timing: 25:02-29:34 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 ### 2.2.3. Análisis de entrevistas
 
-**Análisis del segmento de estudiantes universitarios que poseen un vehículo menor**
+**Análisis del segmento Universitario.**
 
-Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar el alquiler y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la plataforma optimiza el proceso de alquilar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
+Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la plataforma optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
 
-Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere la incorporación de promociones u ofertas para atraer a más arrendatarios y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre arrendadores y arrendatarios, como se indicó en la tercera entrevista, para hacer el proceso de alquiler más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de los alquileres. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
+Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere la incorporación de promociones u ofertas para atraer a más arrendatarios y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre arrendadores y arrendatarios, como se indicó en la tercera entrevista, para hacer el proceso de renta más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de los rentas. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
 
-**Análisis del segmento de usuarios que alquilan o compran vehículos a través de la aplicación**
+**Análisis del segmento de Compradores/Rentadores.**
 
-El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de personalización de vehículos, como cascos y soporte para teléfonos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, lo que indica una preferencia por experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios y evitar cargos inesperados. 
+El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de personalización de vehículos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, lo que indica una preferencia por experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios y evitar cargos inesperados. 
 
-Un 67% también valora positivamente la atención al cliente y la posibilidad de comunicarse directamente con el propietario del vehículo, indicando que una comunicación efectiva es crucial para una experiencia de alquiler satisfactoria. Finalmente, todos los entrevistados consideran que las ventajas ambientales del servicio son importantes, lo que refleja un alto grado de conciencia y aprecio por el impacto positivo en el medio ambiente. 
+Un 67% también valora positivamente la atención al cliente y la posibilidad de comunicarse directamente con el universitario, indicando que una comunicación efectiva es crucial para una experiencia de alquiler satisfactoria. Finalmente, todos los entrevistados consideran que las ventajas ambientales del servicio son importantes, lo que refleja un alto grado de conciencia y aprecio por el impacto positivo en el medio ambiente. 
 
 Además, algunos usuarios sugirieron la inclusión de características adicionales, como opciones de seguro más flexibles y mejoras en el proceso de devolución del vehículo, para aumentar la satisfacción general y la confianza en el servicio.
 
 ## 2.3. Needfinding
 
-- Estudiante universitario que posee un vehículo menor.
+- Universitario.
 
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
-- Usuarios que alquilan o compran vehículos a través de la aplicación.
+- Compradores/Rentadores.
 
 ![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
 
@@ -347,10 +343,10 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Estudiante Universitario</b>
+            <b>Universitario</b>
         </td>
         <td colspan=2>
-            <b>Usuario que Alquila o Compra</b>
+            <b>Compradores/Rentadores</b>
         </td>
     </tr>
     <tr>
@@ -423,7 +419,7 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
     </tr>
     <tr>
         <td>
-            Buscar y alquilar vehículos
+            Buscar y rentar vehículos
         </td>
         <td>
             Never
@@ -584,33 +580,33 @@ A pesar de sus diferencias, ambos comparten una valoración común en la importa
 
 ### 2.3.3. User Journey Mapping 
 
-En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y Usuarios que alquilan o compran. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
+En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y compradores/rentadores. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
 
-- Segmento estudiante universitario que posee un vehículo menor:
+- Segmento Universitario:
   
 ![User journey Mappign Alex](/assets/Chapter-2/JourneyMapAlex.png)
 
-- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
+- Segmento Compradores/Rentadores:
 
 ![User Journey Mapping Camila](/assets/Chapter-2/JourneyMapCamila.png)
 
 ### 2.3.4. Empathy Mapping
 
-- Segmento estudiante universitario que posee un vehículo menor:
+- Segmento Universitario:
   
 ![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
-- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
+- Segmento Compradores/Rentadores:
   
 ![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
-- Segmento estudiante universitario que posee un vehículo menor:
+- Segmento Universitario:
   
 ![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
 
-- Segmento usuarios que alquilan o compran vehículos a través de la aplicación:
+- Segmento Compradores/Rentadores:
   
 ![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
 
@@ -618,32 +614,32 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - **Urban Mobility**: Se refiere a los medios de transporte que facilitan el desplazamiento dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas y otros vehículos alternativos.
 
-- **Owner**: Usuario que posee un vehículo y lo publica en la plataforma para alquiler o venta, con el objetivo de obtener un beneficio económico.
+- **Owner**: Usuario que posee un vehículo y lo publica en la aplicación para rentar o vender, con el objetivo de obtener un beneficio económico.
 
-- **Renter**: Persona que utiliza la plataforma para alquilar temporalmente un vehículo disponible, pagando una tarifa al Owner.
+- **Renter**: Persona que utiliza la plataforma para rentar temporalmente un vehículo disponible, pagando una tarifa al Owner.
 
 - **Renting**: Proceso mediante el cual un Renter paga una cantidad específica por el uso temporal de un vehículo al Owner.
 
-- **Advanced Search**: Funcionalidad en la plataforma que permite a los usuarios filtrar y encontrar vehículos específicos según criterios como ubicación, tipo de vehículo y precio.
+- **Advanced Search**: Funcionalidad en la aplicación que permite a los usuarios filtrar y encontrar vehículos específicos según criterios como ubicación, tipo de vehículo y precio.
 
-- **Temporary Insurance**: Opción disponible para los Renters al alquilar un vehículo, que ofrece cobertura contra accidentes o daños durante el período de alquiler.
+- **Temporary Insurance**: Opción disponible para los Renters al rentar un vehículo, que ofrece cobertura contra accidentes o daños durante el período de renta.
 
 - **Review and Rating**: Sección en la que los usuarios pueden calificar y dejar comentarios sobre su experiencia con un vehículo o Owner, proporcionando retroalimentación que ayuda a otros usuarios a tomar decisiones informadas.
 
 - **Subscription Plan**: Diferentes niveles de membresía que los Owners pueden adquirir para acceder a beneficios adicionales en la plataforma.
 
-- **Flexible Income**: Ingresos generados por los Owners al alquilar sus vehículos, permitiendo una fuente de ingresos variable.
+- **Flexible Income**: Ingresos generados por los Owners al rentar sus vehículos, permitiendo una fuente de ingresos variable.
 
-- **Marketplace**: Área en la plataforma donde los usuarios pueden interactuar para alquilar o comprar vehículos.
+- **Marketplace**: Área en la aplicación donde los usuarios pueden interactuar para rentar o comprar vehículos.
 
 - **Eco-Friendly**: Características de ciertos vehículos en la aplicación que reducen el impacto ambiental.
 
 - **Gamification**: Sistema que incorpora elementos de juego en la aplicación para motivar a los usuarios a realizar ciertas acciones.
 
-- **Cachimbo Plan**: Plan básico para propietarios que permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
+- **Cachimbo Plan**: Plan básico para universitarios que permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
 
-- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, soporte prioritario y otros beneficios.
+- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, con soporte prioritario y otros beneficios.
 
-- **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la plataforma.
+- **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la aplicación.
 
-- **Forum**: Sección de la plataforma donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
+- **Forum**: Sección de la aplicación donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
