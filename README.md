@@ -234,6 +234,7 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 
 # Anexos  
 
-Enlace para acceder a la Landing Page EcoMovil:
+Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+<br>
 <br>
 Video de Presentación TB1:
