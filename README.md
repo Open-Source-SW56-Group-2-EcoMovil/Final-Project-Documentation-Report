@@ -99,7 +99,7 @@ En la entrega del segundo sprint, se desplegó un Landing Page completamente fun
 
 Finalizando la implementación de los cambios y fusionándolos en la rama principal (`main`).
 
-![Merged-Picture](./assets/perfil/merged1.png)
+![Main-Capture](./assets/perfil/main.png)
 
 Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
 
