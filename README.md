@@ -89,6 +89,40 @@ Link: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+En este Sprint 1, el enfoque principal ha sido la creación del Landing Page de la aplicación EcoMovil, por lo que no se ha avanzado en la documentación de los servicios. No obstante, está previsto que la documentación de los servicios se desarrolle en los próximos sprints.
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En la entrega del segundo sprint, se desplegó un Landing Page completamente funcional, cumpliendo con las user stories asignadas para este entregable. Durante el Sprint 1, se lanzó la primera versión del Landing Page, que fue alojada en GitHub Pages. A continuación, se presentan las evidencias del despliegue del Landing Page.
+
+- Instrucciones para acceder al Landing Page:
+
+Finalizando la implementación de los cambios y fusionándolos en la rama principal (`main`).
+
+![Merged-Picture](./assets/perfil/merged1.png)
+
+Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
+
+![Seeting-Capture](./assets/perfil/settingandpages.png)
+
+Seleccionamos la rama `gh-pages` como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
+
+![GhPages-Capture](./assets/perfil/ghpages.png)
+
+Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
+
+- Imágenes de la pantalla del Landing Page:
+
+![page1](./assets/perfil/ecomovil1.png)  
+
+![page2](./assets/perfil/ecomovil2.png) 
+
+![page3](./assets/perfil/ecomovil3.png) 
+
+![page4](./assets/perfil/ecomovil4.png) 
+
+![page5](./assets/perfil/ecomovil5.png) 
+
+![page6](./assets/perfil/ecomovil6.png) 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
