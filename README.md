@@ -126,3 +126,19 @@ Accedemos al dominio del Landing Page, verificamos que todo esté correctamente 
 ![page6](./assets/perfil/ecomovil6.png) 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno | Actividad | 
+|-----------|-----------|
+| Calisaya Sánchez, Juan Jesús | Elaboración de las secciones de "Planes" ("plans"). | 
+| Gallo Quintana, David Ivanoff | Diseño de la sección "Únete" ("join") y la sección principal ("main"). | 
+| Hidalgo Lopez, Mathias Adriano | Desarrollo de la sección "Quién Puede Usar" ("who-can-use"). | 
+| Oneglio De Paz, Beth Shantal | Desarrollo de la sección "Acerca de" y el pie de página ("footer") de la página de inicio. | 
+| Vasquez Goicochea, Erick Alessander | Creación del encabezado ("header") y la sección "Cómo Funciona" ("how-it-works"). | 
+
+Repositorio Landing-Page-EcoMovil:
+
+![Insights](./assets/perfil/insightlanding.png) 
+
+Agregar imagen
