@@ -186,3 +186,5 @@ Rental Bounded Context
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+![DataBaseDiagram](./assets/chapter-4/DataBaseDiagram.png)
