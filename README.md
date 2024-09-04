@@ -78,6 +78,124 @@ Link: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 ### 5.2.1.1. Sprint Planning 1
 
 ### 5.2.1.2. Sprint Backlog 1
+En esta sección se presentan las tareas realizadas durante el 1er sprint, junto con una captura de pantalla de Trello y un enlace al tablero.
+
+Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c87fdf497ae1fd07dBECD9493/grupo-2-ecomovil
+
+![Trello](./assets/perfil/trello.png)
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la landing page </th>
+      <th> W01  </th>
+     <th> Navbar Section</th>
+     <th> Desarrollar el navbar de la landing page de EcoMovil con distintas opciones que nos redirige a otros apartados  </th>
+     <th> 1  </th>
+     <th> Erick Vasquez </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la landing page </th>
+      <th> W03  </th>
+     <th> Hero Section </th>
+     <th> Agregar un apartado con una imagen y un título llamativo al ingresar al landing page de EcoMovil   </th>
+     <th> 0.8  </th>
+     <th> David Gallo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la landing page </th>
+      <th> W04  </th>
+     <th> Hero Join Section</th>
+     <th> Implementar seccion donde se agrega el email del usuario </th>
+     <th> 0.7  </th>
+     <th> David Gallo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> W05  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección del footer con las direcciones a al información del equipo y los términos de nuestra página web  </th>
+     <th> 1.2  </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03</th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> W06  </th>
+     <th> About us Section </th>
+     <th> Implementar la sección About us donde se muestra la información sobre nuestros equipo </th>
+     <th> 0.8  </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+    </tr>
+   <tr>
+      <th> US04</th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page</th>
+      <th> W07  </th>
+     <th> Beneficios Section </th>
+     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales de nuestra startup.   </th>
+     <th> 0.7  </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04</th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
+      <th> W08  </th>
+     <th> PLan Section </th>
+     <th> Implementar la sección Planes donde se muestran los planes que ofrecemos con sus respectivas funciones añadidas.   </th>
+     <th> 0.8  </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> W09  </th>
+     <th> Contact Section </th>
+     <th> Agregar información del equipo para que los usuarios puedan contactarnos.   </th>
+     <th> 0.5 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+        <th> US06 </th>
+         <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+          <th> W10  </th>
+         <th> Landing page responsive Section </th>
+         <th> Agregar la funcionalidad de responsividad a toda la página web.   </th>
+         <th> 0.6 </th>
+         <th> Juan Calisaya </th> 
+         <th> Done </th>
+    </tr>
+
+</table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
