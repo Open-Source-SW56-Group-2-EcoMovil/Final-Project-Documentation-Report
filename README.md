@@ -47,8 +47,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td align="center" rowspan="2"><strong>Perfil del Marketing</td>
       <td align="center"><strong>Mercado Objetivo</strong></td>
-      <td align="center">• Universitario <br>
-<br>• Compradores/Rentadores </td>
+      <td align="center"> Universitarios y compradores/rentadores. </td>
       <td align="center">Usuarios urbanos, turistas, entusiastas de la movilidad sostenible, empresas, gobiernos locales, y comunidades residenciales.</td>
       <td align="center">Viajeros y turistas, profesionales de negocios, anfitriones de propiedades y experiencias, familias y grupos.</td>
       <td align="center">Usuarios urbanos, turistas, defensores de la movilidad sostenible, familias, y colaboradores municipales.</td>
@@ -271,7 +270,7 @@ Preguntas dirigidas a Compradores/Rentadores.
 
 ### 2.2.2. Registro de entrevistas
 
-**Entrevista a Universitario.**
+**Entrevista a Universitarios.**
 
 | **Entrevista 1**        | **Abel Andrés Valle Zuta**         | 
 |:-------------------:|:-------------------:|
@@ -311,13 +310,13 @@ Preguntas dirigidas a Compradores/Rentadores.
 
 ### 2.2.3. Análisis de entrevistas
 
-**Análisis del segmento Universitario.**
+**Análisis del segmento Universitario**
 
 Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la plataforma optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
 
 Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere la incorporación de promociones u ofertas para atraer a más arrendatarios y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre arrendadores y arrendatarios, como se indicó en la tercera entrevista, para hacer el proceso de renta más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de los rentas. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
 
-**Análisis del segmento de Compradores/Rentadores.**
+**Análisis del segmento de Compradores/Rentadores**
 
 El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de personalización de vehículos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, lo que indica una preferencia por experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios y evitar cargos inesperados. 
 
@@ -327,11 +326,11 @@ Además, algunos usuarios sugirieron la inclusión de características adicional
 
 ## 2.3. Needfinding
 
-- Universitario.
+- Segmento Universitario:
 
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
-- Compradores/Rentadores.
+- Segmento Compradores/Rentadores:
 
 ![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
 
@@ -343,7 +342,7 @@ Se presenta el Task Matrix, una tabla que muestra las tareas realizadas por los 
     <tr>
         <td></td>
         <td colspan=2>
-            <b>Universitario</b>
+            <b>Universitarios</b>
         </td>
         <td colspan=2>
             <b>Compradores/Rentadores</b>
