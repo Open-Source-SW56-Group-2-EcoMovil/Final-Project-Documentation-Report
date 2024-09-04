@@ -54,7 +54,7 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     </tr>
     <tr>
       <td align="center"><strong>Estrategias de Marketing</strong></td>
-      <td align="center">Proporcionar una prueba gratuita a los usuarios. (Estrategias de Incentivo)</td>
+      <td align="center">Proporcionar una prueba gratuita a los usuarios.</td>
       <td align="center">• Promociones y descuentos especiales.<br>
 <br>• Campañas en redes sociales y medios digitales.</td>
       <td align="center">• Publicidad digital y en redes sociales.<br></td>
@@ -310,13 +310,13 @@ Preguntas dirigidas a Compradores/Rentadores.
 
 ### 2.2.3. Análisis de entrevistas
 
-**Análisis del segmento Universitario**
+**Análisis del segmento universitario**
 
 Los entrevistados valoran altamente la aplicación EcoMovil por su capacidad para facilitar la renta y la venta de vehículos menores inactivos, permitiéndoles generar ingresos adicionales y contribuir a la movilidad sostenible. El 100% de los usuarios aprecian cómo la plataforma optimiza el proceso de rentar o vender estos vehículos, destacando su utilidad para maximizar el valor de los recursos no utilizados. La facilidad de uso y la funcionalidad para registrar y gestionar los vehículos son aspectos especialmente valorados.
 
 Sin embargo, se identificaron áreas de mejora. Un 67% de los usuarios, como Rodrigo, sugiere la incorporación de promociones u ofertas para atraer a más arrendatarios y mejorar la visibilidad del vehículo. Además, un 33% menciona la necesidad de optimizar la comunicación entre arrendadores y arrendatarios, como se indicó en la tercera entrevista, para hacer el proceso de renta más eficiente. También se destacó la importancia de incluir herramientas que permitan una gestión más eficiente de las reservas y el seguimiento de los rentas. En general, aunque EcoMovil es percibida como una herramienta beneficiosa, mejorar la interacción, las ofertas y las herramientas de gestión podría potenciar aún más la experiencia del usuario.
 
-**Análisis del segmento de Compradores/Rentadores**
+**Análisis del segmento de compradores/rentadores**
 
 El 100% de los entrevistados valoran la presencia de un mapa interactivo y las opciones de personalización de vehículos. El 67% prefiere usar el servicio para disfrutar del paisaje y recorrer distancias medias, lo que indica una preferencia por experiencias agradables y prácticas de movilidad urbana. No obstante, un 33% ha tenido experiencias desfavorables con cobros imprevistos, lo que resalta la importancia de mantener la claridad en los precios y evitar cargos inesperados. 
 
@@ -326,7 +326,7 @@ Además, algunos usuarios sugirieron la inclusión de características adicional
 
 ## 2.3. Needfinding
 
-- Segmento Universitario:
+- Segmento Universitarios:
 
 ![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
 
@@ -581,7 +581,7 @@ A pesar de sus diferencias, ambos comparten una valoración común en la importa
 
 En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y compradores/rentadores. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
 
-- Segmento Universitario:
+- Segmento Universitarios:
   
 ![User journey Mappign Alex](/assets/Chapter-2/JourneyMapAlex.png)
 
@@ -591,7 +591,7 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ### 2.3.4. Empathy Mapping
 
-- Segmento Universitario:
+- Segmento Universitarios:
   
 ![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
@@ -601,7 +601,7 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ### 2.3.5. As-is Scenario Mapping
 
-- Segmento Universitario:
+- Segmento Universitarios:
   
 ![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
 
