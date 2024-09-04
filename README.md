@@ -222,20 +222,15 @@ Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega d
 
 # Bibliografía
 
-Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163.<br>
-http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
+Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
 
-Blog de la Universidad de San Ignacio de Loyola. (2021). Créditos educativos: Una alternativa para poner fin a la deserción universitaria.<br>
-Recuperado de https://blogs.usil.edu.pe/novedades/creditos-educativos-una-alternativa-para-poner-fin-la-desercion-universitaria#:~:text=Según%20el%20Ministerio%20de%20Educación,2019%20a%2023.2%20%%20en%202021
+Blog de la Universidad de San Ignacio de Loyola. (2021). Créditos educativos: Una alternativa para poner fin a la deserción universitaria. Recuperado de https://blogs.usil.edu.pe/novedades/creditos-educativos-una-alternativa-para-poner-fin-la-desercion-universitaria#:~:text=Según%20el%20Ministerio%20de%20Educación,2019%20a%2023.2%20%%20en%202021
 
-Angular. (n.d.). Routing overview.<br>
-Recuperado de https://v17.angular.io/guide/routing-overview
+Angular. (n.d.). Routing overview. Recuperado de https://v17.angular.io/guide/routing-overview
 
-FontAwesome. (n.d.). FontAwesome documentation.<br> 
-Recuperado de https://docs.fontawesome.com/
+FontAwesome. (n.d.). FontAwesome documentation. Recuperado de https://docs.fontawesome.com/
 
-Tailwind CSS. (n.d.). Tailwind CSS documentation.<br> 
-Recuperado de https://v2.tailwindcss.com/docs
+Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailwindcss.com/docs
 
 # Anexos  
 
