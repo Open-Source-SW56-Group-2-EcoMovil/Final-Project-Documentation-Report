@@ -5,13 +5,13 @@ En esta sección se ofrece una descripción del startup y se detallan los perfil
 
 ### 1.1.1. Descripción de la startup.
 
-EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles de movilidad urbana y el auge de los vehículos eléctricos y ecológicos. A través de una aplicación, facilitamos el acceso a medios de transporte como bicicletas, scooters, skateboards y motos eléctricas, conectando a "Compradores/Rentadores" con aquellos que tienen estos vehículos disponibles.
+EcoMovil surge en respuesta a la creciente necesidad de alternativas sostenibles de movilidad urbana y el auge de los vehículos ecológicos. A través de una aplicación, facilitamos el acceso a medios de transporte como bicicletas, scooters, skateboards y motos eléctricas, conectando a compradores/rentadores con aquellos que tienen estos vehículos disponibles.
 
-Lo que nos diferencia de otras plataformas es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a "Universitarios", quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
+Lo que nos diferencia de otras aplicaciones es que no solo promovemos una alternativa ecológica para la movilidad, sino que también brindamos oportunidades de ingresos flexibles a universitarios, quienes pueden rentar o vender sus vehículos. Además, nuestra aplicación integra funcionalidades que aseguran una experiencia segura, eficiente y divertida para los usuarios.
 
-**Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una plataforma digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para estudiantes universitarios.
+**Misión:** Facilitar el acceso a una movilidad urbana sostenible, conectando a las personas con vehículos ecológicos a través de una plataforma digital eficiente, contribuyendo a la reducción de la contaminación, y brindando oportunidades de ingresos para universitarios.
 
-**Visión:** Convertirnos en una plataforma líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
+**Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
 **Logotipo de la Startup:**<br>
 
@@ -49,15 +49,15 @@ Esta sección aplica el proceso de Lean UX y detalla cómo se abordará la resol
 
 En la última década, las ciudades han experimentado un cambio en el transporte debido a la creciente conciencia sobre la sostenibilidad y la innovación tecnológica. La popularidad de alternativas ecológicas como bicicletas y scooters eléctricos ha crecido, reflejando la demanda de soluciones de transporte más ágiles y responsables.
 
-Ademas, para la población de la ciudad de Lima metropolitana, el problema más agudo que presentan es el ocasionado por el transporte urbano, caracterizado por la informalidad, ineficiencia y baja calidad de servicio, calificado como transporte inseguro, con una alta tasa de accidentalidad y generador de contaminación ambiental, causante de congestión vehicular (MTC, 2013), y señalado por la OMS como una de las ciudades de Latinoamérica con mayor contaminación sonora (Solís Fonseca, Salazar Bravo, Romero Carrión, & Solís Salazar, 2013).
+Ademas, para la población de la ciudad de Lima metropolitana, el problema más agudo que presentan es el ocasionado por el transporte urbano, caracterizado por la informalidad, ineficiencia y baja calidad de servicio, calificado como transporte inseguro, con una alta tasa de accidentalidad y generador de contaminación ambiental, causante de congestión vehicular (MTC, 2013), y señalado por la OMS como una de las ciudades de Latinoamérica con mayor contaminación sonora. (Solís Fonseca, Salazar Bravo, Romero Carrión, & Solís Salazar, 2013)
 
 Ante este panorama, la necesidad de alternativas de movilidad más ágiles, sostenibles y accesibles se ha vuelto apremiante. En particular, las bicicletas, scooters, skateboards y motos eléctricas se presentan como soluciones viables que no solo ayudan a reducir la huella de carbono, sino que también fomentan un estilo de vida más activo y saludable.
 
-Según el Ministerio de Educación, la tasa de deserción acumulada en la educación superior universitaria pasó de 19.3 % en 2019 a 23.2 % en 2021. Un incremento explicable por el covid-19, pero que indica que muchos de los estudiantes requieren un plus de confianza de parte del sector financiero para poder continuar sus estudios en entidades privadas.(Universidad San Ignacio de Loyola. [USIL], s/f)
+Según el Ministerio de Educación, la tasa de deserción acumulada en la educación superior universitaria pasó de 19.3 % en 2019 a 23.2 % en 2021. Un incremento explicable por el Covid-19, pero que indica que muchos de los estudiantes requieren un plus de confianza de parte del sector financiero para poder continuar sus estudios en entidades privadas. (Universidad San Ignacio de Loyola. [USIL], s/f)
 
-Entonces, a medida que aumenta la demanda por movilidad ecológica, también surge la oportunidad de abordar la necesidad de ingresos flexibles entre los estudiantes universitarios. Con el costo de vida en alza y las presiones académicas, muchos jóvenes buscan fuentes de ingresos que no afecten sus estudios, aprovechando la economía digital para generar ingresos mediante la venta o alquiler de bienes y servicios.
+Entonces, a medida que aumenta la demanda por movilidad ecológica, también surge la oportunidad de abordar la necesidad de ingresos flexibles entre los universitarios. Con el costo de vida en alza y las presiones académicas, muchos jóvenes buscan fuentes de ingresos que no afecten sus estudios, aprovechando la economía digital para generar ingresos mediante la venta o alquiler de bienes y servicios.
 
-Nuestra aplicación tiene como objetivo transformar la movilidad en Lima y empoderar a los estudiantes universitarios al ofrecerles una plataforma para generar ingresos de manera flexible. Conectamos a "Universitarios" con "Compradores/Rentadores", creando un ecosistema que integra sostenibilidad y emprendimiento. Buscamos reducir la huella de carbono y mejorar el bienestar económico de los estudiantes mediante herramientas de monetización justa y elementos de gamificación. Cada trayecto realizado con un vehículo eléctrico a través de nuestra plataforma representa un avance hacia el equilibrio entre las necesidades económicas y el compromiso con el medio ambiente.
+Nuestra aplicación tiene como objetivo transformar la movilidad en Lima y empoderar a los universitarios al ofrecerles una aplicación para generar ingresos de manera flexible. Conectamos a universitarios con compradores/rentadores, creando un ecosistema que integra sostenibilidad y emprendimiento. Buscamos reducir la huella de carbono y mejorar el bienestar económico de los estudiantes mediante herramientas de monetización justa y elementos de gamificación. Cada trayecto realizado con un vehículo eléctrico a través de nuestra aplicación representa un avance hacia el equilibrio entre las necesidades económicas y el compromiso con el medio ambiente.
 
 ### Problemática (5Ws y 2Hs)
 
@@ -65,7 +65,7 @@ Nuestra aplicación tiene como objetivo transformar la movilidad en Lima y empod
 
 #### ¿Cuál es el problema?
 
-No hay ninguna aplicación que combine la movilidad sostenible con la posibilidad de alquilar o vender vehículos menores, mientras ofrece a los "Universitarios" una fuente de ingresos flexible. Los "Universitarios" enfrentan dificultades para encontrar formas de ganar dinero que se adapten a sus horarios, y la ciudad enfrenta problemas de transporte y contaminación.
+No hay ninguna aplicación que combine la movilidad sostenible con la posibilidad de alquilar o vender vehículos menores, mientras ofrece a los universitarios una fuente de ingresos flexible. Los universitarios enfrentan dificultades para encontrar formas de ganar dinero que se adapten a sus horarios, y la ciudad enfrenta problemas de transporte y contaminación.
 
 ### When (Cuándo)
 
@@ -83,23 +83,23 @@ El problema se presenta principalmente en Lima, una ciudad con alta congestión 
 
 #### ¿Quiénes están involucrados?
 
-"Universitarios" que tienen vehículos menores como bicicletas, scooters o patinetas y desean generar ingresos adicionales alquilándolos o vendiéndolos, junto con "Compradores/Rentadores" a través de la aplicación, que incluyen trabajadores, turistas y cualquier persona en Lima que busca opciones de transporte más económicas, flexibles y sostenibles.
+Universitarios que tienen vehículos menores como bicicletas, scooters o patinetas y desean generar ingresos adicionales alquilándolos o vendiéndolos, junto con compradores/rentadores a través de la aplicación, que incluyen trabajadores, turistas y cualquier persona en Lima que busca opciones de transporte más económicas, flexibles y sostenibles.
 
 #### ¿A quién le sucede el problema?
 
-El problema afecta principalmente a los "Universitarios" que buscan monetizar sus vehículos menores para obtener ingresos adicionales sin comprometer sus estudios. También impacta a los "Compradores/Rentadores" a través de la aplicación, como trabajadores y turistas, quienes enfrentan desafíos relacionados con la congestión y la contaminación, y buscan alternativas de transporte más sostenibles y accesibles.
+El problema afecta principalmente a los universitarios que buscan monetizar sus vehículos menores para obtener ingresos adicionales sin comprometer sus estudios. También impacta a los compradores/rentadores a través de la aplicación, como trabajadores y turistas, quienes enfrentan desafíos relacionados con la congestión y la contaminación, y buscan alternativas de transporte más sostenibles y accesibles.
 
 #### ¿Quién lo utilizará?
 
-Universitarios: Que alquilan o venden sus vehículos menores a través de la aplicación para generar ingresos adicionales.
+- Universitarios: Que rentan o venden sus vehículos menores a través de la aplicación para generar ingresos adicionales.
 
-Compradores/Rentadores: Incluyendo a trabajadores, turistas y personas en general que necesitan soluciones de movilidad prácticas, económicas y ecológicas en Lima.
+- Compradores/Rentadores: Incluyendo a trabajadores, turistas y personas en general que necesitan soluciones de movilidad prácticas, económicas y ecológicas en Lima.
 
 ### Why (Por qué)
 
 #### ¿Cuál es la causa del problema?
 
-La falta de una solución que combine movilidad ecológica con oportunidades de ingresos flexibles limita tanto la capacidad de los "Universitarios" para mejorar su situación económica como la posibilidad de reducir la contaminación y mejorar la movilidad en la ciudad.
+La falta de una solución que combine movilidad ecológica con oportunidades de ingresos flexibles limita tanto la capacidad de los universitarios para mejorar su situación económica como la posibilidad de reducir la contaminación y mejorar la movilidad en la ciudad.
 
 ### ¿Cuáles son las 2H?
 
@@ -121,16 +121,16 @@ Prefieren usar una aplicación móvil o una aplicación web que sea intuitiva, o
 
 #### ¿Cuánto impacta el problema?
 
-El impacto es significativo, ya que contribuye a la alta contaminación y congestión en Lima, además de afectar la calidad de vida de los "Universitarios" que necesitan equilibrar sus estudios con la búsqueda de ingresos adicionales. La falta de soluciones efectivas afecta tanto el bienestar económico de los estudiantes como la sostenibilidad ambiental en la ciudad.
+El impacto es significativo, ya que contribuye a la alta contaminación y congestión en Lima, además de afectar la calidad de vida de los universitarios que necesitan equilibrar sus estudios con la búsqueda de ingresos adicionales. La falta de soluciones efectivas afecta tanto el bienestar económico de los universitarios como la sostenibilidad ambiental en la ciudad.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem statements
 
 #### Problem Statement
 
-Nuestro propósito es desarrollar una aplicación que conecte a "Universitarios" que ya no utilizan sus medios de transporte con aquellos que buscan opciones de movilidad más económicas y ecológicas.
+Nuestro propósito es desarrollar una aplicación que conecte a universitarios que ya no utilizan sus medios de transporte con aquellos que buscan opciones de movilidad más económicas y ecológicas.
 
-Hemos observado que muchos "Universitarios" tienen vehículos como bicicletas, scooters o patinetas que están en desuso, mientras que otros necesitan alternativas de transporte accesibles y sostenibles.
+Hemos observado que muchos universitarios tienen vehículos como bicicletas, scooters o patinetas que están en desuso, mientras que otros necesitan alternativas de transporte accesibles y sostenibles.
 
 Este problema refleja una preocupación creciente por los costos de transporte, el impacto ambiental y la necesidad de mantener un estilo de vida saludable. La pregunta que nos planteamos es:<br>
 
@@ -142,21 +142,21 @@ Este problema refleja una preocupación creciente por los costos de transporte, 
 
 #### Necesidades de los Clientes
 
-**Creemos que nuestros clientes buscan** una solución que combine movilidad sostenible con una fuente de ingresos flexible. Los "Universitarios" necesitan generar ingresos adicionales sin comprometer su tiempo de estudio, mientras que los "Compradores/Rentadores", buscan alternativas de transporte ecológicas y accesibles.
+**Creemos que nuestros clientes buscan** una solución que combine movilidad sostenible con una fuente de ingresos flexible. Los universitarios necesitan generar ingresos adicionales sin comprometer su tiempo de estudio, mientras que los compradores/rentadores, buscan alternativas de transporte ecológicas y accesibles.
 
 #### Solución Propuesta
 
-**Nuestra aplicación web está** diseñada para conectar a los "Universitarios" que poseen vehículos menores (como bicicletas, scooters, skateboards) con personas interesadas en rentarlos o comprarlos. Esto permitirá a los "Universitarios" monetizar los vehículos que no utilizan, al mismo tiempo que ofrece a los "Compradores/Rentadores" alternativas de transporte más ecológicas y económicas.
+**Nuestra aplicación web está** diseñada para conectar a los universitarios que poseen vehículos menores (como bicicletas, scooters, skateboards) con personas interesadas en rentarlos o comprarlos. Esto permitirá a los universitarios monetizar los vehículos que no utilizan, al mismo tiempo que ofrece a los compradores/rentadores alternativas de transporte más ecológicas y económicas.
 
 #### Valor Principal
 
-- Para los "Universitarios": Una aplicación que les permite alquilar o vender sus vehículos menores, generando ingresos adicionales de manera flexible y sin interferir con sus horarios de estudio.
+- Para los Universitarios: Una aplicación que les permite alquilar o vender sus vehículos menores, generando ingresos adicionales de manera flexible y sin interferir con sus horarios de estudio.
 - Para los Compradores/Rentadores: Acceso a vehículos ecológicos que facilitan la movilidad en la ciudad, reduciendo la huella de carbono y mejorando la sostenibilidad del transporte urbano.
 
 #### Beneficios Adicionales
 
 - Sostenibilidad Ambiental: La aplicación contribuye a la reducción de la contaminación urbana al promover el uso de vehículos ecológicos.
-- Flexibilidad Económica: Los "Universitarios" pueden adaptar sus ingresos a sus horarios y necesidades personales.
+- Flexibilidad Económica: Los universitarios pueden adaptar sus ingresos a sus horarios y necesidades personales.
 - Facilidad de Acceso: Los usuarios tienen una forma sencilla y eficiente de encontrar y utilizar alternativas de transporte sostenibles.
 - Simplicidad y Práctica: La aplicación será diseñada para ser simple y práctica, ahorrando tiempo a los usuarios y facilitando un proceso eficiente tanto para alquilar como para buscar vehículos.
 
@@ -166,50 +166,50 @@ La promoción de la aplicación se realizará a través de redes sociales, campa
 
 #### Modelo de Ingresos
 
-- Suscripciones para "Universitarios": Modelos de suscripción mensual para publicar y destacar vehículos en la plataforma.
+- Suscripciones para Universitarios: Modelos de suscripción mensual para publicar y destacar vehículos en la plataforma.
 - Comisiones por Transacciones: Un porcentaje de las tarifas de alquiler o venta puede ser destinado como comisión para la aplicación.
 
 #### Competencia
 
-Competiremos con otros servicios de renta y venta de vehículos como City Bike Lima, Bee Perú y otras plataformas de movilidad urbana. Nuestra ventaja será la combinación única de sostenibilidad, flexibilidad económica y una interfaz intuitiva diseñada específicamente para "Universitarios". La aplicación será simple y práctica, diseñada para ahorrar tiempo y facilitar el uso.
+Competiremos con otros servicios de renta y venta de vehículos como City Bike Lima, Bee Perú y otras plataformas de movilidad urbana. Nuestra ventaja será la combinación única de sostenibilidad, flexibilidad económica y una interfaz intuitiva diseñada específicamente para universitarios. La aplicación será simple y práctica, diseñada para ahorrar tiempo y facilitar el uso.
 
 #### Riesgos Principales
 
-- Adopción del Usuario: La principal preocupación es lograr una base activa de usuarios tanto para alquilar como para poner en alquiler los vehículos.
+- Adopción del Usuario: La principal preocupación es lograr una base activa de usuarios para poner a rentar los vehículos.
 - Satisfacción del Cliente: Es crucial asegurar que la aplicación cumpla con las expectativas en términos de funcionalidad, seguridad y usabilidad.
 
 #### Estrategias para Mitigar Riesgos
 - Desarrollo de Comunidad Activa: Fomentar la participación y el feedback continuo de los usuarios para mejorar la aplicación.
-- Garantizar Seguridad y Fiabilidad: Implementar medidas de seguridad y seguros temporales para proteger tanto a los "Universitarios" como a los "Compradores/Rentadores".
+- Garantizar Seguridad y Fiabilidad: Implementar medidas de seguridad y seguros temporales para proteger tanto a los universitarios como a los compradores/rentadores.
 
 #### User assumptions
 
 #### ¿Quién es el usuario?
 
-- "Universitarios": Se asume que estos usuarios poseen vehículos como bicicletas, scooters o patinetas que no utilizan regularmente y están interesados en generar ingresos adicionales alquilándolos o vendiéndolos a través de la aplicación.
+- Universitarios: Se asume que estos usuarios poseen vehículos como bicicletas, scooters o patinetas que no utilizan regularmente y están interesados en generar ingresos adicionales alquilándolos o vendiéndolos a través de la aplicación.
 
-- "Compradores/Rentadores": Este grupo incluye residentes de Lima, como turistas o trabajadores, que buscan opciones de transporte más ecológicas, económicas y accesibles, tales como bicicletas, scooters y motos eléctricas.
+- Compradores/Rentadores: Este grupo incluye residentes de Lima, como turistas o trabajadores, que buscan opciones de transporte más ecológicas, económicas y accesibles, tales como bicicletas, scooters y motos eléctricas.
 
 #### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
 
-- "Universitarios": La aplicación les brinda la oportunidad de monetizar vehículos que no están utilizando, ayudando a cubrir sus gastos y aliviar la presión financiera, todo ello sin interferir en sus horarios de estudio.
-- "Compradores/Rentadores": La aplicación les ofrece una alternativa de transporte más sostenible y económica, que puede mejorar su movilidad diaria y reducir su impacto ambiental en la ciudad.
+- Universitarios: La aplicación les brinda la oportunidad de monetizar vehículos que no están utilizando, ayudando a cubrir sus gastos y aliviar la presión financiera, todo ello sin interferir en sus horarios de estudio.
+- Compradores/Rentadores: La aplicación les ofrece una alternativa de transporte más sostenible y económica, que puede mejorar su movilidad diaria y reducir su impacto ambiental en la ciudad.
 
 #### ¿Qué problema resuelve nuestro producto?
 
-- Para los "Universitarios": Resuelve el problema de generar ingresos adicionales de manera flexible, sin comprometer su tiempo de estudio, al proporcionar una forma sencilla de rentar o vender los vehículos que no usan.
-- Para los "Compradores/Rentadores": Ofrece una solución de transporte más ecológica y económica, abordando la falta de opciones accesibles y contribuyendo a la reducción de la contaminación y la congestión urbana.
+- Para los Universitarios: Resuelve el problema de generar ingresos adicionales de manera flexible, sin comprometer su tiempo de estudio, al proporcionar una forma sencilla de rentar o vender los vehículos que no usan.
+- Para los Compradores/Rentadores: Ofrece una solución de transporte más ecológica y económica, abordando la falta de opciones accesibles y contribuyendo a la reducción de la contaminación y la congestión urbana.
 
 #### ¿Cuándo y cómo es usado nuestro producto?
 
-- "Universitarios": Usan la aplicación cuando tienen un vehículo disponible que desean rentar o vender. Pueden acceder a la aplicación en cualquier momento para gestionar sus publicaciones y revisar las solicitudes de alquiler o compra.
-- "Compradores/Rentadores": Usan la aplicación para buscar y alquilar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles y económicas.
+- Universitarios: Usan la aplicación cuando tienen un vehículo disponible que desean rentar o vender. Pueden acceder a la aplicación en cualquier momento para gestionar sus publicaciones y revisar las solicitudes de renta o compra.
+- Compradores/Rentadores: Usan la aplicación para buscar y rentar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles y económicas.
 
 #### ¿Qué características son importantes?
    
-- Valoraciones y Reseñas: Para que los usuarios puedan evaluar la calidad de los vehículos y los servicios de alquiler.
+- Valoraciones y Reseñas: Para que los usuarios puedan evaluar la calidad de los vehículos y los servicios de renta.
 - Búsqueda Avanzada por Filtro: Para encontrar vehículos según tipo, ubicación, y otros criterios específicos.
-- Historial de Alquileres o Venta de Vehículo: Para mantener un registro de transacciones y facilitar la gestión de los vehículos.
+- Historial de Renta o Venta de Vehículo: Para mantener un registro de transacciones y facilitar la gestión de los vehículos.
 - Foro de Ayuda: Para resolver dudas y ofrecer soporte a los usuarios.
 - Mapa Interactivo de los Puntos de Recepción de Vehículo: Para localizar fácilmente dónde recoger o entregar los vehículos.
 - Gamificación: Elementos como logros o badges para incentivar el uso y la participación en la plataforma.
@@ -218,7 +218,7 @@ Competiremos con otros servicios de renta y venta de vehículos como City Bike L
 
 - Implementar un sistema de calificación con estrellas que permita a los usuarios dejar reseñas y calificaciones sobre la experiencia de renta o venta.
 - Desarrollar una función de búsqueda avanzada que permita a los usuarios filtrar vehículos por criterios como tipo de vehículo, ubicación, precio y disponibilidad.
-- Crear un panel de usuario donde los "Compradores/Rentadores" puedan ver un historial detallado de todas las transacciones realizadas, incluyendo rentas y ventas de vehículos.
+- Crear un panel de usuario donde los compradores/rentadores puedan ver un historial detallado de todas las transacciones realizadas, incluyendo rentas y ventas de vehículos.
 - Integrar un foro de ayuda dentro de la aplicación donde los usuarios puedan hacer preguntas, compartir consejos y resolver dudas relacionadas con el alquiler o venta de vehículos.
 - Implementar un mapa interactivo que muestre la ubicación de los puntos de recepción y entrega de vehículos.
 - Añadir elementos de gamificación, como logros y badges, para recompensar a los usuarios por acciones específicas.
@@ -231,15 +231,15 @@ Competiremos con otros servicios de renta y venta de vehículos como City Bike L
 
 #### Users
 
-Los usuarios principales de nuestra aplicación son "Universitarios" que poseen vehículos menores, como bicicletas, scooters o patinetas, y buscan generar ingresos adicionales rentándolos o vendiéndolos. Por otro lado, están los usuarios que necesitan alternativas de transporte más económicas y ecológicas, quienes compran o rentan estos vehículos a través de la aplicación, aprovechando la conveniencia y sostenibilidad que ofrece el servicio.
+Los usuarios principales de nuestra aplicación son universitarios que poseen vehículos menores, como bicicletas, scooters o patinetas, y buscan generar ingresos adicionales rentándolos o vendiéndolos. Por otro lado, están los usuarios que necesitan alternativas de transporte más económicas y ecológicas, quienes compran o rentan estos vehículos a través de la aplicación, aprovechando la conveniencia y sostenibilidad que ofrece el servicio.
 
 #### User Outcomes & Benefits
 
-- **Para los "Universitarios":**
+- **Para los Universitarios:**
 **Generar Ingresos Adicionales:** Ofrecen una fuente de ingresos flexibles alrentar vehículos que no utilizan.
 **Contribuir a la Sostenibilidad:** Apoyan una comunidad más ecológica y responsable mediante el uso compartido de recursos.
 
-- **Para los "Compradores/Rentadores":**
+- **Para los Compradores/Rentadores:**
 **Reducir la Huella de Carbono:** Optan por alternativas de transporte sostenibles, disminuyendo su impacto ambiental.
 **Acceso Simplificado al Transporte:** Facilitan el acceso a medios de transporte en momentos de necesidad, mejorando su movilidad.
 
