@@ -107,35 +107,47 @@ Las metas etiquetas que utilizaremos son:
 
 ### 4.2.4. Searching Systems
 
-El sistema de búsqueda en EcoMovil permitirá a los usuarios encontrar de manera rápida y eficiente los vehículos que desean alquilar o comprar, adaptándose a sus necesidades. Entre sus principales funciones se incluyen la búsqueda por palabras clave para localizar vehículos específicos, filtros avanzados que permiten refinar la búsqueda según ciertos criterios, y un historial de búsquedas recientes que facilita el acceso rápido a búsquedas ya realizadas.
+En EcoMovil, el sistema de búsqueda facilitará a los usuarios encontrar rápidamente los vehículos que desean alquilar o comprar, adaptándose a sus necesidades. Sus principales funciones incluirán búsqueda por palabras clave para localizar vehículos específicos, filtros avanzados para refinar la búsqueda según diversos criterios, y un historial de búsquedas recientes para acceder rápidamente a búsquedas previas.
 
 ### 4.2.5. Navigation Systems
 
-El sistema de navegación es fundamental para que los usuarios puedan desplazarse fácilmente por la aplicación, lo que es clave para garantizar una experiencia de usuario satisfactoria. La aplicación web contará con una barra de navegación que ofrecerá varias opciones, orientando al usuario hacia la sección de su interés. Además, contará con un footer, o pie de página, que incluirá enlaces adicionales a diversas secciones, como Sobre Nosotros, donde podrán conocer nuestra visión y al equipo detrás de la aplicación, y Contacto, que ofrecerá un formulario para que los usuarios puedan ponerse en comunicación con nosotros, entre otros.
+El sistema de navegación es esencial para permitir que los usuarios se muevan con facilidad por la aplicación, asegurando una experiencia de usuario agradable. La aplicación web tendrá una barra de navegación con diversas opciones para guiar al usuario a la sección que le interese. También contará con un pie de página (footer) que proporcionará enlaces adicionales a secciones como "Sobre Nosotros", donde los usuarios podrán conocer nuestra visión y al equipo detrás de la aplicación, y "Contacto", que incluirá un formulario para facilitar la comunicación con nosotros, entre otras secciones.
 
 ## 4.3. Landing Page UI Design
 
-Se diseñó esta interfaz con simplicidad en mente, utilizando colores claros como el verde para reflejar nuestro compromiso con el medio ambiente. También se diseñó para que los usuarios se sientan cómodos leyendo en cualquier dispositivo, manteniendo un tamaño de letra adecuado (F). Además, la interfaz es totalmente responsive, lo que significa que se adaptará a cualquier dispositivo con dimensiones adecuadas para una experiencia de usuario óptima.
+Esta interfaz fue diseñada con simplicidad en mente, empleando colores claros como el verde para subrayar nuestro compromiso con el medio ambiente. Está optimizada para garantizar que los usuarios puedan leer cómodamente en cualquier dispositivo, con un tamaño de letra adecuado. Además, la interfaz es completamente responsive, adaptándose a cualquier dispositivo para ofrecer una experiencia de usuario óptima.
 
 ### 4.3.1. Landing Page Wireframe
-![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
-![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
-![wireframe_landingpage_3](/assets/chapter-4/wireframe-L3.png)
-![wireframe_landingpage_4](/assets/chapter-4/wireframe-L4.png)
-![wireframe_landingpage_5](/assets/chapter-4/wireframe-L5.png)
-![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
-Enlace de los Wireframes: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
 
-### 4.3.2. Landing Page Mockup
+![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
+
+![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
+
+![wireframe_landingpage_3](/assets/chapter-4/wireframe-L3.png)
+
+![wireframe_landingpage_4](/assets/chapter-4/wireframe-L4.png)
+
+![wireframe_landingpage_5](/assets/chapter-4/wireframe-L5.png)
+
+![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
+
+### 4.3.2. Landing Page Mock-up
+
+El wireframe para la vista en navegador de escritorio de la landing page fue clave para planificar la disposición de los elementos. Con base en este esquema, se creó el mock-up de la landing page, que mantiene los mismos contenidos detallados anteriormente. La imagen siguiente muestra cómo se ha aplicado la paleta de colores primaria y secundaria, así como la tipografía previamente definida.
 
 ![mock_uplanding1](/assets/chapter-4/landing1.png)
+
 ![mock_uplanding2](/assets/chapter-4/landing2.png)
+
 ![mock_uplanding3](/assets/chapter-4/landing3.png)
+
 ![mock_uplanding4](/assets/chapter-4/landing4.png)
+
 ![mock_uplanding5](/assets/chapter-4/landing5.png)
+
 ![mock_uplanding6](/assets/chapter-4/landing6.png)
+
 ![mock_uplanding7](/assets/chapter-4/landing7.png)
-Enlace del mock-up: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -150,39 +162,57 @@ Enlace del mock-up: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Arquitecture
-En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
+
+El Domain Driven Design (DDD) busca lograr un entendimiento compartido del dominio que engloba el espacio del problema. Este enfoque facilita la colaboración entre desarrolladores y expertos del dominio. DDD no se limita a la utilización de un lenguaje ubicuo, sino que también incluye un conjunto de patrones, procedimientos y diagramas arquitectónicos. Estos artefactos tienen como objetivo alinear el software con el dominio y fortalecer el enfoque compartido del DDD.
 
 ### 4.6.1. Software Architecture Context Diagram 
+
+El diagrama de contexto ofrece una visión general de alto nivel de las interacciones entre el sistema de software EcoMovil, los usuarios y, en su caso, otros sistemas externos.
+
 ![C4_Context](./assets/chapter-4/c41.png)
 
 ### 4.6.2. Software Architecture Container Diagram
+
+El diagrama de contenedores proporciona una vista general de alto nivel de las interacciones entre las aplicaciones y las fuentes de datos involucradas en la ejecución del sistema de software EcoMovil.
+
 ![C4_Container](./assets/chapter-4/c42.png)
+
 ### 4.6.3. Software Architecture Component Diagram
-- En esta primera sección se muestran los requerimientos no funcionales de la aplicación.
+
+Los diagramas de componentes muestran las relaciones entre los componentes principales del sistema de software, detallando la implementación de los módulos correspondientes en el programa.
+
+- En esta sección inicial se presentan los requisitos no funcionales de la aplicación.
+  
 ![C4_Component_Profile](./assets/chapter-4/c43.png)
 
-- Aqui se muestran los componentes de perfil
+- Aquí se ilustran los componentes relacionados con el perfil de usuario.
+  
 ![C4_Component_Profile2](./assets/chapter-4/c45.png)
 
-- Aqui se muestran los componentes de vehicle
+- En esta sección se detallan los componentes asociados a los vehículos.
+  
 ![C4_Component_Profile3](./assets/chapter-4/c44.png)
 
-- Aqui se muestran los componentes de autenticación
+- Aquí se muestran los componentes dedicados a la autenticación de usuarios.
+  
 ![C4_Component_Profile4](./assets/chapter-4/c46.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
 Payment Bounded Context
+
 ![Payment.png](./assets/chapter-4/Payment.png)
 
 User Bounded Context
+
 ![User.png](./assets/chapter-4/User.png)
 
 Rental Bounded Context
-![Rental.png](./assets/chapter-4/Rental.png)
-### 4.7.2. Class Dictionary
 
+![Rental.png](./assets/chapter-4/Rental.png)
+
+### 4.7.2. Class Dictionary
 
 <hr>
 <br>
@@ -827,8 +857,9 @@ Rental Bounded Context
   </tr>
 <table>
 
-
 ## 4.8. Database Design
+
+Para el presente proyecto, se ha elegido el motor de base de datos MySQL debido a su escalabilidad y a su interfaz intuitiva y accesible. Esta elección se basa en la familiaridad del equipo con el motor de Microsoft SQL Server. MySQL facilita la expansión de los recursos de la base de datos según las necesidades y requisitos del negocio.
 
 ### 4.8.1. Database Diagram
 
