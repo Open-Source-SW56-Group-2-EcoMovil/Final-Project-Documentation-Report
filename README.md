@@ -859,7 +859,7 @@ Rental Bounded Context
 
 ## 4.8. Database Design
 
-Para el presente proyecto, se ha elegido el motor de base de datos MySQL debido a su escalabilidad y a su interfaz intuitiva y accesible. Esta elección se basa en la familiaridad del equipo con el motor de Microsoft SQL Server. MySQL facilita la expansión de los recursos de la base de datos según las necesidades y requisitos del negocio.
+Para el presente proyecto, se ha elegido el motor de base de datos PostgreSQL debido a su robustez y sus características avanzadas de manejo de datos. PostgreSQL permite la expansión de los recursos de la base de datos según las necesidades del negocio, ofreciendo herramientas avanzadas para el manejo de datos complejos y transacciones seguras.
 
 ### 4.8.1. Database Diagram
 
