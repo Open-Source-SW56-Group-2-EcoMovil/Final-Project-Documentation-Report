@@ -325,8 +325,6 @@ Y completa los campos obligatorios del formulario de publicación (tipo de vehí
 Y revisar toda la información antes de publicar.
             
 </td>
-        <td>3</td>
-    </tr>
 
  <br/>
         <td>3</td>
@@ -376,7 +374,8 @@ Y después de realizar los cambios, debe poder guardar la nueva configuración d
 **Entonces** los cambios deben reflejarse inmediatamente en la plataforma para los compradores/rentadores,
 Y cualquier comprador/rentador interesado debe recibir una notificación de que la publicación ha sido actualizada.
             
-</td>
+ <td>3</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
