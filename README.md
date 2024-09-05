@@ -300,6 +300,16 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
+![Capture1](./assets/perfil/Capture1.png)
+
+![Capture2](./assets/perfil/Capture2.png)
+
+![Capture3](./assets/perfil/Capture3.png)
+
+![Capture4](./assets/perfil/Capture4.png)
+
+![Capture5](./assets/perfil/Capture5.png)
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 En este Sprint 1, el enfoque principal ha sido la creación del Landing Page de la aplicación EcoMovil, por lo que no se ha avanzado en la documentación de los servicios. No obstante, está previsto que la documentación de los servicios se desarrolle en los próximos sprints.
