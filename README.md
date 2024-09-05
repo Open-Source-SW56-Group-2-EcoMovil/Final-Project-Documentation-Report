@@ -237,9 +237,3 @@ Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2
 <br>
 <br>
 Video de Presentación TB1:
-<br>
-<br>
-Wireframes: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
-<br>
-<br>
-Mock-up: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
