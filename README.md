@@ -292,12 +292,11 @@ Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c8
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Para la entrega del Sprint 3, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
-sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, asi cuando se despliegue el frontend, el usuario pueda ingresar a su cuenta con los datos ya almacenados.
+Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
 
 | Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
-| [https://github.com/GuardianIQ/Backend](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project langing page  | 29/08/24           |
+| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project langing page  | 29/08/24           |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
