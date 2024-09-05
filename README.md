@@ -119,6 +119,7 @@ Esta interfaz fue diseñada con simplicidad en mente, empleando colores claros c
 
 ### 4.3.1. Landing Page Wireframe
 
+#### 4.3.1.1. Landing Page for Web
 ![wireframe_landingpage_1](/assets/chapter-4/wireframe-L1.png)
 
 ![wireframe_landingpage_2](/assets/chapter-4/wireframe-L2.png)
@@ -131,7 +132,14 @@ Esta interfaz fue diseñada con simplicidad en mente, empleando colores claros c
 
 ![wireframe_landingpage_6](/assets/chapter-4/wireframe-L6.png)
 
-### 4.3.2. Landing Page Mock-up
+#### 4.3.1.2. Landing Page for Mobile
+![wireframe_mobilem1](/assets/chapter-4/landingpagemb1.png)
+![wireframe_mobilem2](/assets/chapter-4/landingpagemb2.png)
+![wireframe_mobilem3](/assets/chapter-4/landingpagemb3.png)
+
+### 4.3.2. Landing Page Mock-up 
+
+#### 4.3.2.1. Landing Page Mock-up for Web
 
 El wireframe para la vista en navegador de escritorio de la landing page fue clave para planificar la disposición de los elementos. Con base en este esquema, se creó el mock-up de la landing page, que mantiene los mismos contenidos detallados anteriormente. La imagen siguiente muestra cómo se ha aplicado la paleta de colores primaria y secundaria, así como la tipografía previamente definida.
 
@@ -148,6 +156,11 @@ El wireframe para la vista en navegador de escritorio de la landing page fue cla
 ![mock_uplanding6](/assets/chapter-4/landing6.png)
 
 ![mock_uplanding7](/assets/chapter-4/landing7.png)
+
+#### 4.3.2.2. Landing Page for Mobile
+![mockup_mobilem1](/assets/chapter-4/mockupmb1.png)
+![mockup_mobilem2](/assets/chapter-4/mockupmb2.png)
+![mockup_mobilem3](/assets/chapter-4/mockupm3.png)
 
 ## 4.4. Web Applications UX/UI Design
 
