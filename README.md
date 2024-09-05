@@ -360,65 +360,77 @@ Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c8
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | main          | 5e26fb5         | a        | David Gallo | Apr 15th, 2024, 3:09 PM         | 
-| landing-page | main       | aeb5ebe        | feat: add file | Mathias Hidalgo | Apr 15th, 2024, 3:16 PM       |
-| landing-page | main       | 17f0dce        | feat: added plans section | Sebastian Lobato | Apr 15th, 2024, 3:21 PM       |
-| landing-page | main                            | 6b46525        |feat: Added about section         | Ely Cortez| Apr 15th, 2024, 3:15 PM                 |
-| landing-page | main                   | 9ca99d0             |  feat: Added footer section                     | Ely Cortez|  Apr 15th, 2024, 1:09 PM               |
-| landing-page | main                   |  6db1daa              |    feat: added header             | Ely Cortez|       Apr 15th, 2024, 10:55 AM          |
-| landing-page | main                   |   eecf808              |  feat: added how-it-work component               | Ely Cortez|    Apr 15th, 2024, 3:35 PM         |
-| landing-page | main                   |   9439104               |   feat(feature/join): Added join component               | David Gallo|        Apr 15th, 2024, 3:55 PM          |
-| landing-page | main                   | 48047b00            |  feat(feature/main): added main component                | David Gallo |  Apr 15th, 2024, 3:11 PM           |
-| landing-page | main                   |  44e709                |  "feat Merge branch 'feature/plans' into develop"                  | David Gallo |  Apr 15th, 2024, 3:17 PM                  |
-| landing-page | main                   |   2f8c4a               |  feat: Merged main into develop                 | David Gallo |   Apr 15th, 2024, 3:23 PM                 |
-| landing-page | main                   |        0246cf7        |     feat: merged how-it-works into develop               | David Gallo|   Apr 15th, 2024, 3:29 PM                 |
-| landing-page | main                   |          eaf25ce      |        feat: merged header into develop             | David Gallo |    Apr 15th, 2024, 3:40 PM                |
-| landing-page | main                   |        05319e5            |        feat: merged footer into develop           | David Gallo |         Apr 15th, 2024, 3:50 PM           |
-| landing-page | main                   | 1ac3c37               |   feat: merged about into develop               | David Gallo | Apr 15th, 2024, 3:13 PM  |
-| landing-page | main                   |  4172441                  |      Create jekyll-gh-pages.yml          | David Gallo |   Apr 15th, 2024, 3:18 PM  |
-| landing-page | main                   |     2f8c4ae          |    feat: refactor index.html         | David Gallo|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |        05319e5            |        feat: merged footer into develop           | David Gallo |         Apr 15th, 2024, 3:50 PM           |
-| landing-page | main                   | 1ac3c37               |  Merge remote-tracking branch 'refs/remotes/origin/main'      | David Gallo | Apr 15th, 2024, 3:13 PM  |
-| landing-page | main                   |  4172441                  |      feat: added index.html          | David Gallo |   Apr 15th, 2024, 3:18 PM  |
-| landing-page | main                   |     2f8c4ae          |   Create CNAME         | Beth Oneglio|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   Delete CNAME         | Beth Oneglio|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
-| landing-page | main                   |     2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | b863a40         | a        | David Gallo | Aug 29, 2024         | 
+| landing-page | main       | 36fec62         | feat: add file | Mathias Hidalgo | Aug 29, 2024    |
+| landing-page | main       | f827944         | feat: added plans section | Juan Calisaya | Aug 29, 2024       |
+| landing-page | main       | cf2b26c   |feat: Added about section         | Beth Oneglio| Aug 30, 2024                |
+| landing-page | main       | 8404774             |  feat: Added footer section                     | Beth Oneglio|  Aug 30, 2024 |
+| landing-page | main       | b360e5b              |    feat: added header             | Erick Vasquez|      Aug 30, 2024 |
+| landing-page | main       | ad8ad4c  |  feat: added how-it-work component     | Erick Vasquez|  Aug 30, 2024 |
+| landing-page | main       | 0eb6e8d  |   feat(feature/join): Added join component  | David Gallo|   Sep 1, 2024|
+| landing-page | main       | 4aa9478  |  feat(feature/main): added main component  | David Gallo | Sep 1, 2024|
+| landing-page | main       | 50b12a4  |  "feat Merge branch 'feature/plans' into develop"| David Gallo | Sep 1, 2024|
+| landing-page | main       | b795e73   |  feat: Merged main into develop   | David Gallo | Sep 1, 2024|
+| landing-page | main       | c0e34a3    |     feat: merged how-it-works into develop | David Gallo| Sep 1, 2024 |
+| landing-page | main       | 80d39b9 |        feat: merged header into develop   | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | fc17166 |        feat: merged footer into develop   | David Gallo | Sep 1, 2024 |
+| landing-page | main       | db8f49d  |   feat: merged about into develop         | David Gallo | Sep 1, 2024 |
+| landing-page | main       | d64296f   |      Create jekyll-gh-pages.yml          | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | e4b6d2a |    feat: refactor index.html         | David Gallo| Sep 1, 2024  |
+| landing-page | main       | 5721546 |        feat: merged footer into develop | David Gallo |    Sep 1, 2024 |
+| landing-page | main       | 06db9c8 |  Merge remote-tracking branch 'refs/remotes/origin/main'  | David Gallo |Sep 1, 2024|
+| landing-page | main       | 3274f7d |      feat: added index.html          | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | 8842140 |   Create CNAME         | Beth Oneglio|   Sep 4, 2024 |
+| landing-page | main       | f5961b4 |   Delete CNAME         | Beth Oneglio|   Sep 4, 2024  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+| landing-page | main       | 2f8c4ae          |   feat: fixed error         | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
+
+
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
