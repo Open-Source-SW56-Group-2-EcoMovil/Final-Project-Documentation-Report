@@ -56,16 +56,15 @@
 
 # Registro de Versiones del Informe 
 
-| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
-|-----------|-----------|-----------|-----------|
-| 1.0    | 15/08/2024    | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración del documento de trabajo en formato Markdown. |
-| 1.1    | 18/08/2024   | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez.    | Desarrollo del perfil de la startup y del perfil de la solución, identificación de segmentos objetivo, y formulación de preguntas para el diseño de entrevistas. |
-| 1.2 | 31/08/2024 | Calisaya, Gallo, Hidalgo, Oneglio, Vasquez. | Elaboración y registro de entrevistas a los segmentos objetivo, así como el análisis de las mismas. Elaboración del Impact Mapping. Redacción de las guías de estilo (Style Guidelines) y la arquitectura de la información (Information Architecture). |
-|-----------|-----------|-----------|-----------|
-|-----------|-----------|-----------|-----------|
-|-----------|-----------|-----------|-----------|
-
-**FALTA HACER**
+| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
+|-------------|-----------|-----------|---------------------------------|
+| 1.0         | 15/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del documento de trabajo en formato Markdown. |
+| 1.1         | 18/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Desarrollo del perfil de la startup y de la solución, identificación de segmentos objetivo y formulación de preguntas para el diseño de entrevistas. |
+| 1.2         | 26/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Redacción de las guías de estilo e infraestructura de la información. |
+| 1.3         | 31/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Realización y registro de entrevistas con los segmentos objetivo y análisis de los resultados. Creación del Impact Mapping. Redacción de las guías de estilo y la arquitectura de la información. |
+| 1.4         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Elaboración de historias de usuario y del backlog del producto. |
+| 1.5         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto y diagramas de componentes. |
+| 1.6         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Registro de las evidencias del Sprint. |
 
 # Project Report Collaboration Insights 
 
@@ -239,6 +238,8 @@ Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2
 <br>
 Video de Presentación TB1:
 <br>
+<br>
 Wireframes: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
+<br>
 <br>
 Mock-up: https://www.figma.com/design/H7sRaG5gHgvp1CHmqDntxF/ECOMOVIL?node-id=0-1&t=bSUEvCSyLGZG4S0L-1
