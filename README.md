@@ -131,6 +131,7 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
   
   **Escenario 1: Registro en la aplicación EcoMovil** 
   <br>
+  <br>
 **Dado que** el usuario está en la pantalla de registro,
 **cuando** ingresa un nombre completo, correo electrónico único, una contraseña válida, y selecciona el tipo de usuario,
 **entonces** el sistema debe mostrar un mensaje indicando "El registro fue exitoso." y enviar un correo de confirmación.         
@@ -349,7 +350,7 @@ Y cada transacción debe mostrar información como fecha, tipo de transacción, 
     </tr>
     <tr>
         <td>US19</td>
-        <td>PerSonalizar Publicaciones</td>
+        <td>Personalizar Publicaciones</td>
         <td>
             
 **Como** propietario, **quiero** personalizar la descripción y las fotos de mis publicaciones para hacerlas más atractivas a los rentadores</td>
