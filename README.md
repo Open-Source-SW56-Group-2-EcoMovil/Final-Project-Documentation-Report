@@ -4,11 +4,11 @@
 
 Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el flujo de trabajo después de la implementación de nuestra solución, EcoMovil, para ambos segmentos objetivos. El propósito de este artefacto es comparar y abordar los aspectos negativos identificados en el As-is Scenario.
 
-- Estudiante universitario que posee un vehículo menor:
+- Segmento Universitarios:
 
 ![ImpactMapping1](/assets/sprint1/TobemappingSegmento2.jpg)
 
-- Usuarios que alquilan o compran vehículos a través de la aplicación:
+- Segmento Compradores/Rentadores:
 
 ![ToBeMapping2](/assets/sprint1/Tobemappingsegmento1.jpg)
 
@@ -568,17 +568,13 @@ Y incluir un recibo de pago y la nueva fecha de vencimiento de la suscripción.
 
 ## 3.3. Impact Mapping
 
-En esta sección, presentamos el Impact Mapping para el proyecto de EcoMovil, con el objetivo de desarrollar e implementar un mapa interactivo que facilite la localización de puntos de recogida y devolución de vehículos. Este mapa es crucial para mejorar la experiencia de nuestros usuarios y alcanzar nuestros objetivos de negocio.
+En esta sección, presentamos el **Impact Mapping** para el proyecto de **EcoMovil**, cuyo objetivo es desarrollar e implementar un mapa interactivo que facilite la localización. Este mapa es esencial para optimizar la experiencia de nuestros usuarios y alcanzar los objetivos comerciales.
+
+El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interconectan. Asegura que cada elemento del desarrollo esté alineado con nuestras metas, contribuyendo al éxito de **EcoMovil** y mejorando tanto la experiencia de los universitarios como la de los compradores/rentadores.
 
 ![ImpactMapping](/assets/sprint1/Impactmap1.png)
 
-Este Impact Mapping proporciona una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interrelacionan. Asegura que cada aspecto del desarrollo esté alineado con nuestras metas y contribuya al éxito del proyecto EcoMovil, mejorando tanto la experiencia de los propietarios como la de los usuarios de vehículos.
-
 ## 3.4. Product Backlog
-
-[![Sprint1](/assets/sprint1/sprint1.png)](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 )
-
-Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 
 
 <table>
     <thead>
@@ -595,43 +591,47 @@ Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3
             <td>1</td>
             <td>US01</td>
             <td>Barra de navegación en la Landing Page</td>
-            <td><b>Como</b> universitario o rentador <b>quiero</b> visualizar una página web <b>para</b> conocer los servicios de la aplicación</td>
+            <td><b>Como</b> universitario o commprador/rentador <b>quiero</b> visualizar una aplicación web <b>para</b> conocer los servicios de la aplicación</td>
             <td>3</td>
         </tr>
         <tr>
             <td>2</td>
             <td>US02</td>
             <td>Sección Hero en la Landing Page</td>
-            <td><b>Como</b> universitario o rentador, <b>quiero</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>para</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+            <td><b>Como</b> universitario o comprador/rentador, <b>quiero</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>para</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>3</td>
             <td>US03</td>
             <td>Sección Footer en la Landing Page</td>
-            <td><b>Como</b> universitario o rentador, <b>quiero</b> visualizar un footer en la página web <b>para</b> acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
+            <td><b>Como</b> universitario o comprador/rentador, <b>quiero</b> visualizar un footer en la aplicación web <b>para</b> acceder rápidamente a información adicional y enlaces relevantes como redes sociales.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>4</td>
             <td>US04</td>
             <td>Sección de Beneficios en la Landing Page</td>
-            <td><b>Como</b> universitario o rentador, <b>quiero</b> ver una sección de beneficios que tenga las características principales de EcoMovil, <b>para</b> entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la plataforma.</td>
+            <td><b>Como</b> universitario o comprador/rentador, <b>quiero</b> ver una sección de beneficios que tenga las características principales de EcoMovil, <b>para</b> entender cómo la aplicación puede mejorar mi experiencia de movilidad urbana y mi interacción con la aplicación.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>5</td>
             <td>US05</td>
             <td>Sección de Contacto en la Landing Page</td>
-            <td><b>Como</b> universitario o rentador, <b>quiero</b> tener acceso a una sección de contacto clara y funcional <b>para</b> poder comunicarme con el equipo de EcoMovil para resolver dudas, obtener soporte o hacer sugerencias.</td>
+            <td><b>Como</b> universitario o comprador/rentador, <b>quiero</b> tener acceso a una sección de contacto clara y funcional <b>para</b> poder comunicarme con el equipo de EcoMovil para resolver dudas, obtener soporte o hacer sugerencias.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>6</td>
             <td>US06</td>
             <td>Landing Page Responsive con diferentes dispositivos</td>
-            <td><b>Como</b> universitario o rentador, <b>quiero</b> que la landing page sea responsive <b>para</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
+            <td><b>Como</b> universitario o comprador/rentador, <b>quiero</b> que la landing page sea responsive <b>para</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
             <td>8</td>
         </tr>
     </tbody>
 </table>
+
+[![Sprint1](/assets/sprint1/sprint1.png)](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 )
+
+Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 
