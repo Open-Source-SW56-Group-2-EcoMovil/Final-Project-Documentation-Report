@@ -72,6 +72,7 @@ El proyecto implementará el modelo **GitFlow** como estándar para el control d
 - Enlace a la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
 - Enlace al repositorio de la **Landing Page**: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
+<br>
 ![gitflow](./assets/perfil/gitflow.png)
 
 **Estructura de Ramas (Branches) en GitFlow:**
@@ -91,75 +92,83 @@ Se adoptará la especificación **Conventional Commits**, basada en las directri
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-En Ecomovil hemos optado varias convenciones de estilos para el desarrollo de código en diferentes lenguajes.
+En EcoMovil se han implementado diversas convenciones de estilo para el desarrollo en varios lenguajes.
 
-#### Tecnologías usadas
+#### Tecnologías utilizadas:
 
-*HTML y CSS (Google HTLM/CSS Style Guide)*
-- Se declara el tipo de documento al principio del archivo con !DOCTYPE html.
-- Se incluyen los meta tags pertinentes.
-- El elemento title se coloca dentro de las etiquetas head.
-- Se utiliza una indentación de dos espacios.
-- Se emplean minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
-- Los atributos de los elementos HTML se encierran entre comillas.
-- Cada elemento HTML debe tener su etiqueta de cierre.
-- Se evitan líneas de código excesivamente largas.
-- Se especifica el ancho y alto de las imágenes, junto con un texto alternativo (alt).
+**HTML y CSS (Guía de Estilo de Google HTML/CSS):**
+- El documento comienza con `!DOCTYPE html`.
+- Se incluyen meta etiquetas necesarias y el elemento `title` dentro de `head`.
+- Se usa una indentación de dos espacios y minúsculas para elementos, atributos y selectores.
+- Los atributos se escriben entre comillas y todos los elementos tienen su etiqueta de cierre.
+- Se evita el uso de líneas demasiado largas y las imágenes incluyen especificaciones de tamaño y texto alternativo (`alt`).
+- Los atributos de las imágenes incluyen dimensiones `width` y `height` para mejorar la accesibilidad (ej: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`).
 
-*TypeScript*
-- Uso de Clases e interfaces
-- Uso de Comentarios
-- Control de Flujos
-- Uso de nombres descriptivos
+**TypeScript:**
+- Se emplean clases e interfaces, se agregan comentarios y se controlan flujos lógicos.
+- Se usan nombres descriptivos para las variables y funciones.
 
-*Gherkin (Gherkin Conventions for Readable Specifications)
-- Se emplean las palabras "Given", "When", "Then" y "And" para describir los pasos del escenario.
-- Los pasos que comienzan con "And" se indentan.
-- Se añaden líneas en blanco entre pasos.
-- Los parámetros se encierran entre comillas simples.
-- Se utiliza un comentario separador y dos líneas en blanco entre cada escenario.
+**Gherkin (Convenciones de Gherkin para especificaciones legibles):**
+- Se utilizan las palabras clave "Given", "When", "Then" y "And" para describir los pasos de los escenarios.
+- Se indentan los pasos con "And", añadiendo líneas en blanco entre pasos y escenarios.
+- Los parámetros se rodean con comillas simples.
 
-*Java*
-- Uso de Clases, Métodos y Variables
-- Uso de programacion funcional
-- Convenciones con clases
+**Java:**
+- Se usan clases, métodos y variables, siguiendo convenciones funcionales.
 
-*Angular*
-- Los nombres deben de seguir la convención PascalCase
-- Cada componente, servicio y clase debe estar en su propio archivo
-- Utilización de plantillas y hojas de estilo en archivos separados.
-- Uso de Decoradores como @Componente, @Injectable e @Input.
-- Inyección de Dependencias para gestioanr servicios
-- Convenciones de codigo con nombres que describan claramente su propósito.
+**Angular:**
+- Los nombres siguen la convención PascalCase.
+- Los componentes, servicios y clases están en archivos separados.
+- Las plantillas y hojas de estilo se manejan en archivos distintos, con el uso de decoradores como `@Component`, `@Injectable` y `@Input`.
+- Se emplea inyección de dependencias para gestionar servicios y las convenciones de código se centran en nombres claros.
+
+**Gherkin**:
+- Busca mejorar la comunicación entre negocio y técnico con BDD, organizando los escenarios mediante saltos de línea y palabras clave ("Given", "When", "Then", "And") para estructurar escenarios. Los saltos de línea ayudan a distinguir entre los distintos tipos de escenarios, mejorando la legibilidad y organización.
 
 ### 5.1.4. Software Deployment Configuration
-En esta sección, abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en GitHub Pages. A continuación, se describirán los pasos que se realizaron para lograr este objetivo.
 
-- Primeramente, es indispensable verificar que el repositorio este configurado correctamente.
+Para desplegar la landing page, es necesario cumplir con algunos requisitos, como tener una cuenta personal, una organización y un repositorio donde cargar los archivos. A partir de esto, se puede iniciar el proceso de despliegue. Los pasos a seguir son los siguientes:
+
+1. Crear una carpeta llamada "docs" que contendrá la landing page.
+2. Asegurarse de que los archivos sigan la nomenclatura adecuada: "index.html" para la página principal, "style.css" para los estilos, y una carpeta "img" para las imágenes.
+3. Subir los archivos al repositorio mediante un commit.
+4. Ir a Settings > Pages y seleccionar la rama correspondiente, normalmente "main" o "master", donde se encuentra el proyecto.
+5. Indicar la carpeta "docs" como la fuente para la página.
+6. Esperar a que GitHub realice las verificaciones necesarias. Una vez terminado, se generará un enlace para acceder a la landing page desplegada.
+
+Este proceso permite el despliegue automático de la landing page utilizando GitHub Pages.
+
+A continuación, se detallarán las acciones llevadas a cabo para alcanzar este propósito.
+
+- Primero, es fundamental asegurarse de que el repositorio esté correctamente configurado.
 ![Merged-Picture](./assets/perfil/merged1.png)
 
-- Debido a que en este caso se creo un Landing Page con angular se ha optado por hacer uso de la herramienta angular-cli-pages, esta ayudará a actualizar la página y llevarla a github pages.
+- En este caso, se ha utilizado Angular para crear una Landing Page y se ha decidido emplear la herramienta angular-cli-pages, que facilita la actualización de la página y su despliegue en GitHub Pages.
 ![Angular-Cli](./assets/perfil/angular-cli.png)
 
-- Luego de esto debemos de crear una carpeta dist la cual contendrá todos los archivos necesarios para el despliegue.
+- A continuación, se usa la herramienta "ngh" para crear una nueva rama, llamada "gh-pages", que albergará los archivos de despliegue, nombrada así por la herramienta mencionada.
 ![Dist](./assets/perfil/dist.png)
 
-- Después de, esto hacemos uso de ngh para que se cree una nueva rama que contendrá los archivos para el despliegue, esta rama se llamara gh-pages nombrada asi por la herramienta anteriormente mencionada.
+- Utilizamos ngh para crear una nueva rama llamada gh-pages, la cual contendrá todos los archivos necesarios para el despliegue. Esta rama recibe su nombre por la herramienta que estamos empleando.
 ![gh-pages](./assets/perfil/gh.png)
 
-- Finalmente una vez todos los archivos hayan sido publicados en una rama, en el apartado de "Settings" en "Pages" en la sección de Branch colocamos gh-pages y /(root), al guardar y esperar un momento podremos ver la página publicada.
+- Una vez que los archivos han sido publicados en la rama correspondiente, accedemos a "Settings" y, en la sección "Pages", seleccionamos la rama gh-pages y la opción / (root). Después de guardar los cambios y esperar un poco, podremos visualizar la página publicada.
 ![publish](./assets/perfil/publish.png)
 
-- De esta manera se visualizaría asi la página.
+- Así es como se vería la página final.
 ![page](./assets/perfil/page.png)
 
-Link: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
+Un Sprint en el contexto de Scrum es un periodo de tiempo fijo y breve en el que el equipo se enfoca en realizar todas las tareas necesarias para lograr el objetivo del producto definido, denominado "Product Goal" (Scrum Alliance, 2024).
+
 ### 5.2.1.1. Sprint Planning 1
+
+Un sprint es un intervalo breve y definido durante el cual se completan tareas o actividades específicas dentro de un proyecto, como se aplica en metodologías ágiles como Scrum. El Sprint #1, que comienza el 14 de agosto de 2024, tiene como objetivo diseñar una landing page atractiva para EcoMovil. Esta página debe captar la atención de los visitantes y resaltar los principales beneficios de nuestro producto.
 
 <table>
      <tr> 
