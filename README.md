@@ -128,7 +128,7 @@ Link: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
      </tr>
         <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-        <td> Amaro Villanueva, Camila Elena
+        <td> 
             <br>
              Calisaya Sánchez, Juan Jesús
             <br>
