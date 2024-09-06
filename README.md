@@ -48,10 +48,11 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>US02</td>
     <td>Sección Hero en la Landing Page</td>
     <td>
-<b>**Como** universitario o adquiriente **quiero** ver una sección hero atractiva y clara al acceder a la Landing Page **para** entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+<b>Como universitario o adquiriente quiero ver una sección hero atractiva y clara al acceder a la Landing Page para entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
     <td>
-**Escenario 1: Visualización de la Sección Hero**
+Escenario 1: Visualización de la Sección Hero
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección hero debe ser visible en la parte superior de la página con un diseño atractivo y claro.
@@ -63,8 +64,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección Footer en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> visualizar un footer en la landing page <b>para</b> acceder a información adicional.</td>
     <td>
-**Escenario 1: Visualización de la Sección Footer**
+Escenario 1: Visualización de la Sección Footer
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección footer debe ser visible en la parte inferior de la página con términos de servicio y políticas de privacidad.
@@ -76,8 +78,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de Beneficios en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> ver una sección de cómo funciona EcoMovil, <b>para</b> entender cómo la aplicación puede mejorar mi experiencia ecológica y mi interacción con la aplicación.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Beneficios**
+Escenario 1: Visualización de la Sección de Beneficios
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Cómo funciona”  debe ser visible en la página con una descripción clara y atractiva de cómo EcoMovil puede mejorar la experiencia ecológica y la interacción con la aplicación.
@@ -89,8 +92,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de Contacto en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> tener acceso a una sección de contacto clara y funcional <b>para</b> poder unirme a EcoMovil para comenzar la experiencia.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Contacto**
+Escenario 1: Visualización de la Sección de Contacto
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de Contacto debe ser visible en la página con información clara sobre cómo comunicarse con el equipo de EcoMovil.
@@ -102,8 +106,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Landing Page Responsive con diferentes dispositivos</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> que la landing page sea responsive <b>para</b> que pueda visualizar y navegar por ella fácilmente desde cualquier dispositivo (móvil, tablet, o escritorio) sin pérdida de funcionalidad o legibilidad.</td>
     <td>
-**Escenario 1: Visualización en Diferentes Dispositivos**
+Escenario 1: Visualización en Diferentes Dispositivos
 
+<br>
 **Dado que** el universitario o adquiriente acceda a la landing page desde un dispositivo móvil, tablet o escritorio,  
 **cuando** se carga la página,  
 **entonces** la landing page debe ajustarse adecuadamente al tamaño de pantalla del dispositivo, manteniendo la funcionalidad completa y la legibilidad del contenido sin necesidad de hacer zoom o desplazamiento horizontal.
@@ -115,8 +120,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de planes en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> acceder a una sección de planes <b>para</b> poder elegir un plan y unirme a EcoMovil para comenzar la experiencia.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Planes**
+Escenario 1: Visualización de la Sección de Planes
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de planes debe ser visible y accesible, mostrando claramente los diferentes planes disponibles con descripciones y precios, permitiendo al usuario seleccionar el plan que desee y seguir el proceso para unirse a EcoMovil.
@@ -128,8 +134,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de acerca de en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> tener acceso a una sección de “Acerca de” clara y funcional <b>para</b> conocer la historia y misión de EcoMovil.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Acerca de**
+Escenario 1: Visualización de la Sección de Acerca de
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Acerca de” debe ser visible y accesible, mostrando claramente la historia y misión de EcoMovil con una descripción concisa y atractiva.
@@ -141,8 +148,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de unirse en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> acceder a una sección para unirme a EcoMovil <b>para</b> poder registrar mi correo electrónico e inscribirme en EcoMovil.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Unirse**
+Escenario 1: Visualización de la Sección de Unirse
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Unirse” debe ser visible y accesible para registrarse en EcoMovil.
@@ -154,8 +162,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de inscribirse en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente <b>quiero</b> tener acceso a una sección de inscripción <b>para</b> poder ingresar a la aplicación de EcoMovil.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Inscripción**
+Escenario 1: Visualización de la Sección de Inscripción
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Inscribirse” debe ser visible y accesible.
@@ -167,8 +176,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de universitario en la Landing Page</td>
     <td><b>Como</b> universitario, <b>quiero</b> acceder a una sección dedicada a universitarios <b>para</b> unirme como universitario a EcoMovil.</td>
     <td>
-**Escenario 1: Visualización de la Sección de Universitario**
+Escenario 1: Visualización de la Sección de Universitario
 
+<br>
 **Dado que** el universitario se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección dedicada a universitarios debe ser visible y accesible, mostrando información específica para universitarios.
@@ -180,8 +190,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de conozca más sobre nosotros en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección de “Conozca más sobre nosotros” <b>para</b> obtener información detallada sobre EcoMovil.</td>
     <td>
-**Escenario 1: Visualización de la Sección “Conozca Más Sobre Nosotros”**
+Escenario 1: Visualización de la Sección “Conozca Más Sobre Nosotros”
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección “Conozca más sobre nosotros” debe ser visible y accesible, mostrando información detallada sobre la aplicación.
@@ -193,8 +204,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Botón de empieza tu viaje en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente, <b>quiero</b> encontrar un botón <b>para</b> empezar mi viaje en EcoMovil. </td>
     <td>
-**Escenario 1: Visualización del Botón "Empieza tu viaje"**
+Escenario 1: Visualización del Botón "Empieza tu viaje"
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** el botón “Empieza tu viaje” debe ser visible y accesible, destacándose en la página con un diseño atractivo que motive a los usuarios a comenzar su experiencia en EcoMovil.
@@ -206,8 +218,9 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de todos los derechos reservados en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente, <b>quiero</b> ver una sección de derechos reservados <b>para</b> estar seguro de que EcoMovil protege mis derechos. </td>
     <td>
-**Escenario 1: Visualización de la Sección "Todos los derechos reservados"**
+Escenario 1: Visualización de la Sección "Todos los derechos reservados"
 
+<br>
 **Dado que** el universitario o adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
@@ -219,13 +232,151 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>Sección de adquiriente en la Landing Page</td>
     <td><b>Como</b> adquiriente, <b>quiero</b> ver una sección de derechos reservados <b>para</b> estar seguro de que EcoMovil protege mis derechos. </td>
     <td>
-**Escenario 1: Visualización de la Sección "Todos los derechos reservados"**
+Escenario 1: Visualización de la Sección "Todos los derechos reservados"
 
+<br>
 **Dado que** el adquiriente se encuentre en la landing page,  
 **cuando** se carga la página,  
 **entonces** la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
     </td>
     <td>1</td>
+</tr>
+<tr>
+    <td>US16</td>
+    <td>Crear una cuenta en EcoMovil</td>
+    <td><b>Como</b> universitario <b>quiero</b> crear mi cuenta registrándome <b>para</b> ingresar a la aplicación. </td>
+    <td>
+        Escenario 1: Creación de cuenta en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario se encuentra en la página de registro de EcoMovil,  
+        <br>
+        <b>cuando</b> completa correctamente el formulario de registro con su RUC, correo electrónico, nombre, y contraseña,  
+        <br>
+        <b>y</b> hace clic en el botón de "Registrar",  
+        <br>
+        <b>entonces</b> se debería crear su cuenta,  
+        <br>
+        <b>y</b> el usuario será redirigido automáticamente a la página de inicio.
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US17</td>
+    <td>Inicio de sesión en EcoMovil</td>
+    <td><b>Como</b> universitario y adquiriente <b>quiero</b> iniciar sesión <b>para</b> ingresar a la aplicación. </td>
+    <td>
+        Escenario 1: Inicio de sesión en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario se encuentra en la página de inicio de sesión de EcoMovil,  
+        <br>
+        <b>cuando</b> ingresa correctamente su correo electrónico y contraseña,  
+        <br>
+        <b>y</b> hace clic en el botón de "Iniciar sesión",  
+        <br>
+        <b>entonces</b> el usuario debería ser autenticado. 
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US18</td>
+    <td>Botón “Elija un plan”</td>
+    <td><b>Como</b> universitario <b>quiero</b> elegir un plan <b>para</b> alquilar o comprar mis vehículos.</td>
+    <td>
+        Escenario 1: Selección del plan en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario se encuentra en la página de selección de planes de EcoMovil,  
+        <br>
+        <b>cuando</b> el usuario visualiza los planes disponibles,  
+        <br>
+        <b>cuando</b> hace clic en el botón "Elija un plan" para el plan deseado,  
+        <br>
+        <b>entonces</b> el usuario debería ser redirigido a la página de pasar por la caja del plan seleccionado,  
+        <br>
+        <b>entonces</b> el usuario podrá proceder con el alquiler o la compra.
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US19</td>
+    <td>Mensaje de “Pago exitoso”</td>
+    <td><b>Como</b> universitario <b>quiero</b> visualizar la confirmación de mi pago <b>para</b> alquilar o comprar mis vehículos.</td>
+    <td>
+        Escenario 1: Confirmación de “Pago exitoso” en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario ha completado el proceso de pago en EcoMovil,  
+        <br>
+        <b>cuando</b> el pago se procesa correctamente,  
+        <br>
+        <b>entonces</b> el usuario debería ser redirigido a una página de confirmación de “Pago exitoso”,  
+        <br>
+        <b>entonces</b> el usuario verá un mensaje que confirma que el pago fue exitoso.
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US20</td>
+    <td>Botón de agregar vehículos en el menú</td>
+    <td><b>Como</b> universitario <b>quiero</b> publicar mis vehículos <b>para</b> rentarlos y/o venderlos.</td>
+    <td>
+        Escenario 1: Agregar vehículos a través del menú en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario está autenticado y se encuentra en el menú principal de EcoMovil,  
+        <br>
+        <b>cuando</b> el usuario selecciona la opción "Agregar" en el menú,  
+        <br>
+        <b>cuando</b> el usuario completa el formulario de agregar vehículo con la información requerida (como tipo, descripción, fotos, precio),  
+        <br>
+        <b>cuando</b> hace clic en el botón "Publicar Vehículo",  
+        <br>
+        <b>entonces</b> el vehículo debería ser añadido a su lista de vehículos disponibles para alquiler o venta,  
+        <br>
+        <b>entonces</b> el usuario debería recibir una confirmación de que el vehículo se ha publicado exitosamente.
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US21</td>
+    <td>Visualizar mi Perfil</td>
+    <td><b>Como</b> universitario <b>quiero</b> visualizar mi perfil <b>para</b> ver mis nombres completos, correo electrónico, número de contacto y RUC.</td>
+    <td>
+        Escenario 1: Visualización del perfil en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario está autenticado y se encuentra en su página de perfil en EcoMovil,  
+        <br>
+        <b>cuando</b> el usuario accede a la sección "Perfil del vendedor" desde el menú,  
+        <br>
+        <b>entonces</b> el usuario debería ver su información personal completa,  
+        <br>
+        <b>entonces</b> la página debe mostrar claramente el nombre completo, correo electrónico, número de contacto y RUC del usuario.
+    </td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>US22</td>
+    <td>Historial de Vehículos</td>
+    <td><b>Como</b> universitario y adquiriente <b>quiero</b> visualizar mi historial de vehículos <b>para</b> tener conocimiento de los vehículos que he alquilado, comprado, rentado o vendido.</td>
+    <td>
+        Escenario 1: Visualización del historial de vehículos en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario está autenticado y se encuentra en su página de perfil en EcoMovil,  
+        <br>
+        <b>cuando</b> el usuario accede a la sección "Historial de Vehículos" desde el menú.  
+        <br>
+      <td>2</td>
+</tr>
+<tr>
+    <td>US23</td>
+    <td>Foro de Contacto</td>
+    <td><b>Como</b> universitario y adquiriente <b>quiero</b> visualizar el foro de contacto <b>para</b> ver una lista de propietarios contactándose mediante WhatsApp.</td>
+    <td>
+        Escenario 1: Visualización del Foro de Contacto en EcoMovil
+        <br>
+        <b>Dado que</b> el usuario está autenticado y se encuentra en la página del foro de contacto en EcoMovil,  
+        <br>
+        <b>cuando</b> el usuario accede a la sección "Foro de Contacto" desde el menú,  
+        <br>
+        <b>entonces</b> el usuario debería ver una lista de propietarios que han publicado sus datos de contacto a través de WhatsApp.
+    <td>2</td>
 </tr>
  </tbody>
 </table>
