@@ -601,20 +601,237 @@ En esta sección, el adquiriente podrá visualizar los mensajes de los diferente
 
 **Web Application par Mobile Web Browser**
 
+**Segmento Universitario**
 
+**Crear Cuenta**
 
+La siguiente imagen presenta la sección de "registro de empresa", donde los universitarios podrán proporcionar la información requerida para crear una cuenta en la aplicación y empezar a disfrutar de los beneficios que ofrece EcoMovil.
 
+![web](/assets/chapter-4/universitario1.png)
 
+**Inicio de sesión**
 
+La siguiente imagen muestra el wireframe de la sección de "inicio de sesión" vista desde una aplicación web en escritorio. En esta sección, los usuarios deberán ingresar sus credenciales para acceder a la aplicación, siempre y cuando ya hayan creado una cuenta previamente.
 
+![web](/assets/chapter-4/universitario2.png)
 
+**Elegir Planes**
 
+La siguiente imagen muestra la sección de "Selección de pago", donde se presentan las diferentes categorías de planes disponibles en la aplicación. Cada uno de los tres planes ha sido diseñado cuidadosamente para atender las necesidades particulares de las empresas.
 
+![web](/assets/chapter-4/universitario3.png)
 
+**Pago**
 
+La siguiente imagen corresponde a la sección de "Pasarela de pagos", donde los universitarios son redirigidos a un formulario para seleccionar y registrar su método de pago. En esta sección también se muestra el monto del plan elegido. Tras completar el proceso de pago con éxito, el usuario recibe una notificación con la confirmación de su suscripción y la fecha de registro.
 
+![web](/assets/chapter-4/universitario4.png)
 
+**Proceder el Pago**
 
+En la siguiente imagen se puede ver el mensaje de pago exitoso, donde el universitario confirma que ha realizado el pago de manera satisfactoria y que ahora puede utilizar la aplicación sin inconvenientes.
+
+![web](/assets/chapter-4/universitario5.png)
+
+**Home**
+
+En esta sección, se puede ver el home con varias secciones que se explorarán más adelante. En particular, nos enfocamos en la parte de "Mis vehículos", donde podrás observar a otros universitarios siguiendo la iniciativa y subiendo sus propios vehículos.
+
+![web](/assets/chapter-4/universitario6.png)
+
+**Detalles del Vehículo**
+
+En esta sección, podrás ver los detalles de cada vehículo mostrado en la sección del home.
+
+![web](/assets/chapter-4/universitario7.png)
+
+**Mis vehículos**
+
+En esta parte, el universitario podrá subir sus vehículos añadiendo una imagen representativa y detalles del vehículo. Finalmente, deberá hacer clic en el botón "Agregar" para completar el proceso.
+
+![web](/assets/chapter-4/universitario8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, correo electrónico y otros detalles, además de tu foto representativa. Finalmente, deberás hacer clic en el botón "Save changes" para guardar los cambios.
+
+![web](/assets/chapter-4/universitario9.png)
+
+**Historial del Vehículo**
+
+En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
+
+![web](/assets/chapter-4/universitario10.png)
+
+**Foro de Contacto**
+
+En esta sección, podrás publicar tu número de contacto y el vehículo que estás dispuesto a vender o alquilar, permitiendo que otros usuarios se contacten contigo o le den "like" a tu publicación.
+
+![web](/assets/chapter-4/universitario11.png)
+
+**Segmento Adquiriente**
+
+**Crear cuenta**
+
+En esta sección, el adquiriente podrá registrarse proporcionando datos específicos como su nombre, correo electrónico y contraseña. Además, deberá marcar la casilla "Acepto los términos y condiciones."
+
+![web](/assets/chapter-4/adquiriente1.png)
+
+**Iniciar Sesión**
+
+En esta sección, el adquiriente podrá iniciar sesión ingresando su correo electrónico y contraseña.
+
+![web](/assets/chapter-4/adquiriente2.png)
+
+**Home**
+
+En esta sección, el adquiriente podrá visualizar el "Home", donde tendrá acceso a diversos vehículos menores con información como nombre, descripción y precio. También encontrará botones para "Rentar" o "Comprar" cada vehículo.
+
+![web](/assets/chapter-4/adquiriente3.png)
+
+**Mi perfil**
+
+En esta sección, podrás visualizar el perfil del adquiriente, incluyendo detalles como el nombre, correo y teléfono. También habrá un botón para confirmar si los detalles son correctos y, finalmente, un botón de "Guardar".
+
+![web](/assets/chapter-4/adquiriente4.png)
+
+**Mapa Interactivo**
+
+En esta sección, el adquiriente podrá visualizar un mapa interactivo.
+
+![web](/assets/chapter-4/adquiriente5.png)
+
+**Filtro**
+
+En esta sección, podrás visualizar los filtros con vehículos y sus imágenes descriptivas, así como los botones de "Comprar" o "Rentar".
+
+![web](/assets/chapter-4/adquiriente6.png)
+
+**Detalles del Vehículo**
+
+Al hacer clic en un vehículo, el adquiriente podrá ver las descripciones del mismo, incluidos sus "Badges", tipo de vehículo, año, precio y una descripción detallada. Además, tendrá la opción de comunicarse por WhatsApp con el propietario del vehículo y podrá seleccionar entre los botones "Rentar Vehículo" o "Comprar Vehículo".
+
+![web](/assets/chapter-4/adquiriente7.png)
+
+**Historial**
+
+En esta sección, el adquiriente podrá visualizar el historial de los vehículos.
+
+![web](/assets/chapter-4/adquiriente8.png)
+
+**Foro de Contacto**
+
+En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
+
+![web](/assets/chapter-4/adquiriente9.png)
+
+**Web Application para Mobile Web Browser**
+
+**Segmento Universitario**
+
+**Logo**
+
+Aquí, el universitario podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![mobile](/assets/chapter-4/color1.png)
+
+**Registro**
+
+Los universitarios podrán registrarse en EcoMovil ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![mobile](/assets/chapter-4/color2.png)
+
+**Iniciar sesión**
+
+Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![mobile](/assets/chapter-4/color3.png)
+
+**Planes**
+
+Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
+
+![mobile](/assets/chapter-4/color4.png)
+
+**Proceder al pago**
+
+En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
+
+![mobile](/assets/chapter-4/color5.png)
+
+**Vehículos**
+
+Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
+
+![mobile](/assets/chapter-4/color6.png)
+
+**Historial**
+
+Aquí, podremos ver el historial de los vehículos publicados por el universitario.
+
+![mobile](/assets/chapter-4/color7.png)
+
+**Foro de Contacto**
+
+El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
+
+![mobile](/assets/chapter-4/color8.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
+
+![mobile](/assets/chapter-4/color9.png)
+
+**Segmento Adquiriente**
+
+**Logo**
+
+Aquí, el adquiriente podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![mobile](/assets/chapter-4/color10.png)
+
+**Registro**
+
+Los adquirientes podrán registrarse en EcoMovil ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![mobile](/assets/chapter-4/color11.png)
+
+**Iniciar sesión**
+
+Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![mobile](/assets/chapter-4/color12.png)
+
+**Alquilar o comprar vehículos menores**
+
+Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
+
+![mobile](/assets/chapter-4/color13.png)
+
+**Mi Perfil**
+
+El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
+
+![mobile](/assets/chapter-4/color14.png)
+
+**Vehículo y Filtros**
+
+Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
+
+![mobile](/assets/chapter-4/color15.png)
+
+**Detalles del Vehículo**
+
+Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
+
+![mobile](/assets/chapter-4/color16.png)
+
+**Historial de Vehículo y Foro de Contacto**
+
+El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
+
+![mobile](/assets/chapter-4/color17.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams 
 
