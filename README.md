@@ -53,9 +53,10 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
 Escenario 1: Visualización de la Sección Hero
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección hero debe ser visible en la parte superior de la página con un diseño atractivo y claro.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección hero debe ser visible en la parte superior de la página con un diseño atractivo y claro.
     </td>
     <td>1</td>
 </tr>
@@ -67,9 +68,10 @@ Escenario 1: Visualización de la Sección Hero
 Escenario 1: Visualización de la Sección Footer
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección footer debe ser visible en la parte inferior de la página con términos de servicio y políticas de privacidad.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección footer debe ser visible en la parte inferior de la página con términos de servicio y políticas de privacidad.
     </td>
     <td>1</td>
 </tr>
@@ -81,9 +83,10 @@ Escenario 1: Visualización de la Sección Footer
 Escenario 1: Visualización de la Sección de Beneficios
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Cómo funciona”  debe ser visible en la página con una descripción clara y atractiva de cómo EcoMovil puede mejorar la experiencia ecológica y la interacción con la aplicación.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Cómo funciona”  debe ser visible en la página con una descripción clara y atractiva de cómo EcoMovil puede mejorar la experiencia ecológica y la interacción con la aplicación.
     </td>
     <td>1</td>
 </tr>
@@ -95,9 +98,10 @@ Escenario 1: Visualización de la Sección de Beneficios
 Escenario 1: Visualización de la Sección de Contacto
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de Contacto debe ser visible en la página con información clara sobre cómo comunicarse con el equipo de EcoMovil.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de Contacto debe ser visible en la página con información clara sobre cómo comunicarse con el equipo de EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -109,9 +113,10 @@ Escenario 1: Visualización de la Sección de Contacto
 Escenario 1: Visualización en Diferentes Dispositivos
 
 <br>
-**Dado que** el universitario o adquiriente acceda a la landing page desde un dispositivo móvil, tablet o escritorio,  
-**cuando** se carga la página,  
-**entonces** la landing page debe ajustarse adecuadamente al tamaño de pantalla del dispositivo, manteniendo la funcionalidad completa y la legibilidad del contenido sin necesidad de hacer zoom o desplazamiento horizontal.
+<br>
+Dado que el universitario o adquiriente acceda a la landing page desde un dispositivo móvil, tablet o escritorio,  
+cuando se carga la página,  
+entonces la landing page debe ajustarse adecuadamente al tamaño de pantalla del dispositivo, manteniendo la funcionalidad completa y la legibilidad del contenido sin necesidad de hacer zoom o desplazamiento horizontal.
     </td>
     <td>1</td>
 </tr>
@@ -123,9 +128,10 @@ Escenario 1: Visualización en Diferentes Dispositivos
 Escenario 1: Visualización de la Sección de Planes
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de planes debe ser visible y accesible, mostrando claramente los diferentes planes disponibles con descripciones y precios, permitiendo al usuario seleccionar el plan que desee y seguir el proceso para unirse a EcoMovil.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de planes debe ser visible y accesible, mostrando claramente los diferentes planes disponibles con descripciones y precios, permitiendo al usuario seleccionar el plan que desee y seguir el proceso para unirse a EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -137,9 +143,10 @@ Escenario 1: Visualización de la Sección de Planes
 Escenario 1: Visualización de la Sección de Acerca de
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Acerca de” debe ser visible y accesible, mostrando claramente la historia y misión de EcoMovil con una descripción concisa y atractiva.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Acerca de” debe ser visible y accesible, mostrando claramente la historia y misión de EcoMovil con una descripción concisa y atractiva.
     </td>
     <td>1</td>
 </tr>
@@ -151,9 +158,10 @@ Escenario 1: Visualización de la Sección de Acerca de
 Escenario 1: Visualización de la Sección de Unirse
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Unirse” debe ser visible y accesible para registrarse en EcoMovil.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Unirse” debe ser visible y accesible para registrarse en EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -165,9 +173,10 @@ Escenario 1: Visualización de la Sección de Unirse
 Escenario 1: Visualización de la Sección de Inscripción
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Inscribirse” debe ser visible y accesible.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Inscribirse” debe ser visible y accesible.
     </td>
     <td>1</td>
 </tr>
@@ -179,9 +188,10 @@ Escenario 1: Visualización de la Sección de Inscripción
 Escenario 1: Visualización de la Sección de Universitario
 
 <br>
-**Dado que** el universitario se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección dedicada a universitarios debe ser visible y accesible, mostrando información específica para universitarios.
+<br>
+Dado que el universitario se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección dedicada a universitarios debe ser visible y accesible, mostrando información específica para universitarios.
     </td>
     <td>1</td>
 </tr>
@@ -193,9 +203,10 @@ Escenario 1: Visualización de la Sección de Universitario
 Escenario 1: Visualización de la Sección “Conozca Más Sobre Nosotros”
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección “Conozca más sobre nosotros” debe ser visible y accesible, mostrando información detallada sobre la aplicación.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección “Conozca más sobre nosotros” debe ser visible y accesible, mostrando información detallada sobre la aplicación.
     </td>
     <td>1</td>
 </tr>
@@ -207,9 +218,10 @@ Escenario 1: Visualización de la Sección “Conozca Más Sobre Nosotros”
 Escenario 1: Visualización del Botón "Empieza tu viaje"
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** el botón “Empieza tu viaje” debe ser visible y accesible, destacándose en la página con un diseño atractivo que motive a los usuarios a comenzar su experiencia en EcoMovil.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces el botón “Empieza tu viaje” debe ser visible y accesible, destacándose en la página con un diseño atractivo que motive a los usuarios a comenzar su experiencia en EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -221,9 +233,10 @@ Escenario 1: Visualización del Botón "Empieza tu viaje"
 Escenario 1: Visualización de la Sección "Todos los derechos reservados"
 
 <br>
-**Dado que** el universitario o adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
+<br>
+Dado que el universitario o adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -235,9 +248,10 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
 Escenario 1: Visualización de la Sección "Todos los derechos reservados"
 
 <br>
-**Dado que** el adquiriente se encuentre en la landing page,  
-**cuando** se carga la página,  
-**entonces** la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
+<br>
+Dado que el adquiriente se encuentre en la landing page,  
+cuando se carga la página,  
+entonces la sección de “Todos los derechos reservados” debe ser visible al final de la página, mostrando de forma clara que los derechos del usuario están protegidos por EcoMovil.
     </td>
     <td>1</td>
 </tr>
@@ -247,6 +261,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td><b>Como</b> universitario <b>quiero</b> crear mi cuenta registrándome <b>para</b> ingresar a la aplicación. </td>
     <td>
         Escenario 1: Creación de cuenta en EcoMovil
+        <br>
         <br>
         <b>Dado que</b> el usuario se encuentra en la página de registro de EcoMovil,  
         <br>
@@ -267,6 +282,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td>
         Escenario 1: Inicio de sesión en EcoMovil
         <br>
+        <br>
         <b>Dado que</b> el usuario se encuentra en la página de inicio de sesión de EcoMovil,  
         <br>
         <b>cuando</b> ingresa correctamente su correo electrónico y contraseña,  
@@ -283,6 +299,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td><b>Como</b> universitario <b>quiero</b> elegir un plan <b>para</b> alquilar o comprar mis vehículos.</td>
     <td>
         Escenario 1: Selección del plan en EcoMovil
+        <br>
         <br>
         <b>Dado que</b> el usuario se encuentra en la página de selección de planes de EcoMovil,  
         <br>
@@ -303,6 +320,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td>
         Escenario 1: Confirmación de “Pago exitoso” en EcoMovil
         <br>
+        <br>
         <b>Dado que</b> el usuario ha completado el proceso de pago en EcoMovil,  
         <br>
         <b>cuando</b> el pago se procesa correctamente,  
@@ -319,6 +337,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td><b>Como</b> universitario <b>quiero</b> publicar mis vehículos <b>para</b> rentarlos y/o venderlos.</td>
     <td>
         Escenario 1: Agregar vehículos a través del menú en EcoMovil
+        <br>
         <br>
         <b>Dado que</b> el usuario está autenticado y se encuentra en el menú principal de EcoMovil,  
         <br>
@@ -341,6 +360,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td>
         Escenario 1: Visualización del perfil en EcoMovil
         <br>
+        <br>
         <b>Dado que</b> el usuario está autenticado y se encuentra en su página de perfil en EcoMovil,  
         <br>
         <b>cuando</b> el usuario accede a la sección "Perfil del vendedor" desde el menú,  
@@ -358,6 +378,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td>
         Escenario 1: Visualización del historial de vehículos en EcoMovil
         <br>
+        <br>
         <b>Dado que</b> el usuario está autenticado y se encuentra en su página de perfil en EcoMovil,  
         <br>
         <b>cuando</b> el usuario accede a la sección "Historial de Vehículos" desde el menú.  
@@ -370,6 +391,7 @@ Escenario 1: Visualización de la Sección "Todos los derechos reservados"
     <td><b>Como</b> universitario y adquiriente <b>quiero</b> visualizar el foro de contacto <b>para</b> ver una lista de propietarios contactándose mediante WhatsApp.</td>
     <td>
         Escenario 1: Visualización del Foro de Contacto en EcoMovil
+        <br>
         <br>
         <b>Dado que</b> el usuario está autenticado y se encuentra en la página del foro de contacto en EcoMovil,  
         <br>
