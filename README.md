@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/176258e7-ea04-4847-a1e2-629b947fc741)![image](https://github.com/user-attachments/assets/982c8c50-c2f6-431b-a1f6-b1abad639527)# Capítulo IV: Product Design
+# Capítulo IV: Product Design
 
 Este capítulo cubre todos los aspectos relacionados con el diseño de la solución, incluyendo el estilo visual, los diagramas C4, los diagramas de clases y los modelos de base de datos.
 
