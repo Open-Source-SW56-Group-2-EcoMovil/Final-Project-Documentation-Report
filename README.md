@@ -7,56 +7,67 @@
 
 1.- Trello: Es una herramienta para gestionar proyectos, especialmente aquellos basados en metodologías ágiles. Facilita la visualización y actualización del progreso de tareas e historias de usuario dentro de un sprint en desarrollo.
 <br>
+
 Ruta de referencia: https://trello.com/es
 
 **User Experience Design (UX/UI)**
 
 1.- Figma: Herramienta para la creación de prototipos y diseño gráfico, principalmente empleada en el ámbito digital. En este proyecto, servirá para desarrollar prototipos de la aplicación y sus versiones para navegadores en escritorio y móviles.
 <br>
+
 Ruta de referencia: https://www.figma.com/login
 
 2.- Lucidchart: Aplicación para la creación de diagramas de flujo. Se utilizará para el diseño de wireflows, user-flows y el diagrama de clases asociado con la aplicación.
 <br>
+
 Ruta de referencia: https://www.lucidchart.com
 
 **Software Testing**
 
 1.- Gherkin: Gherkin es un lenguaje usado para definir los criterios de aceptación de una historia de usuario de forma estructurada. Proporciona una forma estandarizada de escribir escenarios en un formato legible tanto para equipos técnicos como no técnicos. Para más información.
 <br>
+
 Ruta de referencia: https://cucumber.io/docs/gherkin/
 
 **Software Development**
 
 1.- Visual Studio Code: Entorno de desarrollo integrado seleccionado para la creación y compilación del código, debido al dominio del equipo con esta herramienta. Este IDE aporta valor al proyecto por su capacidad para añadir extensiones útiles, soportar edición de texto en varios lenguajes de programación y estar disponible en diferentes sistemas operativos, entre otras ventajas.
 <br>
+
 Ruta de referencia: https://code.visualstudio.com/
 
 2.- HTML5: Lenguaje de marcado para la estructura de páginas web. Se utilizará en el proyecto para organizar y presentar el contenido de la aplicación.
 <br>
+
 Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
 
 3.- CSS: Hojas de Estilo en Cascada, un lenguaje que controla el diseño y la apariencia de las páginas web, complementando a HTML.
 <br>
+
 Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
 
 4.- Angular: Framework de desarrollo para aplicaciones web de una sola página (SPA) que utiliza TypeScript. Desarrollado por Google, facilita la creación de aplicaciones web dinámicas y eficientes.
 <br>
+
 Ruta de referencia: https://angular.io/
 
 5.- TypeScript: Lenguaje de programación que extiende JavaScript añadiendo tipado estático y otras características avanzadas, mejorando el desarrollo de aplicaciones complejas y a gran escala.
 <br>
+
 Ruta de referencia: https://www.typescriptlang.org/
 
 **Software Deployment**
 
 1.- Git: Sistema de control de versiones que facilita el registro y la gestión de las diversas versiones del código. Servirá para mantener un historial de modificaciones y simplificar la resolución de errores. El equipo accederá a través de la línea de comandos en sus equipos locales.
 <br>
+
 Ruta de referencia: https://git-scm.com/
 
 **Software Documentation and Project Management**
 
 1.- GitHub: Plataforma en la nube que almacenará los repositorios del proyecto, permitiendo la colaboración en tiempo real y la revisión de las aportaciones de cada miembro del equipo. El acceso se realizará a través de los navegadores web. 
 <br>
+
 Ruta de referencia: https://github.com/
 
 ### 5.1.2. Source Code Management
@@ -71,8 +82,8 @@ El proyecto implementará el modelo **GitFlow** como estándar para el control d
 **Repositorios de GitHub:**
 - Enlace a la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
 - Enlace al repositorio de la **Landing Page**: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
-
 <br>
+
 ![gitflow](./assets/perfil/gitflow.png)
 
 **Estructura de Ramas (Branches) en GitFlow:**
@@ -127,35 +138,43 @@ En EcoMovil se han implementado diversas convenciones de estilo para el desarrol
 
 ### 5.1.4. Software Deployment Configuration
 
-Para desplegar la landing page, es necesario cumplir con algunos requisitos, como tener una cuenta personal, una organización y un repositorio donde cargar los archivos. A partir de esto, se puede iniciar el proceso de despliegue. Los pasos a seguir son los siguientes:
+**Landing Page Deployment**
+
+Para desplegar la landing page, es necesario cumplir con ciertos requisitos previos, como disponer de una cuenta personal, una organización y un repositorio donde se alojarán los archivos. Con esto listo, se puede comenzar el despliegue. Los pasos son los siguientes:
 
 1. Crear una carpeta llamada "docs" que contendrá la landing page.
-2. Asegurarse de que los archivos sigan la nomenclatura adecuada: "index.html" para la página principal, "style.css" para los estilos, y una carpeta "img" para las imágenes.
-3. Subir los archivos al repositorio mediante un commit.
-4. Ir a Settings > Pages y seleccionar la rama correspondiente, normalmente "main" o "master", donde se encuentra el proyecto.
-5. Indicar la carpeta "docs" como la fuente para la página.
-6. Esperar a que GitHub realice las verificaciones necesarias. Una vez terminado, se generará un enlace para acceder a la landing page desplegada.
+2. Verificar que los archivos estén correctamente nombrados: "index.html" para la página principal, "style.css" para los estilos, y una carpeta "img" para las imágenes.
+3. Subir los archivos al repositorio con un commit.
+4. Dirigirse a Settings > Pages y seleccionar la rama correspondiente, usualmente "main" o "master".
+5. Definir la carpeta "docs" como la ubicación de la página.
+6. Esperar a que GitHub finalice las comprobaciones. Al terminar, se generará un enlace que permitirá acceder a la landing page publicada.
 
 Este proceso permite el despliegue automático de la landing page utilizando GitHub Pages.
 
 A continuación, se detallarán las acciones llevadas a cabo para alcanzar este propósito.
 
-- Primero, es fundamental asegurarse de que el repositorio esté correctamente configurado.
+Lo primero es garantizar que el repositorio esté configurado de manera adecuada.
+
 ![Merged-Picture](./assets/perfil/merged1.png)
 
-- En este caso, se ha utilizado Angular para crear una Landing Page y se ha decidido emplear la herramienta angular-cli-pages, que facilita la actualización de la página y su despliegue en GitHub Pages.
+En este caso, se ha utilizado Angular para desarrollar una Landing Page, optando por la herramienta angular-cli-pages, que simplifica tanto la actualización de la página como su despliegue en GitHub Pages.
+
 ![Angular-Cli](./assets/perfil/angular-cli.png)
 
-- A continuación, se usa la herramienta "ngh" para crear una nueva rama, llamada "gh-pages", que albergará los archivos de despliegue, nombrada así por la herramienta mencionada.
+A continuación, se utiliza la herramienta "ngh" para crear una nueva rama llamada "gh-pages", que contendrá los archivos de despliegue y recibe su nombre de la herramienta mencionada.
+
 ![Dist](./assets/perfil/dist.png)
 
-- Utilizamos ngh para crear una nueva rama llamada gh-pages, la cual contendrá todos los archivos necesarios para el despliegue. Esta rama recibe su nombre por la herramienta que estamos empleando.
+Usamos "ngh" para crear una nueva rama llamada "gh-pages", que almacenará todos los archivos necesarios para el despliegue. El nombre de la rama proviene de la herramienta que estamos utilizando.
+
 ![gh-pages](./assets/perfil/gh.png)
 
-- Una vez que los archivos han sido publicados en la rama correspondiente, accedemos a "Settings" y, en la sección "Pages", seleccionamos la rama gh-pages y la opción / (root). Después de guardar los cambios y esperar un poco, podremos visualizar la página publicada.
+Una vez que los archivos se han publicado en la rama correspondiente, accedemos a "Settings" y, en la sección "Pages", seleccionamos la rama "gh-pages" y la opción / (root). Después de guardar los cambios y esperar un momento, podremos ver la página publicada.
+
 ![publish](./assets/perfil/publish.png)
 
-- Así es como se vería la página final.
+Así es cómo se verá la página final.
+
 ![page](./assets/perfil/page.png)
 
 Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
@@ -180,7 +199,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
-       <td>  08/14/2024 </td>
+       <td>  14/08/2024 </td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Time </td>
@@ -211,18 +230,18 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td> Como este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> Como este es nuestro primer sprint de desarrollo, aún no identificamos planes de mejora .<td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Goal</td>
-          <td>  En este sprint se espera implementar la landing page con las secciones de login de inicio, hero y secciones de orientacion para el usuario, como por ejemplo footer y conocemos. En el grupo acordamos usar el framework de Tailwind CSS para mejorar el maquetado y estilos de nuestra landing page, como tambien las librerias de Alpine.js y Swiper.js para facilitar la implementacion de las secciones de navbar y conocenos. Al finalizar este sprint, la landing page debe estar desplegada en Netlifly y cualquier usuario debería poder acceder y visualizar la página a través de un link. <td>
+          <td>  En este sprint, se planea implementar la landing page con las secciones de inicio de sesión, hero y elementos de orientación para el usuario, como el footer y "About". Al finalizar el sprint, la landing page debe estar desplegada en GitHub, y cualquier usuario debería poder acceder y ver la página mediante un enlace. <td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
@@ -237,11 +256,10 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
   </table>
 
 ### 5.2.1.2. Sprint Backlog 1
-En esta sección se presentan las tareas realizadas durante el 1er sprint, junto con una captura de pantalla de Trello y un enlace al tablero.
 
-Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c87fdf497ae1fd07dBECD9493/grupo-2-ecomovil
+En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
 
-![Trello](./assets/perfil/trello.png)
+![Trello](./assets/perfil/image4.png) 
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -264,7 +282,7 @@ Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c8
    </tr>
    <tr>
       <th> US01 </th>
-     <th colspan="3"> Barra de navegación en la landing page </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
       <th> W01  </th>
      <th> Navbar Section</th>
      <th> Desarrollar el navbar de la landing page de EcoMovil con distintas opciones que nos redirige a otros apartados  </th>
@@ -274,21 +292,11 @@ Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c8
    </tr>
     <tr>
       <th> US02 </th>
-     <th colspan="3"> Sección Hero en la landing page </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
       <th> W03  </th>
      <th> Hero Section </th>
      <th> Agregar un apartado con una imagen y un título llamativo al ingresar al landing page de EcoMovil   </th>
      <th> 0.8  </th>
-     <th> David Gallo </th> 
-     <th> Done </th>
-   </tr>
-   <tr>
-      <th> US02 </th>
-     <th colspan="3"> Sección Hero en la landing page </th>
-      <th> W04  </th>
-     <th> Hero Join Section</th>
-     <th> Implementar seccion donde se agrega el email del usuario </th>
-     <th> 0.7  </th>
      <th> David Gallo </th> 
      <th> Done </th>
    </tr>
@@ -303,57 +311,46 @@ Link: https://trello.com/invite/b/662c300dd4ef055a15b83d8c/ATTId06c3da32ac9a78c8
      <th> Done </th>
    </tr>
    <tr>
-      <th> US03</th>
+      <th> US04</th>
      <th colspan="3"> Sección Footer en la Landing Page </th>
       <th> W06  </th>
      <th> About us Section </th>
-     <th> Implementar la sección About us donde se muestra la información sobre nuestros equipo </th>
+     <th> Implementar la sección "About us" donde se muestra la información adicional. </th>
      <th> 0.8  </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
     </tr>
    <tr>
-      <th> US04</th>
+      <th> US05</th>
      <th colspan="3"> Sección de Beneficios en la Landing Page</th>
       <th> W07  </th>
      <th> Beneficios Section </th>
-     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales de nuestra startup.   </th>
+     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales.   </th>
      <th> 0.7  </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
    </tr>
-   <tr>
-      <th> US04</th>
-     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
-      <th> W08  </th>
-     <th> PLan Section </th>
-     <th> Implementar la sección Planes donde se muestran los planes que ofrecemos con sus respectivas funciones añadidas.   </th>
-     <th> 0.8  </th>
-     <th> Juan Calisaya </th> 
-     <th> Done </th>
-   </tr>
     <tr>
-      <th> US05 </th>
+      <th> US06 </th>
      <th colspan="3"> Sección de Contacto en la Landing Page </th>
       <th> W09  </th>
      <th> Contact Section </th>
-     <th> Agregar información del equipo para que los usuarios puedan contactarnos.   </th>
+     <th> Agregar información del equipo para que los usuarios puedan contactarnos. </th>
      <th> 0.5 </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
    </tr>
     <tr>
-        <th> US06 </th>
+        <th> US07 </th>
          <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
           <th> W10  </th>
          <th> Landing page responsive Section </th>
-         <th> Agregar la funcionalidad de responsividad a toda la página web.   </th>
+         <th> Agregar la funcionalidad de responsividad a toda la aplicación web.   </th>
          <th> 0.6 </th>
          <th> Juan Calisaya </th> 
          <th> Done </th>
     </tr>
-
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review
@@ -430,9 +427,11 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 | Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
-| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project langing page  | 29/08/24           |
+| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project landing page  | 29/08/24           |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
 
 ![Capture1](./assets/perfil/Capture1.png)
 
