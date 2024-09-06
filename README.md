@@ -103,7 +103,11 @@ Se describen las ramas más destacadas de la siguiente manera:
 - **feature-product-design**: Representada en verde. Incluye el contenido de flujos de usuario y wireframes.
 - **feature-sprint1**: Representada en amarillo. Contiene los artefactos relacionados con el sprint 1 en el informe.
 
-**AGREGAR LAS FOTOS URGENTE AL ENVIAR**
+Los gráficos siguientes muestran los análisis de commits en el repositorio del informe, incluyendo la cantidad de líneas de texto añadidas por cada miembro del equipo.
+
+**TB1**
+
+![insights](/assets/insights.png)
 
 # Contenido 
 ## Tabla de contenidos
