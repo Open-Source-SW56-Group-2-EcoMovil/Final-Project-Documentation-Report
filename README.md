@@ -249,11 +249,11 @@ En esta sección, podrás ver tu perfil y agregar más datos, como tu RUC, corre
 
 ![web](/assets/chapter-4/universitario9.png)
 
-**Historia del Vehículo**
+**Historial del Vehículo**
 
 En esta sección, puedes ver el historial de los vehículos publicados y los detalles correspondientes.
 
-![web](/assets/chapter-4/universitari10.png)
+![web](/assets/chapter-4/universitario10.png)
 
 **Foro de Contacto**
 
@@ -316,6 +316,64 @@ En esta sección, el adquiriente podrá visualizar el historial de los vehículo
 En esta sección, el adquiriente podrá visualizar los mensajes de los diferentes universitarios que incluyeron su número de teléfono, con la opción de conectarse directamente a través de WhatsApp.
 
 ![web](/assets/chapter-4/adquiriente9.png)
+
+**Web Application para Mobile Web Browser**
+
+**Segmento Universitario**
+
+**Logo**
+
+Aquí, el universitario podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![web](/assets/chapter-4/phone1.png)
+
+**Registro**
+
+Los universitarios podrán registrarse en EcoMovil ingresando su RUC, correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![web](/assets/chapter-4/phone2.png)
+
+**Iniciar sesión**
+
+Los universitarios podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![web](/assets/chapter-4/phone3.png)
+
+**Planes**
+
+Aquí, el usuario podrá seleccionar uno de los tres planes disponibles para comenzar a usar la aplicación y ofrecer sus vehículos al público objetivo. Deberá hacer clic en el botón de "Escoger Plan".
+
+![web](/assets/chapter-4/phone4.png)
+
+**Proceder al pago**
+
+En esta sección, el usuario podrá acceder al plan realizando el pago con su tarjeta e ingresando los datos correspondientes. Después de hacer clic en el botón de "Confirmar", recibirá un mensaje de pago exitoso.
+
+![web](/assets/chapter-4/phone5.png)
+
+**Vehículos**
+
+Aquí, el universitario podrá visualizar las publicaciones de otros universitarios y sus vehículos para inspirarse. Luego, podrá acceder a la sección "Mi Vehículo" para agregar uno o dos vehículos, dependiendo de su plan, haciendo clic en el botón "Agregar".
+
+![web](/assets/chapter-4/phone7.png)
+
+**Historial**
+
+Aquí, podremos ver el historial de los vehículos publicados por el universitario.
+
+![web](/assets/chapter-4/phone8.png)
+
+**Foro de Contacto**
+
+El universitario podrá subir un mensaje en el post indicando que está vendiendo o rentando un vehículo, incluyendo su número de celular para que el arrendatario pueda comunicarse con él a través de WhatsApp.
+
+![web](/assets/chapter-4/phone9.png)
+
+**Mi Perfil**
+
+En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
+
+![web](/assets/chapter-4/phone10.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
