@@ -755,7 +755,7 @@ Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será 
 
 ![diagram](/assets/chapter-4/diagram7.png)
 
-![diagram](/assets/chapter-4/diagramstudent.png)
+![diagram](/assets/chapter-4/modified.png)
 
 ![diagram](/assets/chapter-4/diagramuser.png)
 
