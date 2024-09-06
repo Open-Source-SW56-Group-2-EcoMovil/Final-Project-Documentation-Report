@@ -1,4 +1,4 @@
-# Capítulo IV: Product Design
+![image](https://github.com/user-attachments/assets/176258e7-ea04-4847-a1e2-629b947fc741)![image](https://github.com/user-attachments/assets/982c8c50-c2f6-431b-a1f6-b1abad639527)# Capítulo IV: Product Design
 
 Este capítulo cubre todos los aspectos relacionados con el diseño de la solución, incluyendo el estilo visual, los diagramas C4, los diagramas de clases y los modelos de base de datos.
 
@@ -374,6 +374,56 @@ El universitario podrá subir un mensaje en el post indicando que está vendiend
 En esta sección, podrás ver tu perfil, incluyendo tu foto, nombre completo, correo electrónico, número de teléfono y RUC. Finalmente, podrás guardar tus datos.
 
 ![web](/assets/chapter-4/phone10.png)
+
+**Segmento Adquiriente**
+
+**Logo**
+
+Aquí, el adquiriente podrá ver el logo de EcoMovil con un mensaje de "Cargando" en la parte inferior.
+
+![web](/assets/chapter-4/phone1.png)
+
+**Registro**
+
+Los adquirientes podrán registrarse en EcoMovil ingresando su correo electrónico, nombre completo y contraseña. También deberán aceptar los términos y condiciones antes de hacer clic en el botón de "Registrarse".
+
+![web](/assets/chapter-4/image1.png)
+
+**Iniciar sesión**
+
+Los adquirientes podrán iniciar sesión ingresando su correo electrónico y contraseña. También habrá una opción de "Recuérdame" para facilitar el acceso en caso de que olviden el usuario o la contraseña. Finalmente, deberán hacer clic en el botón de "Iniciar sesión".
+
+![web](/assets/chapter-4/phone3.png)
+
+**Alquilar o comprar vehículos menores**
+
+Aquí podrás explorar diferentes vehículos y utilizar el botón "Rentar" o "Comprar" según tu interés.
+
+![web](/assets/chapter-4/image2.png)
+
+**Mi Perfil**
+
+El adquiriente podrá ver su perfil, agregar o corregir su foto, nombre, correo electrónico y teléfono. También deberá confirmar que los detalles son correctos y, finalmente, hacer clic en el botón "Guardar".
+
+![web](/assets/chapter-4/image3.png)
+
+**Vehículo y Filtros**
+
+Aquí podrás ver el mapa interactivo y el filtro, que incluye secciones para tipos de vehículos y precios.
+
+![web](/assets/chapter-4/image4.png)
+
+**Detalles del Vehículo**
+
+Aquí podrás visualizar los detalles del vehículo que seleccionaste, incluyendo sus descripciones, y tendrás los botones de "Alquilar" o "Comprar".
+
+![web](/assets/chapter-4/image5.png)
+
+**Historial de Vehículo y Foro de Contacto**
+
+El adquiriente tendrá la opción de ver los vehículos en su historial y acceder al foro de contacto, donde podrá visualizar los posts de los universitarios que incluyen su número de WhatsApp, facilitando el contacto directo si desean el vehículo.
+
+![web](/assets/chapter-4/image6.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
