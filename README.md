@@ -755,8 +755,6 @@ Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será 
 
 ![diagram](/assets/chapter-4/diagram7.png)
 
-----
-
 ![diagram](/assets/chapter-4/diagramstudent.png)
 
 ![diagram](/assets/chapter-4/diagramuser.png)
@@ -793,19 +791,19 @@ El diagrama de contenedores proporciona una vista general de alto nivel de las i
 
 Los diagramas de componentes muestran las relaciones entre los componentes principales del sistema de software, detallando la implementación de los módulos correspondientes en el programa.
 
-- En esta sección inicial se presentan los requisitos no funcionales de la aplicación.
+En esta sección inicial se presentan los requisitos no funcionales de la aplicación.
   
 ![C4_Component_Profile](./assets/chapter-4/c43.png)
 
-- Aquí se ilustran los componentes relacionados con el perfil de usuario.
+Aquí se ilustran los componentes relacionados con el perfil de usuario.
   
 ![C4_Component_Profile2](./assets/chapter-4/c45.png)
 
-- En esta sección se detallan los componentes asociados a los vehículos.
+En esta sección se detallan los componentes asociados a los vehículos.
   
 ![C4_Component_Profile3](./assets/chapter-4/c44.png)
 
-- Aquí se muestran los componentes dedicados a la autenticación de usuarios.
+Aquí se muestran los componentes dedicados a la autenticación de usuarios.
   
 ![C4_Component_Profile4](./assets/chapter-4/c46.png)
 
@@ -825,9 +823,6 @@ Rental Bounded Context
 ![Rental.png](./assets/chapter-4/Rental.png)
 
 ### 4.7.2. Class Dictionary
-
-<hr>
-<br>
 
 **Acquirers Bounded Context**
 
@@ -852,7 +847,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">update()</td>
-    <td colspan="2" valign="top">Método que se llama cuando hay una actualización en el sujeto observado</td>
+    <td colspan="2" valign="top">Método que se llama cuando hay una actualización en el sujeto observado.</td>
   </tr>
 <table>
 
@@ -866,7 +861,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">update()</td>
-    <td colspan="2" valign="top">Implementación del método update específico para gestionar actualizaciones relacionadas con alquileres</td>
+    <td colspan="2" valign="top">Implementación del método update específico para gestionar actualizaciones relacionadas con alquileres o compras.</td>
   </tr>
 <table>
 
@@ -879,23 +874,23 @@ Rental Bounded Context
   </tr>
   <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del alquiler y/o compra</td>
+    <td colspan="2" valign="top">Identificador único del alquiler o compra</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">startDate</td>
-    <td colspan="2" valign="top">Fecha de inicio del alquiler y/o compra</td>
+    <td colspan="2" valign="top">Fecha de inicio del alquiler o compra</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">endDate</td>
-    <td colspan="2" valign="top">Fecha de fin del alquiler y/o compra</td>
+    <td colspan="2" valign="top">Fecha de fin del alquiler</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">status</td>
-    <td colspan="2" valign="top"> Estado del alquiler y/o compra (activo, terminado, espera)</td>
+    <td colspan="2" valign="top"> Estado del alquiler o compra (activo, terminado, espera)</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">totalCost </td>
-    <td colspan="2" valign="top">Costo total del alquiler y/o compra</td>
+    <td colspan="2" valign="top">Costo total del alquiler o compra</td>
   </tr>
   <tr>
     <td colspan="1" valign="top" width="40%">Método</td>
@@ -903,15 +898,15 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">startRental()</td>
-    <td colspan="2" valign="top">Método para crear un nuevo alquiler y/o compra.</td>
+    <td colspan="2" valign="top">Método para crear un nuevo alquiler o compra.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">endRental()</td>
-    <td colspan="2" valign="top"> Método para finalizar un alquiler y/o compra.</td>
+    <td colspan="2" valign="top"> Método para finalizar un alquiler o compra.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">cancelRent()</td>
-    <td colspan="2" valign="top"> Método para cancelar un alquiler y/o compra.</td>
+    <td colspan="2" valign="top"> Método para cancelar un alquiler o compra.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">calculateCost()</td>
@@ -949,7 +944,7 @@ Rental Bounded Context
   </tr>
 <tr>
     <td colspan="1" valign="top">changeStatus(status:String)</td>
-    <td colspan="2" valign="top"> Método para cambiar el status del vehículo.</td>
+    <td colspan="2" valign="top"> Método para cambiar el status del vehículo</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">updatePrice()</td>
@@ -1000,11 +995,11 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del historial de alquileres y/o compras.</td>
+    <td colspan="2" valign="top">Identificador único del historial de alquileres o compras.</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">Rentals and purchases</td>
-    <td colspan="2" valign="top">Lista de alquileres y/o compras asociados al adquiriente.</td>
+    <td colspan="2" valign="top">Lista de alquileres o compras asociados al adquiriente.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top" width="40%">Método</td>
@@ -1012,7 +1007,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">showDetail()</td>
-    <td colspan="2" valign="top">Método para obtener el historial de alquileres y/o compras.</td>
+    <td colspan="2" valign="top">Método para obtener el historial de alquileres o compras.</td>
   </tr>
 <table>
 
@@ -1025,7 +1020,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único de la marca del vehículo</td>
+    <td colspan="2" valign="top">Identificador único de la marca del vehículo.</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">name</td>
@@ -1097,11 +1092,11 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del historial de alquileres y/o compras.</td>
+    <td colspan="2" valign="top">Identificador único del historial de alquileres o compras.</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">Adquirentes</td>
-    <td colspan="2" valign="top">Lista de alquileres y/o compras asociados al adquiriente.</td>
+    <td colspan="2" valign="top">Lista de alquileres o compras asociados al adquiriente.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top" width="40%">Método</td>
@@ -1109,10 +1104,10 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">showDetail()</td>
-    <td colspan="2" valign="top">Método para obtener el historial de alquileres y/o compras.</td>
+    <td colspan="2" valign="top">Método para obtener el historial de alquileres o compras.</td>
   </tr>
 <table>
-
+<br>
 **User Bounded Context**
 
 <table border="0" width="50%">
@@ -1124,7 +1119,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del usuario.</td>
+    <td colspan="2" valign="top">Identificador único del usuario</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">name</td>
@@ -1156,20 +1151,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">LogOut()</td>
-    <td colspan="2" valign="top">Método para salir de la cuenta de un usuario.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">UniversityStudent</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">earnings</td>
-    <td colspan="2" valign="top">Indicador de la cantidad de dinero que posee en su cuenta.</td>
+    <td colspan="2" valign="top">Método para salir de la cuenta de un usuario</td>
   </tr>
 <table>
 
@@ -1182,7 +1164,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">vehiclesRentedorBuyer</td>
-    <td colspan="2" valign="top">Cantidad de vehiculos rentados y/o comprados</td>
+    <td colspan="2" valign="top">Cantidad de vehiculos rentados o comprados.</td>
   </tr>
 <table>
 
@@ -1222,10 +1204,10 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">createUser()</td>
-    <td colspan="2" valign="top">Método para crear nuevos objetos de tipo Acquirers. </td>
+    <td colspan="2" valign="top">Método para crear nuevos objetos. </td>
   </tr>
 <table>
-
+<br>
 **Payment Bounded Context**
 
 <table border="0" width="50%">
@@ -1237,7 +1219,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del pago.</td>
+    <td colspan="2" valign="top">Identificador único del pago</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">amount</td>
@@ -1249,7 +1231,7 @@ Rental Bounded Context
   </tr>
 <tr>
     <td colspan="1" valign="top">status</td>
-    <td colspan="2" valign="top">Estado del pago (completado)</td>
+    <td colspan="2" valign="top">Estado del pago (Exitoso)</td>
   </tr>
   <tr>
     <td colspan="1" valign="top" width="40%">Método</td>
@@ -1257,7 +1239,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">processPayment()</td>
-    <td colspan="2" valign="top">Método para procesar el pago.</td>
+    <td colspan="2" valign="top">Método para procesar el pago</td>
   </tr>
 <table>
 
@@ -1288,19 +1270,6 @@ Rental Bounded Context
 
 <table border="0" width="50%">
   <tr>
-    <td colspan="2" valign="top">PaymentObserver</td>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">update()</td>
-    <td colspan="2" valign="top"> Implementación del método update específico para gestionar notificaciones relacionadas con los pagos.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
     <td colspan="2" valign="top">Vehicle</td>
     <tr>
     <td colspan="1" valign="top" width="40%">Atributo</td>
@@ -1308,15 +1277,15 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del vehículo.</td>
+    <td colspan="2" valign="top">Identificador único del vehículo</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">brand</td>
-    <td colspan="2" valign="top">Marca del vehículo.</td>
+    <td colspan="2" valign="top">Marca del vehículo</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">priceperHour</td>
-    <td colspan="2" valign="top">Precio del vehículo por hora</td>
+    <td colspan="2" valign="top">Precio del vehículo</td>
   </tr>
   <tr>
     <td colspan="1" valign="top" width="40%">Método</td>
@@ -1337,7 +1306,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del plan.</td>
+    <td colspan="2" valign="top">Identificador único del plan</td>
   </tr>
 <tr>
     <td colspan="1" valign="top">#publicaciones</td>
@@ -1349,7 +1318,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del plan</td>
+    <td colspan="2" valign="top">Método para obtener el costo del plan.</td>
   </tr>
 <table>
 
@@ -1363,7 +1332,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del plan cachimbo.</td>
+    <td colspan="2" valign="top">Método para obtener el costo del "Plan cachimbo".</td>
   </tr>
 <table>
 
@@ -1376,7 +1345,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del plan universitario.</td>
+    <td colspan="2" valign="top">Método para obtener el costo del "Plan universitario".</td>
   </tr>
 <table>
 
@@ -1389,7 +1358,7 @@ Rental Bounded Context
   </tr>
    <tr>
     <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del plan graduado.</td>
+    <td colspan="2" valign="top">Método para obtener el costo del "Plan graduado".</td>
   </tr>
 <table>
 
