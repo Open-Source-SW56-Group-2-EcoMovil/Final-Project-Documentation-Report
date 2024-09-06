@@ -171,8 +171,6 @@ El wireframe para la vista en navegador de escritorio de la landing page fue cla
 
 ![mock_uplanding3](/assets/chapter-4/landing3.png)
 
-![mock_uplanding4](/assets/chapter-4/landing4.png)
-
 ![mock_uplanding5](/assets/chapter-4/landing5.png)
 
 ![mock_uplanding6](/assets/chapter-4/landing6.png)
