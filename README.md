@@ -55,8 +55,7 @@ Ruta de referencia: https://git-scm.com/
 
 **Software Documentation and Project Management**
 
-1. GitHub: Plataforma en la nube que almacenará los repositorios del proyecto, permitiendo la colaboración en tiempo real y la revisión de las aportaciones de cada miembro del equipo. El acceso se realizará a través de los navegadores web. 
-<br>
+1. GitHub: Plataforma en la nube que almacenará los repositorios del proyecto, permitiendo la colaboración en tiempo real y la revisión de las aportaciones de cada miembro del equipo. El acceso se realizará a través de los navegadores web.
 
 Ruta de referencia: https://github.com/
 
@@ -165,7 +164,7 @@ Una vez que los archivos se han publicado en la rama correspondiente, accedemos 
 
 Así es cómo se verá la página final.
 
-![page](./assets/perfil/page.png)
+![page](./assets/perfil/landing1.png)
 
 Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
@@ -423,15 +422,15 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
 
-![Capture1](./assets/perfil/Capture1.png)
+![Capture1](./assets/perfil/landing1.png)
 
-![Capture2](./assets/perfil/Capture2.png)
+![Capture1](./assets/perfil/landing2.png)
 
-![Capture3](./assets/perfil/Capture3.png)
+![Capture1](./assets/perfil/landing3.png)
 
-![Capture4](./assets/perfil/Capture4.png)
+![Capture1](./assets/perfil/landing4.png)
 
-![Capture5](./assets/perfil/Capture5.png)
+![Capture1](./assets/perfil/landing5.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -459,17 +458,15 @@ Accedemos al dominio del Landing Page, verificamos que todo esté correctamente 
 
 - Imágenes de la pantalla del Landing Page:
 
-![page1](./assets/perfil/ecomovil1.png)  
+![Capture1](./assets/perfil/landing1.png)
 
-![page2](./assets/perfil/ecomovil2.png) 
+![Capture1](./assets/perfil/landing2.png)
 
-![page3](./assets/perfil/ecomovil3.png) 
+![Capture1](./assets/perfil/landing3.png)
 
-![page4](./assets/perfil/ecomovil4.png) 
+![Capture1](./assets/perfil/landing4.png)
 
-![page5](./assets/perfil/ecomovil5.png) 
-
-![page6](./assets/perfil/ecomovil6.png) 
+![Capture1](./assets/perfil/landing5.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
