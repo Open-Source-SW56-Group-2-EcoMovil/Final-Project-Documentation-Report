@@ -6,60 +6,50 @@
 **Requirements Management**
 
 1. Trello: Es una herramienta para gestionar proyectos, especialmente aquellos basados en metodologías ágiles. Facilita la visualización y actualización del progreso de tareas e historias de usuario dentro de un sprint en desarrollo.
-<br>
 
 Ruta de referencia: https://trello.com/es
 
 **User Experience Design (UX/UI)**
 
 1. Figma: Herramienta para la creación de prototipos y diseño gráfico, principalmente empleada en el ámbito digital. En este proyecto, servirá para desarrollar prototipos de la aplicación y sus versiones para navegadores en escritorio y móviles.
-<br>
 
 Ruta de referencia: https://www.figma.com/login
 
 2. Lucidchart: Aplicación para la creación de diagramas de flujo. Se utilizará para el diseño de wireflows, user-flows y el diagrama de clases asociado con la aplicación.
-<br>
 
 Ruta de referencia: https://www.lucidchart.com
 
 **Software Testing**
 
 1. Gherkin: Gherkin es un lenguaje usado para definir los criterios de aceptación de una historia de usuario de forma estructurada. Proporciona una forma estandarizada de escribir escenarios en un formato legible tanto para equipos técnicos como no técnicos. Para más información.
-<br>
 
 Ruta de referencia: https://cucumber.io/docs/gherkin/
 
 **Software Development**
 
 1. Visual Studio Code: Entorno de desarrollo integrado seleccionado para la creación y compilación del código, debido al dominio del equipo con esta herramienta. Este IDE aporta valor al proyecto por su capacidad para añadir extensiones útiles, soportar edición de texto en varios lenguajes de programación y estar disponible en diferentes sistemas operativos, entre otras ventajas.
-<br>
 
 Ruta de referencia: https://code.visualstudio.com/
 
 2. HTML5: Lenguaje de marcado para la estructura de páginas web. Se utilizará en el proyecto para organizar y presentar el contenido de la aplicación.
-<br>
-
+   
 Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
 
-3. CSS: Hojas de Estilo en Cascada, un lenguaje que controla el diseño y la apariencia de las páginas web, complementando a HTML.
-<br>
+4. CSS: Hojas de Estilo en Cascada, un lenguaje que controla el diseño y la apariencia de las páginas web, complementando a HTML.
 
 Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
 
 4. Angular: Framework de desarrollo para aplicaciones web de una sola página (SPA) que utiliza TypeScript. Desarrollado por Google, facilita la creación de aplicaciones web dinámicas y eficientes.
-<br>
 
 Ruta de referencia: https://angular.io/
 
 5. TypeScript: Lenguaje de programación que extiende JavaScript añadiendo tipado estático y otras características avanzadas, mejorando el desarrollo de aplicaciones complejas y a gran escala.
-<br>
 
 Ruta de referencia: https://www.typescriptlang.org/
 
 **Software Deployment**
 
 1. Git: Sistema de control de versiones que facilita el registro y la gestión de las diversas versiones del código. Servirá para mantener un historial de modificaciones y simplificar la resolución de errores. El equipo accederá a través de la línea de comandos en sus equipos locales.
-<br>
 
 Ruta de referencia: https://git-scm.com/
 
