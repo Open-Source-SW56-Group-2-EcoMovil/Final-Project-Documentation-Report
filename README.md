@@ -10,7 +10,7 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Adquiriente:
 
-![ToBeMapping2](/assets/sprint1/Tobemappingsegmento1.jpg)
+![ToBeMapping2](/assets/sprint1/tobe2.jpg)
 
 ## 3.2. User Stories
 
