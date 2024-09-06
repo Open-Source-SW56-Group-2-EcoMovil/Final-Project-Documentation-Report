@@ -425,6 +425,52 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Universitario**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña. 
+
+![diagram](/assets/chapter-4/diagram1.png)
+
+**User Goal: Pagos de los Planes**
+
+El universitario podrá elegir entre 3 planes y seleccionar uno haciendo clic en el botón "Elegir Plan". Al hacerlo, será redirigido al proceso de pago, donde deberá ingresar los datos de su tarjeta y confirmar que la información es correcta. Una vez confirmado, el sistema mostrará un mensaje de pago exitoso. Al hacer clic en el botón "Comenzar", el usuario accederá al menú de vehículos.
+
+![diagram](/assets/chapter-4/diagram3.png)
+
+![diagram](/assets/chapter-4/diagram4.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el universitario haya iniciado sesión, será dirigido al panel de control, donde podrá ver varias opciones. La primera opción es "Detalles del Vehículo", donde podrá consultar la información de cada vehículo. Luego, encontrará la sección de "Perfil", donde podrá actualizar sus datos y foto. También habrá una sección llamada "Historial de Vehículos", donde podrá revisar los vehículos que ha subido. Finalmente, estará disponible el "Foro de Contacto", donde podrá publicar un anuncio para vender o alquilar, permitiendo que los interesados se comuniquen directamente por WhatsApp.
+
+![diagram](/assets/chapter-4/diagram5.png)
+
+**User Goal: Iniciar sesión y Registrarse**
+
+**Perfil del Usuario: Adquiriente**
+
+**Descripción del Flujo:**
+
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña. 
+
+![diagram](/assets/chapter-4/diagram2.png)
+
+**User Goal: Visualizar los Vehículos**
+
+El adquiriente, al estar en la página de inicio, podrá ver los vehículos disponibles junto con sus descripciones. Al hacer clic en el botón "Alquilar" o "Comprar", será redirigido a la página de detalles del vehículo, donde podrá consultar el tipo, precio, descripción y distintivos del vehículo. Luego, al presionar el botón "Guardar", el vehículo se añadirá a su historial de vehículos guardados.
+
+![diagram](/assets/chapter-4/diagram6.png)
+
+**User Goal: Navegar por el dashboard**
+
+Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será dirigido al panel de control, donde encontrará varias opciones. La primera opción es "Mapa Interactivo", que le permitirá ver la ubicación de cada vehículo. Luego, encontrará la sección de "Filtro", donde podrá buscar y visualizar vehículos según su tipo y precio. También tendrá acceso a la sección de "Foro de Contacto", donde podrá ponerse en contacto con el universitario para adquirir el vehículo. Finalmente, estará disponible la opción "Mi Perfil", donde podrá revisar y actualizar sus datos personales.
+
+![diagram](/assets/chapter-4/diagram7.png)
+
 ### 4.4.3. Web Applications Mock-ups
 
 ### 4.4.4. Web Applications User Flow Diagrams 
