@@ -311,7 +311,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> el usuario podrá proceder con el alquiler o la compra.
     </td>
-    <td>2</td>
+    <td>3</td>
 </tr>
 <tr>
     <td>US19</td>
@@ -329,7 +329,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> el usuario verá un mensaje que confirma que el pago fue exitoso.
     </td>
-    <td>2</td>
+    <td>3</td>
 </tr>
 <tr>
     <td>US20</td>
@@ -351,7 +351,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> el usuario debería recibir una confirmación de que el vehículo se ha publicado exitosamente.
     </td>
-    <td>2</td>
+    <td>4</td>
 </tr>
 <tr>
     <td>US21</td>
@@ -369,7 +369,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> la página debe mostrar claramente el nombre completo, correo electrónico, número de contacto y RUC del usuario.
     </td>
-    <td>2</td>
+    <td>4</td>
 </tr>
 <tr>
     <td>US22</td>
@@ -383,7 +383,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>cuando</b> el usuario accede a la sección "Historial de Vehículos" desde el menú.  
         <br>
-      <td>2</td>
+      <td>4</td>
 </tr>
 <tr>
     <td>US23</td>
@@ -398,7 +398,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>cuando</b> el usuario accede a la sección "Foro de Contacto" desde el menú,  
         <br>
         <b>entonces</b> el usuario debería ver una lista de propietarios que han publicado sus datos de contacto a través de WhatsApp.
-    <td>2</td>
+    <td>4</td>
 </tr>
  </tbody>
 </table>
