@@ -602,11 +602,11 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
   
-![As-Is Mapping 1](/assets/Chapter-2/AsIsMapping1.png)
+![As-Is Mapping 1](/assets/Chapter-2/AsIsMappingUniversitario.png)
 
 - Segmento Adquirientes:
   
-![As-Is Mapping 2](/assets/Chapter-2/AsIsMapping2.png)
+![As-Is Mapping 2](/assets/Chapter-2/AsIsMappingAdquiriente.png)
 
 ## 2.4. Ubiquitous Language
 
