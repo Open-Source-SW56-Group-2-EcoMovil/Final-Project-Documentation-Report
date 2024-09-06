@@ -769,7 +769,7 @@ Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop com
    
 3. **Enfoque en Información Clave:** El diseño está orientado a presentar solo los datos más importantes para los usuarios dentro del segmento objetivo.
 
-![web](/assets/chapter-4/mockup1.png)
+![web](/assets/chapter-4/modified.png)
 
 ## 4.6. Domain-Driven Software Arquitecture
 
@@ -1108,8 +1108,9 @@ Rental Bounded Context
   </tr>
 <table>
 <br>
-**User Bounded Context**
-
+User Bounded Context
+<br>
+  
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">User</td>
@@ -1208,7 +1209,8 @@ Rental Bounded Context
   </tr>
 <table>
 <br>
-**Payment Bounded Context**
+Payment Bounded Context
+<br>
 
 <table border="0" width="50%">
   <tr>
