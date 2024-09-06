@@ -51,10 +51,60 @@
 <br>
 
 ---
-
 # Registro de Versiones del Informe 
 
+| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
+|-------------|-----------|-----------|---------------------------------|
+| 1.0         | 15/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del documento de trabajo en formato Markdown. |
+| 1.1         | 18/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Desarrollo del perfil de la startup y de la solución, identificación de segmentos objetivo y formulación de preguntas para el diseño de entrevistas. |
+| 1.2         | 26/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Redacción de las guías de estilo e infraestructura de la información. |
+| 1.3         | 31/08/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Realización y registro de entrevistas con los segmentos objetivo y análisis de los resultados. Creación del Impact Mapping. Redacción de las guías de estilo y la arquitectura de la información. |
+| 1.4         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Elaboración de historias de usuario y del backlog del producto. |
+| 1.5         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Creación del diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto y diagramas de componentes. |
+| 1.6         | 05/09/2024| Calisaya, Gallo, Hidalgo, Oneglio, Vasquez | Registro de las evidencias del Sprint. |
+
 # Project Report Collaboration Insights 
+
+URL del repositorio para el Project Report en la organización de GitHub del equipo: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Final-Project-Documentation-Report
+
+**TB1**
+
+Para la elaboración del informe correspondiente a la entrega TB1, la implementación de las secciones se distribuyó entre los miembros del equipo de la siguiente manera:
+
+| **Integrante** | **Tareas Asignadas**                                                                                                                                                                                                                                                                                                                            | 
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Calisaya Sánchez, Juan Jesús    | Startup Profile. Solution Profile. Lean UX Problem Statements. Lean UX Assumptions. Entrevista. Impact Mapping, Product Backlog. Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping. Landing Page. Software Development Environment Configuration, Source Code Management.                            | 
+| Gallo Quintana, David Ivanoff    | User Personas. User Task Matrix. User Journey Mapping. Entrevista. C4 Components, Containers. Landing Page. Domain-Driven Software Architecture. Source Code Management.                                                                                                                                                                                                                                    | 
+| Hidalgo Lopez, Mathias Adriano    | Entrevistas. Diseño de entrevistas. Análisis de entrevistas. User Sotries. To-Be Mapping. Database Design. Database Diagram. Development Evidence for Sprint Review. Testing Suite Evidence for Sprint Review. Execution Evidence for Sprint Review.                                                                                                                                                                                                                                                                                    | 
+| Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista. Landing Page. Web Applications Wireframes, Web Applications Wireflow Diagrams, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. | 
+| Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista. Labeling Systems. Seo Tag & Meta Tag. Searching System. Class Diagram. Landing Page. Sprint 1.                                                                                                                                                                                 | 
+
+La colaboración en el informe se llevó a cabo mediante commits frecuentes en el repositorio de la organización EcoMovil Squad.
+
+**GitHub Collaboration Insights**
+
+GitHub también muestra un historial de las ramas principales y los procesos de fusión realizados. Todas las ramas se crearon siguiendo el diseño de GitFlow para asegurar una adecuada organización al utilizar un sistema de control de versiones. 
+
+Los miembros del equipo son:
+
+- Calisaya Sánchez, Juan Jesús (JuanCali999)
+- Gallo Quintana, David Ivanoff (DavidRm1911)
+- Hidalgo Lopez, Mathias Adriano (mathiasadriano)
+- Oneglio De Paz, Beth Shantal (bethnlg)
+- Vasquez Goicochea, Erick Alessander (erick580)
+
+Se describen las ramas más destacadas de la siguiente manera:
+
+- **main**: Representada en negro. Es la rama principal del proyecto y se actualiza con cada entregable.
+- **develop**: Representada en azul. Es la rama principal para el proceso de desarrollo del proyecto.
+- **feature-product-design**: Representada en verde. Incluye el contenido de flujos de usuario y wireframes.
+- **feature-sprint1**: Representada en amarillo. Contiene los artefactos relacionados con el sprint 1 en el informe.
+
+Los gráficos siguientes muestran los análisis de commits en el repositorio del informe, incluyendo la cantidad de líneas de texto añadidas por cada miembro del equipo.
+
+**TB1**
+
+![insights](/assets/insights.png)
 
 # Contenido 
 ## Tabla de contenidos
