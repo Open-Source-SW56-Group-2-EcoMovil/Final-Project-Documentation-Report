@@ -164,7 +164,7 @@ Una vez que los archivos se han publicado en la rama correspondiente, accedemos 
 
 Así es cómo se verá la página final.
 
-![page](./assets/perfil/landing1.png)
+![page](./assets/perfil/ecomo1.png)
 
 Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
@@ -422,15 +422,17 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
 
-![Capture1](./assets/perfil/landing1.png)
+![page](./assets/perfil/ecomo1.png)
 
-![Capture1](./assets/perfil/landing2.png)
+![page](./assets/perfil/ecomo2.png)
 
-![Capture1](./assets/perfil/landing3.png)
+![page](./assets/perfil/ecomo3.png)
 
-![Capture1](./assets/perfil/landing4.png)
+![page](./assets/perfil/ecomo4.png)
 
-![Capture1](./assets/perfil/landing5.png)
+![page](./assets/perfil/ecomo5.png)
+
+![page](./assets/perfil/ecomo6.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -458,15 +460,17 @@ Accedemos al dominio del Landing Page, verificamos que todo esté correctamente 
 
 - Imágenes de la pantalla del Landing Page:
 
-![Capture1](./assets/perfil/landing1.png)
+![page](./assets/perfil/ecomo1.png)
 
-![Capture1](./assets/perfil/landing2.png)
+![page](./assets/perfil/ecomo2.png)
 
-![Capture1](./assets/perfil/landing3.png)
+![page](./assets/perfil/ecomo3.png)
 
-![Capture1](./assets/perfil/landing4.png)
+![page](./assets/perfil/ecomo4.png)
 
-![Capture1](./assets/perfil/landing5.png)
+![page](./assets/perfil/ecomo5.png)
+
+![page](./assets/perfil/ecomo6.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
