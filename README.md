@@ -6,7 +6,7 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Universitarios:
 
-![ImpactMapping1](/assets/sprint1/tobe.png)
+![ImpactMapping1](/assets/sprint1/tobe1.png)
 
 - Segmento Adquiriente:
 
