@@ -876,4 +876,4 @@ Para el presente proyecto, se ha elegido el motor de base de datos PostgreSQL de
 
 ### 4.8.1. Database Diagram
 
-![DataBaseDiagram](./assets/chapter-4/DataBaseDiagram.png)
+![DataBaseDiagram](./assets/chapter-4/BaseDeDatos.png)
