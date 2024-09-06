@@ -582,11 +582,11 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
   
-(./assets/Chapter-2/journey1.png)
+![Journey](/assets/Chapter-2/journey1.png)
 
 - Segmento Adquirientes:
 
-(./assets/Chapter-2/journey2.png)
+![Journey](/assets/Chapter-2/journey2.png)
 
 ### 2.3.4. Empathy Mapping
 
