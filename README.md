@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <strong>Startup: EcoMovil</strong><br>
+    <strong>Startup: EcoMovil Squad</strong><br>
     <br><strong>Producto: EcoMovil</strong><br>
 </p>
 
