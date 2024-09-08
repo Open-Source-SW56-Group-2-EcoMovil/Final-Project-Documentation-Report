@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <strong>Startup del Proyecto: EcoMovil</strong><br>
+    <strong>Startup del Proyecto: EcoMovil Squad</strong><br>
     <strong>Producto: EcoMovil</strong><br>
 </p>
 
