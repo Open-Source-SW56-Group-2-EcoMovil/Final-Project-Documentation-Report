@@ -3300,6 +3300,8 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
           <td style="font-weight: bold;"> Sum of Story Points </td>
           <td> 26 <td>
       </tr>
+
+
   </table>
 
 ### 5.2.1.2. Sprint Backlog 1
@@ -3466,6 +3468,8 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 | landing-page | gh-pages       | f8695f0          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
 | landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
 
+
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
@@ -3543,39 +3547,6 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Landing-Page-EcoMovil:
 
 ![Insights](./assets/perfil/insightlanding.png) 
-
-
-# Conclusiones
-
-Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
-
-**Recomendaciones para optimizar el proceso:**
-
-- **Establecer metas claras** para cada miembro del equipo y asegurar que comprendan los objetivos del Sprint.
-- **Mantener una documentación precisa** y actualizada en el repositorio para una fácil referencia.
-- **Programar revisiones periódicas** para evaluar y ajustar el progreso del informe.
-- **Fomentar una comunicación constante** y abierta dentro del equipo para resolver problemas rápidamente.
-
-Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega de un informe de alta calidad.
-
-# Bibliografía
-
-Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
-
-Blog de la Universidad de San Ignacio de Loyola. (2021). Créditos educativos: Una alternativa para poner fin a la deserción universitaria. Recuperado de https://blogs.usil.edu.pe/novedades/creditos-educativos-una-alternativa-para-poner-fin-la-desercion-universitaria#:~:text=Según%20el%20Ministerio%20de%20Educación,2019%20a%2023.2%20%%20en%202021
-
-Angular. (n.d.). Routing overview. Recuperado de https://v17.angular.io/guide/routing-overview
-
-FontAwesome. (n.d.). FontAwesome documentation. Recuperado de https://docs.fontawesome.com/
-
-Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailwindcss.com/docs
-
-# Anexos  
-
-Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
-<br>
-<br>
-Video de Presentación TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF 
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile.
@@ -6833,6 +6804,7 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 | landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
 
 
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
@@ -6910,3 +6882,35 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Landing-Page-EcoMovil:
 
 ![Insights](./assets/perfil/insightlanding.png) 
+
+# Conclusiones
+
+Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
+
+**Recomendaciones para optimizar el proceso:**
+
+- **Establecer metas claras** para cada miembro del equipo y asegurar que comprendan los objetivos del Sprint.
+- **Mantener una documentación precisa** y actualizada en el repositorio para una fácil referencia.
+- **Programar revisiones periódicas** para evaluar y ajustar el progreso del informe.
+- **Fomentar una comunicación constante** y abierta dentro del equipo para resolver problemas rápidamente.
+
+Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega de un informe de alta calidad.
+
+# Bibliografía
+
+Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
+
+Blog de la Universidad de San Ignacio de Loyola. (2021). Créditos educativos: Una alternativa para poner fin a la deserción universitaria. Recuperado de https://blogs.usil.edu.pe/novedades/creditos-educativos-una-alternativa-para-poner-fin-la-desercion-universitaria#:~:text=Según%20el%20Ministerio%20de%20Educación,2019%20a%2023.2%20%%20en%202021
+
+Angular. (n.d.). Routing overview. Recuperado de https://v17.angular.io/guide/routing-overview
+
+FontAwesome. (n.d.). FontAwesome documentation. Recuperado de https://docs.fontawesome.com/
+
+Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailwindcss.com/docs
+
+# Anexos  
+
+Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+<br>
+<br>
+Video de Presentación TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF 
