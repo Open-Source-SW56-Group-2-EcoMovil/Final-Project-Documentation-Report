@@ -226,11 +226,11 @@ Lo que nos diferencia de otras aplicaciones es que no solo promovemos una altern
 
 **Logotipo de la Startup:**<br>
 
-![startup](/assets/ecomovilsquad.png)
+![startup](/assets/chapter-4/ecomovilsquad.png)
 
 **Logotipo del Servicio:**<br>
 
-![service](/assets/ecomovil.jpg)
+![service](/assets/perfil/ecomovil.jpg)
 
 ### 1.1.2. Perfiles de los integrantes del equipo
 
