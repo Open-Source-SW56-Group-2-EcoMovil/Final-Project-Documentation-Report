@@ -121,7 +121,15 @@ Prefieren usar una aplicación móvil o una aplicación web que sea intuitiva, o
 
 #### ¿Cuánto impacta el problema?
 
-El impacto es significativo, ya que contribuye a la alta contaminación y congestión en Lima, además de afectar la calidad de vida de los universitarios que necesitan equilibrar sus estudios con la búsqueda de ingresos adicionales. La falta de soluciones efectivas afecta tanto el bienestar económico de los universitarios como la sostenibilidad ambiental en la ciudad.
+El impacto del problema es significativo en diversos niveles:
+
+Contaminación ambiental: Lima es una de las ciudades más contaminadas de América Latina. El uso predominante de vehículos a combustión interna contribuye con un 40% de las emisiones de CO2 en la ciudad, lo que agrava problemas de salud pública como enfermedades respiratorias y cardiovasculares, afectando a miles de personas cada año.
+
+Congestión vehicular: La ciudad sufre de un tráfico crónico, con niveles de congestión que se encuentran entre los más altos del mundo. Los limeños pierden en promedio 3 horas diarias en el tráfico, lo que resulta en una pérdida de productividad y afecta negativamente la calidad de vida de los habitantes.
+
+Calidad de vida y situación económica de los universitarios: Los estudiantes universitarios en Lima enfrentan dificultades para encontrar empleos flexibles que les permitan generar ingresos mientras continúan con sus estudios. La falta de opciones adecuadas aumenta el estrés financiero de este grupo, que representa aproximadamente el 20% de la población juvenil. Sin una fuente de ingresos adecuada, muchos universitarios se ven obligados a abandonar sus estudios o buscar trabajos precarios.
+
+Costo económico: La falta de alternativas de movilidad sostenibles y accesibles contribuye a que los estudiantes dependan de transporte público ineficiente o de vehículos propios costosos. El transporte público en Lima, aunque asequible, es insuficiente en términos de cobertura y calidad, lo que obliga a los estudiantes a gastar un promedio de 10-15% de su ingreso mensual en transporte, una cifra considerable para su situación económica.
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem statements
