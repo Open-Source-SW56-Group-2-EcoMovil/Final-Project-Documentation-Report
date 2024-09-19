@@ -400,6 +400,37 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>entonces</b> el usuario debería ver una lista de propietarios que han publicado sus datos de contacto a través de WhatsApp.
     <td>4</td>
 </tr>
+<tr>
+    <td>US24</td>
+    <td>Configuración Personalizada de Tailwind CSS para Identidad de Marca</td>
+    <td><b>Como</b> equipo de desarrollo, <b>quiero</b> configurar los archivos de configuración de Tailwind CSS (tailwind.config.js) <b>para</b> personalizar la paleta de colores y las fuentes, para que el diseño de la aplicación se alinee con nuestra identidad de marca y estilo.</td>
+    <td>
+        Escenario 1: Configuración Personalizada de Tailwind CSS para Identidad de Marca
+        <br>
+        <br>
+        <b>Dado que</b> soy un miembro del equipo de desarrollo y tengo acceso al archivo tailwind.config.js,
+        <br>
+        <b>cuando</b> edito el archivo tailwind.config.js para incluir la paleta de colores y las fuentes personalizadas,
+        <br>
+        <b>entonces</b> La paleta de colores en tailwind.config.js debería reflejar los colores específicos de la marca.
+    <td>2</td>
+</tr>
+<tr>
+    <td>US25</td>
+    <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+    <td><b>Como</b> equipo de desarrollo, <b>quiero</b> implementar una API que permita la búsqueda geolocalizada de vehículos, <b>para</b> facilitar la consulta de disponibilidad en tiempo real.</td>
+    <td>
+        Escenario 1: Implementación de API para Búsqueda Geolocalizada de Vehículos
+        <br>
+        <br>
+        <b>Dado que</b> el equipo de desarrollo ha configurado la infraestructura para la API y ha definido los endpoints necesarios para la búsqueda de vehículos,
+        <br>
+        <b>cuando</b> un usuario realiza una solicitud de búsqueda geolocalizada a través de la aplicación,
+        <br>
+        <b>entonces</b> la API debe recibir la ubicación actual del usuario y devolver una lista de vehículos disponibles cercanos,
+        <b>entonces</b> cada vehículo en la lista debe incluir información sobre la distancia desde la ubicación del usuario, la disponibilidad actual y los detalles relevantes del vehículo.
+    <td>2</td>
+</tr>
  </tbody>
 </table>
 
@@ -527,6 +558,20 @@ El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio
             <td>US15</td>
             <td>Sección de adquiriente en la Landing Page</td>
             <td><b>Como</b> adquiriente, <b>quiero</b> acceder a una sección dedicada a adquirientes <b>para</b> comprar, vender, alquilar o rentar en EcoMovil.</td>
+            <td>5</td>
+        </tr>
+        <tr>  
+            <td>16</td>
+            <td>US16</td>
+            <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+            <td><b>Como</b> equipo de desarrollo, <b>quiero</b> implementar una API que permita la búsqueda geolocalizada de vehículos, <b>para</b> facilitar la consulta de disponibilidad en tiempo real.</td>
+            <td>5</td>
+        </tr>
+         <tr>  
+            <td>17</td>
+            <td>US17</td> 
+            <td>Configuración Personalizada de Tailwind CSS para Identidad de Marca</td>
+            <td><b>Como</b> equipo de desarrollo, <b>quiero</b> configurar los archivos de configuración de Tailwind CSS (tailwind.config.js) <b>para</b> personalizar la paleta de colores y las fuentes, para que el diseño de la aplicación se alinee con nuestra identidad de marca y estilo.</td>
             <td>5</td>
         </tr>
     </tbody>
