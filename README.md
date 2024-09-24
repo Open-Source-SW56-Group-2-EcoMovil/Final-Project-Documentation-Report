@@ -699,10 +699,7 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
 | Front-End-Ecomovil | register-acquirer      | e35baed       |      feat: add register acquirer.      | Beth Oneglio |  Sep 19, 2024  |
 | Front-End-Ecomovil | register-university-student      | b6f895  |   feat: add register university page component.| Beth Oneglio |   Sep 19, 2024  |
 | Front-End-Ecomovil | vehicles-choose    | d13329 |  feat: add vehiclesAcquirers component| Erick Vasquez|   Sep 24, 2024  |
-
-
-
-
+| Front-End-Ecomovil | filter-acquirer    | d13329 |  feat: | Juan Calisaya|   Sep 24, 2024  |
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -714,45 +711,18 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
-
-![page](./assets/perfil/ecomo1.png)
-
-![page](./assets/perfil/ecomo2.png)
-
-![page](./assets/perfil/ecomo3.png)
-
-![page](./assets/perfil/ecomo4.png)
-
-![page](./assets/perfil/ecomo5.png)
-
-![page](./assets/perfil/ecomo6.png)
-
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-En este Sprint 1, el enfoque principal ha sido la creación del Landing Page de la aplicación EcoMovil, por lo que no se ha avanzado en la documentación de los servicios. No obstante, está previsto que la documentación de los servicios se desarrolle en los próximos sprints.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-En la entrega del segundo sprint, se desplegó un Landing Page completamente funcional, cumpliendo con las user stories asignadas para este entregable. Durante el Sprint 1, se lanzó la primera versión del Landing Page, que fue alojada en GitHub Pages. A continuación, se presentan las evidencias del despliegue del Landing Page.
+En la entrega del segundo sprint, se lanzó el landing page completamente funcional, cumpliendo con los user stories correspondientes al entregable. De igual manera, se desplegó la aplicación web de manera parcial, ya que aún presenta algunos errores que serán solucionados en el próximo sprint.
 
-- Instrucciones para acceder al Landing Page:
+**Landing page**:  
+El despliegue de la página de destino en GitHub Pages se actualizó, lo que permitió actualizar la implementación de la página de destino.
 
-Finalizando la implementación de los cambios y fusionándolos en la rama principal (`main`).
+![LandingPage](./assets/perfil/deployment-landing-page.png) 
 
-![Main-Capture](./assets/perfil/main.png)
-
-Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
-
-![Seeting-Capture](./assets/perfil/settingandpages.png)
-
-Seleccionamos la rama `gh-pages` como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
-
-![GhPages-Capture](./assets/perfil/ghpages.png)
-
-Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
-
-- Imágenes de la pantalla del Landing Page:
+**Capturas de pantalla de la Landing Page**:
 
 ![page](./assets/perfil/ecomo1.png)
 
@@ -765,19 +735,27 @@ Accedemos al dominio del Landing Page, verificamos que todo esté correctamente 
 ![page](./assets/perfil/ecomo5.png)
 
 ![page](./assets/perfil/ecomo6.png)
+
+**Web Applications**: 
+
+Se certifica la correcta implementación del frontend de la aplicación web en Azure.
+
+(IMAGEN DEL DEPLOYADO)
+
+**Capturas de pantalla del Web Applications**:
+
+(CAPTURAS DEL WEB APPLICATIONS)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
 
-| Alumno | Actividad | 
-|-----------|-----------|
-| Calisaya Sánchez, Juan Jesús | Elaboración de las secciones de "Planes" ("plans"). | 
-| Gallo Quintana, David Ivanoff | Diseño de la sección "Únete" ("join") y la sección principal ("main"). | 
-| Hidalgo Lopez, Mathias Adriano | Desarrollo de la sección "Quién Puede Usar" ("who-can-use"). | 
-| Oneglio De Paz, Beth Shantal | Desarrollo de la sección "Acerca de" y el pie de página ("footer") de la página de inicio. | 
-| Vasquez Goicochea, Erick Alessander | Creación del encabezado ("header") y la sección "Cómo Funciona" ("how-it-works"). | 
+| Calisaya Sánchez, Juan Jesús | Elaborar componente profile Universitario, componente filter Adquiriente. | 
+| Gallo Quintana, David Ivanoff | Elaborar componente my vehicles, componente bages, componente interactive map.  | 
+| Hidalgo Lopez, Mathias Adriano | Despliegue de la aplicación. Conectar landing page con aplicación. Elaborar componente browsing history, componente contact forum. | 
+| Oneglio De Paz, Beth Shantal | Elaborar componente register, componente log in. | 
+| Vasquez Goicochea, Erick Alessander | Elaborar componente plans, componente checkout, componente menu. | 
 
-Repositorio Landing-Page-EcoMovil:
+Repositorio Web-Application-EcoMovil:
 
-![Insights](./assets/perfil/insightlanding.png) 
+![Insights](./assets/perfil/insights-front-end.png) 
