@@ -750,6 +750,8 @@ Se certifica la correcta implementación del frontend de la aplicación web en A
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
 
+| Alumno | Actividad | 
+| ------------ | ------------------------------------------- | 
 | Calisaya Sánchez, Juan Jesús | Elaborar componente profile Universitario, componente filter Adquiriente. | 
 | Gallo Quintana, David Ivanoff | Elaborar componente my vehicles, componente bages, componente interactive map.  | 
 | Hidalgo Lopez, Mathias Adriano | Despliegue de la aplicación. Conectar landing page con aplicación. Elaborar componente browsing history, componente contact forum. | 
