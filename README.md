@@ -486,11 +486,11 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 ### 5.2.2. Sprint 2
 
-Un Sprint en el contexto de Scrum es un periodo de tiempo fijo y breve en el que el equipo se enfoca en realizar todas las tareas necesarias para lograr el objetivo del producto definido, denominado "Product Goal" (Scrum Alliance, 2024).
+En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cual el equipo se dedica a completar todas las tareas requeridas para alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
 
 ### 5.2.2.1. Sprint Planning 2
 
-Un sprint es un intervalo breve y definido durante el cual se completan tareas o actividades específicas dentro de un proyecto, como se aplica en metodologías ágiles como Scrum. El Sprint #2, que comienza el 12 de septiembre de 2024, tiene como objetivo diseñar el front-end a traves del diseño de la landing page de EcoMovil. Esto con el fin de que nuestro publico pueda visualizar eh interactuar con nuestra pagina web desplegada
+El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
 <table>
      <tr> 
