@@ -584,76 +584,77 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
    <tr>
-      <th> US01 </th>
-     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> US16 </th>
+     <th colspan="3"> Sección Crear una cuenta en EcoMovil </th>
       <th> W01  </th>
-     <th> Navbar Section</th>
-     <th> Desarrollar el navbar de la landing page de EcoMovil con distintas opciones que nos redirige a otros apartados  </th>
+     <th> Create-User Section</th>
+     <th> Desarrollar el Create-User de nuestro front-end de EcoMovil nos permite que el usuario pueda registrarse en la pagina  </th>
      <th> 1  </th>
-     <th> Erick Vasquez </th> 
+     <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
     <tr>
-      <th> US02 </th>
-     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> US17 </th>
+     <th colspan="3"> Sección Inicio de sesión en EcoMovil </th>
       <th> W03  </th>
-     <th> Hero Section </th>
-     <th> Agregar un apartado con una imagen y un título llamativo al ingresar al landing page de EcoMovil   </th>
+     <th> Login Section </th>
+     <th> Implementar el logeo de la persona en nuestro front-end ayuda a que el usuario pueda entrar con su cuenta ya creada   </th>
      <th> 0.8  </th>
-     <th> David Gallo </th> 
+     <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
    <tr>
-      <th> US03 </th>
-     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> US18 </th>
+     <th colspan="3"> Sección Botón “Elija un plan” </th>
       <th> W05  </th>
-     <th> Footer Section </th>
-     <th> Implementar la sección del footer con las direcciones a al información del equipo y los términos de nuestra página web  </th>
+     <th> button "Elija un plan" Section </th>
+     <th> La Implementacion del boton es para que los universitarios puedan comprar una suscripcion para que puedan registrar sus vehiculos menores para que los usuarios puedan alquilarlos  </th>
      <th> 1.2  </th>
-     <th> Beth Oneglio </th> 
+     <th> Erick </th> 
      <th> Done </th>
    </tr>
    <tr>
-      <th> US04</th>
-     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> US19</th>
+     <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
       <th> W06  </th>
-     <th> About us Section </th>
-     <th> Implementar la sección "About us" donde se muestra la información adicional. </th>
+     <th> message "Pago exitoso"  Section </th>
+     <th> Implementar el mensaje es para comfirmarle al usuario que su pago se realizo correctamente. </th>
      <th> 0.8  </th>
-     <th> Beth Oneglio </th> 
+     <th> Erick </th> 
      <th> Done </th>
    </tr>
     </tr>
    <tr>
-      <th> US05</th>
-     <th colspan="3"> Sección de Beneficios en la Landing Page</th>
+      <th> US20</th>
+     <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
       <th> W07  </th>
-     <th> Beneficios Section </th>
-     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales.   </th>
+     <th> GeoLocalitation Section </th>
+     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos sirve para que los clientes puedan visualizar en que punto estan los vehiculos alquilados.   </th>
      <th> 0.7  </th>
-     <th> Mathias Hidalgo </th> 
+     <th> David </th> 
      <th> Done </th>
    </tr>
     <tr>
-      <th> US06 </th>
-     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> US21 </th>
+     <th colspan="3"> Sección Historial de Vehículos </th>
       <th> W09  </th>
-     <th> Contact Section </th>
-     <th> Agregar información del equipo para que los usuarios puedan contactarnos. </th>
+     <th> History vehicle Section </th>
+     <th> Agregar un historial de vehiculos permite visualizar todos los vehiculos que tiene un universitario en alquiler y por alquilar. </th>
      <th> 0.5 </th>
-     <th> Mathias Hidalgo </th> 
+     <th> Juan Calisaya </th> 
      <th> Done </th>
    </tr>
     <tr>
-        <th> US07 </th>
-         <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+        <th> US23 </th>
+         <th colspan="3"> Foro de Contactos </th>
           <th> W10  </th>
-         <th> Landing page responsive Section </th>
-         <th> Agregar la funcionalidad de responsividad a toda la aplicación web.   </th>
-         <th> 0.6 </th>
-         <th> Juan Calisaya </th> 
+         <th> Contact forum Section </th>
+         <th> Implementar el foro de contacto nos ayuda a visualizar las opiniones que tienen los clientes con los vehiculos.   </th>
+         <th> 5.0 </th>
+         <th> Mathias Hidalgo </th> 
          <th> Done </th>
     </tr>
+   
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review
