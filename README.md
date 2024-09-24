@@ -484,6 +484,321 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 | Oneglio De Paz, Beth Shantal | Desarrollo de la sección "Acerca de" y el pie de página ("footer") de la página de inicio. | 
 | Vasquez Goicochea, Erick Alessander | Creación del encabezado ("header") y la sección "Cómo Funciona" ("how-it-works"). | 
 
+### 5.2.2. Sprint 2
+
+Un Sprint en el contexto de Scrum es un periodo de tiempo fijo y breve en el que el equipo se enfoca en realizar todas las tareas necesarias para lograr el objetivo del producto definido, denominado "Product Goal" (Scrum Alliance, 2024).
+
+### 5.2.2.1. Sprint Planning 2
+
+Un sprint es un intervalo breve y definido durante el cual se completan tareas o actividades específicas dentro de un proyecto, como se aplica en metodologías ágiles como Scrum. El Sprint #2, que comienza el 12 de septiembre de 2024, tiene como objetivo diseñar el front-end a traves del diseño de la landing page de EcoMovil. Esto con el fin de que nuestro publico pueda visualizar eh interactuar con nuestra pagina web desplegada
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  12/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Oneglio De Paz, Beth Shantal <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Calisaya Sánchez, Juan Jesús
+            <br>
+             Gallo Quintana, David Ivanoff
+            <br>
+            Hidalgo Lopez, Mathias Adriano
+            <br>
+             Oneglio De Paz, Beth Shantal
+            <br>
+            Vasquez Goicochea, Erick Alessander
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> En este segundo sprint, identificamos aspectos a mejorar del anterior con el fin de que nuestro proyecto sea exitoso y no tenga ninguna falla,  
+           Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint, se planea implementar la landing page con las secciones de inicio de sesión, hero y elementos de orientación para el usuario, como el footer y "About". Al finalizar el sprint, la landing page debe estar desplegada en GitHub, y cualquier usuario debería poder acceder y ver la página mediante un enlace. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  26  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 26 <td>
+      </tr>
+
+
+  </table>
+
+### 5.2.1.2. Sprint Backlog 2
+
+En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
+
+![Trello](./assets/perfil/image4.png) 
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section</th>
+     <th> Desarrollar el navbar de la landing page de EcoMovil con distintas opciones que nos redirige a otros apartados  </th>
+     <th> 1  </th>
+     <th> Erick Vasquez </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> W03  </th>
+     <th> Hero Section </th>
+     <th> Agregar un apartado con una imagen y un título llamativo al ingresar al landing page de EcoMovil   </th>
+     <th> 0.8  </th>
+     <th> David Gallo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US03 </th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> W05  </th>
+     <th> Footer Section </th>
+     <th> Implementar la sección del footer con las direcciones a al información del equipo y los términos de nuestra página web  </th>
+     <th> 1.2  </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04</th>
+     <th colspan="3"> Sección Footer en la Landing Page </th>
+      <th> W06  </th>
+     <th> About us Section </th>
+     <th> Implementar la sección "About us" donde se muestra la información adicional. </th>
+     <th> 0.8  </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+    </tr>
+   <tr>
+      <th> US05</th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page</th>
+      <th> W07  </th>
+     <th> Beneficios Section </th>
+     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales.   </th>
+     <th> 0.7  </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> W09  </th>
+     <th> Contact Section </th>
+     <th> Agregar información del equipo para que los usuarios puedan contactarnos. </th>
+     <th> 0.5 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+        <th> US07 </th>
+         <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+          <th> W10  </th>
+         <th> Landing page responsive Section </th>
+         <th> Agregar la funcionalidad de responsividad a toda la aplicación web.   </th>
+         <th> 0.6 </th>
+         <th> Juan Calisaya </th> 
+         <th> Done </th>
+    </tr>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| landing-page | main       | b863a40         |        | David Gallo | Aug 29, 2024         | 
+| landing-page | main       | 36fec62         | feat: add file | Mathias Hidalgo | Aug 29, 2024    |
+| landing-page | main       | f827944         | feat: added plans section | Juan Calisaya | Aug 29, 2024       |
+| landing-page | main       | cf2b26c   |feat: Added about section         | Beth Oneglio| Aug 30, 2024                |
+| landing-page | main       | 8404774             |  feat: Added footer section                     | Beth Oneglio|  Aug 30, 2024 |
+| landing-page | main       | b360e5b              |    feat: added header             | Erick Vasquez|      Aug 30, 2024 |
+| landing-page | main       | ad8ad4c  |  feat: added how-it-work component     | Erick Vasquez|  Aug 30, 2024 |
+| landing-page | main       | 0eb6e8d  |   feat(feature/join): Added join component  | David Gallo|   Sep 1, 2024|
+| landing-page | main       | 4aa9478  |  feat(feature/main): added main component  | David Gallo | Sep 1, 2024|
+| landing-page | main       | 50b12a4  |  "feat Merge branch 'feature/plans' into develop"| David Gallo | Sep 1, 2024|
+| landing-page | main       | b795e73   |  feat: Merged main into develop   | David Gallo | Sep 1, 2024|
+| landing-page | main       | c0e34a3    |     feat: merged how-it-works into develop | David Gallo| Sep 1, 2024 |
+| landing-page | main       | 80d39b9 |        feat: merged header into develop   | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | fc17166 |        feat: merged footer into develop   | David Gallo | Sep 1, 2024 |
+| landing-page | main       | db8f49d  |   feat: merged about into develop         | David Gallo | Sep 1, 2024 |
+| landing-page | main       | d64296f   |      Create jekyll-gh-pages.yml          | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | e4b6d2a |    feat: refactor index.html         | David Gallo| Sep 1, 2024  |
+| landing-page | main       | 5721546 |        feat: merged footer into develop | David Gallo |    Sep 1, 2024 |
+| landing-page | main       | 06db9c8 |  Merge remote-tracking branch 'refs/remotes/origin/main'  | David Gallo |Sep 1, 2024|
+| landing-page | main       | 3274f7d |      feat: added index.html          | David Gallo |  Sep 1, 2024 |
+| landing-page | main       | 8842140 |   Create CNAME         | Beth Oneglio |   Sep 4, 2024 |
+| landing-page | main       | f5961b4 |   Delete CNAME         | Beth Oneglio |   Sep 4, 2024  |
+| landing-page | develop       | b863a40         |         | David Gallo | Aug 29, 2024         | 
+| landing-page | develop       | 36fec62         | feat: add file | Mathias Hidalgo | Aug 29, 2024    |
+| landing-page | develop       | f827944         | feat: added plans section | Juan Calisaya | Aug 29, 2024       |
+| landing-page | develop       | cf2b26c          |   feat: Added about section         | Beth Oneglio|   Aug 30, 2024  |
+| landing-page | develop       | 8404774          |   feat: Added footer section        | Beth Oneglio|   Aug 30, 2024  |
+| landing-page | develop       | b360e5b          |   feat: added header         | Erick Vasquez|   Aug 30, 2024  |
+| landing-page | develop       | ad8ad4c          |   feat: added how-it-work component         | Erick Vasquez|   Aug 30, 2024  |
+| landing-page | develop       | 0eb6e8d          |   feat(feature/join): Added join component         | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | 4aa9478          |   feat(feature/main): added main component         | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | 50b12a4          |   "feat Merge branch 'feature/plans' into develop"         | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | b795e73          |   feat: Merged main into develop         | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | c0e34a3          |   feat: merged how-it-works into develop         | David Gallo|   Sep 1, 2024 |
+| landing-page | develop       | 80d39b9          |   feat: merged header into develop        | David Gallo|   Sep 1, 2024 |
+| landing-page | develop       | fc17166          |   feat: merged footer into develop        | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | db8f49d          |   feat: merged about into develop | David Gallo|   Sep 1, 2024  |
+| landing-page | develop       | e6fa6b4          |   feat: added scroll event         | David Gallo|  Sep 1, 2024  |
+| landing-page | feature/about       | b863a40         |         | David Gallo | Aug 29, 2024         | 
+| landing-page | feature/about       | 36fec62         | feat: add file | Mathias Hidalgo | Aug 29, 2024    |
+| landing-page | feature/about       | cf2b26c         |   feat: Added about section         | Beth Oneglio |   Aug 30, 2024  |
+| landing-page | feature/footer      | b863a40          |           | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/footer      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/footer      | 8404774          |   feat: Added footer section         | Beth Oneglio |   Aug 30, 2024  |
+| landing-page | feature/header      | b863a40          |           | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/header      | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/header      | b360e5b          |   feat: added header        | Erick Vasquez |   Aug 30, 2024  |
+| landing-page | feature/how-it-works       | b863a40          |            | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/how-it-works       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/how-it-works       | ad8ad4c          |   feat: added how-it-work component         | Erick Vasquez|   Aug 30, 2024  |
+| landing-page | feature/join       | b863a40          |            | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/join       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/join       | 0eb6e8d          |   eat(feature/join): Added join component         | David Gallo |   Aug 30, 2024  |
+| landing-page | feature/main       | b863a40          |            | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/main       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/main       | 4aa9478          |   feat(feature/main): added main component         | David Gallo |   Aug 30, 2024  |
+| landing-page | feature/plans       | b863a40          |            | David Gallo |   Aug 29, 2024  |
+| landing-page | feature/plans       | 36fec62          |   feat: add file         | Mathias Hidalgo |   Aug 29, 2024  |
+| landing-page | feature/plans       | f827944          |   feat: added plans section         | Juan Calisaya |   Aug 29, 2024  |
+| landing-page | gh-pages       | f8695f0          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
+| landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
+
+
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
+
+| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
+|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
+| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project landing page  | 29/08/24           |
+
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
+
+![page](./assets/perfil/ecomo1.png)
+
+![page](./assets/perfil/ecomo2.png)
+
+![page](./assets/perfil/ecomo3.png)
+
+![page](./assets/perfil/ecomo4.png)
+
+![page](./assets/perfil/ecomo5.png)
+
+![page](./assets/perfil/ecomo6.png)
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este Sprint 1, el enfoque principal ha sido la creación del Landing Page de la aplicación EcoMovil, por lo que no se ha avanzado en la documentación de los servicios. No obstante, está previsto que la documentación de los servicios se desarrolle en los próximos sprints.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En la entrega del segundo sprint, se desplegó un Landing Page completamente funcional, cumpliendo con las user stories asignadas para este entregable. Durante el Sprint 1, se lanzó la primera versión del Landing Page, que fue alojada en GitHub Pages. A continuación, se presentan las evidencias del despliegue del Landing Page.
+
+- Instrucciones para acceder al Landing Page:
+
+Finalizando la implementación de los cambios y fusionándolos en la rama principal (`main`).
+
+![Main-Capture](./assets/perfil/main.png)
+
+Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
+
+![Seeting-Capture](./assets/perfil/settingandpages.png)
+
+Seleccionamos la rama `gh-pages` como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
+
+![GhPages-Capture](./assets/perfil/ghpages.png)
+
+Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
+
+- Imágenes de la pantalla del Landing Page:
+
+![page](./assets/perfil/ecomo1.png)
+
+![page](./assets/perfil/ecomo2.png)
+
+![page](./assets/perfil/ecomo3.png)
+
+![page](./assets/perfil/ecomo4.png)
+
+![page](./assets/perfil/ecomo5.png)
+
+![page](./assets/perfil/ecomo6.png)
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno | Actividad | 
+|-----------|-----------|
+| Calisaya Sánchez, Juan Jesús | Elaboración de las secciones de "Planes" ("plans"). | 
+| Gallo Quintana, David Ivanoff | Diseño de la sección "Únete" ("join") y la sección principal ("main"). | 
+| Hidalgo Lopez, Mathias Adriano | Desarrollo de la sección "Quién Puede Usar" ("who-can-use"). | 
+| Oneglio De Paz, Beth Shantal | Desarrollo de la sección "Acerca de" y el pie de página ("footer") de la página de inicio. | 
+| Vasquez Goicochea, Erick Alessander | Creación del encabezado ("header") y la sección "Cómo Funciona" ("how-it-works"). | 
+
 Repositorio Landing-Page-EcoMovil:
 
 ![Insights](./assets/perfil/insightlanding.png) 
