@@ -562,7 +562,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
 
 En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la creacion y despliegue del front-end. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era el desarrollo y despliegue del front-end, asegurando que fuera tanto atractiva como funcional.
 
-![Trello](./assets/perfil/image4.png) 
+![Trello](./assets/perfil/ProductBacklog2.png) 
 
 <table style="width:400px; height:100px;"> 
    <tr>
