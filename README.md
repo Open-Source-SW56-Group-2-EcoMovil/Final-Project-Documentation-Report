@@ -533,12 +533,11 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
-        <td> En este segundo sprint, identificamos aspectos a mejorar del anterior con el fin de que nuestro proyecto sea exitoso y no tenga ninguna falla,  
-           Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+        <td> En el sprint 1 hicimos la planeacion de nuestro landing page como modelo a seguir para posteriormente hacer la creacion y despliqgue de nnuestro front-end con una fake api para el almacenamiento de datos. <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+        <td> En este segundo sprint, indentificamos aspectos a mejorar como sea aumentar un poco las funcionalidad y agregar funcionalidad de i18n, ademas de mejorar algunos aspectos de nuestra landing page para que se viera más atractiva.<td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
@@ -559,9 +558,9 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
 
   </table>
 
-### 5.2.1.2. Sprint Backlog 2
+### 5.2.2.2. Sprint Backlog 2
 
-En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
+En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la creacion y despliegue del front-end. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era el desarrollo y despliegue del front-end, asegurando que fuera tanto atractiva como funcional.
 
 ![Trello](./assets/perfil/image4.png) 
 
