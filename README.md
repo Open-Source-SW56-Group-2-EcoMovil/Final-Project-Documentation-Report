@@ -3575,6 +3575,14 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 
 # Anexos  
 
+Enlace para acceder al Lean UX Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/edit?utm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+To be mapping: https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzNDU4NzY0NTIzNDc1MTM0NDQ2fDI=?share_link_id=716202322809
+
+Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1
+
+General Style Guidelines: https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?m=auto&t=OlSlFVAGy4ekZRn1-6
+
 Enlace para acceder a la Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 <br>
 <br>
