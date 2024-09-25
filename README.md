@@ -717,35 +717,33 @@ El despliegue de la página de destino en GitHub Pages se actualizó, lo que per
 
 **Web Applications**: 
 
-Se certifica la correcta implementación del frontend de la aplicación web en Firebase.
+Se certifica la correcta implementación del frontend de la aplicación web en Azure.
 
-(IMAGEN DEL DEPLOYADO)
+Enlace del Deployment: https://happy-tree-09edbd910.5.azurestaticapps.net/
 
-**Capturas de pantalla del Web Applications**:
+![page](./assets/perfil/deployment-front-end-1.png)
 
-![page](./assets/perfil/Capture6.png)
+![page](./assets/perfil/deployment-front-end-2.png)
 
-![page](./assets/perfil/Capture7.png)
+![page](./assets/perfil/deployment-front-end-3.png)
 
-![page](./assets/perfil/Capture8.png)
+![page](./assets/perfil/deployment-front-end-4.png)
 
-![page](./assets/perfil/Capture9.png)
+![page](./assets/perfil/deployment-front-end-5.png)
 
-![page](./assets/perfil/Capture10.png)
+![page](./assets/perfil/deployment-front-end-6.png)
 
-![page](./assets/perfil/Capture11.png)
+![page](./assets/perfil/deployment-front-end-7.png)
 
-![page](./assets/perfil/Capture12.png)
+![page](./assets/perfil/deployment-front-end-8.png)
 
-![page](./assets/perfil/Capture13.png)
+![page](./assets/perfil/deployment-front-end-9.png)
 
-![page](./assets/perfil/Capture14.png)
+![page](./assets/perfil/deployment-front-end-10.png)
 
-![page](./assets/perfil/Capture15.png)
+![page](./assets/perfil/deployment-front-end-11.png)
 
-![page](./assets/perfil/Capture16.png)
-
-![page](./assets/perfil/Capture17.png)
+![page](./assets/perfil/deployment-front-end-12.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
