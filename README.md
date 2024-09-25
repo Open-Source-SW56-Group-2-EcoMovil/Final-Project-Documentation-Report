@@ -720,9 +720,34 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 | [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project landing page  | 29/08/24           |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+En el sprint 2, se logró un avance parcial en la implementación y despliegue del front-end. Se desarrollaron varias secciones clave donde el usuario puede interactuar con las funcionalidades principales del sistema. A continuación, se presentan algunas evidencias:
+
+![page](./assets/perfil/Capture6.png)
+
+![page](./assets/perfil/Capture7.png)
+
+![page](./assets/perfil/Capture8.png)
+
+![page](./assets/perfil/Capture9.png)
+
+![page](./assets/perfil/Capture10.png)
+
+![page](./assets/perfil/Capture11.png)
+
+![page](./assets/perfil/Capture12.png)
+
+![page](./assets/perfil/Capture13.png)
+
+![page](./assets/perfil/Capture14.png)
+
+![page](./assets/perfil/Capture15.png)
+
+![page](./assets/perfil/Capture16.png)
+
+![page](./assets/perfil/Capture17.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
+En este Sprint 2, el enfoque principal ha sido la creación del front-end de la aplicación, con todos sus componentes, servicios respectivos. Sin embargo, está previsto que se realicen mejoras en la gestión de rutas y validaciones.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 En la entrega del segundo sprint, se lanzó el landing page completamente funcional, cumpliendo con los user stories correspondientes al entregable. De igual manera, se desplegó la aplicación web de manera parcial, ya que aún presenta algunos errores que serán solucionados en el próximo sprint.
