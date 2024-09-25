@@ -754,7 +754,7 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 | Alumno | Actividad | 
 | ------------ | ------------------------------------------- | 
 | Calisaya Sánchez, Juan Jesús | Elaborar componente profile Universitario, componente filter Adquiriente. | 
-| Gallo Quintana, David Ivanoff | Elaborar componente my vehicles, componente bages, componente interactive map.  | 
+| Gallo Quintana, David Ivanoff | Elaborar componente my vehicles, componente badges, componente interactive map.  | 
 | Hidalgo Lopez, Mathias Adriano | Despliegue de la aplicación. Conectar landing page con aplicación. Elaborar componente browsing history, componente contact forum. | 
 | Oneglio De Paz, Beth Shantal | Elaborar componente register, componente log in. | 
 | Vasquez Goicochea, Erick Alessander | Elaborar componente plans, componente checkout, componente menu. | 
