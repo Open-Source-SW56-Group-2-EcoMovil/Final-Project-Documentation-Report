@@ -717,7 +717,7 @@ El despliegue de la página de destino en GitHub Pages se actualizó, lo que per
 
 **Web Applications**: 
 
-Se certifica la correcta implementación del frontend de la aplicación web en Azure.
+Se certifica la correcta implementación del frontend de la aplicación web en Firebase.
 
 (IMAGEN DEL DEPLOYADO)
 
