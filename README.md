@@ -762,11 +762,3 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Web-Application-EcoMovil:
 
 ![Insights](./assets/perfil/insights-front-end.png) 
-
-# Anexos
-| Sección                      | Enlace al video                                                                                                                |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Product Backlog TB1 en Tello | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
-| Organización en GitHub       | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                                         |
-| Repositorio al landing page  | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                                     |
-| Product Backlog TP en Tello  | https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp                                                                      |
