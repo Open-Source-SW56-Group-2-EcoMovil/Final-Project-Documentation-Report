@@ -492,9 +492,9 @@ En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cua
 
 El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
-| Sprint #   | Date                                     | Time | Location               | Preparing By | Attendees |
-|-----------|-----------|-----------|-----------||-----------|-----------|
-| 2 | 12/09/2024 | 17:00 horas (GMT-5) | Modalidad remota a través de Discord | Oneglio De Paz, Beth Shantal | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
+| Sprint # | Date       | Time                     | Location                                 | Preparing By                  | Attendees                                           |
+|----------|------------|--------------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
+| 2        | 12/09/2024 | 17:00 horas (GMT-5)     | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
 
 | Sprint 2 Goal   | Sprint 2 Velocity              | Sum of Story Points |
 |-----------|-----------|-----------|
@@ -504,9 +504,9 @@ El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 
 En el backlog del segundo sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del front-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-(Corregir)
+![trello](./assets/perfil/Trello.jpg)
 
-Link del Trello: (Completar)
+Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -604,8 +604,6 @@ Link del Trello: (Completar)
 
 Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este segundo sprint. Dado que se acordó trabajar en los ajustes finales de la landing page y en el frontend de la aplicación web, se incluyen commits de varios repositorios en los que se realizaron dichas tareas.
 
-### 5.2.2.3. Development Evidence for Sprint Review
-
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
 | Front-End-Ecomovil | main       | bfd8076         | initial commit       | David Gallo | Sep 16, 2024         | 
@@ -664,6 +662,7 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 | [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests) | Epic/Acceptance-Tests/main | 32d605bd8dedccda9d4c5db78c6d8ce96ae5ca51 | feat: Initial commit  | 06/09/24    |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
 En el sprint 2, se logró un avance parcial en la implementación y despliegue del front-end. Se desarrollaron varias secciones clave donde el usuario puede interactuar con las funcionalidades principales del sistema. A continuación, se presentan algunas evidencias:
 
 ![page](./assets/perfil/Capture6.png)
@@ -691,6 +690,7 @@ En el sprint 2, se logró un avance parcial en la implementación y despliegue d
 ![page](./assets/perfil/Capture17.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 En este Sprint 2, el enfoque principal ha sido la creación del front-end de la aplicación, con todos sus componentes, servicios respectivos. Sin embargo, está previsto que se realicen mejoras en la gestión de rutas y validaciones.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -723,7 +723,29 @@ Se certifica la correcta implementación del frontend de la aplicación web en A
 
 **Capturas de pantalla del Web Applications**:
 
-(CAPTURAS DEL WEB APPLICATIONS)
+![page](./assets/perfil/Capture6.png)
+
+![page](./assets/perfil/Capture7.png)
+
+![page](./assets/perfil/Capture8.png)
+
+![page](./assets/perfil/Capture9.png)
+
+![page](./assets/perfil/Capture10.png)
+
+![page](./assets/perfil/Capture11.png)
+
+![page](./assets/perfil/Capture12.png)
+
+![page](./assets/perfil/Capture13.png)
+
+![page](./assets/perfil/Capture14.png)
+
+![page](./assets/perfil/Capture15.png)
+
+![page](./assets/perfil/Capture16.png)
+
+![page](./assets/perfil/Capture17.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
