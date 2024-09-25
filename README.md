@@ -506,7 +506,7 @@ En el backlog del segundo sprint, el equipo se comprometió a iniciar y completa
 
 (Corregir)
 
-Link del Trello: https://trello.com/b/Z7J4iU6N/ecomovil-sprint-2
+Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
 <table style="width:400px; height:100px;"> 
    <tr>
