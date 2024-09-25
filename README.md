@@ -49,7 +49,7 @@
 <br><strong>2024-02</strong></p>
 <br>
 
-# Registro de Versiones del Informe 
+# Registro de Versiones del Informe
 
 | **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
 |-------------|-----------|-----------|---------------------------------|
@@ -66,7 +66,7 @@
 | 1.10        | 24/09/2024         | Calisaya, Gallo, Hidalgo, Oneglio, Vásquez | Repriorización del backlog y evaluación del sprint. |
 | 1.11        | 24/09/2024         | Calisaya, Gallo, Hidalgo, Oneglio, Vásquez | Redacción de la documentación de evidencias para la revisión del sprint.|
 
-# Project Report Collaboration Insights 
+# Project Report Collaboration Insights
 
 URL del repositorio para el Project Report en la organización de GitHub del equipo: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Final-Project-Documentation-Report
 
@@ -82,7 +82,7 @@ Para la elaboración del informe correspondiente a la entrega TB1, la implementa
 | Oneglio De Paz, Beth Shantal   | Lean UX Hypothesis Statements. Lean UX Canvas. Segmentos objetivo. Competidores. Análisis competitivo. Entrevista. Landing Page. Web Applications Wireframes, Web Applications Wireflow Diagrams, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. | 
 | Vasquez Goicochea, Erick Alessander   | Empathy Mapping. As-is Scenario Mapping. Ubiquitous Language. Entrevista. Labeling Systems. Seo Tag & Meta Tag. Searching System. Class Diagram. Landing Page. Sprint 1.                                                                                                                                                                                 | 
 
-**TP1**
+**TP**
 
 Para la elaboración del informe correspondiente a la entrega TP, la implementación de las secciones se distribuyó entre los miembros del equipo de la siguiente manera:
 
@@ -98,7 +98,7 @@ La colaboración en el informe se llevó a cabo mediante commits frecuentes en e
 
 **GitHub Collaboration Insights**
 
-GitHub también muestra un historial de las ramas principales y los procesos de fusión realizados. Todas las ramas se crearon siguiendo el diseño de GitFlow para asegurar una adecuada organización al utilizar un sistema de control de versiones. 
+GitHub también muestra un historial de las ramas principales y los procesos de fusión realizados. Todas las ramas se crearon siguiendo el diseño de GitFlow para asegurar una adecuada organización al utilizar un sistema de control de versiones.
 
 Los miembros del equipo son:
 
@@ -121,42 +121,42 @@ Los gráficos siguientes muestran los análisis de commits en el repositorio del
 
 ![insights](/assets/insights.png)
 
-**TP1**
+**TP**
 
 ![insights](/assets/insights-front-end.png)
 
-# Contenido 
+# Contenido
 ## Tabla de contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
 ### [Student Outcome](#student-outcome)
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2 Lean UX Process](#122-lean-ux-process)
-    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 - [2.1. Competidores](#21-competidores)
-  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 - [2.2. Entrevistas](#22-entrevistas)
-  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
 - [2.3. Needfinding](#23-needfinding)
-  - [2.3.1. User Personas](#231-user-personas)
-  - [2.3.2. User Task Matrix](#232-user-task-matrix)
-  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
   ## [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
@@ -167,52 +167,52 @@ Los gráficos siguientes muestran los análisis de commits en el repositorio del
 
 ## [Capítulo IV: Product Design](#capítulo-iv-product-design)
 - [4.1. Style Guidelines](#41-style-guidelines)
-  - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
-  - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
 - [4.2. Information Architecture](#42-information-architecture)
-  - [4.2.1. Organization Systems](#421-organization-systems)
-  - [4.2.2. Labeling Systems](#422-labeling-systems)
-  - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
-  - [4.2.4. Searching Systems](#424-searching-systems)
-  - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-  - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-  - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
-  - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-  - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
-  - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-  - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-  - [4.7.1. Class Diagrams](#471-class-diagrams)
-  - [4.7.2. Class Dictionary](#472-class-dictionary)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
-  - [4.8.1. Database Diagram](#481-database-diagram)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 
 ## [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
-  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
-  - [5.1.2. Source Code Management](#512-source-code-management)
-  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
-  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1](#521-sprint-1)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
-  - [5.2.2. Sprint 2](#521-sprint-2)
-    - [5.2.2.2. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+        - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+        - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+    - [5.2.2. Sprint 2](#521-sprint-2)
+        - [5.2.2.2. Sprint Planning 2](#5211-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
@@ -220,15 +220,13 @@ Los gráficos siguientes muestran los análisis de commits en el repositorio del
 
 --- 
 
-![Insights](./assets/perfil/insights-front-end.png)    
-
 # Student Outcome
 | Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                    |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br><br>TB1<br> Para esta entrega, elaboré la descripción de la Startup, incluyendo el Solution Profile, antecedentes y problemática. El proceso Lean UX Process, que abarca los Lean UX Problem Statements y Lean UX Hypotheses, me ayudó a definir claramente los desafíos y validar nuestras hipótesis. Además, el Impact Mapping y el Product Backlog fueron cruciales para priorizar las tareas y establecer una hoja de ruta clara para el desarrollo del proyecto. Finalmente, realicé una Interview y su análisis, lo que me permitió ajustar nuestro enfoque según las necesidades y expectativas de los usuarios. Con esta información, desarrollé los Web Applications Mock-ups, los User Flow Diagrams y el Prototyping, lo que facilitó una visualización más precisa del producto final y mejoró la experiencia de diseño. También configuré el Software Development Environment y gestioné el Source Code, lo que garantizó una base sólida para el desarrollo y la colaboración del equipo.<br><br>TP1<br>En la revisión del sprint, se presentaron los resultados del testing suite para "Mi Perfil Universitario" y "Filtrar Adquiriente". Se validaron las funcionalidades de edición y visualización de datos en "Mi Perfil Universitario", asegurando que los cambios se reflejan correctamente. En "Filtrar Adquiriente", se evaluó la efectividad de los filtros, facilitando a los usuarios la búsqueda de perfiles deseados. Estos resultados demuestran nuestro compromiso con la calidad y la satisfacción del usuario.<br></br>**Gallo Quintana, David Ivanoff**<br><br>TB1<br> He desarrollado distintas partes del proyecto, incluyendo la elaboración de User Personas, User Task Matrix, User Journey Mapping. Ademas de esto apoye en la realización de entrevistas en este caso hacia el segmento rentador. Finalmente participe en la elaboración del landing page, tanto en sus wireframes, mock-ups, asi como en su despliegue.<br><br>TP1<br>En esta revisión, se validaron las funcionalidades de "Mis Vehículos" e "Insignias" para Universitarios, y "Mapa Interactivo" e "Insignias" para Adquirientes. "Mis Vehículos" permite gestionar vehículos eficientemente, mientras que "Insignias" muestra los logros de los usuarios. El "Mapa Interactivo" ofrece una experiencia intuitiva. Estas funcionalidades están operativas y listas para su implementación.<br></br><br>**Hidalgo Lopez, Mathias Adriano**<br><br>TB1<br>Para esta entrega, diseñé las preguntas que hicimos a nuestros segmentos objetivos con el fin de recoger información para implementar posteriormente esas ideas y aspectos en nuestra página web. Además, analicé esas entrevistas para extraer dicha información. Desarrollé el To-Be Mapping para visualizar y planificar cómo deberían funcionar los procesos, sistemas o estructuras una vez que se implementen las mejoras. También elaboré las User Stories para tenerlas en cuenta en la creación de nuestra página web. Finalmente, desarrollé el diagrama de base de datos para mostrar cómo están organizados los datos dentro de la base.<br><br>TP1<br>En la revisión del Sprint 2, se presentaron los resultados del testing suite para "Historial de Navegación" y "Foro de Contacto" tanto para Universitarios como para Adquirientes. Se validó que el historial de navegación se cargue correctamente y que los foros funcionen adecuadamente, permitiendo una comunicación efectiva. Estos resultados destacan nuestro compromiso con la usabilidad y la satisfacción del usuario.<br></br>**Oneglio De Paz, Beth Shantal**<br><br>TB1<br>He desarrollado y perfeccionado varios aspectos fundamentales del proyecto, incluyendo la formulación de las hipótesis Lean UX y el Lean UX Canvas. También he definido los segmentos objetivo y los competidores, y realizado un análisis competitivo. Conduje una entrevista a un segmento específico y analicé los resultados obtenidos. Además, avancé considerablemente en la creación de las directrices de estilo, cubriendo las pautas generales, las directrices web, la arquitectura de la información y los sistemas de organización. Esto nos ha preparado para iniciar el trabajo en la landing page con mi equipo. Asimismo, diseñé los "Wireframes" y "Wireflow Diagrams" para aplicaciones web, y preparé la documentación de servicios para la revisión de sprints, así como la evidencia de despliegue de software. También elaboré los "Insights de Colaboración del Equipo durante el Sprint".<br><br>TP1<br>En esta revisión del sprint, se validaron las funcionalidades de "Registrar una Organización" e "Iniciar Sesión" para Universitarios y Adquirientes. Todos los procesos funcionan correctamente, garantizando una experiencia de usuario fluida y segura. Los resultados confirman que las funcionalidades están listas para su uso, destacando nuestro compromiso con la calidad y la satisfacción del usuario.<br><br>**Vasquez Goicochea, Erick Alessander**<br><br>TB1<br>Contribuí al desarrollo del proyecto mediante la realización de una entrevista y la creación de un Empathy Map y un As Is Scenario Map para comprender mejor a nuestros usuarios. Desarrollé un Ubiquitous Language para asegurar una comunicación consistente, y diseñé un Labelling System, SEO Tags, Meta Tags, un Searching System, y un Navigation System para optimizar la experiencia web y el posicionamiento en motores de búsqueda. También diseñé el diagrama de clases para la arquitectura del software y participé en la creación de la landing page, específicamente en el "header" y la sección "How-It-Works".</br> <br>TP1<br> En esta entrega contribuí al desarrollo del front-end en varias secciones del proyecto. En plans Universitario, diseñé la interfaz para la selección de planes; en Checkout Universitario, implementé el flujo de pago con paypal; en Menu Adquiriente, estructuré un lista de vehicles con una navegación intuitiva que se pueden rentar o comprar por el acquirer; y en Profile Adquiriente, desarrollé la gestión del cambio de datos del perfil del acquirer, priorizando la facilidad de uso y seguridad. | El trabajo realizado ha sido sobresaliente, cumpliendo con todos los segmentos del proyecto. El documento redactado ofrece un detallado informe sobre los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción, garantizando así un resultado digno y completo.                                                                                          |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br><br>TB1<br> Coordiné con el equipo para configurar el Software Development Environment y gestionar el Source Code, garantizando una base sólida para el desarrollo y la colaboración continua. Las reuniones regulares ayudaron a mantenernos alineados y a resolver cualquier problema que surgiera durante el proceso.<br><br>TP1<br>Realicé pruebas en "Mi Perfil Universitario" para asegurar que la edición de datos y la visualización de información académica funcionen correctamente. También implementé y probé la funcionalidad "Filtrar Adquirente", garantizando que los filtros respondan adecuadamente a criterios como ubicación y tipo de vehículo, con resultados que se actualizan en tiempo real.<br></br>**Gallo Quintana, David Ivanoff**<br><br>TB1<br> Como grupo, consideramos que realizamos las ideas dadas eran tanto plausibles para nosotros como equipo como efectivas hacia los usuarios potenciales. Después de asegurarnos que estas consideraciones se cumplieran, coincidimos tanto en diseño UX/UI en la elaboración de la landing page, además de esto pasamos por varios diseños para llegar al más convincente en cuestión de web app design.<br><br>TP1<br>Realicé pruebas en "Mis Vehículos Universitarios" para verificar que la visualización y gestión de vehículos funcione correctamente. También implementé y validé las "Insignias Universitarias" para asegurar su correcta asignación y visualización. En el módulo "Mapa Interactivo del Adquiriente", comprobé que todas las funciones de interacción y geolocalización operen sin problemas, junto con las "Insignias del Adquiriente" para garantizar su correcta presentación y funcionalidad.</br><br>**Hidalgo Lopez, Mathias Adriano**<br><br>TB1<br>Mantuvimos reuniones iniciales para alinear nuestra misión y documentar objetivos claros. Durante el desarrollo, aseguré una comunicación constante, compartiendo ideas y actualizaciones regularmente. Utilicé reportes y mensajes para mantener al equipo informado y comprometido. Esto garantizó un progreso fluido y una colaboración efectiva en todas las etapas del proyecto.<br><br>TP1<br>Realicé pruebas en "Historial de Navegación Universitario" para asegurar que se registre y muestre correctamente la actividad del usuario. También validé el "Foro de Contacto Universitario" para garantizar que los usuarios puedan enviar y recibir mensajes sin inconvenientes. En el "Historial de Navegación del Adquiriente", comprobé su funcionalidad para reflejar adecuadamente las interacciones previas, así como en el "Foro de Contacto del Adquiriente" para asegurar que la comunicación se realice de manera efectiva.<br><br>**Oneglio De Paz, Beth Shantal**<br><br>TB1<br>Al comenzar el trabajo, nos reunimos para revisar a los usuarios y confirmar que nuestra idea y misión estuvieran claramente definidas. Tras plasmar nuestro objetivo en un documento de Word, iniciamos reuniones semanales para avanzar en las entrevistas y hacer un seguimiento detallado de los capítulos. Durante el desarrollo de la landing page, compartimos ideas y ejemplos de diseño para asegurar un progreso más organizado en el futuro.<br><br>TP1<br>Realicé pruebas en "Registrar una Organización Universitaria" para verificar que el proceso de registro sea fluido y que los datos se almacenen correctamente. Además, validé el "Inicio de Sesión Universitario" para asegurar que los usuarios puedan acceder sin problemas. En el módulo "Registrar Adquiriente", comprobé la funcionalidad de registro y la correcta gestión de datos, así como el "Inicio de Sesión del Adquiriente", garantizando que los usuarios puedan ingresar a la plataforma sin inconvenientes.<br><br>**Vasquez Goicochea, Erick Alessander**<br><br>TB1<br>Al inicio del proyecto, nos reunimos para evaluar nuestras ideas y verificar su viabilidad. Posteriormente, mantuve una comunicación constante con el equipo durante la elaboración del diagrama de clases, asegurando que todos comprendieran la estructura del software y contribuyeran al diseño. Además, mantuve un flujo de comunicación efectivo mediante mensajes y reportes, manteniendo a todos los miembros informados sobre los avances del proyecto.</br><br>TP1<br>  Durante el desarrollo del proyecto, mantuve una comunicación efectiva con mi equipo mientras trabajábamos en la implementación del front-end. Desde el inicio, coordinamos nuestras ideas y tareas, asegurando que todos comprendieran las funcionalidades y el diseño. A lo largo del desarrollo, alineamos los JSON de la base de datos para asegurar consistencia y delimitamos los Bounded Context para garantizar una separación clara de responsabilidades; también compartí actualizaciones frecuentes sobre los avances, lo que me aseguró de que todos estuvieran alineados con los objetivos del proyecto y facilitó la colaboración eficiente entre los miembros del equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | El trabajo realizado ha sido sobresaliente en términos de comunicación, cubriendo todos los aspectos necesarios para garantizar una coordinación efectiva. El documento final no solo detalla los pasos seguidos en la planificación y desarrollo del proyecto, sino que también refleja una comunicación clara y precisa durante todo el proceso, asegurando así una entrega bien fundamentada y comprensible. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br><br>TB1<br> Para esta entrega, elaboré la descripción de la Startup, incluyendo el Solution Profile, antecedentes y problemática. El proceso Lean UX Process, que abarca los Lean UX Problem Statements y Lean UX Hypotheses, me ayudó a definir claramente los desafíos y validar nuestras hipótesis. Además, el Impact Mapping y el Product Backlog fueron cruciales para priorizar las tareas y establecer una hoja de ruta clara para el desarrollo del proyecto. Finalmente, realicé una Interview y su análisis, lo que me permitió ajustar nuestro enfoque según las necesidades y expectativas de los usuarios. Con esta información, desarrollé los Web Applications Mock-ups, los User Flow Diagrams y el Prototyping, lo que facilitó una visualización más precisa del producto final y mejoró la experiencia de diseño. También configuré el Software Development Environment y gestioné el Source Code, lo que garantizó una base sólida para el desarrollo y la colaboración del equipo.<br><br>TP<br>En la revisión del sprint, se presentaron los resultados del testing suite para "Mi Perfil Universitario" y "Filtrar Adquiriente". Se validaron las funcionalidades de edición y visualización de datos en "Mi Perfil Universitario", asegurando que los cambios se reflejan correctamente. En "Filtrar Adquiriente", se evaluó la efectividad de los filtros, facilitando a los usuarios la búsqueda de perfiles deseados. Estos resultados demuestran nuestro compromiso con la calidad y la satisfacción del usuario.<br></br>**Gallo Quintana, David Ivanoff**<br><br>TB1<br> He desarrollado distintas partes del proyecto, incluyendo la elaboración de User Personas, User Task Matrix, User Journey Mapping. Ademas de esto apoye en la realización de entrevistas en este caso hacia el segmento rentador. Finalmente participe en la elaboración del landing page, tanto en sus wireframes, mock-ups, asi como en su despliegue.<br><br>TP<br>En esta revisión, se validaron las funcionalidades de "Mis Vehículos" e "Insignias" para Universitarios, y "Mapa Interactivo" e "Insignias" para Adquirientes. "Mis Vehículos" permite gestionar vehículos eficientemente, mientras que "Insignias" muestra los logros de los usuarios. El "Mapa Interactivo" ofrece una experiencia intuitiva. Estas funcionalidades están operativas y listas para su implementación.<br></br><br>**Hidalgo Lopez, Mathias Adriano**<br><br>TB1<br>Para esta entrega, diseñé las preguntas que hicimos a nuestros segmentos objetivos con el fin de recoger información para implementar posteriormente esas ideas y aspectos en nuestra página web. Además, analicé esas entrevistas para extraer dicha información. Desarrollé el To-Be Mapping para visualizar y planificar cómo deberían funcionar los procesos, sistemas o estructuras una vez que se implementen las mejoras. También elaboré las User Stories para tenerlas en cuenta en la creación de nuestra página web. Finalmente, desarrollé el diagrama de base de datos para mostrar cómo están organizados los datos dentro de la base.<br><br>TP<br>En la revisión del Sprint 2, se presentaron los resultados del testing suite para "Historial de Navegación" y "Foro de Contacto" tanto para Universitarios como para Adquirientes. Se validó que el historial de navegación se cargue correctamente y que los foros funcionen adecuadamente, permitiendo una comunicación efectiva. Estos resultados destacan nuestro compromiso con la usabilidad y la satisfacción del usuario.<br></br>**Oneglio De Paz, Beth Shantal**<br><br>TB1<br>He desarrollado y perfeccionado varios aspectos fundamentales del proyecto, incluyendo la formulación de las hipótesis Lean UX y el Lean UX Canvas. También he definido los segmentos objetivo y los competidores, y realizado un análisis competitivo. Conduje una entrevista a un segmento específico y analicé los resultados obtenidos. Además, avancé considerablemente en la creación de las directrices de estilo, cubriendo las pautas generales, las directrices web, la arquitectura de la información y los sistemas de organización. Esto nos ha preparado para iniciar el trabajo en la landing page con mi equipo. Asimismo, diseñé los "Wireframes" y "Wireflow Diagrams" para aplicaciones web, y preparé la documentación de servicios para la revisión de sprints, así como la evidencia de despliegue de software. También elaboré los "Insights de Colaboración del Equipo durante el Sprint".<br><br>TP<br>En esta revisión del sprint, se validaron las funcionalidades de "Registrar una Organización" e "Iniciar Sesión" para Universitarios y Adquirientes. Todos los procesos funcionan correctamente, garantizando una experiencia de usuario fluida y segura. Los resultados confirman que las funcionalidades están listas para su uso, destacando nuestro compromiso con la calidad y la satisfacción del usuario.<br><br>**Vasquez Goicochea, Erick Alessander**<br><br>TB1<br>Contribuí al desarrollo del proyecto mediante la realización de una entrevista y la creación de un Empathy Map y un As Is Scenario Map para comprender mejor a nuestros usuarios. Desarrollé un Ubiquitous Language para asegurar una comunicación consistente, y diseñé un Labelling System, SEO Tags, Meta Tags, un Searching System, y un Navigation System para optimizar la experiencia web y el posicionamiento en motores de búsqueda. También diseñé el diagrama de clases para la arquitectura del software y participé en la creación de la landing page, específicamente en el "header" y la sección "How-It-Works".</br> <br>TP<br> En esta entrega contribuí al desarrollo del front-end en varias secciones del proyecto. En plans Universitario, diseñé la interfaz para la selección de planes; en Checkout Universitario, implementé el flujo de pago con paypal; en Menu Adquiriente, estructuré un lista de vehicles con una navegación intuitiva que se pueden rentar o comprar por el acquirer; y en Profile Adquiriente, desarrollé la gestión del cambio de datos del perfil del acquirer, priorizando la facilidad de uso y seguridad. | El trabajo realizado ha sido sobresaliente, cumpliendo con todos los segmentos del proyecto. El documento redactado ofrece un detallado informe sobre los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción, garantizando así un resultado digno y completo.                                                                                          |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Calisaya Sánchez, Juan Jesús**<br><br>TB1<br> Coordiné con el equipo para configurar el Software Development Environment y gestionar el Source Code, garantizando una base sólida para el desarrollo y la colaboración continua. Las reuniones regulares ayudaron a mantenernos alineados y a resolver cualquier problema que surgiera durante el proceso.<br><br>TP<br>Realicé pruebas en "Mi Perfil Universitario" para asegurar que la edición de datos y la visualización de información académica funcionen correctamente. También implementé y probé la funcionalidad "Filtrar Adquirente", garantizando que los filtros respondan adecuadamente a criterios como ubicación y tipo de vehículo, con resultados que se actualizan en tiempo real.<br></br>**Gallo Quintana, David Ivanoff**<br><br>TB1<br> Como grupo, consideramos que realizamos las ideas dadas eran tanto plausibles para nosotros como equipo como efectivas hacia los usuarios potenciales. Después de asegurarnos que estas consideraciones se cumplieran, coincidimos tanto en diseño UX/UI en la elaboración de la landing page, además de esto pasamos por varios diseños para llegar al más convincente en cuestión de web app design.<br><br>TP<br>Realicé pruebas en "Mis Vehículos Universitarios" para verificar que la visualización y gestión de vehículos funcione correctamente. También implementé y validé las "Insignias Universitarias" para asegurar su correcta asignación y visualización. En el módulo "Mapa Interactivo del Adquiriente", comprobé que todas las funciones de interacción y geolocalización operen sin problemas, junto con las "Insignias del Adquiriente" para garantizar su correcta presentación y funcionalidad.</br><br>**Hidalgo Lopez, Mathias Adriano**<br><br>TB1<br>Mantuvimos reuniones iniciales para alinear nuestra misión y documentar objetivos claros. Durante el desarrollo, aseguré una comunicación constante, compartiendo ideas y actualizaciones regularmente. Utilicé reportes y mensajes para mantener al equipo informado y comprometido. Esto garantizó un progreso fluido y una colaboración efectiva en todas las etapas del proyecto.<br><br>TP<br>Realicé pruebas en "Historial de Navegación Universitario" para asegurar que se registre y muestre correctamente la actividad del usuario. También validé el "Foro de Contacto Universitario" para garantizar que los usuarios puedan enviar y recibir mensajes sin inconvenientes. En el "Historial de Navegación del Adquiriente", comprobé su funcionalidad para reflejar adecuadamente las interacciones previas, así como en el "Foro de Contacto del Adquiriente" para asegurar que la comunicación se realice de manera efectiva.<br><br>**Oneglio De Paz, Beth Shantal**<br><br>TB1<br>Al comenzar el trabajo, nos reunimos para revisar a los usuarios y confirmar que nuestra idea y misión estuvieran claramente definidas. Tras plasmar nuestro objetivo en un documento de Word, iniciamos reuniones semanales para avanzar en las entrevistas y hacer un seguimiento detallado de los capítulos. Durante el desarrollo de la landing page, compartimos ideas y ejemplos de diseño para asegurar un progreso más organizado en el futuro.<br><br>TP<br>Realicé pruebas en "Registrar una Organización Universitaria" para verificar que el proceso de registro sea fluido y que los datos se almacenen correctamente. Además, validé el "Inicio de Sesión Universitario" para asegurar que los usuarios puedan acceder sin problemas. En el módulo "Registrar Adquiriente", comprobé la funcionalidad de registro y la correcta gestión de datos, así como el "Inicio de Sesión del Adquiriente", garantizando que los usuarios puedan ingresar a la plataforma sin inconvenientes.<br><br>**Vasquez Goicochea, Erick Alessander**<br><br>TB1<br>Al inicio del proyecto, nos reunimos para evaluar nuestras ideas y verificar su viabilidad. Posteriormente, mantuve una comunicación constante con el equipo durante la elaboración del diagrama de clases, asegurando que todos comprendieran la estructura del software y contribuyeran al diseño. Además, mantuve un flujo de comunicación efectivo mediante mensajes y reportes, manteniendo a todos los miembros informados sobre los avances del proyecto.</br><br>TP<br>  Durante el desarrollo del proyecto, mantuve una comunicación efectiva con mi equipo mientras trabajábamos en la implementación del front-end. Desde el inicio, coordinamos nuestras ideas y tareas, asegurando que todos comprendieran las funcionalidades y el diseño. A lo largo del desarrollo, alineamos los JSON de la base de datos para asegurar consistencia y delimitamos los Bounded Context para garantizar una separación clara de responsabilidades; también compartí actualizaciones frecuentes sobre los avances, lo que me aseguró de que todos estuvieran alineados con los objetivos del proyecto y facilitó la colaboración eficiente entre los miembros del equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | El trabajo realizado ha sido sobresaliente en términos de comunicación, cubriendo todos los aspectos necesarios para garantizar una coordinación efectiva. El documento final no solo detalla los pasos seguidos en la planificación y desarrollo del proyecto, sino que también refleja una comunicación clara y precisa durante todo el proceso, asegurando así una entrega bien fundamentada y comprensible. |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             # Capítulo I: Introducción
+# Capítulo I: Introducción
 ## 1.1. Startup Profile.
 
 En esta sección se ofrece una descripción del startup y se detallan los perfiles de los integrantes del equipo.
@@ -444,7 +442,7 @@ Competiremos con otros servicios de renta y venta de vehículos como City Bike L
 - Adquirientes: Usan la aplicación para rentar y comprar vehículos cuando necesitan una alternativa de transporte, especialmente durante períodos de alta demanda o cuando buscan opciones más sostenibles y económicas.
 
 #### ¿Qué características son importantes?
-   
+
 - Valoraciones y Reseñas: Para que los usuarios puedan evaluar la calidad de los vehículos y los servicios de renta o compra.
 - Búsqueda Avanzada por Filtro: Para encontrar vehículos según tipo, ubicación, y otros criterios específicos.
 - Historial de Renta o Venta de Vehículo: Para mantener un registro de transacciones y facilitar la gestión de los vehículos.
@@ -460,7 +458,7 @@ Competiremos con otros servicios de renta y venta de vehículos como City Bike L
 - Incorporar un foro de asistencia en la aplicación que permita a los usuarios comunicarse con los universitarios a través de WhatsApp.
 - Incorporar un mapa interactivo que permita visualizar la ubicación de los vehículos.
 - Añadir elementos de gamificación, como logros y badges, para recompensar a los usuarios por acciones específicas.
-  
+
 #### Business Outcomes
 
 - Lograr que los usuarios confirmen que la aplicación funciona correctamente y sin interrupciones, asegurando una experiencia de usuario óptima y continua.
@@ -474,39 +472,39 @@ Los usuarios principales de nuestra aplicación son universitarios que poseen ve
 #### User Outcomes & Benefits
 
 - **Para los Universitarios:**
-**Generar Ingresos Adicionales:** Ofrecen una fuente de ingresos flexibles al rentar o vender vehículos que no utilizan.
-**Contribuir a la Sostenibilidad:** Apoyan una comunidad más ecológica y responsable mediante el uso compartido de recursos.
+  **Generar Ingresos Adicionales:** Ofrecen una fuente de ingresos flexibles al rentar o vender vehículos que no utilizan.
+  **Contribuir a la Sostenibilidad:** Apoyan una comunidad más ecológica y responsable mediante el uso compartido de recursos.
 
 - **Para los Adquirientes:**
-**Reducir la Huella de Carbono:** Optan por alternativas de transporte sostenibles, disminuyendo su impacto ambiental.
-**Acceso Simplificado al Transporte:** Facilitan el acceso a medios de transporte en momentos de necesidad, mejorando su movilidad.
+  **Reducir la Huella de Carbono:** Optan por alternativas de transporte sostenibles, disminuyendo su impacto ambiental.
+  **Acceso Simplificado al Transporte:** Facilitan el acceso a medios de transporte en momentos de necesidad, mejorando su movilidad.
 
 #### 1.2.2.4. Lean UX Hypothesis Statements
 
 - **Hypothesis Statement 01:** <br>
-**Creemos que** al ofrecer una aplicación que permita a los universitarios rentar o vender sus vehículos, ayudaremos al medio ambiente al reducir la necesidad de vehículos personales y promover el uso compartido.<br>
-**Sabremos** que hemos tenido éxito.<br>
-**Cuando** los universitarios generen ingresos adicionales y recomienden la aplicación a más personas, aumentando así la adopción de la aplicación.<br>
+  **Creemos que** al ofrecer una aplicación que permita a los universitarios rentar o vender sus vehículos, ayudaremos al medio ambiente al reducir la necesidad de vehículos personales y promover el uso compartido.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** los universitarios generen ingresos adicionales y recomienden la aplicación a más personas, aumentando así la adopción de la aplicación.<br>
 
 - **Hypothesis Statement 02:** <br>
-**Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable entre los universitarios.<br>
-**Sabremos** que hemos tenido éxito.<br>
-**Cuando** en distintos distritos de Lima se incrementen los esfuerzos por mejorar la infraestructura para vehículos sostenibles, como la creación de más carriles para bicicletas y monopatines.<br>
+  **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable entre los universitarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** en distintos distritos de Lima se incrementen los esfuerzos por mejorar la infraestructura para vehículos sostenibles, como la creación de más carriles para bicicletas y monopatines.<br>
 
 - **Hypothesis Statement 03:** <br>
-**Creemos que** al proporcionar una variedad más amplia de vehículos, atraeremos a más usuarios a nuestra aplicación.<br>
-**Sabremos** que hemos tenido éxito.<br>
-**Cuando** nuestra base de clientes crezca notablemente tras la adición de nuevos tipos de vehículos.<br>
+  **Creemos que** al proporcionar una variedad más amplia de vehículos, atraeremos a más usuarios a nuestra aplicación.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** nuestra base de clientes crezca notablemente tras la adición de nuevos tipos de vehículos.<br>
 
 - **Hypothesis Statement 04:** <br>
-**Creemos que** al garantizar la seguridad y el mantenimiento de los vehículos, incrementaremos la confianza y satisfacción de los usuarios.<br>
-**Sabremos** que hemos tenido éxito.<br>
-**Cuando** la tasa de retención de usuarios aumente y recibamos comentarios positivos sobre la seguridad y el mantenimiento.
+  **Creemos que** al garantizar la seguridad y el mantenimiento de los vehículos, incrementaremos la confianza y satisfacción de los usuarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** la tasa de retención de usuarios aumente y recibamos comentarios positivos sobre la seguridad y el mantenimiento.
 
 - **Hypothesis Statement 05:** <br>
-**Creemos que** al mejorar la experiencia de usuario de la aplicación, facilitaremos el acceso y el uso de la aplicación para todos los universitarios.<br>
-**Sabremos** que hemos tenido éxito.<br>
-**Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.<br>
+  **Creemos que** al mejorar la experiencia de usuario de la aplicación, facilitaremos el acceso y el uso de la aplicación para todos los universitarios.<br>
+  **Sabremos** que hemos tenido éxito.<br>
+  **Cuando** observemos un aumento en el tiempo de uso de la aplicación y en la satisfacción general del usuario, reflejado en encuestas y valoraciones.<br>
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -523,7 +521,6 @@ Según el Ministerio de Transportes y Comunicaciones, el transporte en Lima Metr
 En respuesta a esta situación, nuestro segmento objetivo está compuesto por universitarios de Lima Metropolitana, con edades entre 18 y 28 años, pertenecientes a niveles socioeconómicos medios, que buscan soluciones de transporte que les permitan desplazarse de manera segura y ecológica. Estos jóvenes, motivados por una creciente conciencia sobre la sostenibilidad y la necesidad de reducir su huella de carbono, encuentran en nuestra aplicación una solución para satisfacer sus necesidades de movilidad diaria.
 
 Además, considerando el incremento en la tasa de deserción universitaria, que pasó de 19.3 % en 2019 a 23.2 % en 2021, muchos universitarios necesitan fuentes de ingresos adicionales para continuar sus estudios en universidades privadas (USIL, s/f). Nuestra aplicación web no solo ofrece una solución de movilidad, sino que también les proporciona una oportunidad para generar ingresos flexibles mediante el alquiler y venta de vehículos ecológicos, ayudándoles a mejorar su bienestar económico sin afectar su rendimiento académico.
-
 
 # Capítulo II: Requirements and Elicitation & Analysis
 
@@ -762,8 +759,8 @@ Preguntas dirigidas a Universitarios.
 5. Durante el periodo de renta o venta, ¿qué tipo de soporte proporcionas a los adquirientes?
 6. ¿Estás abierto a considerar descuentos o promociones especiales para atraer más adquirientes?
 7. ¿Hay alguna mejora o característica que te gustaría ver en la aplicación que utilizas para gestionar tus vehículos?<br>
-<br>
-Preguntas dirigidas a Adquirientes.
+   <br>
+   Preguntas dirigidas a Adquirientes.
 
 ----
 
@@ -1103,12 +1100,12 @@ Por otro lado, para Alex Hidalgo, la tarea principal está orientada hacia la ge
 
 A pesar de sus diferencias, ambos comparten una valoración común en la importancia de la seguridad frente a posibles incidentes.
 
-### 2.3.3. User Journey Mapping 
+### 2.3.3. User Journey Mapping
 
 En esta sección se ilustra el recorrido completo del usuario (end-to-end journey) de la aplicación EcoMovil para los segmentos objetivos: Universitarios y adquirientes. El User Journey Mapping comienza desde el momento en que el cliente toma conocimiento de la aplicación, pasando por el proceso de decidir usarla, registrarse, utilizarla y, finalmente, la posibilidad de dejar de usarla.
 
 - Segmento Universitarios:
-  
+
 ![Journey](/assets/Chapter-2/journey1.png)
 
 - Segmento Adquirientes:
@@ -1118,21 +1115,21 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 ### 2.3.4. Empathy Mapping
 
 - Segmento Universitarios:
-  
+
 ![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
 
 - Segmento Adquirientes:
-  
+
 ![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
 - Segmento Universitarios:
-  
+
 ![As-Is Mapping 1](/assets/Chapter-2/AsIsMappingUniversitario.png)
 
 - Segmento Adquirientes:
-  
+
 ![As-Is Mapping 2](/assets/Chapter-2/AsIsMappingAdquiriente.png)
 
 ## 2.4. Ubiquitous Language
@@ -1167,6 +1164,7 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - **Forum**: Sección de la aplicación donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
 
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
@@ -1197,13 +1195,13 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>US01</td>
         <td>Barra de navegación en la Landing Page</td>
         <td>
-    
+
 <b>**Como** universitario o adquiriente **quiero** visualizar una landing page **para** conocer las funciones de la aplicación.</td>
-        <td>**Escenario 1: Visualización de la Barra de Navegación**
+<td>**Escenario 1: Visualización de la Barra de Navegación**
 <br>
 
 **Dado que** el universitario o adquiriente se encuentre en la landing page,
-**cuando** se muestra la barra de navegación, 
+**cuando** se muestra la barra de navegación,
 **entonces** podrá visualizar diversas secciones y botones.
 
 **Escenario 2: Funcionalidad de Navegación**
@@ -1211,8 +1209,8 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
 **Dado que** el universitario o adquiriente accede a la landing page y visualice la barra de navegación,
 **cuando** hace clic en cualquiera de los enlaces de la barra de navegación,
 **entonces** debe ser redirigido a la sección correspondiente de la aplicación.</td>
-        <td>1</td>
-    </tr>
+<td>1</td>
+</tr>
 <tr>
     <td>US02</td>
     <td>Sección Hero en la Landing Page</td>
@@ -1751,7 +1749,8 @@ El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio
 
 [![Backlog](/assets/sprint1/trello2.png)](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 )
 
-Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 
+Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1
+
 
 # Capítulo IV: Product Design
 
@@ -1773,7 +1772,7 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 
 - **Visión:** Convertirnos en una aplicación líder en movilidad urbana sostenible, facilitando el acceso a vehículos ecológicos y promoviendo un estilo de vida más saludable y consciente con el medio ambiente.
 
-  
+
 ![EcoMovilSquad](/assets/chapter-4/ecomovilsquad.png)
 
 **Brand Name:**
@@ -1808,23 +1807,23 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 El enfoque de la aplicación web "EcoMovil" se basa en la eficiencia, la formación y la ecología en todos los procesos. Las diferentes etapas y formularios necesarios están organizados en secciones clave: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto, que ocupan la mayor parte de la pantalla para facilitar la navegación y ofrecer una experiencia de usuario fluida y coherente.
 
 - **Imágenes:**<br>
-En el diseño web de "EcoMovil", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en la página de inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Además, cada sección principal contará con imágenes representativas de los vehículos menores, reforzando la visión ecológica para el usuario. Para optimizar la experiencia en aplicaciones de escritorio, se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
+  En el diseño web de "EcoMovil", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en la página de inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Además, cada sección principal contará con imágenes representativas de los vehículos menores, reforzando la visión ecológica para el usuario. Para optimizar la experiencia en aplicaciones de escritorio, se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
 - **Botones:**<br>
-Los botones en la aplicación web "EcoMovil" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
+  Los botones en la aplicación web "EcoMovil" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
 - **Pantallas Emergentes:**<br>
-Las pantallas emergentes en "EcoMovil" están diseñadas para confirmar acciones clave que son cruciales para el funcionamiento del negocio y tienen un impacto significativo en el mismo. Estas pantallas emergentes enfatizan la importancia de resolver el asunto en cuestión antes de que el usuario pueda continuar navegando por la aplicación, subrayando la necesidad de tomar decisiones informadas en momentos críticos.
+  Las pantallas emergentes en "EcoMovil" están diseñadas para confirmar acciones clave que son cruciales para el funcionamiento del negocio y tienen un impacto significativo en el mismo. Estas pantallas emergentes enfatizan la importancia de resolver el asunto en cuestión antes de que el usuario pueda continuar navegando por la aplicación, subrayando la necesidad de tomar decisiones informadas en momentos críticos.
 
 **Mobile Style Guidelines**
 
 El enfoque para la vista móvil de la aplicación EcoMovil sigue el mismo principio que la vista de escritorio. Este enfoque se centra en la ecología y en la eficiencia de los procesos. Las etapas y formularios necesarios están representados en secciones y formularios que ocupan la mayor parte de la pantalla.
 
 - **Imágenes:**<br>
-En el diseño móvil de "EcoMovil", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en el inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Para optimizar la experiencia en aplicaciones se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
+  En el diseño móvil de "EcoMovil", se utilizarán imágenes descriptivas de manera estratégica. Las imágenes de vehículos menores y de la empresa estarán en el inicio, con el logo de la empresa ubicado en la parte superior izquierda para facilitar su identificación. Para optimizar la experiencia en aplicaciones se evitarán imágenes de fondo, optando en su lugar por imágenes laterales que guíen al usuario a través de la interfaz de manera funcional.
 
 - **Botones:**<br>
-Los botones en la aplicación móvil "EcoMovil" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
+  Los botones en la aplicación móvil "EcoMovil" siguen las especificaciones establecidas en las General Style Guidelines. Generalmente, estos botones se encuentran en la parte inferior de la sección principal de la pantalla, permitiendo al usuario realizar acciones que se reflejan en la vista superior. Para acciones que inicien nuevos procesos o afecten el funcionamiento general de la aplicación, se incluyen botones de confirmación. Todos los botones están diseñados con un estilo distintivo y un alto contraste en comparación con el resto de la aplicación, asegurando que sean fácilmente visibles. Además, se aplica la teoría del color en los botones, donde los colores específicos indican acciones que eliminan procesos o los concluyen.
 
 ## 4.2. Information Architecture
 
@@ -1846,7 +1845,7 @@ En nuestra aplicación EcoMovil, el sistema de etiquetas estará bien organizado
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-Las metaetiquetas proporcionan información codificada y definen los metadatos de una página web. Aunque no son visibles para los usuarios, son leídas por navegadores y rastreadores web, lo que permite un análisis más sencillo de los archivos HTML y facilita el mantenimiento del contenido. Además, estas etiquetas son fundamentales para mejorar el posicionamiento de nuestra página en los motores de búsqueda. 
+Las metaetiquetas proporcionan información codificada y definen los metadatos de una página web. Aunque no son visibles para los usuarios, son leídas por navegadores y rastreadores web, lo que permite un análisis más sencillo de los archivos HTML y facilita el mantenimiento del contenido. Además, estas etiquetas son fundamentales para mejorar el posicionamiento de nuestra página en los motores de búsqueda.
 
 Las metas etiquetas que utilizaremos son:
 
@@ -1862,7 +1861,7 @@ Las metas etiquetas que utilizaremos son:
 | Keywords      | urban mobility, eco-friendly vehicles, bike rental, scooter rental, sustainable transportation |
 | Author        | EcoMovil Team |
 
-### Aplicación 
+### Aplicación
 
 | **Attribute** | **Value** |
 |---------------|-----------|
@@ -1914,7 +1913,7 @@ A continuación, se presenta la landing page vista desde un navegador web móvil
 
 ![wireframe_mobilem3](/assets/chapter-4/landingpagemb3.png)
 
-### 4.3.2. Landing Page Mock-up 
+### 4.3.2. Landing Page Mock-up
 
 #### 4.3.2.1. Landing Page Mock-up for Web
 
@@ -2186,7 +2185,7 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 **Descripción del Flujo:**
 
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña. 
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
 
 ![diagram](/assets/chapter-4/diagram1.png)
 
@@ -2210,7 +2209,7 @@ Descripción del Flujo: Una vez que el universitario haya iniciado sesión, ser�
 
 **Descripción del Flujo:**
 
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña. 
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
 
 ![diagram](/assets/chapter-4/diagram2.png)
 
@@ -2462,7 +2461,7 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 ![mobile](/assets/chapter-4/color17.png)
 
-### 4.4.4. Web Applications User Flow Diagrams 
+### 4.4.4. Web Applications User Flow Diagrams
 
 **User Goal: Iniciar sesión y Registrarse**
 
@@ -2470,7 +2469,7 @@ El adquiriente tendrá la opción de ver los vehículos en su historial y accede
 
 **Descripción del Flujo:**
 
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña. 
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los universitarios, el formulario requerirá el RUC, nombre, correo electrónico y contraseña.
 
 ![diagram](/assets/chapter-4/diagram1.png)
 
@@ -2494,7 +2493,7 @@ Descripción del Flujo: Una vez que el universitario haya iniciado sesión, ser�
 
 **Descripción del Flujo:**
 
-Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña. 
+Primero, el usuario ingresará a la aplicación desplegada. En la pantalla inicial, se le presentará un formulario para ingresar sus datos de inicio de sesión. Para los adquirientes, el formulario requerirá el nombre, correo electrónico y contraseña.
 
 ![diagram](/assets/chapter-4/diagram2.png)
 
@@ -2519,9 +2518,9 @@ Descripción del Flujo: Una vez que el adquiriente haya iniciado sesión, será 
 Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop como para navegadores móviles, se tomaron en cuenta varios principios esenciales:
 
 1. **Simplicidad y Usabilidad:** Se buscó que la navegación fuera sencilla e intuitiva, permitiendo a los usuarios entender claramente las funciones de la aplicación, como el mapa interactivo y la opción de filtros.
-   
+
 2. **Diseño Adaptable:** Se prestó atención a la necesidad de un diseño adaptable que garantice la compatibilidad de la aplicación con diferentes tamaños de pantalla, evitando que los usuarios enfrenten restricciones según el dispositivo que utilicen.
-   
+
 3. **Enfoque en Información Clave:** El diseño está orientado a presentar solo los datos más importantes para los usuarios dentro del segmento objetivo.
 
 ![web](/assets/chapter-4/modified.png)
@@ -2530,7 +2529,7 @@ Para desarrollar los prototipos de la interfaz de usuario tanto para Desktop com
 
 El Domain Driven Design (DDD) busca lograr un entendimiento compartido del dominio que engloba el espacio del problema. Este enfoque facilita la colaboración entre desarrolladores y expertos del dominio. DDD no se limita a la utilización de un lenguaje ubicuo, sino que también incluye un conjunto de patrones, procedimientos y diagramas arquitectónicos. Estos artefactos tienen como objetivo alinear el software con el dominio y fortalecer el enfoque compartido del DDD.
 
-### 4.6.1. Software Architecture Context Diagram 
+### 4.6.1. Software Architecture Context Diagram
 
 El diagrama de contexto ofrece una visión general de alto nivel de las interacciones entre el sistema de software EcoMovil, los usuarios y, en su caso, otros sistemas externos.
 
@@ -2547,19 +2546,19 @@ El diagrama de contenedores proporciona una vista general de alto nivel de las i
 Los diagramas de componentes muestran las relaciones entre los componentes principales del sistema de software, detallando la implementación de los módulos correspondientes en el programa.
 
 En esta sección inicial se presentan los requisitos no funcionales de la aplicación.
-  
+
 ![C4_Component_Profile](./assets/chapter-4/c43.png)
 
 Aquí se ilustran los componentes relacionados con el perfil de usuario.
-  
+
 ![C4_Component_Profile2](./assets/chapter-4/c45.png)
 
 En esta sección se detallan los componentes asociados a los vehículos.
-  
+
 ![C4_Component_Profile3](./assets/chapter-4/c44.png)
 
 Aquí se muestran los componentes dedicados a la autenticación de usuarios.
-  
+
 ![C4_Component_Profile4](./assets/chapter-4/c46.png)
 
 ## 4.7. Software Object-Oriented Design
@@ -2865,7 +2864,7 @@ Rental Bounded Context
 <br>
 User Bounded Context
 <br>
-  
+
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">User</td>
@@ -3127,6 +3126,7 @@ Para el presente proyecto, se ha elegido el motor de base de datos PostgreSQL de
 
 ![DataBaseDiagram](./assets/chapter-4/DataBaseDiagram1.png)
 
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 
@@ -3161,7 +3161,7 @@ Ruta de referencia: https://cucumber.io/docs/gherkin/
 Ruta de referencia: https://code.visualstudio.com/
 
 2. HTML5: Lenguaje de marcado para la estructura de páginas web. Se utilizará en el proyecto para organizar y presentar el contenido de la aplicación.
-   
+
 Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp
 
 4. CSS: Hojas de Estilo en Cascada, un lenguaje que controla el diseño y la apariencia de las páginas web, complementando a HTML.
@@ -3200,7 +3200,7 @@ El proyecto implementará el modelo **GitFlow** como estándar para el control d
 **Repositorios de GitHub:**
 - Enlace a la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
 - Enlace al repositorio de la **Landing Page**: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
-<br>
+  <br>
 
 ![gitflow](./assets/perfil/gitflow.png)
 
@@ -3377,7 +3377,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
 
 En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
 
-![Trello](./assets/perfil/image4.png) 
+![Trello](./assets/perfil/image4.png)
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -3825,11 +3825,11 @@ En este Sprint 2, el enfoque principal ha sido la creación del front-end de la 
 
 En la entrega del segundo sprint, se lanzó el landing page completamente funcional, cumpliendo con los user stories correspondientes al entregable. De igual manera, se desplegó la aplicación web de manera parcial, ya que aún presenta algunos errores que serán solucionados en el próximo sprint.
 
-**Landing Page**:  
+**Landing Page**:
 
 El despliegue de la página de destino en GitHub Pages se actualizó, lo que permitió actualizar la implementación de la página de destino.
 
-![LandingPage](./assets/perfil/deployment-landing-page.png) 
+![LandingPage](./assets/perfil/deployment-landing-page.png)
 
 **Capturas de pantalla de la Landing Page**:
 
@@ -3845,7 +3845,7 @@ El despliegue de la página de destino en GitHub Pages se actualizó, lo que per
 
 ![page](./assets/perfil/ecomo6.png)
 
-**Web Applications**: 
+**Web Applications**:
 
 Se certifica la correcta implementación del frontend de la aplicación web en Azure.
 
@@ -3879,18 +3879,14 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 Repositorio Web-Application-EcoMovil:
 
-
-
-
-
-
+![Insights](./assets/perfil/insights-front-end.png)
 
 
 # Conclusiones
 
 Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
 
-Las tareas asignadas para la entrega del TP1 incluyeron la implementación y validación del producto utilizando un enfoque ágil, dividido en sprints manejables que facilitaron una rápida iteración e integración continua de retroalimentación. La gestión de la configuración del software garantizó un entorno de desarrollo optimizado y bien gestionado, mientras que la página de inicio, los servicios y las aplicaciones se implementaron de manera eficiente y organizada, con cada sprint planificado y ejecutado de forma transparente. Durante el desarrollo de la aplicación web, aplicamos la arquitectura de DDD (Domain-Driven Design), identificando y modelando los dominios de negocio y estableciendo límites claros entre ellos para asegurar una adecuada separación de responsabilidades. Esta metodología permitió crear un sistema más robusto y flexible, facilitando tanto el mantenimiento como la evolución del software.
+Las tareas asignadas para la entrega del TP incluyeron la implementación y validación del producto utilizando un enfoque ágil, dividido en sprints manejables que facilitaron una rápida iteración e integración continua de retroalimentación. La gestión de la configuración del software garantizó un entorno de desarrollo optimizado y bien gestionado, mientras que la página de inicio, los servicios y las aplicaciones se implementaron de manera eficiente y organizada, con cada sprint planificado y ejecutado de forma transparente. Durante el desarrollo de la aplicación web, aplicamos la arquitectura de DDD (Domain-Driven Design), identificando y modelando los dominios de negocio y estableciendo límites claros entre ellos para asegurar una adecuada separación de responsabilidades. Esta metodología permitió crear un sistema más robusto y flexible, facilitando tanto el mantenimiento como la evolución del software.
 
 Recomendaciones para optimizar el proceso:
 
@@ -3920,7 +3916,7 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 | Product Backlog TB1 en Trello | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
 | Organización en GitHub        | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                             |
 | Repositorio al landing page   | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
-| Product Backlog TP1 en Trello  | https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp                                                          |
+| Product Backlog TP en Trello  | https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp                                                          |
 | Lean UX Canvas                | https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
 | Entrevistas                   | https://acortar.link/uMdFvk                                                                                         |
 | To-Be Mapping EcoMovil        | https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053 |
@@ -3931,6 +3927,6 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 | Web Applications UX/UI Design | https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1                       |
 | Landing Page Deployment       | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
 | Video del TB1                 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF |
-| Video del TP1                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K                                                                                                   |
+| Video del TP                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K                                                                                                   |
 | My JSON Server                | https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil                           |
 | Conexión del Landing Page con el Front-end                | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                           |
