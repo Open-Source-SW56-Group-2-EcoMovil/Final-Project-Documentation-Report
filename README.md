@@ -492,77 +492,21 @@ En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cua
 
 El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
-<table>
-     <tr> 
-        <th>  Sprint #  </th>
-        <th> Sprint 2 </th>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Date </td>
-       <td>  12/09/2024 </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Time </td>
-       <td> 17:00 horas (GMT-5) </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Location </td>
-       <td> Modalidad remota a través de Discord <td>
-     </tr>
-      <tr>
-        <td style="font-weight: bold;"> Prepared By </td>
-        <td> Oneglio De Paz, Beth Shantal <td>
-     </tr>
-        <tr>
-        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-        <td> 
-            <br>
-             Calisaya Sánchez, Juan Jesús
-            <br>
-             Gallo Quintana, David Ivanoff
-            <br>
-            Hidalgo Lopez, Mathias Adriano
-            <br>
-             Oneglio De Paz, Beth Shantal
-            <br>
-            Vasquez Goicochea, Erick Alessander
-        <td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
-        <td> En el sprint 1 hicimos la planeacion de nuestro landing page como modelo a seguir para posteriormente hacer la creacion y despliqgue de nnuestro front-end con una fake api para el almacenamiento de datos. <td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-        <td> En este segundo sprint, indentificamos aspectos a mejorar como sea aumentar un poco las funcionalidad y agregar funcionalidad de i18n, ademas de mejorar algunos aspectos de nuestra landing page para que se viera más atractiva.<td>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
-     </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td>  En este sprint, se planea implementar la landing page con las secciones de inicio de sesión, hero y elementos de orientación para el usuario, como el footer y "About". Al finalizar el sprint, la landing page debe estar desplegada en GitHub, y cualquier usuario debería poder acceder y ver la página mediante un enlace. <td>
-      </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-          <td>  26  <td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 26 <td>
-      </tr>
+| Sprint #   | Date                                     | Time | Location               | Preparing By | Attendees |
+|-----------|-----------|-----------|-----------||-----------|-----------|
+| 2 | 12/09/2024 | 17:00 horas (GMT-5) | Modalidad remota a través de Discord | Oneglio De Paz, Beth Shantal | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
 
-
-  </table>
+| Sprint 2 Goal   | Sprint 2 Velocity              | Sum of Story Points |
+|-----------|-----------|-----------|
+| Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el front-end de la aplicación web para que sea tanto atractiva como funcional. | 26 | 26 |
 
 ### 5.2.2.2. Sprint Backlog 2
 
-En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la creacion y despliegue del front-end. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era el desarrollo y despliegue del front-end, asegurando que fuera tanto atractiva como funcional.
+En el backlog del segundo sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del front-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-![Trello](./assets/perfil/ProductBacklog2.png) 
+(Corregir)
+
+Link del Trello: (Completar)
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -588,7 +532,7 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
      <th colspan="3"> Sección Crear una cuenta en EcoMovil </th>
       <th> W01  </th>
      <th> Create-User Section</th>
-     <th> Desarrollar el Create-User de nuestro front-end de EcoMovil nos permite que el usuario pueda registrarse en la pagina  </th>
+     <th> Desarrollar el Create-User de nuestro front-end de EcoMovil nos permite que el usuario pueda registrarse en la página. </th>
      <th> 1  </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
@@ -598,7 +542,7 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
      <th colspan="3"> Sección Inicio de sesión en EcoMovil </th>
       <th> W03  </th>
      <th> Login Section </th>
-     <th> Implementar el logeo de la persona en nuestro front-end ayuda a que el usuario pueda entrar con su cuenta ya creada   </th>
+     <th> Implementar el inicio de sesión en nuestro front-end ayuda a que el usuario pueda entrar con su cuenta ya creada. </th>
      <th> 0.8  </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
@@ -607,8 +551,8 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
       <th> US18 </th>
      <th colspan="3"> Sección Botón “Elija un plan” </th>
       <th> W05  </th>
-     <th> button "Elija un plan" Section </th>
-     <th> La Implementacion del boton es para que los universitarios puedan comprar una suscripcion para que puedan registrar sus vehiculos menores para que los usuarios puedan alquilarlos  </th>
+     <th> Button "Elija un plan" Section </th>
+     <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
      <th> 1.2  </th>
      <th> Erick </th> 
      <th> Done </th>
@@ -617,8 +561,8 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
       <th> US19</th>
      <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
       <th> W06  </th>
-     <th> message "Pago exitoso"  Section </th>
-     <th> Implementar el mensaje es para comfirmarle al usuario que su pago se realizo correctamente. </th>
+     <th> Message "Pago exitoso" Section </th>
+     <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
      <th> 0.8  </th>
      <th> Erick </th> 
      <th> Done </th>
@@ -628,8 +572,8 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
       <th> US20</th>
      <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
       <th> W07  </th>
-     <th> GeoLocalitation Section </th>
-     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos sirve para que los clientes puedan visualizar en que punto estan los vehiculos alquilados.   </th>
+     <th> Geolocation Section </th>
+     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
      <th> 0.7  </th>
      <th> David </th> 
      <th> Done </th>
@@ -638,8 +582,8 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
       <th> US21 </th>
      <th colspan="3"> Sección Historial de Vehículos </th>
       <th> W09  </th>
-     <th> History vehicle Section </th>
-     <th> Agregar un historial de vehiculos permite visualizar todos los vehiculos que tiene un universitario en alquiler y por alquilar. </th>
+     <th> History Vehicle Section </th>
+     <th> Agregar un historial de vehículos permite visualizar todos los vehículos que tiene un universitario en alquiler y por alquilar. </th>
      <th> 0.5 </th>
      <th> Juan Calisaya </th> 
      <th> Done </th>
@@ -648,14 +592,17 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
         <th> US23 </th>
          <th colspan="3"> Foro de Contactos </th>
           <th> W10  </th>
-         <th> Contact forum Section </th>
-         <th> Implementar el foro de contacto nos ayuda a visualizar las opiniones que tienen los clientes con los vehiculos.   </th>
+         <th> Contact Forum Section </th>
+         <th> Implementar el foro de contacto ayuda a visualizar las opiniones que tienen los clientes sobre los vehículos. </th>
          <th> 5.0 </th>
          <th> Mathias Hidalgo </th> 
          <th> Done </th>
     </tr>
-   
 </table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este segundo sprint. Dado que se acordó trabajar en los ajustes finales de la landing page y en el frontend de la aplicación web, se incluyen commits de varios repositorios en los que se realizaron dichas tareas.
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
@@ -708,16 +655,13 @@ En el segundo sprint backlog, el equipo se propuso comenzar y finalizar con la c
 | Front-End-Ecomovil | filter-acquirer    | bc48403 | feat(server): update db.json for filter(2) |Juan Calisaya|   Sep 24, 2024  |
 | Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2024  |
 
-
-
-
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
 
-| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
-|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
-| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Landing-Page-EcoMovil.git) | LandingPage | adebcba  | feat: added project landing page  | 29/08/24           |
+| Repository                          | Branch         | Commit Id | Commit Message                  | Commited Message Body | Commited on (Date) |
+|---------------------------------------|----------------|-----------|----------------------------------|--------------------|--------------------|
+| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests) | Epic/Acceptance-Tests/main | 32d605bd8dedccda9d4c5db78c6d8ce96ae5ca51 | feat: Initial commit  | 06/09/24    |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
