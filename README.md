@@ -504,7 +504,7 @@ El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 
 En el backlog del segundo sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del front-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-(Corregir)
+![trello](./assets/perfil/Trello.jpg)
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
