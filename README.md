@@ -696,7 +696,8 @@ En este Sprint 2, el enfoque principal ha sido la creación del front-end de la 
 
 En la entrega del segundo sprint, se lanzó el landing page completamente funcional, cumpliendo con los user stories correspondientes al entregable. De igual manera, se desplegó la aplicación web de manera parcial, ya que aún presenta algunos errores que serán solucionados en el próximo sprint.
 
-**Landing page**:  
+**Landing Page**:  
+
 El despliegue de la página de destino en GitHub Pages se actualizó, lo que permitió actualizar la implementación de la página de destino.
 
 ![LandingPage](./assets/perfil/deployment-landing-page.png) 
@@ -721,29 +722,29 @@ Se certifica la correcta implementación del frontend de la aplicación web en A
 
 Enlace del Deployment: https://happy-tree-09edbd910.5.azurestaticapps.net/
 
-![page](./assets/perfil/deployment-front-end-1.png)
+![page](./assets/perfil/deployment-front-end-1.jpg)
 
-![page](./assets/perfil/deployment-front-end-2.png)
+![page](./assets/perfil/deployment-front-end-2.jpg)
 
-![page](./assets/perfil/deployment-front-end-3.png)
+![page](./assets/perfil/deployment-front-end-3.jpg)
 
-![page](./assets/perfil/deployment-front-end-4.png)
+![page](./assets/perfil/deployment-front-end-4.jpg)
 
-![page](./assets/perfil/deployment-front-end-5.png)
+![page](./assets/perfil/deployment-front-end-5.jpg)
 
-![page](./assets/perfil/deployment-front-end-6.png)
+![page](./assets/perfil/deployment-front-end-6.jpg)
 
-![page](./assets/perfil/deployment-front-end-7.png)
+![page](./assets/perfil/deployment-front-end-7.jpg)
 
-![page](./assets/perfil/deployment-front-end-8.png)
+![page](./assets/perfil/deployment-front-end-8.jpg)
 
-![page](./assets/perfil/deployment-front-end-9.png)
+![page](./assets/perfil/deployment-front-end-9.jpg)
 
-![page](./assets/perfil/deployment-front-end-10.png)
+![page](./assets/perfil/deployment-front-end-10.jpg)
 
-![page](./assets/perfil/deployment-front-end-11.png)
+![page](./assets/perfil/deployment-front-end-11.jpg)
 
-![page](./assets/perfil/deployment-front-end-12.png)
+![page](./assets/perfil/deployment-front-end-12.jpg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
