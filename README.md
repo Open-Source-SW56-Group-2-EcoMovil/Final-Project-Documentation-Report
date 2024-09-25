@@ -736,16 +736,6 @@ Enlace del Deployment: https://happy-tree-09edbd910.5.azurestaticapps.net/
 
 ![page](./assets/perfil/deployment-front-end-7.jpg)
 
-![page](./assets/perfil/deployment-front-end-8.jpg)
-
-![page](./assets/perfil/deployment-front-end-9.jpg)
-
-![page](./assets/perfil/deployment-front-end-10.jpg)
-
-![page](./assets/perfil/deployment-front-end-11.jpg)
-
-![page](./assets/perfil/deployment-front-end-12.jpg)
-
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
