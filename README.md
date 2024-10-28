@@ -1134,36 +1134,37 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 ## 2.4. Ubiquitous Language
 
-- **Urban Mobility**: Se refiere a los medios de transporte que facilitan el desplazamiento dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas y otros vehículos alternativos.
-
-- **Owner**: Usuario que posee un vehículo y lo publica en la aplicación para rentar o vender, con el objetivo de obtener un beneficio económico.
-
-- **Renting**: Proceso mediante el cual un Renter paga una cantidad específica por el uso temporal de un vehículo al Owner.
-
-- **Advanced Search**: Funcionalidad en la aplicación que permite a los usuarios filtrar y encontrar vehículos específicos según criterios como tipo de vehículo y precio.
-
-- **Temporary Insurance**: Opción disponible para los Adquirientes al rentar o vender un vehículo, que ofrece cobertura contra accidentes o daños durante el período de renta o compra.
-
-- **Review and Rating**: Sección en la que los usuarios pueden calificar su experiencia con un vehículo, que ayuda a otros usuarios a tomar decisiones informadas.
-
-- **Subscription Plan**: Diferentes niveles de membresía que los Owners pueden adquirir para acceder a beneficios adicionales en la aplicación.
-
-- **Flexible Income**: Ingresos generados por los Owners al rentar o vender sus vehículos, permitiendo una fuente de ingresos variable.
-
-- **Marketplace**: Área en la aplicación donde los usuarios pueden interactuar para rentar o comprar vehículos.
-
-- **Eco-Friendly**: Características de ciertos vehículos en la aplicación que reducen el impacto ambiental.
-
-- **Gamification**: Sistema que incorpora elementos de juego en la aplicación para motivar a los usuarios a realizar ciertas acciones.
-
-- **Cachimbo Plan**: Plan básico para universitarios que permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
-
-- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, con soporte prioritario y otros beneficios.
-
-- **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la aplicación.
-
-- **Forum**: Sección de la aplicación donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
-
+- **Acquirer (Adquiriente)**: Personas que rentan o compran un vehículo dentro de la plataforma. Los Adquirientes pueden comunicarse con los Universitarios para coordinar entregas o recolecciones.
+    
+- **Owner (Universitario)**: Usuario que posee un vehículo y lo publica en la aplicación con el objetivo de rentarlo o venderlo para obtener ingresos adicionales.
+    
+- **Renting (Alquiler)**: Proceso mediante el cual un Adquiriente paga una cantidad específica al Universitario por el uso temporal de su vehículo.
+    
+- **Advanced Search (Búsqueda Avanzada)**: Funcionalidad que permite a los usuarios filtrar y encontrar vehículos según criterios específicos como tipo, precio o ubicación.
+    
+- **Temporary Insurance (Seguro Temporal)**: Opción disponible para los Adquirientes que alquilan o compran un vehículo, ofreciendo cobertura contra accidentes o daños durante el período de uso.
+    
+- **Review and Rating (Reseña y Calificación)**: Sección en la aplicación donde los usuarios califican su experiencia con un vehículo y su propietario, para ayudar a otros usuarios a tomar decisiones informadas.
+    
+- **Subscription Plan (Plan de Suscripción)**: Diferentes niveles de membresía que los Universitarios pueden adquirir para acceder a beneficios adicionales en la plataforma.
+    
+- **Flexible Income (Ingreso Flexible)**: Ingresos generados por los Universitarios al rentar o vender sus vehículos, brindándoles una fuente de ingresos adaptable.
+    
+- **Marketplace (Mercado)**: Área dentro de la aplicación donde los usuarios pueden interactuar para alquilar o comprar vehículos ecológicos.
+    
+- **Eco-Friendly (Ecológico)**: Características de ciertos vehículos en la aplicación que reducen el impacto ambiental y fomentan un estilo de vida sostenible.
+    
+- **Gamification (Gamificación)**: Sistema que incorpora elementos de juego en la plataforma para motivar a los usuarios a realizar acciones específicas, como alquilar, calificar, o completar retos.
+    
+- **Cachimbo Plan (Plan Cachimbo)**: Plan básico de suscripción para Universitarios, que permite realizar hasta dos publicaciones de vehículos al mes, con soporte limitado.
+    
+- **University Plan (Plan Universitario)**: Plan intermedio de suscripción para Universitarios, que ofrece hasta diez publicaciones mensuales, soporte prioritario y beneficios adicionales.
+    
+- **Graduate Plan (Plan Graduado)**: Plan premium de suscripción para Universitarios, que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y visibilidad máxima en la plataforma.
+    
+- **Forum (Foro)**: Sección de la aplicación donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre sí para resolver dudas.
+    
+- **WhatsApp Coordination (Coordinación por WhatsApp)**: Método de comunicación directa entre los Universitarios y los Adquirientes para coordinar la entrega o recolección de los vehículos, facilitando una interacción rápida y efectiva.
 
 # Capítulo III: Requirements Specification
 
