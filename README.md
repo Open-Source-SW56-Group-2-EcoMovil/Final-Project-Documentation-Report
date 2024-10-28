@@ -768,6 +768,44 @@ En la sección "Validation Interviews" de nuestro proyecto, el objetivo es perfe
 
 ### 5.3.1. Diseño de Entrevistas 
 
+Segmento Universitario
+
+Preguntas Generales
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿Dónde resides actualmente?
+- ¿A qué te dedicas?
+
+Preguntas para el Segmento de Propietarios
+1. ¿Crees que alguna función o característica necesita mejoras? ¿Qué elementos podrían optimizarse para ofrecer una mejor experiencia?
+2. ¿Cómo percibes el diseño y funcionalidad de las herramientas de gestión de planes? ¿Te parecieron intuitivas y sencillas de usar?
+3. ¿Cómo evalúas la opción de publicar y editar tus vehículos en la plataforma? ¿Qué tan fácil o complicado te resultó?
+4. ¿Te gustó la experiencia de editar tu perfil y personalizarlo? ¿Consideras útiles las opciones de personalización?
+5. ¿Qué te pareció la facilidad para administrar tu historial de vehículos (alquileres o ventas)? ¿Crees que esta herramienta cumple tus expectativas?
+6. ¿La interfaz de usuario para actualizar y gestionar tus datos personales te resultó cómoda y funcional?
+
+---
+
+Segmento Adquiriente
+
+Preguntas Generales
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿Dónde resides actualmente?
+- ¿A qué te dedicas?
+
+Preguntas para el Segmento de Adquirientes
+1. ¿Considerarías utilizar nuestra aplicación? ¿Por qué?
+2. ¿Qué opinas de la calidad de los vehículos y la legibilidad de la tipografía al ver la ubicación en la sección de mapa? ¿Te resultó fácil de usar o crees que se necesitan ajustes?
+3. ¿Piensas que la aplicación ofrece una buena variedad de vehículos detallados?
+4. ¿Qué te pareció la experiencia de navegación al buscar vehículos? ¿Fue fácil encontrar lo que buscabas?
+5. ¿Consideras que la información de los vehículos es clara y suficiente para tomar una decisión de compra o alquiler?
+6. ¿Qué opinas sobre las opciones de personalización de la búsqueda (por tipo de vehículo, precio, ubicación, etc.)? ¿Te parecieron adecuadas?
+7. ¿Qué te pareció la opción de gamificación en la aplicación? ¿Consideras que incentiva el uso de la plataforma?
+8. ¿Crees que la aplicación cumple con tus expectativas en cuanto a la variedad y disponibilidad de vehículos sostenibles?
+
+---
+
 **User Goal:** Iniciar sesión  
 **User Persona:** Universitarios y Adquirientes  
 
@@ -865,6 +903,97 @@ Entrevista de validaciones usuarios Adquirientes.
 | <center>Timing: </center> | <center>URL: </center> |
 
 ### 5.3.3. Evaluaciones según heurísticas 
+
+# UX Heuristics & Principles Evaluation
+### Usability – Inclusive Design – Information Architecture
+
+**CARRERA** : Ingeniería de Software  
+**CURSO** : Desarrollo de Aplicaciones Open Source  
+**SECCIÓN** : SW56 
+**PROFESORES** : Efraín Ricardo Bautista Ubillús  
+**AUDITOR** : EcoMovil Squad  
+**CLIENTE(S)** : SkillsSapInc
+
+#### SITE o APP A EVALUAR:
+
+EcoMovil
+
+**Propósito:** El objetivo principal de esta evaluación es identificar problemas presentes en la aplicación web EcoMovil.  
+
+**Método:** Los hallazgos en el sitio web se obtendrán aplicando la lista de principios heurísticos desarrollada por Jakob Nielsen, basada en su investigación inicial.
+
+#### TAREAS A EVALUAR
+
+### Evaluación para Landing Page y Aplicación Web
+
+**Landing Page**
+
+1. Se proporciona información detallada sobre la aplicación, destacando sus funcionalidades principales.
+2. Se presentan los planes de pago y precios de la aplicación.
+3. Incluye un header y footer adecuados, optimizados para la página de inicio.
+4. La página principal permite una interacción fluida entre el usuario y la aplicación.
+
+**Aplicación Web**
+
+1. Ingreso a la aplicación para usuarios registrados.
+2. Indicadores claros que muestran el progreso o estado de los procesos.
+3. Uso de iconos consistentes y comprensibles, alineados con el entorno real.
+4. Mensajes de error precisos que indican errores en el registro de datos.
+5. Función para retroceder en diferentes secciones de la aplicación.
+6. Opciones de cancelar o salir de registros, redirigiendo al usuario al dashboard principal.
+7. Evaluación de patrones de diseño o navegación efectivos.
+8. Interfaz de usuario con elementos coherentes y homogéneos.
+9. Pestañas de navegación bien organizadas.
+10. Botones interactivos, intuitivos y fáciles de utilizar.
+11. Funcionalidad de búsqueda para localizar procesos y cultivos registrados.
+12. Navegación fluida y orientación clara dentro de la aplicación.
+13. Permite abrir y visualizar cultivos registrados.
+14. Visualización del perfil de usuario.
+15. Visualización del perfil de la empresa.
+16. Mensajes informativos que guían al usuario sobre el estado del sistema.
+17. Opción de cambio de idioma.
+18. Interfaz visualmente atractiva y agradable.
+
+**Tareas Excluidas de la Evaluación Actual**
+
+**Landing Page**
+
+1. Inclusión de enlaces a redes sociales del startup.
+2. Política de privacidad y condiciones de uso.
+
+**Aplicación Web**
+
+1. Registro para nuevos usuarios.
+2. Modificación y eliminación de procesos o cultivos registrados.
+3. Notificaciones de cambios realizadas por empleados.
+4. Funciones de documentación y exportación de registros.
+5. Accesibilidad a través de atajos de teclado.
+6. Acceso a recursos de ayuda dentro de la aplicación.
+7. Inclusión de la política de privacidad y condiciones de uso.
+
+**ESCALA DE SEVERIDAD:**  
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+Desktop Landing Page
+
+| #  | Problema                                                                                                          | Escala de severidad | Heurística/Principio violada(o)                            |
+|----|-------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------|
+| 1  | Falta un video de introducción sobre el equipo, lo que podría ayudar a los usuarios a conocer mejor al equipo detrás de la aplicación y generar confianza. | 2                   | Usability: Coincidencia entre el sistema y el mundo real   |
+| 2  | Hay un apóstrofe incorrecto en una palabra de la Landing Page, lo que afecta la profesionalidad y la claridad del mensaje. | 2                   | Usability: Diseño estético y minimalista                   |
+| 3  | Falta la internacionalización (i18n) en la plataforma, lo que limita la accesibilidad para usuarios de diferentes idiomas. | 1                   | Usability: Flexibilidad y eficiencia de uso               |
+| 4  | El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz. | 2                   | Usability: Estética y diseño minimalista                  |
+| 5  | Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación. | 2                   | Usability: Diseño estético y minimalista                  |
+
+Falta más
 
 ### 5.4. Video About-the-Product
 
