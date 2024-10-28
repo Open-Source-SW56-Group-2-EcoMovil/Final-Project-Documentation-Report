@@ -751,3 +751,94 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Web-Application-EcoMovil:
 
 ![Insights](./assets/perfil/insights-front-end.png) 
+
+5.2.3. Sprint 3 
+5.2.3.1. Sprint Planning 3
+5.2.3.2. Sprint Backlog 3
+5.2.3.3. Development Evidence for Sprint Review
+5.2.3.4. Testing Suite Evidence for Sprint Review 
+5.2.3.5. Execution Evidence for Sprint Review 
+5.2.3.6. Services Documentation Evidence for Sprint Review 
+5.2.3.7. Software Deployment Evidence for Sprint Review
+5.2.3.8. Team Collaboration Insights during Sprint 
+
+5.3. Validation Interviews 
+
+En la sección "Validation Interviews" de nuestro proyecto, el objetivo es perfeccionar la página web enfocada en mejorar la gestión de vehículos menores en Perú. Esta fase crítica implica una interacción directa con nuestros usuarios clave: estudiantes universitarios y compradores. A través de entrevistas estructuradas, buscamos obtener sus opiniones y recomendaciones, lo cual asegura que la aplicación no solo cumpla con los estándares técnicos, sino que también se alinee con las necesidades operativas y expectativas de los usuarios. A continuación, se detallan los objetivos de usuario necesarios para la realización de estas entrevistas.
+
+5.3.1. Diseño de Entrevistas 
+
+**User Goal:** Iniciar sesión  
+**User Persona:** Universitarios y Adquirientes  
+
+**Explicación del flujo:**  
+Primero, el usuario accede a la aplicación desplegada y visualiza el formulario de inicio de sesión. Aquí, ingresa su correo electrónico y contraseña, ya sea como adquiriente o como universitario (organizador). Si las credenciales son correctas, el sistema valida la información y redirige al usuario a su dashboard personal.
+
+---
+
+**User Goal:** Navegar por el dashboard  
+**User Persona:** Adquiriente  
+
+**Explicación del flujo:**  
+Una vez que el usuario ha iniciado sesión, es redirigido a la sección “Home”, donde puede ver una lista de publicaciones de universitarios que ofrecen vehículos en venta o renta.
+
+---
+
+**User Goal:** Encontrar vehículos menores para comprar o rentar  
+**User Persona:** Adquiriente  
+
+**Explicación del flujo:**  
+Al iniciar sesión, el usuario puede acceder a la sección “Map” para visualizar un mapa con los vehículos disponibles cerca de su ubicación.
+
+---
+
+**User Goal:** Filtro de búsqueda  
+**User Persona:** Adquiriente  
+
+**Explicación del flujo:**  
+El usuario puede ver los filtros de búsqueda para vehículos, ajustando criterios como el tipo y el precio (ordenados de menor a mayor). Al seleccionar una opción, se despliegan los vehículos que cumplen con los filtros aplicados.
+
+---
+
+**User Goal:** Ver detalles del vehículo  
+**User Persona:** Adquiriente  
+
+**Explicación del flujo:**  
+El usuario puede seleccionar un vehículo para ver sus detalles específicos. Además, tiene la opción de iniciar un chat por WhatsApp con el propietario al hacer clic en el enlace, lo que abre WhatsApp para ponerse en contacto.
+
+---
+
+**User Goal:** Mi Perfil  
+**User Persona:** Universitario y Adquiriente  
+
+**Explicación del flujo:**  
+Una vez iniciada la sesión, el usuario puede ingresar a la sección “My Profile” para ver la información de su perfil.
+
+---
+
+**User Goal:** Editar Perfil  
+**User Persona:** Universitario y Adquiriente  
+
+**Explicación del flujo:**  
+En la sección “My Profile”, el usuario puede hacer clic en “Editar perfil” para acceder a una página donde puede modificar su información personal y su foto.
+
+---
+
+**User Goal:** Ver mis Planes  
+**User Persona:** Universitario  
+
+**Explicación del flujo:**  
+Al iniciar sesión, el usuario es redirigido a la sección de planes, donde puede elegir entre tres opciones disponibles. Al seleccionar un plan, es redirigido a PayPal para registrar su tarjeta y completar el pago.
+
+---
+
+**User Goal:** Ver mis vehículos  
+**User Persona:** Universitario  
+
+**Explicación del flujo:**  
+Tras pagar uno de los planes, el usuario puede ver los vehículos que otros universitarios han publicado. Debajo de esta lista, puede hacer clic en “Add +” para subir sus propios vehículos con la información correspondiente.
+
+5.3.2. Registro de Entrevistas 
+
+5.3.3. Evaluaciones según heurísticas 
+5.4. Video About-the-Product
