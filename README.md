@@ -939,20 +939,14 @@ EcoMovil
 2. Indicadores claros que muestran el progreso o estado de los procesos.
 3. Uso de iconos consistentes y comprensibles, alineados con el entorno real.
 4. Mensajes de error precisos que indican errores en el registro de datos.
-5. Función para retroceder en diferentes secciones de la aplicación.
-6. Opciones de cancelar o salir de registros, redirigiendo al usuario al dashboard principal.
-7. Evaluación de patrones de diseño o navegación efectivos.
-8. Interfaz de usuario con elementos coherentes y homogéneos.
-9. Pestañas de navegación bien organizadas.
-10. Botones interactivos, intuitivos y fáciles de utilizar.
-11. Funcionalidad de búsqueda para localizar procesos y cultivos registrados.
-12. Navegación fluida y orientación clara dentro de la aplicación.
-13. Permite abrir y visualizar cultivos registrados.
-14. Visualización del perfil de usuario.
-15. Visualización del perfil de la empresa.
-16. Mensajes informativos que guían al usuario sobre el estado del sistema.
-17. Opción de cambio de idioma.
-18. Interfaz visualmente atractiva y agradable.
+5. Evaluación de patrones de diseño o navegación efectivos.
+6. Interfaz de usuario con elementos coherentes y homogéneos.
+7. Pestañas de navegación bien organizadas.
+8. Botones interactivos, intuitivos y fáciles de utilizar.
+9. Navegación fluida y orientación clara dentro de la aplicación.
+10. Visualización del perfil de usuario.
+11. Visualización del perfil de la organización.
+12. Interfaz visualmente atractiva y agradable.
 
 **Tareas Excluidas de la Evaluación Actual**
 
@@ -964,12 +958,11 @@ EcoMovil
 **Aplicación Web**
 
 1. Registro para nuevos usuarios.
-2. Modificación y eliminación de procesos o cultivos registrados.
-3. Notificaciones de cambios realizadas por empleados.
-4. Funciones de documentación y exportación de registros.
-5. Accesibilidad a través de atajos de teclado.
-6. Acceso a recursos de ayuda dentro de la aplicación.
-7. Inclusión de la política de privacidad y condiciones de uso.
+2. Funciones de documentación y exportación de registros.
+3. Accesibilidad a través de atajos de teclado.
+4. Acceso a recursos de ayuda dentro de la aplicación.
+5. Inclusión de la política de privacidad y condiciones de uso.
+6. Opción de cambio de idioma.
 
 **ESCALA DE SEVERIDAD:**  
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
@@ -993,7 +986,146 @@ Desktop Landing Page
 | 4  | El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz. | 2                   | Usability: Estética y diseño minimalista                  |
 | 5  | Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación. | 2                   | Usability: Diseño estético y minimalista                  |
 
-Falta más
+# DESCRIPCIÓN DE PROBLEMAS:
+
+**PROBLEMA #1**: Falta un video de introducción sobre el equipo, lo que podría ayudar a los usuarios a conocer mejor al equipo detrás de la aplicación y generar confianza.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability: Coincidencia entre el sistema y el mundo real
+
+### Problema:
+Actualmente, la plataforma carece de un video de introducción que presente al equipo detrás de la aplicación. Esto limita la posibilidad de que los usuarios conozcan mejor a quienes desarrollan el producto, afectando su percepción de confianza y conexión.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Incluir un video breve en la página "Acerca de nosotros" donde el equipo se presente y explique su misión y valores en relación con la aplicación. Esto permitirá a los usuarios sentirse más conectados y confiados en el servicio ofrecido, al ver quiénes están detrás y cómo comparten sus intereses o preocupaciones.
+
+**PROBLEMA #2**: Hay un apóstrofe incorrecto en una palabra de la Landing Page, lo que afecta la profesionalidad y la claridad del mensaje.
+
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad - Diseño estético y minimalista
+
+### Problema:
+En la Landing Page, se ha utilizado un apóstrofe incorrecto en una palabra, lo que puede dar una impresión negativa al usuario al percibirse como un error de redacción. Esto afecta la claridad del mensaje y reduce la percepción de profesionalidad de la página, pudiendo generar desconfianza en algunos usuarios.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe incorrecto. Es recomendable hacer una revisión ortográfica completa para evitar errores similares en el futuro y asegurar que el contenido sea claro, profesional y de fácil lectura para los usuarios.
+
+**PROBLEMA #3**: Falta la internacionalización (i18n) en la plataforma, lo que limita la accesibilidad para usuarios de diferentes idiomas.
+
+- **Severidad**: 1
+- **Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
+
+### Problema:
+La plataforma actualmente solo está disponible en un idioma, lo que dificulta el acceso para usuarios que no hablan ese idioma. Esto limita la usabilidad y accesibilidad del sitio, restringiendo su alcance y la posibilidad de atraer a un público más amplio de diferentes países o regiones. La falta de soporte multilingüe puede generar frustración en los usuarios que no comprenden el idioma principal de la plataforma.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Implementar un sistema de internacionalización (i18n) en la plataforma que permita seleccionar el idioma preferido del usuario. Esto incluiría traducciones precisas de todos los textos de la interfaz, botones y mensajes, asegurando una experiencia de usuario coherente en cada idioma. También se recomienda agregar una opción visible de cambio de idioma en el menú principal o en la cabecera para mejorar la accesibilidad y facilitar el uso de la plataforma para usuarios de diferentes regiones.
+
+**PROBLEMA #4**: El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability: Estética y diseño minimalista
+
+### Problema:
+El botón de registro en la interfaz muestra la palabra "Regístrate" sin tilde, apareciendo como "Registrate". Esto representa un error ortográfico que puede afectar la percepción de profesionalidad y cuidado en los detalles de la aplicación. Los errores gramaticales en la interfaz pueden reducir la confianza del usuario en la aplicación, al parecer descuidada o poco profesional.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Corregir el texto del botón para incluir la tilde en “Regístrate”. Además, es recomendable hacer una revisión completa de la ortografía y gramática en toda la interfaz para garantizar la consistencia y corrección en todos los elementos de texto. Esto contribuirá a una mejor experiencia de usuario y a una percepción más profesional de la plataforma.
+
+**PROBLEMA #5**: Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability: Diseño estético y minimalista 
+
+### Problema:
+La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni necesaria para el flujo de usuario. Este botón innecesario crea desorden visual, distrae al usuario y complica la navegación, ya que añade elementos superfluos en la interfaz. La presencia de componentes sin función específica rompe con el principio de minimalismo en el diseño, afectando la claridad y la eficiencia de uso.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la plataforma para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
+
+Web Application
+
+| #  | Problema                                                                                                               | Escala de severidad | Heurística/Principio violada(o)                           |
+|----|------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------|
+| 1  | Los botones de "Log In" están demasiado próximos, lo que dificulta su uso correcto                                     | 2                   | Usability - Consistencia y estándares                    |
+| 2  | El mapa no se ajusta adecuadamente en dispositivos móviles o pantallas pequeñas                                        | 2                   | Usability - Estética y diseño minimalista                |
+| 3  | Los botones de "Rent" y "Buy" carecen de funcionalidad                                                                 | 1                   | Usability - Flexibilidad y eficiencia de uso             |
+| 4  | La función de clic para acceder al alquiler o compra de un vehículo específico no está activa                          | 2                   | Usability - Control y Libertad del usuario               |
+
+**PROBLEMA #1**: Los botones de "Log In" están demasiado próximos, lo que dificulta su uso correcto.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability - Consistencia y estándares
+
+### Problema:
+La proximidad entre los botones de "Log In" en la interfaz puede llevar a errores al usarlos, dificultando que el usuario seleccione el botón correcto con facilidad. Esta falta de espacio adecuado entre los elementos afecta la usabilidad al no seguir los estándares de diseño consistentes que faciliten la interacción.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Aumentar la separación entre los botones de "Log In" para reducir la posibilidad de errores de clic y mejorar la precisión en la interacción. Mantener una distancia adecuada entre los elementos interactivos siguiendo las pautas de diseño de usabilidad para mejorar la experiencia del usuario.
+
+**PROBLEMA #2**: El mapa no se ajusta adecuadamente en dispositivos móviles o pantallas pequeñas.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability - Estética y diseño minimalista
+
+### Problema:
+La interfaz del mapa no es responsiva, lo que genera problemas de visualización en dispositivos móviles y pantallas pequeñas. Este problema afecta la accesibilidad y estética del diseño, ya que los usuarios no pueden visualizar ni interactuar con el mapa de forma eficiente en diferentes tamaños de pantalla.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Optimizar el diseño del mapa para que se adapte correctamente a pantallas de diferentes tamaños, especialmente en dispositivos móviles. Implementar un diseño responsivo y minimalista que mantenga la funcionalidad del mapa sin comprometer la claridad visual.
+
+**PROBLEMA #3**: Los botones de "Rent" y "Buy" carecen de funcionalidad.
+
+- **Severidad**: 1
+- **Heurística violada**: Usability - Flexibilidad y eficiencia de uso
+
+### Problema:
+Los botones de "Rent" y "Buy" en la interfaz no están habilitados o no realizan ninguna acción al ser seleccionados, lo que afecta la eficiencia de uso y genera confusión en el usuario, al no cumplir con las expectativas de navegación y funcionalidad en la aplicación.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Activar la funcionalidad de los botones de "Rent" y "Buy" para que cumplan con el propósito esperado y mejoren la experiencia de usuario. Asegurarse de que todos los botones en la interfaz tengan una función clara y accesible.
+
+**PROBLEMA #4**: La función de clic para acceder al alquiler o compra de un vehículo específico no está activa.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability - Control y Libertad del usuario
+
+### Problema:
+Al intentar hacer clic para acceder a la información de alquiler o compra de un vehículo específico, el enlace o botón no responde, limitando el control y la libertad del usuario para explorar opciones. Esto genera frustración al no poder navegar fluidamente en la plataforma.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Activar la función de clic para acceder a la información de alquiler o compra de cada vehículo. Verificar que todos los enlaces y botones críticos estén operativos para facilitar la navegación y otorgar al usuario el control necesario para explorar opciones.
+
+**PROBLEMA #5**: Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación.
+
+- **Severidad**: 2
+- **Heurística violada**: Usability - Estética y diseño minimalista
+
+### Problema:
+La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni necesaria para el flujo de usuario. Este botón innecesario crea desorden visual, distrae al usuario y complica la navegación, ya que añade elementos superfluos en la interfaz. La presencia de componentes sin función específica rompe con el principio de minimalismo en el diseño, afectando la claridad y la eficiencia de uso.
+
+_(Incluir además una captura de pantalla ilustrando el problema)._
+
+### Recomendación:
+Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la plataforma para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
 
 ### 5.4. Video About-the-Product
 
