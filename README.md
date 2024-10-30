@@ -764,122 +764,116 @@ Repositorio Web-Application-EcoMovil:
 
 ## 5.3. Validation Interviews 
 
-En la sección "Validation Interviews" de nuestro proyecto, el objetivo es perfeccionar la página web enfocada en mejorar la gestión de vehículos menores en Perú. Esta fase crítica implica una interacción directa con nuestros usuarios clave: estudiantes universitarios y compradores. A través de entrevistas estructuradas, buscamos obtener sus opiniones y recomendaciones, lo cual asegura que la aplicación no solo cumpla con los estándares técnicos, sino que también se alinee con las necesidades operativas y expectativas de los usuarios. A continuación, se detallan los objetivos de usuario necesarios para la realización de estas entrevistas.
+En la sección "Validation Interviews" de nuestro proyecto, el propósito es mejorar la aplicación mediante una interacción directa con nuestros usuarios principales: universitarios y adquirientes. Mediante entrevistas estructuradas, buscamos recopilar sus opiniones y sugerencias, garantizando así que la aplicación no solo cumpla con los estándares técnicos, sino que también se ajuste a las necesidades operativas y expectativas de los usuarios. A continuación, se describen los objetivos de usuario necesarios para llevar a cabo estas entrevistas.
 
 ### 5.3.1. Diseño de Entrevistas 
 
-Segmento Universitario
+# Segmento Universitario
 
-Preguntas Generales
+## Preguntas Generales
+
 - ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿Dónde resides actualmente?
 - ¿A qué te dedicas?
 
-Preguntas para el Segmento de Propietarios
-1. ¿Crees que alguna función o característica necesita mejoras? ¿Qué elementos podrían optimizarse para ofrecer una mejor experiencia?
-2. ¿Cómo percibes el diseño y funcionalidad de las herramientas de gestión de planes? ¿Te parecieron intuitivas y sencillas de usar?
-3. ¿Cómo evalúas la opción de publicar y editar tus vehículos en la plataforma? ¿Qué tan fácil o complicado te resultó?
-4. ¿Te gustó la experiencia de editar tu perfil y personalizarlo? ¿Consideras útiles las opciones de personalización?
-5. ¿Qué te pareció la facilidad para administrar tu historial de vehículos (alquileres o ventas)? ¿Crees que esta herramienta cumple tus expectativas?
-6. ¿La interfaz de usuario para actualizar y gestionar tus datos personales te resultó cómoda y funcional?
+## Preguntas para el Segmento de Propietarios
 
----
+- ¿Crees que alguna función o característica necesita mejoras? ¿Qué elementos podrían optimizarse para ofrecer una mejor experiencia?
+-  ¿Cómo percibes el diseño y funcionalidad de las herramientas de gestión de planes? ¿Te parecieron intuitivas y sencillas de usar?
+- ¿Cómo evalúas la opción de publicar y editar tus vehículos en la plataforma? ¿Qué tan fácil o complicado te resultó?
+- ¿Te gustó la experiencia de editar tu perfil y personalizarlo? ¿Consideras útiles las opciones de personalización?
+- ¿Qué te pareció la facilidad para administrar tu historial de vehículos (alquileres o ventas)? ¿Crees que esta herramienta cumple tus expectativas?
+- ¿La interfaz de usuario para actualizar y gestionar tus datos personales te resultó cómoda y funcional?
 
-Segmento Adquiriente
+# Segmento Adquiriente
 
-Preguntas Generales
+## Preguntas Generales
+
 - ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿Dónde resides actualmente?
 - ¿A qué te dedicas?
 
-Preguntas para el Segmento de Adquirientes
-1. ¿Considerarías utilizar nuestra aplicación? ¿Por qué?
-2. ¿Qué opinas de la calidad de los vehículos y la legibilidad de la tipografía al ver la ubicación en la sección de mapa? ¿Te resultó fácil de usar o crees que se necesitan ajustes?
-3. ¿Piensas que la aplicación ofrece una buena variedad de vehículos detallados?
-4. ¿Qué te pareció la experiencia de navegación al buscar vehículos? ¿Fue fácil encontrar lo que buscabas?
-5. ¿Consideras que la información de los vehículos es clara y suficiente para tomar una decisión de compra o alquiler?
-6. ¿Qué opinas sobre las opciones de personalización de la búsqueda (por tipo de vehículo, precio, ubicación, etc.)? ¿Te parecieron adecuadas?
-7. ¿Qué te pareció la opción de gamificación en la aplicación? ¿Consideras que incentiva el uso de la plataforma?
-8. ¿Crees que la aplicación cumple con tus expectativas en cuanto a la variedad y disponibilidad de vehículos sostenibles?
+## Preguntas para el Segmento de Adquirientes
 
----
+- ¿Considerarías utilizar nuestra aplicación? ¿Por qué?
+- ¿Qué opinas de la calidad de los vehículos y la legibilidad de la tipografía al ver la ubicación en la sección de mapa? ¿Te resultó fácil de usar o crees que se necesitan ajustes?
+- ¿Piensas que la aplicación ofrece una buena variedad de vehículos detallados?
+- ¿Qué te pareció la experiencia de navegación al buscar vehículos? ¿Fue fácil encontrar lo que buscabas?
+- ¿Consideras que la información de los vehículos es clara y suficiente para tomar una decisión de compra o alquiler?
+- ¿Qué opinas sobre las opciones de personalización de la búsqueda (por tipo de vehículo, precio)? ¿Te parecieron adecuadas?
+- ¿Qué te pareció la opción de gamificación en la aplicación? ¿Consideras que incentiva el uso de la aplicación?
+- ¿Crees que la aplicación cumple con tus expectativas en cuanto a la variedad y disponibilidad de vehículos sostenibles?
+
+# User Goals
 
 **User Goal:** Iniciar sesión  
 **User Persona:** Universitarios y Adquirientes  
-
 **Explicación del flujo:**  
-Primero, el usuario accede a la aplicación desplegada y visualiza el formulario de inicio de sesión. Aquí, ingresa su correo electrónico y contraseña, ya sea como adquiriente o como universitario (organizador). Si las credenciales son correctas, el sistema valida la información y redirige al usuario a su dashboard personal.
+Primero, el usuario accede a la aplicación desplegada y visualiza el formulario de inicio de sesión. Aquí, ingresa su correo electrónico y contraseña, ya sea como universitario o adquiriente. Si las credenciales son correctas, el sistema valida la información y redirige al usuario a su dashboard personal.
 
 **User Goal:** Navegar por el dashboard  
 **User Persona:** Adquiriente  
-
 **Explicación del flujo:**  
 Una vez que el usuario ha iniciado sesión, es redirigido a la sección “Home”, donde puede ver una lista de publicaciones de universitarios que ofrecen vehículos en venta o renta.
 
 **User Goal:** Encontrar vehículos menores para comprar o rentar  
 **User Persona:** Adquiriente  
-
 **Explicación del flujo:**  
 Al iniciar sesión, el usuario puede acceder a la sección “Map” para visualizar un mapa con los vehículos disponibles cerca de su ubicación.
 
 **User Goal:** Filtro de búsqueda  
 **User Persona:** Adquiriente  
-
 **Explicación del flujo:**  
 El usuario puede ver los filtros de búsqueda para vehículos, ajustando criterios como el tipo y el precio (ordenados de menor a mayor). Al seleccionar una opción, se despliegan los vehículos que cumplen con los filtros aplicados.
 
 **User Goal:** Ver detalles del vehículo  
 **User Persona:** Adquiriente  
-
 **Explicación del flujo:**  
 El usuario puede seleccionar un vehículo para ver sus detalles específicos. Además, tiene la opción de iniciar un chat por WhatsApp con el propietario al hacer clic en el enlace, lo que abre WhatsApp para ponerse en contacto.
 
 **User Goal:** Mi Perfil  
 **User Persona:** Universitario y Adquiriente  
-
 **Explicación del flujo:**  
 Una vez iniciada la sesión, el usuario puede ingresar a la sección “My Profile” para ver la información de su perfil.
 
 **User Goal:** Editar Perfil  
 **User Persona:** Universitario y Adquiriente  
-
 **Explicación del flujo:**  
 En la sección “My Profile”, el usuario puede hacer clic en “Editar perfil” para acceder a una página donde puede modificar su información personal y su foto.
 
 **User Goal:** Ver mis Planes  
 **User Persona:** Universitario  
-
 **Explicación del flujo:**  
 Al iniciar sesión, el usuario es redirigido a la sección de planes, donde puede elegir entre tres opciones disponibles. Al seleccionar un plan, es redirigido a PayPal para registrar su tarjeta y completar el pago.
 
 **User Goal:** Ver mis vehículos  
 **User Persona:** Universitario  
-
 **Explicación del flujo:**  
 Tras pagar uno de los planes, el usuario puede ver los vehículos que otros universitarios han publicado. Debajo de esta lista, puede hacer clic en “Add +” para subir sus propios vehículos con la información correspondiente.
 
 ### 5.3.2. Registro de Entrevistas 
 
 **Entrevista a Universitarios.**
+
 Entrevista de validaciones usuarios Universitarios.
 
 | **Entrevista 1**        | **Abel Andrés Valle Zuta**         | 
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
-| <center> </center>  | <center> </center>  | 
+| <center>![Andres_Valle](./assets/perfil/validation_valle.png)</center>  | <center>Abel Valle considera que la aplicación cumple con los requisitos sin necesidad de mejoras o funciones adicionales. En la sección de visualización de vehículos, aprecia ver los vehículos claramente y encuentra el diseño intuitivo, sin necesidad de guías para orientarse en los pasos. Sugiere agregar detalles sobre el propietario de cada vehículo publicado. Le agrada la disposición distribuida de los vehículos y percibe la interfaz como funcional y visualmente atractiva.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
-| <center> </center>  | <center> </center>  | 
+| <center>![Rodrigo_Garcia](./assets/perfil/validation_garcia.png)</center>  | <center>Rodrigo García ha explorado la aplicación y la encuentra completa en general. Le gustaría que el sistema de rastreo fuera más eficiente. Considera que la aplicación es muy intuitiva y aprecia los detalles de cada vehículo, lo que le brinda una experiencia más personalizada y distintiva en comparación con otras aplicaciones similares. Para él, esta personalización es clave para visualizar los vehículos publicados. También le agradó la interfaz de la aplicación.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 | **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Rímac</center>  | 
-| <center> </center>  | <center> </center>  | 
+| <center>![Brissa_Hoyos](./assets/perfil/validation_hoyos.png)</center>  | <center>A Brissa Hoyos le gustó la página y considera que tiene una estructura muy organizada. Destaca la eficiencia y lo completa que es, ya que facilita encontrar cada sección. Le gustaría añadir una función de comunicación directa con el cliente y no eliminaría ningún elemento de la aplicación.</center>  | 
 | <center>Timing: </center>  | <center>URL: </center>  | 
 
 **Entrevista a Adquirientes.**
@@ -889,17 +883,17 @@ Entrevista de validaciones usuarios Adquirientes.
 |:---------------:|:-------------------------------:|
 | <center>Edad</center> | <center>22 Años</center> |
 | <center>Distrito</center> | <center>Barcelona</center> |
-| <center> </center> | <center> </center> |
-| <center>Timing: </center> | <center> </center> |
+| <center>![Camila_Perez](./assets/perfil/validation_perez.png)</center> | <center>Camila Pérez opina que la calidad de los vehículos y la tipografía son adecuadas, siendo comprensibles y bien presentadas. Encuentra que la aplicación es fácil de usar y valora la variedad de vehículos disponibles. Considera que la información sobre el alquiler o la venta es clara, pero le gustaría que se incluyeran comentarios, sugiriendo un apartado de reseñas para guiar a los usuarios.</center> |
+| <center>Timing: </center> | <center>URL:</center> |
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
-| <center> </center> | <center> </center> |
+| <center>![Paola_Vasquez](./assets/perfil/validation_vasquez.png)</center> | <center>Paola Vásquez considera que la aplicación es útil y le gusta poder seleccionar vehículos según sus necesidades, promoviendo la sostenibilidad e innovando en ecología. Describe la experiencia como fácil y manejable, cumpliendo con lo esperado. También le agrada la personalización en la búsqueda, especialmente los filtros, que encuentra muy útiles para satisfacer las necesidades tanto de los usuarios como de los vehículos disponibles.</center> |
 | <center>Timing: </center> | <center>URL: </center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
-| <center> </center> | <center> </center> |
+| <center>![Silvia_Flores](./assets/perfil/validation_flores.png)</center> | <center>Silvia Flores considera que la aplicación es muy interactiva y le agrada su diseño ecológico. Opina que la usaría, ya que le parece innovadora, especialmente por los filtros que facilitan la búsqueda de distintos modelos. Sugeriría hacer más visibles los filtros, aunque en general se entiende bien su uso. También señala que la aplicación se adapta a los distintos gustos de cada persona, con variedad en precios y modelos, lo que le parece alineado con la innovación y el enfoque ecológico.</center> |
 | <center>Timing: </center> | <center>URL: </center> |
 
 ### 5.3.3. Evaluaciones según heurísticas 
@@ -910,6 +904,7 @@ Entrevista de validaciones usuarios Adquirientes.
 **CARRERA** : Ingeniería de Software  
 **CURSO** : Desarrollo de Aplicaciones Open Source  
 **SECCIÓN** : SW56 
+
 **PROFESORES** : Efraín Ricardo Bautista Ubillús  
 **AUDITOR** : EcoMovil Squad  
 **CLIENTE(S)** : SkillsSapInc
@@ -918,9 +913,9 @@ Entrevista de validaciones usuarios Adquirientes.
 
 EcoMovil
 
-**Propósito:** El objetivo principal de esta evaluación es identificar problemas presentes en la aplicación web EcoMovil.  
+**Propósito:** El objetivo principal de esta evaluación es identificar problemas presentes en la aplicación EcoMovil.  
 
-**Método:** Los hallazgos en el sitio web se obtendrán aplicando la lista de principios heurísticos desarrollada por Jakob Nielsen, basada en su investigación inicial.
+**Método:** Los descubrimientos en la aplicación se lograrán utilizando la lista de principios heurísticos elaborada por Jakob Nielsen, fundamentada en su investigación original.
 
 #### TAREAS A EVALUAR
 
@@ -994,7 +989,7 @@ Desktop Landing Page
 - **Heurística violada**: Usability: Coincidencia entre el sistema y el mundo real
 
 ### Problema:
-Actualmente, la plataforma carece de un video de introducción que presente al equipo detrás de la aplicación. Esto limita la posibilidad de que los usuarios conozcan mejor a quienes desarrollan el producto, afectando su percepción de confianza y conexión.
+Actualmente, la aplicación carece de un video de introducción que presente al equipo detrás de la aplicación. Esto limita la posibilidad de que los usuarios conozcan mejor a quienes desarrollan el producto, afectando su percepción de confianza y conexión.
 
 _(Incluir además una captura de pantalla ilustrando el problema)._
 
@@ -1014,7 +1009,7 @@ _(Incluir además una captura de pantalla ilustrando el problema)._
 ### Recomendación:
 Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe incorrecto. Es recomendable hacer una revisión ortográfica completa para evitar errores similares en el futuro y asegurar que el contenido sea claro, profesional y de fácil lectura para los usuarios.
 
-**PROBLEMA #3**: Falta la internacionalización (i18n) en la plataforma, lo que limita la accesibilidad para usuarios de diferentes idiomas.
+**PROBLEMA #3**: Falta la internacionalización (i18n) en la aplicación, lo que limita la accesibilidad para usuarios de diferentes idiomas.
 
 - **Severidad**: 1
 - **Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
@@ -1025,7 +1020,7 @@ La plataforma actualmente solo está disponible en un idioma, lo que dificulta e
 _(Incluir además una captura de pantalla ilustrando el problema)._
 
 ### Recomendación:
-Implementar un sistema de internacionalización (i18n) en la plataforma que permita seleccionar el idioma preferido del usuario. Esto incluiría traducciones precisas de todos los textos de la interfaz, botones y mensajes, asegurando una experiencia de usuario coherente en cada idioma. También se recomienda agregar una opción visible de cambio de idioma en el menú principal o en la cabecera para mejorar la accesibilidad y facilitar el uso de la plataforma para usuarios de diferentes regiones.
+Implementar un sistema de internacionalización (i18n) en la aplicación que permita seleccionar el idioma preferido del usuario. Esto incluiría traducciones precisas de todos los textos de la interfaz, botones y mensajes, asegurando una experiencia de usuario coherente en cada idioma. También se recomienda agregar una opción visible de cambio de idioma en el menú principal o en la cabecera para mejorar la accesibilidad y facilitar el uso de la aplicación para usuarios de diferentes regiones.
 
 **PROBLEMA #4**: El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz.
 
@@ -1051,7 +1046,7 @@ La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni 
 _(Incluir además una captura de pantalla ilustrando el problema)._
 
 ### Recomendación:
-Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la plataforma para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
+Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la aplicación para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
 
 Web Application
 
@@ -1125,15 +1120,13 @@ La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni 
 _(Incluir además una captura de pantalla ilustrando el problema)._
 
 ### Recomendación:
-Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la plataforma para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
+Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la aplicación para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
 
 ### 5.4. Video About-the-Product
 
 A continuación, se muestra el video "Video About-the-Product", que destaca el propósito, las ventajas y las características clave de la aplicación. 
 
 ![product](./assets/perfil/image_the_product.png)
-
-Enlace para ver el video "Video About-the-Product": 
 
 Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=ExgdwvQ5qs4
 
@@ -1143,9 +1136,7 @@ Video About-the-Team
 
 A continuación, se muestra el video "Video About-the-Team".
 
-Imagen
-
-Enlace para ver el video "Video About-the-Product": 
+![Video_About_the_Team](./assets/perfil/video_about_the_team.png)
 
 Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=jpyDFOsOIDM
 
