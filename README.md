@@ -1138,3 +1138,64 @@ Enlace para ver el video "Video About-the-Product":
 Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=ExgdwvQ5qs4
 
 Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYWDdLyeWdhGjyG-xYpUDSQBRRFGJEghvsiOj3HGEIyqTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=30BnZ4 
+
+Video About-the-Team
+
+A continuación, se muestra el video "Video About-the-Team".
+
+Imagen
+
+Enlace para ver el video "Video About-the-Product": 
+
+Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=jpyDFOsOIDM
+
+Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/Ee7EwcTH-ttMk85X7AGimKsBegg62nEpC3BjmM8WBlBc5A?e=ywszfV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+# Conclusiones
+
+Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
+
+Las tareas asignadas para la entrega del TP1 incluyeron la implementación y validación del producto utilizando un enfoque ágil, dividido en sprints manejables que facilitaron una rápida iteración e integración continua de retroalimentación. La gestión de la configuración del software garantizó un entorno de desarrollo optimizado y bien gestionado, mientras que la página de inicio, los servicios y las aplicaciones se implementaron de manera eficiente y organizada, con cada sprint planificado y ejecutado de forma transparente. Durante el desarrollo de la aplicación web, aplicamos la arquitectura de DDD (Domain-Driven Design), identificando y modelando los dominios de negocio y estableciendo límites claros entre ellos para asegurar una adecuada separación de responsabilidades. Esta metodología permitió crear un sistema más robusto y flexible, facilitando tanto el mantenimiento como la evolución del software.
+
+Recomendaciones para optimizar el proceso:
+
+- Establecer metas claras para cada miembro del equipo y asegurar que comprendan los objetivos del Sprint.
+- Mantener una documentación precisa y actualizada en el repositorio para una fácil referencia.
+- Programar revisiones periódicas para evaluar y ajustar el progreso del informe.
+- Fomentar una comunicación constante y abierta dentro del equipo para resolver problemas rápidamente.
+
+Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega de un informe de alta calidad.
+
+# Bibliografía
+
+Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
+
+Blog de la Universidad de San Ignacio de Loyola. (2021). Créditos educativos: Una alternativa para poner fin a la deserción universitaria. Recuperado de https://blogs.usil.edu.pe/novedades/creditos-educativos-una-alternativa-para-poner-fin-la-desercion-universitaria#:~:text=Según%20el%20Ministerio%20de%20Educación,2019%20a%2023.2%20%%20en%202021
+
+Angular. (n.d.). Routing overview. Recuperado de https://v17.angular.io/guide/routing-overview
+
+FontAwesome. (n.d.). FontAwesome documentation. Recuperado de https://docs.fontawesome.com/
+
+Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailwindcss.com/docs
+
+# Anexos
+
+| Sección                      | Enlace                                                                                                                         |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Product Backlog TB1 en Trello | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
+| Organización en GitHub        | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                             |
+| Repositorio al landing page   | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
+| Product Backlog TP1 en Trello  | https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp                                                          |
+| Lean UX Canvas                | https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
+| Entrevistas                   | https://acortar.link/uMdFvk                                                                                         |
+| To-Be Mapping EcoMovil        | https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053 |
+| Product Backlog               | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
+| General Style Guidelines      | https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?node-id=0-1&t=MRGVDtnKEXSGH8Cy-1                        |
+| Landing Page Wireframe        | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                               |
+| Landing Page Mock-up          | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                               |
+| Web Applications UX/UI Design | https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1                       |
+| Landing Page Deployment       | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
+| Video del TB1                 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF |
+| Video del TP1                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K                                                                                                   |
+| My JSON Server                | https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil                           |
+| Conexión del Landing Page con el Front-end                | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                           |
