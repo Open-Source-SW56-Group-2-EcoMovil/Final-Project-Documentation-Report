@@ -806,6 +806,8 @@ En la sección "Validation Interviews" de nuestro proyecto, el propósito es mej
 - ¿Qué te pareció la opción de gamificación en la aplicación? ¿Consideras que incentiva el uso de la aplicación?
 - ¿Crees que la aplicación cumple con tus expectativas en cuanto a la variedad y disponibilidad de vehículos sostenibles?
 
+---
+
 ### User Goals
 
 **User Goal:** Iniciar sesión
