@@ -768,16 +768,16 @@ En la sección "Validation Interviews" de nuestro proyecto, el propósito es mej
 
 ### 5.3.1. Diseño de Entrevistas 
 
-# Segmento Universitario
+### Segmento Universitario
 
-## Preguntas Generales
+#### Preguntas Generales
 
 - ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿Dónde resides actualmente?
 - ¿A qué te dedicas?
 
-## Preguntas para el Segmento de Propietarios
+#### Preguntas para el Segmento de Propietarios
 
 - ¿Crees que alguna función o característica necesita mejoras? ¿Qué elementos podrían optimizarse para ofrecer una mejor experiencia?
 -  ¿Cómo percibes el diseño y funcionalidad de las herramientas de gestión de planes? ¿Te parecieron intuitivas y sencillas de usar?
@@ -786,16 +786,16 @@ En la sección "Validation Interviews" de nuestro proyecto, el propósito es mej
 - ¿Qué te pareció la facilidad para administrar tu historial de vehículos (alquileres o ventas)? ¿Crees que esta herramienta cumple tus expectativas?
 - ¿La interfaz de usuario para actualizar y gestionar tus datos personales te resultó cómoda y funcional?
 
-# Segmento Adquiriente
+### Segmento Adquiriente
 
-## Preguntas Generales
+#### Preguntas Generales
 
 - ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿Dónde resides actualmente?
 - ¿A qué te dedicas?
 
-## Preguntas para el Segmento de Adquirientes
+#### Preguntas para el Segmento de Adquirientes
 
 - ¿Considerarías utilizar nuestra aplicación? ¿Por qué?
 - ¿Qué opinas de la calidad de los vehículos y la legibilidad de la tipografía al ver la ubicación en la sección de mapa? ¿Te resultó fácil de usar o crees que se necesitan ajustes?
@@ -806,35 +806,47 @@ En la sección "Validation Interviews" de nuestro proyecto, el propósito es mej
 - ¿Qué te pareció la opción de gamificación en la aplicación? ¿Consideras que incentiva el uso de la aplicación?
 - ¿Crees que la aplicación cumple con tus expectativas en cuanto a la variedad y disponibilidad de vehículos sostenibles?
 
-# User Goals
+### User Goals
 
-**User Goal:** Iniciar sesión  
+**User Goal:** Iniciar sesión
+
 **User Persona:** Universitarios y Adquirientes  
+
 **Explicación del flujo:**  
 Primero, el usuario accede a la aplicación desplegada y visualiza el formulario de inicio de sesión. Aquí, ingresa su correo electrónico y contraseña, ya sea como universitario o adquiriente. Si las credenciales son correctas, el sistema valida la información y redirige al usuario a su dashboard personal.
 
 **User Goal:** Navegar por el dashboard  
+
 **User Persona:** Adquiriente  
+
 **Explicación del flujo:**  
 Una vez que el usuario ha iniciado sesión, es redirigido a la sección “Home”, donde puede ver una lista de publicaciones de universitarios que ofrecen vehículos en venta o renta.
 
 **User Goal:** Encontrar vehículos menores para comprar o rentar  
+
 **User Persona:** Adquiriente  
+
 **Explicación del flujo:**  
 Al iniciar sesión, el usuario puede acceder a la sección “Map” para visualizar un mapa con los vehículos disponibles cerca de su ubicación.
 
 **User Goal:** Filtro de búsqueda  
+
 **User Persona:** Adquiriente  
+
 **Explicación del flujo:**  
 El usuario puede ver los filtros de búsqueda para vehículos, ajustando criterios como el tipo y el precio (ordenados de menor a mayor). Al seleccionar una opción, se despliegan los vehículos que cumplen con los filtros aplicados.
 
 **User Goal:** Ver detalles del vehículo  
+
 **User Persona:** Adquiriente  
+
 **Explicación del flujo:**  
 El usuario puede seleccionar un vehículo para ver sus detalles específicos. Además, tiene la opción de iniciar un chat por WhatsApp con el propietario al hacer clic en el enlace, lo que abre WhatsApp para ponerse en contacto.
 
 **User Goal:** Mi Perfil  
+
 **User Persona:** Universitario y Adquiriente  
+
 **Explicación del flujo:**  
 Una vez iniciada la sesión, el usuario puede ingresar a la sección “My Profile” para ver la información de su perfil.
 
@@ -844,12 +856,16 @@ Una vez iniciada la sesión, el usuario puede ingresar a la sección “My Profi
 En la sección “My Profile”, el usuario puede hacer clic en “Editar perfil” para acceder a una página donde puede modificar su información personal y su foto.
 
 **User Goal:** Ver mis Planes  
+
 **User Persona:** Universitario  
+
 **Explicación del flujo:**  
 Al iniciar sesión, el usuario es redirigido a la sección de planes, donde puede elegir entre tres opciones disponibles. Al seleccionar un plan, es redirigido a PayPal para registrar su tarjeta y completar el pago.
 
 **User Goal:** Ver mis vehículos  
+
 **User Persona:** Universitario  
+
 **Explicación del flujo:**  
 Tras pagar uno de los planes, el usuario puede ver los vehículos que otros universitarios han publicado. Debajo de esta lista, puede hacer clic en “Add +” para subir sus propios vehículos con la información correspondiente.
 
@@ -864,19 +880,20 @@ Entrevista de validaciones usuarios Universitarios.
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
 | <center>![Andres_Valle](./assets/perfil/validation_valle.png)</center>  | <center>Abel Valle considera que la aplicación cumple con los requisitos sin necesidad de mejoras o funciones adicionales. En la sección de visualización de vehículos, aprecia ver los vehículos claramente y encuentra el diseño intuitivo, sin necesidad de guías para orientarse en los pasos. Sugiere agregar detalles sobre el propietario de cada vehículo publicado. Le agrada la disposición distribuida de los vehículos y percibe la interfaz como funcional y visualmente atractiva.</center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
+| <center>Timing: 0:05 </center>  | <center>URL: https://acortar.link/UZ35w3 </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
 | <center>![Rodrigo_Garcia](./assets/perfil/validation_garcia.png)</center>  | <center>Rodrigo García ha explorado la aplicación y la encuentra completa en general. Le gustaría que el sistema de rastreo fuera más eficiente. Considera que la aplicación es muy intuitiva y aprecia los detalles de cada vehículo, lo que le brinda una experiencia más personalizada y distintiva en comparación con otras aplicaciones similares. Para él, esta personalización es clave para visualizar los vehículos publicados. También le agradó la interfaz de la aplicación.</center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
+| <center>Timing: 4:19 </center>  | <center>URL: https://acortar.link/UZ35w3</center>  | 
 | **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Rímac</center>  | 
 | <center>![Brissa_Hoyos](./assets/perfil/validation_hoyos.png)</center>  | <center>A Brissa Hoyos le gustó la página y considera que tiene una estructura muy organizada. Destaca la eficiencia y lo completa que es, ya que facilita encontrar cada sección. Le gustaría añadir una función de comunicación directa con el cliente y no eliminaría ningún elemento de la aplicación.</center>  | 
-| <center>Timing: </center>  | <center>URL: </center>  | 
-
+| <center>Timing: 8:02 </center>  | <center>URL: https://acortar.link/UZ35w3 </center>  | 
+ 
 **Entrevista a Adquirientes.**
+
 Entrevista de validaciones usuarios Adquirientes.
 
 | **Entrevista 1** | **Camila de Jesus Perez Novoa** | 
@@ -884,21 +901,21 @@ Entrevista de validaciones usuarios Adquirientes.
 | <center>Edad</center> | <center>22 Años</center> |
 | <center>Distrito</center> | <center>Barcelona</center> |
 | <center>![Camila_Perez](./assets/perfil/validation_perez.png)</center> | <center>Camila Pérez opina que la calidad de los vehículos y la tipografía son adecuadas, siendo comprensibles y bien presentadas. Encuentra que la aplicación es fácil de usar y valora la variedad de vehículos disponibles. Considera que la información sobre el alquiler o la venta es clara, pero le gustaría que se incluyeran comentarios, sugiriendo un apartado de reseñas para guiar a los usuarios.</center> |
-| <center>Timing: </center> | <center>URL:</center> |
+| <center>Timing: 12:48 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
 | <center>![Paola_Vasquez](./assets/perfil/validation_vasquez.png)</center> | <center>Paola Vásquez considera que la aplicación es útil y le gusta poder seleccionar vehículos según sus necesidades, promoviendo la sostenibilidad e innovando en ecología. Describe la experiencia como fácil y manejable, cumpliendo con lo esperado. También le agrada la personalización en la búsqueda, especialmente los filtros, que encuentra muy útiles para satisfacer las necesidades tanto de los usuarios como de los vehículos disponibles.</center> |
-| <center>Timing: </center> | <center>URL: </center> |
+| <center>Timing: 19:09 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
 | <center>![Silvia_Flores](./assets/perfil/validation_flores.png)</center> | <center>Silvia Flores considera que la aplicación es muy interactiva y le agrada su diseño ecológico. Opina que la usaría, ya que le parece innovadora, especialmente por los filtros que facilitan la búsqueda de distintos modelos. Sugeriría hacer más visibles los filtros, aunque en general se entiende bien su uso. También señala que la aplicación se adapta a los distintos gustos de cada persona, con variedad en precios y modelos, lo que le parece alineado con la innovación y el enfoque ecológico.</center> |
-| <center>Timing: </center> | <center>URL: </center> |
+| <center>Timing: 23:05 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 
 ### 5.3.3. Evaluaciones según heurísticas 
 
-# UX Heuristics & Principles Evaluation
+### UX Heuristics & Principles Evaluation
 ### Usability – Inclusive Design – Information Architecture
 
 **CARRERA** : Ingeniería de Software  
@@ -919,7 +936,7 @@ EcoMovil
 
 #### TAREAS A EVALUAR
 
-### Evaluación para Landing Page y Aplicación Web
+#### Evaluación para Landing Page y Aplicación Web
 
 **Landing Page**
 
@@ -981,19 +998,19 @@ Desktop Landing Page
 | 4  | El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz. | 2                   | Usability: Estética y diseño minimalista                  |
 | 5  | Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación. | 2                   | Usability: Diseño estético y minimalista                  |
 
-# DESCRIPCIÓN DE PROBLEMAS:
+#### DESCRIPCIÓN DE PROBLEMAS:
 
 **PROBLEMA #1**: Falta un video de introducción sobre el equipo, lo que podría ayudar a los usuarios a conocer mejor al equipo detrás de la aplicación y generar confianza.
 
 - **Severidad**: 2
 - **Heurística violada**: Usability: Coincidencia entre el sistema y el mundo real
 
-### Problema:
+#### Problema:
 Actualmente, la aplicación carece de un video de introducción que presente al equipo detrás de la aplicación. Esto limita la posibilidad de que los usuarios conozcan mejor a quienes desarrollan el producto, afectando su percepción de confianza y conexión.
 
 ![Landing_1](./assets/perfil/problema_1.png)
 
-### Recomendación:
+#### Recomendación:
 Incluir un video breve en la página "Acerca de nosotros" donde el equipo se presente y explique su misión y valores en relación con la aplicación. Esto permitirá a los usuarios sentirse más conectados y confiados en el servicio ofrecido, al ver quiénes están detrás y cómo comparten sus intereses o preocupaciones.
 
 **PROBLEMA #2**: Hay un apóstrofe incorrecto en una palabra de la Landing Page, lo que afecta la profesionalidad y la claridad del mensaje.
@@ -1001,12 +1018,12 @@ Incluir un video breve en la página "Acerca de nosotros" donde el equipo se pre
 - **Severidad**: 2
 - **Heurística violada**: Usabilidad - Diseño estético y minimalista
 
-### Problema:
+#### Problema:
 En la Landing Page, se ha utilizado un apóstrofe incorrecto en una palabra, lo que puede dar una impresión negativa al usuario al percibirse como un error de redacción. Esto afecta la claridad del mensaje y reduce la percepción de profesionalidad de la página, pudiendo generar desconfianza en algunos usuarios.
 
 ![Landing_2](./assets/perfil/problema_2.png)
 
-### Recomendación:
+#### Recomendación:
 Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe incorrecto. Es recomendable hacer una revisión ortográfica completa para evitar errores similares en el futuro y asegurar que el contenido sea claro, profesional y de fácil lectura para los usuarios.
 
 **PROBLEMA #3**: Falta la internacionalización (i18n) en la aplicación, lo que limita la accesibilidad para usuarios de diferentes idiomas.
@@ -1014,12 +1031,12 @@ Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe inco
 - **Severidad**: 1
 - **Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
 
-### Problema:
-La plataforma actualmente solo está disponible en un idioma, lo que dificulta el acceso para usuarios que no hablan ese idioma. Esto limita la usabilidad y accesibilidad del sitio, restringiendo su alcance y la posibilidad de atraer a un público más amplio de diferentes países o regiones. La falta de soporte multilingüe puede generar frustración en los usuarios que no comprenden el idioma principal de la plataforma.
+#### Problema:
+La aplicación actualmente solo está disponible en un idioma, lo que dificulta el acceso para usuarios que no hablan ese idioma. Esto limita la usabilidad y accesibilidad del sitio, restringiendo su alcance y la posibilidad de atraer a un público más amplio de diferentes países o regiones. La falta de soporte multilingüe puede generar frustración en los usuarios que no comprenden el idioma principal de la plataforma.
 
 ![Landing_3](./assets/perfil/problema_3.png)
 
-### Recomendación:
+#### Recomendación:
 Implementar un sistema de internacionalización (i18n) en la aplicación que permita seleccionar el idioma preferido del usuario. Esto incluiría traducciones precisas de todos los textos de la interfaz, botones y mensajes, asegurando una experiencia de usuario coherente en cada idioma. También se recomienda agregar una opción visible de cambio de idioma en el menú principal o en la cabecera para mejorar la accesibilidad y facilitar el uso de la aplicación para usuarios de diferentes regiones.
 
 **PROBLEMA #4**: El texto en el botón “Regístrate” carece de tilde, lo cual afecta la consistencia y la corrección gramatical en la interfaz.
@@ -1027,12 +1044,12 @@ Implementar un sistema de internacionalización (i18n) en la aplicación que per
 - **Severidad**: 2
 - **Heurística violada**: Usability: Estética y diseño minimalista
 
-### Problema:
+#### Problema:
 El botón de registro en la interfaz muestra la palabra "Regístrate" sin tilde, apareciendo como "Registrate". Esto representa un error ortográfico que puede afectar la percepción de profesionalidad y cuidado en los detalles de la aplicación. Los errores gramaticales en la interfaz pueden reducir la confianza del usuario en la aplicación, al parecer descuidada o poco profesional.
 
 ![Landing_4](./assets/perfil/problema_4.png)
 
-### Recomendación:
+#### Recomendación:
 Corregir el texto del botón para incluir la tilde en “Regístrate”. Además, es recomendable hacer una revisión completa de la ortografía y gramática en toda la interfaz para garantizar la consistencia y corrección en todos los elementos de texto. Esto contribuirá a una mejor experiencia de usuario y a una percepción más profesional de la plataforma.
 
 **PROBLEMA #5**: Hay un botón innecesario que no aporta funcionalidad adicional, lo que contribuye al desorden visual y dificulta la navegación.
@@ -1040,12 +1057,12 @@ Corregir el texto del botón para incluir la tilde en “Regístrate”. Además
 - **Severidad**: 2
 - **Heurística violada**: Usability: Diseño estético y minimalista 
 
-### Problema:
+#### Problema:
 La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni necesaria para el flujo de usuario. Este botón innecesario crea desorden visual, distrae al usuario y complica la navegación, ya que añade elementos superfluos en la interfaz. La presencia de componentes sin función específica rompe con el principio de minimalismo en el diseño, afectando la claridad y la eficiencia de uso.
 
 ![Landing_5](./assets/perfil/problema_5.png)
 
-### Recomendación:
+#### Recomendación:
 Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la aplicación para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
 
 Web Application
@@ -1062,12 +1079,12 @@ Web Application
 - **Severidad**: 2
 - **Heurística violada**: Usability - Consistencia y estándares
 
-### Problema:
+#### Problema:
 La proximidad entre los botones de "Log In" en la interfaz puede llevar a errores al usarlos, dificultando que el usuario seleccione el botón correcto con facilidad. Esta falta de espacio adecuado entre los elementos afecta la usabilidad al no seguir los estándares de diseño consistentes que faciliten la interacción.
 
 ![Frontend_1](./assets/perfil/frontend_1.png)
 
-### Recomendación:
+#### Recomendación:
 Aumentar la separación entre los botones de "Log In" para reducir la posibilidad de errores de clic y mejorar la precisión en la interacción. Mantener una distancia adecuada entre los elementos interactivos siguiendo las pautas de diseño de usabilidad para mejorar la experiencia del usuario.
 
 **PROBLEMA #2**: El mapa no se ajusta adecuadamente en dispositivos móviles o pantallas pequeñas.
@@ -1075,12 +1092,12 @@ Aumentar la separación entre los botones de "Log In" para reducir la posibilida
 - **Severidad**: 2
 - **Heurística violada**: Usability - Estética y diseño minimalista
 
-### Problema:
+#### Problema:
 La interfaz del mapa no es responsiva, lo que genera problemas de visualización en dispositivos móviles y pantallas pequeñas. Este problema afecta la accesibilidad y estética del diseño, ya que los usuarios no pueden visualizar ni interactuar con el mapa de forma eficiente en diferentes tamaños de pantalla.
 
 ![Frontend_2](./assets/perfil/frontend_2.png)
 
-### Recomendación:
+#### Recomendación:
 Optimizar el diseño del mapa para que se adapte correctamente a pantallas de diferentes tamaños, especialmente en dispositivos móviles. Implementar un diseño responsivo y minimalista que mantenga la funcionalidad del mapa sin comprometer la claridad visual.
 
 **PROBLEMA #3**: Los botones de "Rent" y "Buy" carecen de funcionalidad.
@@ -1088,12 +1105,12 @@ Optimizar el diseño del mapa para que se adapte correctamente a pantallas de di
 - **Severidad**: 1
 - **Heurística violada**: Usability - Flexibilidad y eficiencia de uso
 
-### Problema:
+#### Problema:
 Los botones de "Rent" y "Buy" en la interfaz no están habilitados o no realizan ninguna acción al ser seleccionados, lo que afecta la eficiencia de uso y genera confusión en el usuario, al no cumplir con las expectativas de navegación y funcionalidad en la aplicación.
 
 ![Frontend_3](./assets/perfil/frontend_3.png)
 
-### Recomendación:
+#### Recomendación:
 Activar la funcionalidad de los botones de "Rent" y "Buy" para que cumplan con el propósito esperado y mejoren la experiencia de usuario. Asegurarse de que todos los botones en la interfaz tengan una función clara y accesible.
 
 **PROBLEMA #4**: La función de clic para acceder al alquiler o compra de un vehículo específico no está activa.
@@ -1101,12 +1118,12 @@ Activar la funcionalidad de los botones de "Rent" y "Buy" para que cumplan con e
 - **Severidad**: 2
 - **Heurística violada**: Usability - Control y Libertad del usuario
 
-### Problema:
+#### Problema:
 Al intentar hacer clic para acceder a la información de alquiler o compra de un vehículo específico, el enlace o botón no responde, limitando el control y la libertad del usuario para explorar opciones. Esto genera frustración al no poder navegar fluidamente en la plataforma.
 
 ![Frontend_4](./assets/perfil/frontend_4.png)
 
-### Recomendación:
+#### Recomendación:
 Activar la función de clic para acceder a la información de alquiler o compra de cada vehículo. Verificar que todos los enlaces y botones críticos estén operativos para facilitar la navegación y otorgar al usuario el control necesario para explorar opciones.
 
 ### 5.4. Video About-the-Product
@@ -1119,7 +1136,7 @@ Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=ExgdwvQ5q
 
 Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYWDdLyeWdhGjyG-xYpUDSQBRRFGJEghvsiOj3HGEIyqTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=30BnZ4 
 
-Video About-the-Team
+### Video About-the-Team
 
 A continuación, se muestra el video "Video About-the-Team".
 
@@ -1144,6 +1161,8 @@ Recomendaciones para optimizar el proceso:
 
 Estas recomendaciones contribuirán a un proceso más eficiente y a la entrega de un informe de alta calidad.
 
+Las tareas asignadas para el TB2 incluyeron mejoras en la aplicación, validaciones de usuario y revisiones críticas. También se organizó la diagramación en función del "Backend" propuesto por el equipo para desarrollar una actividad más avanzada de acuerdo con la entrega. Se implementaron configuraciones eficientes que favorecieron una buena dinámica y un mayor entendimiento del proyecto. Los sprints del tercer ciclo se organizaron y ejecutaron de manera eficiente, lo que contribuyó a un mejor dominio del negocio.
+
 # Bibliografía
 
 Restrepo, M. E., & Carvajal, J. A. (2021). La calidad de vida en el contexto de la resiliencia en el servicio de salud integral. Revista Latinoamericana de Sistemas e Informática, 19(1), 152-163. http://www.scielo.org.co/pdf/rlsi/v19n1/1794-4449-rlsi-19-01-152.pdf
@@ -1158,22 +1177,23 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 
 # Anexos
 
-| Sección                      | Enlace                                                                                                                         |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Product Backlog TB1 en Trello | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
-| Organización en GitHub        | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                             |
-| Repositorio al landing page   | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
-| Product Backlog TP1 en Trello  | https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp                                                          |
-| Lean UX Canvas                | https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton |
-| Entrevistas                   | https://acortar.link/uMdFvk                                                                                         |
-| To-Be Mapping EcoMovil        | https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053 |
-| Product Backlog               | https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 |
-| General Style Guidelines      | https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?node-id=0-1&t=MRGVDtnKEXSGH8Cy-1                        |
-| Landing Page Wireframe        | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                               |
-| Landing Page Mock-up          | https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories                                               |
-| Web Applications UX/UI Design | https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1                       |
-| Landing Page Deployment       | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                                           |
-| Video del TB1                 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF |
-| Video del TP1                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K                                                                                                   |
-| My JSON Server                | https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil                           |
-| Conexión del Landing Page con el Front-end                | https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/                           |
+| Sección                                      | Enlace                                                                                                                                                                                                                           |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Product Backlog TB1**                      | [Trello - Product Backlog TB1](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1)                                                                  |
+| **Organización en GitHub**                   | [Repositorio GitHub - Open Source SW56 Group](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                           |
+| **Landing Page de EcoMovil**                 | [Página de Inicio de EcoMovil](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                       |
+| **Product Backlog TP1**                      | [Trello - Product Backlog TP1](https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp)                                                                                                                                         |
+| **Lean UX Canvas**                           | [Lean UX Canvas - EcoMovil](https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                                     |
+| **Entrevistas de Usuario**                   | [Link a Entrevistas](https://acortar.link/uMdFvk)                                                                                                                                                                                 |
+| **To-Be Mapping**                            | [Mapa de Procesos - EcoMovil](https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053)                    |
+| **General Style Guidelines**                 | [Guía de Estilo General - EcoMovil](https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?node-id=0-1&t=MRGVDtnKEXSGH8Cy-1)                                                                                               |
+| **Landing Page Wireframe**                   | [Wireframe de la Landing Page](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                                           |
+| **Landing Page Mock-up**                     | [Mock-up de la Landing Page](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                                             |
+| **Web Applications UX/UI Design**            | [Diseño UX/UI - Mock-ups](https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1)                                                                                                        |
+| **Landing Page Deployment**                  | [Despliegue de la Landing Page](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                      |
+| **Video del Product Backlog TB1**            | [Video de Introducción al TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF)                                                                                                    |
+| **Video del Product Backlog TP1**            | [Video de Introducción al TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K)                                   |
+| **My JSON Server**                           | [Servidor JSON - EcoMovil](https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil)                                                                                                          |
+| **Conexión del Landing Page con el Front-end** | [Landing Page y Front-end](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                           |
+| **Video About the Product**                  | https://www.youtube.com/watch?v=ExgdwvQ5qs4                                                                                                                                                                                                                    |
+| **Video About the Team**                     |  https://www.youtube.com/watch?v=jpyDFOsOIDM                                                                                                                                                                                                                   |
