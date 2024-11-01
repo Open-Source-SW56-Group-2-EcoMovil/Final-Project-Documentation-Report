@@ -810,17 +810,25 @@ Aquí se muestran los componentes dedicados a la autenticación de usuarios.
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-Payment Bounded Context
+Profile Bounded Context
 
-![Payment.png](./assets/chapter-4/Payment.png)
+![ProfileBC.png](./assets/chapter-4/ProfileBC.png)
 
-User Bounded Context
+Plan Bounded Context
 
-![User.png](./assets/chapter-4/User.png)
+![PlanBC.png](./assets/chapter-4/PlanBC.png)
 
-Rental Bounded Context
+Post Bounded Context
 
-![Rental.png](./assets/chapter-4/Rental.png)
+![PostBC.png](./assets/chapter-4/PostBC.png)
+
+Vehicle Bounded Context
+
+![VehicleBC.png](./assets/chapter-4/VehicleBC.png)
+
+Reservation Bounded Context
+
+![ReservationBC.png](./assets/chapter-4/ReservationBC.png)
 
 ### 4.7.2. Class Dictionary
 
