@@ -754,26 +754,172 @@ Repositorio Web-Application-EcoMovil:
 
 ### 5.2.3. Sprint 3 
 
+El Sprint #3, que inicia el 17 de octubre de 2024, se centrará en el diseño del front-end de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la aplicación web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
-En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cual el equipo se dedica a completar todas las tareas requeridas para alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
+Durante este sprint, nuestro equipo completó los aspectos finales del front-end y comenzó a establecer la estructura del back-end.
 
 ### 5.2.3.1. Sprint Planning 3
 
+| Sprint # | Date       | Time                | Location                                 | Preparing By                  | Attendees                                           |
+|----------|------------|---------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
+| 2        | 17/10/2024 | 18:00 horas (GMT-5) | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
 
-El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
+| Sprint 2 Goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sprint 2 Velocity | Sum of Story Points |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------|
+| Nuestro equipo logró avances significativos en el desarrollo del front-end y en la estructuración del back-end. Se estableció una arquitectura sólida, implementando distintos bounded contexts con sus respectivos aggregate roots, así como la división adecuada entre entidades y value objects. Esta organización permite una clara separación de responsabilidades y facilita la gestión de tareas dentro del proyecto.  Se aplicó parcialmente giel patrón CQRS (Command Query Responsibility Segregation) para separar las operaciones de lectura y escritura en el sistema. | 34| 34                  |
 
-| Sprint # | Date       | Time                     | Location                                 | Preparing By                  | Attendees                                           |
-|----------|------------|--------------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
-| 3        | 20/10/2024 | 17:00 horas (GMT-5)     | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
-
-| Sprint 3 Goal   | Sprint 3 Velocity              | Sum of Story Points |
-|-----------|-----------|-----------|
-| Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el back-end de la aplicación web para que sea funcional. | 26 | 26 |
 
 ### 5.2.3.2. Sprint Backlog 3
-### 5.2.3.3. Development Evidence for Sprint Review
+
+En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del back-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
+
+![trello](./assets/perfil/sprin3.png)
+
+Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+      <th> US18 </th>
+     <th colspan="3"> Sección Botón “Elija un plan” </th>
+      <th> W05  </th>
+     <th> Button "Elija un plan" Section </th>
+     <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
+     <th> 2  </th>
+     <th> Beth </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US19</th>
+     <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
+      <th> W06  </th>
+     <th> Message "Pago exitoso" Section </th>
+     <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
+     <th> 7  </th>
+     <th> Erick </th> 
+     <th> Done </th>
+   </tr>
+    </tr>
+   <tr>
+      <th> US20</th>
+     <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
+      <th> W07  </th>
+     <th> Geolocation Section </th>
+     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
+     <th> 5  </th>
+     <th> David </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US25 </th>
+     <th colspan="3"> Implementacion de API para busqueda geolocalizada de vehículos </th>
+      <th> W09  </th>
+     <th> API Geolocalitation  </th>
+     <th> agregar geolocalizacion para la ubicacion de los vehiculos al momento de su compra o venta  </th>
+     <th> 3 </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este tercer sprint. Dado que se acordó trabajar en los ajustes finales del backend de la aplicación web, se incluyen commits de varios repositorios en los que se realizaron dichas tareas.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-End-Ecomovil | main       | fd74c6a         | initial commit       | Beth Oneglio | Sep 19, 2024         | 
+| Back-End-Ecomovil | main       | aa5f5cc        | Delete REAME.md | Juan Calisaya | Oct 22, 2024    |
+| Back-End-Ecomovil | main       | 841182a         | fchore: initial commit |Juan Calisaya| Oct 30, 2024       |
+| Back-End-Ecomovil | main       | dc4a276   | feat(shared): add domain layer for shared bounded context         | Juan Calisaya| Oct 31, 2024                |
+| Back-End-Ecomovil | main       | 335568a             |  feat(shared): add domain layer for shared bounded context.                   | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | main       | adc5904              |    feat(shared): add interface layer for shared bounded context.| Juan Calisaya |      Oct 31, 2024 |
+| Back-End-Ecomovil | main       | 6a3dd36  |  Merge branch 'master'     | Juan Calisaya |  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context forum      | 7d4d26f  |   feat(forum): add forum bounded context  | Beth Oneglio |   Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context forum       | c68621d  |  feat(forum): add forum bounded context  | Beth Oneglio | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | 39f6ca1  |  feat: Model| Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | ad03479  |  feat: Model| Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | e622c26  |  feat: Patron CQRS | Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | ea9d328  |  feat:add Controller and Reposiotory | Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context profile      | 6d9042d |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | e6313ba |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | db4d6a7 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | fe2a576 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 50ad053 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 643f56c |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 33692c7 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | bfbe237 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | d79a22f |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 6623725 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | d5f4961 |   feat: fixed acquirer bounded context | David Gallo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 61c4082  |   feat(domain): add CreateVehicleCommand to handle vehicle creation commands      | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | c8e42d9   |  feat(domain): add Vehicle entity to represent vehicle data in domain  | | Juan Calisaya |  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | fbb9fb2 |   feat(application): add VehicleCommandService to process vehicle commands | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 5cf45ae |feat(interfaces): add VehicleController for REST endpoints | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | a117207 | feat(application): add VehicleQueryService to handle vehicle queries | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 7da53dc |   feat(infrastructure): add VehicleRepository for database operations  | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle     | 4ff53a1 |  ffix(vehicle): correct vehicle controller logic | Juan Calisaya|  Oct 31, 2024 |
+
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
+
+| Repository                                    | Branch    | Commit Id      | Commit Message                              | Commit Message Body                   | Committed on (Date) |
+|-----------------------------------------------|-----------|----------------|---------------------------------------------|---------------------------------------|----------------------|
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests | Epic/Acceptance-Tests/epic-01 | c4eef98 | chore: uploaded acceptance test for user stories | | 1/11/2024 |
+
 ### 5.2.3.5. Execution Evidence for Sprint Review 
+
+En el sprint 3, se logró un avance parcial en el desarrollo del frontend y backend de la aplicación. Este progreso incluye nuevas vistas relevantes sobre el producto y la startup, además de su versión responsive. A continuación, se presentan algunas evidencias.
+
+![page](./assets/perfil/Capture6.png)
+
+![page](./assets/perfil/Capture7.png)
+
+![page](./assets/perfil/Capture8.png)
+
+![page](./assets/perfil/Capture9.png)
+
+![page](./assets/perfil/Capture10.png)
+
+![page](./assets/perfil/Capture11.png)
+
+![page](./assets/perfil/Capture12.png)
+
+![page](./assets/perfil/Capture13.png)
+
+![page](./assets/perfil/Capture14.png)
+
+![page](./assets/perfil/Capture15.png)
+
+![page](./assets/perfil/Capture16.png)
+
+![page](./assets/perfil/Capture17.png)
+
+![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
+
+![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
+
+![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
+
+![bounded-context-post](/assets/perfil/post-bounded-context.png)
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review 
 
 En este Sprint 3, el enfoque principal ha sido la creación del back-end de la aplicación, con todos sus componentes, servicios respectivos.
@@ -794,20 +940,6 @@ Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
-
-En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
-
-| Alumno | Actividad | 
-| ------------ | ------------------------------------------- | 
-| Calisaya Sánchez, Juan Jesús | Elaborar bounded context Vehicle | 
-| Gallo Quintana, David Ivanoff | Elaborar bounded context Profile y despliegue | 
-| Hidalgo Lopez, Mathias Adriano | Elaborar bounded context Profile | 
-| Oneglio De Paz, Beth Shantal | Elaborar bounded context Forum | 
-| Vasquez Goicochea, Erick Alessander | Elaborar bounded context Plans | 
-
-Repositorio Web-Application-EcoMovil:
-
-![Insights](./assets/perfil/insight-back.png) 
 
 ## 5.3. Validation Interviews 
 
