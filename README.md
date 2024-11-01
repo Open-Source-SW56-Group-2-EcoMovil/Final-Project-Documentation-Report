@@ -762,9 +762,9 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
 
 | Sprint # | Date       | Time                | Location                                 | Preparing By                  | Attendees                                           |
 |----------|------------|---------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
-| 2        | 17/10/2024 | 18:00 horas (GMT-5) | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
+| 3       | 17/10/2024 | 18:00 horas (GMT-5) | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
 
-| Sprint 2 Goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sprint 2 Velocity | Sum of Story Points |
+| Sprint 3 Goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sprint 3 Velocity | Sum of Story Points |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------|
 | Nuestro equipo logró avances significativos en el desarrollo del front-end y en la estructuración del back-end. Se estableció una arquitectura sólida, implementando distintos bounded contexts con sus respectivos aggregate roots, así como la división adecuada entre entidades y value objects. Esta organización permite una clara separación de responsabilidades y facilita la gestión de tareas dentro del proyecto.  Se aplicó parcialmente giel patrón CQRS (Command Query Responsibility Segregation) para separar las operaciones de lectura y escritura en el sistema. | 34| 34                  |
 
@@ -940,6 +940,20 @@ Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno | Actividad | 
+| ------------ | ------------------------------------------- | 
+| Calisaya Sánchez, Juan Jesús | Elaborar bounded context Vehicle | 
+| Gallo Quintana, David Ivanoff | Elaborar bounded context Profile y despliegue  | 
+| Hidalgo Lopez, Mathias Adriano | Elaborar bounded context Profile | 
+| Oneglio De Paz, Beth Shantal | Elaborar bounded context Forum | 
+| Vasquez Goicochea, Erick Alessander | Elaborar bounded context Plans | 
+
+Repositorio Web-Application-EcoMovil:
+
+![Insights](./assets/perfil/insight-back.png) 
 
 ## 5.3. Validation Interviews 
 
