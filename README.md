@@ -786,9 +786,28 @@ A continuación se incluiran las imágenes de los endpoints generados durante es
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Durante el presente sprint hemos logrado desplegar el back-end, usando SQLServer y Azure.
+
+![deployment-evidence](/assets/perfil/deployment.png)
+
+Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno | Actividad | 
+| ------------ | ------------------------------------------- | 
+| Calisaya Sánchez, Juan Jesús | Elaborar bounded context Vehicle | 
+| Gallo Quintana, David Ivanoff | Elaborar bounded context Profile y despliegue | 
+| Hidalgo Lopez, Mathias Adriano | Elaborar bounded context Profile | 
+| Oneglio De Paz, Beth Shantal | Elaborar bounded context Forum | 
+| Vasquez Goicochea, Erick Alessander | Elaborar bounded context Plans | 
+
+Repositorio Web-Application-EcoMovil:
+
+![Insights](./assets/perfil/insight-back.png) 
 
 ## 5.3. Validation Interviews 
 
