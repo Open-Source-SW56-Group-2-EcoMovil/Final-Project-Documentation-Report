@@ -754,21 +754,20 @@ Repositorio Web-Application-EcoMovil:
 
 ### 5.2.3. Sprint 3 
 
+El Sprint #3, que inicia el 17 de octubre de 2024, se centrará en el diseño del front-end de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la aplicación web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
-En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cual el equipo se dedica a completar todas las tareas requeridas para alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
+Durante este sprint, nuestro equipo completó los aspectos finales del front-end y comenzó a establecer la estructura del back-end.
 
 ### 5.2.3.1. Sprint Planning 3
 
+| Sprint # | Date       | Time                | Location                                 | Preparing By                  | Attendees                                           |
+|----------|------------|---------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
+| 2        | 17/10/2024 | 18:00 horas (GMT-5) | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
 
-El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
+| Sprint 2 Goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sprint 2 Velocity | Sum of Story Points |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------|
+| Nuestro equipo logró avances significativos en el desarrollo del front-end y en la estructuración del back-end. Se estableció una arquitectura sólida, implementando distintos bounded contexts con sus respectivos aggregate roots, así como la división adecuada entre entidades y value objects. Esta organización permite una clara separación de responsabilidades y facilita la gestión de tareas dentro del proyecto.  Se aplicó parcialmente giel patrón CQRS (Command Query Responsibility Segregation) para separar las operaciones de lectura y escritura en el sistema. | 34| 34                  |
 
-| Sprint # | Date       | Time                     | Location                                 | Preparing By                  | Attendees                                           |
-|----------|------------|--------------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
-| 3        | 20/10/2024 | 17:00 horas (GMT-5)     | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
-
-| Sprint 3 Goal   | Sprint 3 Velocity              | Sum of Story Points |
-|-----------|-----------|-----------|
-| Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el back-end de la aplicación web para que sea funcional. | 26 | 26 |
 
 ### 5.2.3.2. Sprint Backlog 3
 
