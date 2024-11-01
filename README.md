@@ -753,13 +753,41 @@ Repositorio Web-Application-EcoMovil:
 ![Insights](./assets/perfil/insights-front-end.png) 
 
 ### 5.2.3. Sprint 3 
+
+
+En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cual el equipo se dedica a completar todas las tareas requeridas para alcanzar el objetivo del producto, conocido como "Product Goal" (Scrum Alliance, 2024).
+
 ### 5.2.3.1. Sprint Planning 3
+
+
+El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
+
+| Sprint # | Date       | Time                     | Location                                 | Preparing By                  | Attendees                                           |
+|----------|------------|--------------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
+| 3        | 20/10/2024 | 17:00 horas (GMT-5)     | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
+
+| Sprint 3 Goal   | Sprint 3 Velocity              | Sum of Story Points |
+|-----------|-----------|-----------|
+| Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el back-end de la aplicación web para que sea funcional. | 26 | 26 |
+
 ### 5.2.3.2. Sprint Backlog 3
 ### 5.2.3.3. Development Evidence for Sprint Review
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 ### 5.2.3.5. Execution Evidence for Sprint Review 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review 
+
+En este Sprint 3, el enfoque principal ha sido la creación del back-end de la aplicación, con todos sus componentes, servicios respectivos.
+A continuación se incluiran las imágenes de los endpoints generados durante este sprint.
+
+![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
+![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
+![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
+![bounded-context-post](/assets/perfil/post-bounded-context.png)
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
 
 ## 5.3. Validation Interviews 
