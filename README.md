@@ -773,6 +773,12 @@ El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 ### 5.2.3.2. Sprint Backlog 3
 ### 5.2.3.3. Development Evidence for Sprint Review
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
+
+| Repository                                    | Branch    | Commit Id      | Commit Message                              | Commit Message Body                   | Committed on (Date) |
+|-----------------------------------------------|-----------|----------------|---------------------------------------------|---------------------------------------|----------------------|
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests | Epic/Acceptance-Tests/epic-01 | c4eef98 | chore: uploaded acceptance test for user stories | | 1/11/2024 |
+
 ### 5.2.3.5. Execution Evidence for Sprint Review 
 
 En el sprint 3, se logró un avance parcial en el desarrollo del frontend y backend de la aplicación. Este progreso incluye nuevas vistas relevantes sobre el producto y la startup, además de su versión responsive. A continuación, se presentan algunas evidencias.
