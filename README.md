@@ -72,7 +72,6 @@
 | 2.4        | 1/11/2024         | Gallo   | Desarrollo del backend de perfil. Límite de contexto de autorización. Documentación de servicios. Evidencia de despliegue de software y revisión del Sprint. Información sobre colaboración en equipo durante el Sprint. |
 | 2.5        | 1/11/2024         | Hidalgo | Desarrollo del backend de perfil. Límite de contexto de perfil. Sprint Backlog 3. Evidencia de desarrollo para la revisión del Sprint. |
 
-
 # Project Report Collaboration Insights 
 
 URL del repositorio para el Project Report en la organización de GitHub del equipo: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Final-Project-Documentation-Report
@@ -144,7 +143,7 @@ Los gráficos siguientes muestran los análisis de commits en el repositorio del
 
 **TB2**
 
-Agregar imagen
+![insights](/assets/insights_tb2.png)
 
 # Contenido 
 ## Tabla de contenidos
