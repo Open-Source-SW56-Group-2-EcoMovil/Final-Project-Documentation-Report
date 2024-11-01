@@ -774,19 +774,55 @@ El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 ### 5.2.3.3. Development Evidence for Sprint Review
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 ### 5.2.3.5. Execution Evidence for Sprint Review 
+
+En el sprint 3, se logró un avance parcial en el desarrollo del frontend y backend de la aplicación. Este progreso incluye nuevas vistas relevantes sobre el producto y la startup, además de su versión responsive. A continuación, se presentan algunas evidencias.
+
+![page](./assets/perfil/Capture6.png)
+
+![page](./assets/perfil/Capture7.png)
+
+![page](./assets/perfil/Capture8.png)
+
+![page](./assets/perfil/Capture9.png)
+
+![page](./assets/perfil/Capture10.png)
+
+![page](./assets/perfil/Capture11.png)
+
+![page](./assets/perfil/Capture12.png)
+
+![page](./assets/perfil/Capture13.png)
+
+![page](./assets/perfil/Capture14.png)
+
+![page](./assets/perfil/Capture15.png)
+
+![page](./assets/perfil/Capture16.png)
+
+![page](./assets/perfil/Capture17.png)
+
+![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
+
+![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
+
+![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
+
+![bounded-context-post](/assets/perfil/post-bounded-context.png)
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review 
 
 En este Sprint 3, el enfoque principal ha sido la creación del back-end de la aplicación, con todos sus componentes, servicios respectivos.
 A continuación se incluiran las imágenes de los endpoints generados durante este sprint.
 
 ![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
+
 ![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
+
 ![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
+
 ![bounded-context-post](/assets/perfil/post-bounded-context.png)
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
-
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
 
