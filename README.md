@@ -771,6 +771,74 @@ El Sprint #3, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 | Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el back-end de la aplicación web para que sea funcional. | 26 | 26 |
 
 ### 5.2.3.2. Sprint Backlog 3
+
+En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del back-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
+
+![trello](./assets/perfil/sprin3.png)
+
+Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+      <th> US18 </th>
+     <th colspan="3"> Sección Botón “Elija un plan” </th>
+      <th> W05  </th>
+     <th> Button "Elija un plan" Section </th>
+     <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
+     <th> 1.2  </th>
+     <th> Beth </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US19</th>
+     <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
+      <th> W06  </th>
+     <th> Message "Pago exitoso" Section </th>
+     <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
+     <th> 0.8  </th>
+     <th> Erick </th> 
+     <th> Done </th>
+   </tr>
+    </tr>
+   <tr>
+      <th> US20</th>
+     <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
+      <th> W07  </th>
+     <th> Geolocation Section </th>
+     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
+     <th> 0.7  </th>
+     <th> David </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> US25 </th>
+     <th colspan="3"> Implementacion de API para busqueda geolocalizada de vehículos </th>
+      <th> W09  </th>
+     <th> API Geolocalitation  </th>
+     <th> agregar geolocalizacion para la ubicacion de los vehiculos al momento de su compra o venta  </th>
+     <th> 0.5 </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
+</table>
+
 ### 5.2.3.3. Development Evidence for Sprint Review
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
