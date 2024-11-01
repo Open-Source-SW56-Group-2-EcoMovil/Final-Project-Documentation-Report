@@ -802,7 +802,7 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
       <th> W05  </th>
      <th> Button "Elija un plan" Section </th>
      <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
-     <th> 1.2  </th>
+     <th> 2  </th>
      <th> Beth </th> 
      <th> Done </th>
    </tr>
@@ -812,7 +812,7 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
       <th> W06  </th>
      <th> Message "Pago exitoso" Section </th>
      <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
-     <th> 0.8  </th>
+     <th> 7  </th>
      <th> Erick </th> 
      <th> Done </th>
    </tr>
@@ -823,7 +823,7 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
       <th> W07  </th>
      <th> Geolocation Section </th>
      <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
-     <th> 0.7  </th>
+     <th> 5  </th>
      <th> David </th> 
      <th> Done </th>
    </tr>
@@ -833,13 +833,51 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
       <th> W09  </th>
      <th> API Geolocalitation  </th>
      <th> agregar geolocalizacion para la ubicacion de los vehiculos al momento de su compra o venta  </th>
-     <th> 0.5 </th>
+     <th> 3 </th>
      <th> Juan Calisaya </th> 
      <th> Done </th>
    </tr>
 </table>
 
-### 5.2.3.3. Development Evidence for Sprint Review
+### 5.2.2.3. Development Evidence for Sprint Review
+
+Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este tercer sprint. Dado que se acordó trabajar en los ajustes finales del backend de la aplicación web, se incluyen commits de varios repositorios en los que se realizaron dichas tareas.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Back-End-Ecomovil | main       | fd74c6a         | initial commit       | Beth Oneglio | Sep 19, 2024         | 
+| Back-End-Ecomovil | main       | aa5f5cc        | Delete REAME.md | Juan Calisaya | Oct 22, 2024    |
+| Back-End-Ecomovil | main       | 841182a         | fchore: initial commit |Juan Calisaya| Oct 30, 2024       |
+| Back-End-Ecomovil | main       | dc4a276   | feat(shared): add domain layer for shared bounded context         | Juan Calisaya| Oct 31, 2024                |
+| Back-End-Ecomovil | main       | 335568a             |  feat(shared): add domain layer for shared bounded context.                   | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | main       | adc5904              |    feat(shared): add interface layer for shared bounded context.| Juan Calisaya |      Oct 31, 2024 |
+| Back-End-Ecomovil | main       | 6a3dd36  |  Merge branch 'master'     | Juan Calisaya |  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context forum      | 7d4d26f  |   feat(forum): add forum bounded context  | Beth Oneglio |   Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context forum       | c68621d  |  feat(forum): add forum bounded context  | Beth Oneglio | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | 39f6ca1  |  feat: Model| Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | ad03479  |  feat: Model| Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | e622c26  |  feat: Patron CQRS | Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context plans       | ea9d328  |  feat:add Controller and Reposiotory | Erick Vasquez | Nov 1, 2024|
+| Back-End-Ecomovil | feature bounded context profile      | 6d9042d |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | e6313ba |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | db4d6a7 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | fe2a576 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 50ad053 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 643f56c |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 33692c7 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | bfbe237 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | d79a22f |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | 6623725 |   feat: Added profile bounded context and acquirer entity  | Mathias Hidalgo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context profile      | d5f4961 |   feat: fixed acquirer bounded context | David Gallo | Nov 1, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 61c4082  |   feat(domain): add CreateVehicleCommand to handle vehicle creation commands      | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | c8e42d9   |  feat(domain): add Vehicle entity to represent vehicle data in domain  | | Juan Calisaya |  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | fbb9fb2 |   feat(application): add VehicleCommandService to process vehicle commands | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 5cf45ae |feat(interfaces): add VehicleController for REST endpoints | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle       | a117207 | feat(application): add VehicleQueryService to handle vehicle queries | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle      | 7da53dc |   feat(infrastructure): add VehicleRepository for database operations  | Juan Calisaya|  Oct 31, 2024 |
+| Back-End-Ecomovil | feature bounded context vehicle     | 4ff53a1 |  ffix(vehicle): correct vehicle controller logic | Juan Calisaya|  Oct 31, 2024 |
+
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
 
