@@ -1327,9 +1327,9 @@ A continuación, se muestra el video "Video About-the-Product", que destaca el p
 
 ![product](./assets/perfil/image_the_product.png)
 
-Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=ExgdwvQ5qs4
+Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=Na3BHmdkkm0
 
-Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYWDdLyeWdhGjyG-xYpUDSQBRRFGJEghvsiOj3HGEIyqTQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=30BnZ4 
+Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ET7rrgNghS5NoT7rOt1_kJABDnptt1hQNpeiDSNtXfs94g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DW0IbK 
 
 ### Video About-the-Team
 
@@ -1390,6 +1390,6 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 | **Video del Product Backlog TP1**            | [Video de Introducción al TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K)                                   |
 | **My JSON Server**                           | [Servidor JSON - EcoMovil](https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil)                                                                                                          |
 | **Conexión del Landing Page con el Front-end** | [Landing Page y Front-end](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                           |
-| **Video About the Product**                  | https://www.youtube.com/watch?v=ExgdwvQ5qs4                                                                                                                                                                                                                    |
+| **Video About the Product**                  | https://www.youtube.com/watch?v=Na3BHmdkkm0                                                                                                                                                                                                                   |
 | **Video About the Team**                     |  https://www.youtube.com/watch?v=jpyDFOsOIDM                                                                                                                                                                                                                   |
 | **Deployment Back-End**                     |  https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/                                                                                                                                                                                                                 |
