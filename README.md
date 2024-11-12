@@ -413,7 +413,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>cuando</b> edito el archivo tailwind.config.js para incluir la paleta de colores y las fuentes personalizadas,
         <br>
         <b>entonces</b> La paleta de colores en tailwind.config.js debería reflejar los colores específicos de la marca.
-    <td>2</td>
+    <td>7</td>
 </tr>
 <tr>
     <td>US25</td>
@@ -429,7 +429,59 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> la API debe recibir la ubicación actual del usuario y devolver una lista de vehículos disponibles cercanos,
         <b>entonces</b> cada vehículo en la lista debe incluir información sobre la distancia desde la ubicación del usuario, la disponibilidad actual y los detalles relevantes del vehículo.
-    <td>2</td>
+    <td>7</td>
+</tr>
+<tr> 
+    <td>US26</td> 
+    <td>Buscar vehículos</td> 
+    <td>Como usuario, quiero buscar y filtrar vehículos disponibles, para encontrar el que mejor se adapta a mis necesidades.</td> 
+    <td> 
+        Escenario 1: Buscar un vehículo disponible por tipo <br><br> 
+        <b>Dado que</b> un usuario está en la página de búsqueda de vehículos y quiere encontrar un tipo específico de vehículo, <br> 
+        <b>cuando</b> el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles, <br> 
+        <b>entonces</b> se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado. 
+    </td>
+</tr>
+<tr> 
+    <td>US27</td> 
+    <td>Crear discusión</td> 
+    <td>Como usuario, quiero crear y participar en discusiones, para compartir y obtener información.</td> 
+    <td> 
+        Escenario 1: Crear una nueva discusión <br><br> 
+        <b>Dado que</b> un usuario ha iniciado sesión y se encuentra en la sección de discusiones del foro, <br> 
+        <b>cuando</b> el usuario selecciona la opción para crear una nueva discusión, ingresa un título y un mensaje inicial, y presiona el botón "Publicar", <br> 
+        <b>entonces</b> se crea una nueva discusión visible para otros usuarios del foro, <br> 
+        <b>y entonces</b> otros usuarios pueden visualizar la discusión y agregar respuestas. 
+    </td>
+</tr>
+
+<tr>
+    <td>US28</td>
+    <td>Actualizar perfil</td>
+    <td>Como usuario, quiero actualizar mi perfil, para que mi información esté siempre correcta.</td>
+    <td>
+        Escenario 1: Actualizar la información personal del perfil
+        <br><br>
+        <b>Dado que</b> un usuario ha iniciado sesión y accede a la página de su perfil,
+        <br>
+        <b>cuando</b> el usuario modifica su información personal (como nombre, correo electrónico o número de teléfono) y guarda los cambios,
+        <br>
+        <b>entonces</b> la información actualizada se almacena correctamente en el sistema,
+        <br>
+        <b>y entonces</b> el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.
+    </td>
+</tr>
+<tr> 
+    <td>US29</td> 
+    <td>Notificación de pago</td> 
+    <td>Como usuario, quiero recibir notificaciones de pago exitoso, para asegurarme de que todo está correcto.</td> 
+    <td> 
+        Escenario 1: Recibir notificación de pago exitoso <br><br> 
+        <b>Dado que</b> un usuario ha realizado un pago para alquilar o comprar un vehículo en la plataforma, <br> 
+        <b>cuando</b> el sistema procesa el pago y la transacción es exitosa, <br> 
+        <b>entonces</b> el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito, <br> 
+        <b>y entonces</b> el usuario recibe un correo electrónico de confirmación con los detalles de la transacción. 
+    </td>
 </tr>
  </tbody>
 </table>
