@@ -864,7 +864,7 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+        <td> El Sprint 2 fue satisfactorio. Como mejora, haremos el merge anticipadamente y mantendremos una comunicación más constante con el líder para evitar conflictos en el desarrollo del frontend y informe.<td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
