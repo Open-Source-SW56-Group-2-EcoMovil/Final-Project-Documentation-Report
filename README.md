@@ -894,155 +894,140 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 
 Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <th colspan="4">Sprint #</th>
-    <th colspan="7">Sprint 3</th>
-  </tr>
-  <tr>
-    <th colspan="4">User Story</th>
-    <th colspan="7">Work-Item / Task</th>
-  </tr>
-  <tr>
-    <th>Id</th>
-    <th colspan="3">Title</th>
-    <th>Id</th>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Estimation (Hours)</th>
-    <th>Assigned To</th>
-    <th>Status (To-do / In-Process / To-Review / Done)</th>
-  </tr>
-  
-  <!-- Task 1 -->
-  <tr>
-    <td>US18</td>
-    <td>Sección Botón “Elija un plan”</td>
-    <td>Como usuario, quiero tener un botón que me permita elegir un plan de suscripción, para poder registrar mis vehículos menores y alquilarlos a otros usuarios.</td>
-    <td>Escenario 1: <br>Dado que el usuario está en la sección de planes de suscripción, <br> cuando el usuario hace clic en el botón “Elija un plan”, <br> entonces el sistema debe redirigirlo a la página de registro de vehículos, para que el usuario pueda registrar sus vehículos y comenzar a alquilarlos.</td>
-    <td> W17 </td>
-    <td>Plan Bounded Context</td>
-    <td>La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos.</td>
-    <td>6</td>
-    <td>Beth Oneglio</td>
-    <td>Done</td>
-  </tr>
-
-  <!-- Task 2 -->
-  <tr>
-    <td>US19</td>
-    <td>Payment Bounded Context</td>
-    <td>Como usuario, quiero ver un mensaje de “Pago exitoso” después de completar mi transacción, para confirmar que mi pago se realizó correctamente y continuar con el proceso de alquiler de vehículos.</td>
-    <td>Escenario 1: <br>Dado que el usuario ha completado el proceso de pago, <br> cuando el sistema procesa el pago y lo aprueba, <br> entonces el sistema debe mostrar un mensaje “Pago exitoso” para confirmar que el pago fue exitoso y permitir al usuario continuar con el alquiler o compra.</td>
-    <td>W18</td>
-    <td>Mensaje Sección "Pago exitoso"</td>
-    <td>Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente.</td>
-    <td>5</td>
-    <td>Erick Vásquez</td>
-    <td>Done</td>
-  </tr>
-
-  <!-- Task 3 -->
-  <tr>
-    <td>US20</td>
-    <td>Botón de agregar vehículos en el menú</td>
-    <td>Como universitario quiero publicar mis vehículos para rentarlos y/o venderlos.</td>
-    <td>Escenario 1: Agregar vehículos a través del menú en EcoMovil<br>Dado que el usuario está autenticado y se encuentra en el menú principal de EcoMovil,
-cuando el usuario selecciona la opción "Agregar" en el menú,
-cuando el usuario completa el formulario de agregar vehículo con la información requerida (como tipo, descripción, fotos, precio),
-cuando hace clic en el botón "Publicar Vehículo",
-entonces el vehículo debería ser añadido a su lista de vehículos disponibles para alquiler o venta,
-entonces el usuario debería recibir una confirmación de que el vehículo se ha publicado exitosamente.</td>
-    <td>W19</td>
-    <td>Public Bounded Context</td>
-    <td>Agregar funcionalidad para permitir que los usuarios publiquen vehículos con la información relevante y obtengan confirmación de que la publicación fue exitosa.</td>
-    <td>4</td>
-    <td>David Gallo</td>
-    <td>Done</td>
-  </tr>
-
-  <!-- Task 4 -->
-  <tr>
-    <td>US25</td>
-    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
-    <td>Como equipo de desarrollo, quiero implementar una API que permita la búsqueda geolocalizada de vehículos, para facilitar la consulta de disponibilidad en tiempo real.</td>
-    <td>Escenario 1: Implementación de API para Búsqueda Geolocalizada de Vehículos<br><br> Dado que el equipo de desarrollo ha configurado la infraestructura para la API y ha definido los endpoints necesarios para la búsqueda de vehículos,
-cuando un usuario realiza una solicitud de búsqueda geolocalizada a través de la aplicación,
-entonces la API debe recibir la ubicación actual del usuario y devolver una lista de vehículos disponibles cercanos, entonces cada vehículo en la lista debe incluir información sobre la distancia desde la ubicación del usuario, la disponibilidad actual y los detalles relevantes del vehículo.</td>
-    <td>W20</td>
-    <td>API Geolocation Bounded Context</td>
-    <td>Desarrollar y probar la API que permita buscar vehículos cercanos según la ubicación del usuario.</td>
-    <td>7</td>
-    <td>Juan Calisaya</td>
-    <td>Done</td>
-  </tr>
-
-  <!-- Task 5 -->
-  <tr>
-    <td>US26</td>
-    <td>Buscar vehículos</td>
-    <td>Como usuario, quiero buscar y filtrar vehículos disponibles, para encontrar el que mejor se adapta a mis necesidades.</td>
-    <td>Escenario 1: Buscar un vehículo disponible por tipo <br>Dado que un usuario está en la página de búsqueda de vehículos y quiere encontrar un tipo específico de vehículo,
-cuando el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles,
-entonces se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado.</td>
-    <td>W21</td>
-    <td>Vehicles Bounded Context</td>
-    <td>Desarrollar la funcionalidad para permitir a los usuarios buscar vehículos por tipo.</td>
-    <td>4</td>
-    <td>Beth Oneglio</td>
-    <td>In Process</td>
-  </tr>
-
-  <!-- Task 6 -->
-  <tr>
-    <td>US27</td>
-    <td>Crear discusión</td>
-    <td>Como usuario, quiero crear y participar en discusiones, para compartir y obtener información.</td>
-    <td>Escenario 1: Crear una nueva discusión <br>Dado que un usuario ha iniciado sesión y se encuentra en la sección de discusiones del foro,
-cuando el usuario selecciona la opción para crear una nueva discusión, ingresa un título y un mensaje inicial, y presiona el botón "Publicar",
-entonces se crea una nueva discusión visible para otros usuarios del foro,
-y entonces otros usuarios pueden visualizar la discusión y agregar respuestas.</td>
-    <td>W22</td>
-    <td>Forum Bounded Context</td>
-    <td>Implementar la funcionalidad para crear discusiones dentro del foro de la aplicación.</td>
-    <td>6</td>
-    <td>Erick Vásquez</td>
-    <td>In Process</td>
-  </tr>
-
-  <!-- Task 7 -->
-  <tr>
-    <td>US28</td>
-    <td>Actualizar perfil</td>
-    <td>Como usuario, quiero actualizar mi perfil, para que mi información esté siempre correcta.</td>
-    <td>Escenario 1: Actualizar la información personal del perfil <br>Dado que un usuario ha iniciado sesión y accede a la página de su perfil,
-cuando el usuario modifica su información personal (como nombre, correo electrónico o número de teléfono) y guarda los cambios,
-entonces la información actualizada se almacena correctamente en el sistema,
-y entonces el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.</td>
-    <td>W23</td>
-    <td>User Bounded Context</td>
-    <td>Permitir a los usuarios actualizar su perfil y confirmar que la operación fue exitosa.</td>
-    <td>5</td>
-    <td>David Gallo</td>
-    <td>In Process</td>
-  </tr>
-
-  <!-- Task 8 -->
-  <tr>
-    <td>US29</td>
-    <td>Notificación de pago</td>
-    <td>Como usuario, quiero recibir notificaciones de pago exitoso, para asegurarme de que todo está correcto.</td>
-    <td>Escenario 1: Recibir notificación de pago exitoso <br>Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo en la aplicación,
-cuando el sistema procesa el pago y la transacción es exitosa,
-entonces el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito,
-y entonces el usuario recibe un correo electrónico de confirmación con los detalles de la transacción.</td>
-    <td>W24</td>
-    <td>Notification Bounded Context</td>
-    <td>Enviar una notificación de pago exitoso a los usuarios después de que realicen una transacción.</td>
-    <td>4</td>
-    <td>Juan Calisaya</td>
-    <td>Done</td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th colspan="4">Sprint #</th>
+<th colspan="7">Sprint 3</th>
+</tr>
+<tr>
+<th colspan="4">User Story</th>
+<th colspan="7">Work-Item / Task</th>
+</tr>
+<tr>
+<th>Id</th>
+<th>Title</th>
+<th colspan="2">&nbsp;</th>
+<th>Id</th>
+<th>Title</th>
+<th>Description</th>
+<th>Estimation (Hours)</th>
+<th>Assigned To</th>
+<th>Status (To-do / In-Process / To-Review / Done)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>US18</td>
+<td>Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
+<td colspan="2">&nbsp;</td>
+<td>W17-1</td>
+<td>Configurar redirecci&oacute;n en bot&oacute;n "Elija un plan"</td>
+<td>Configurar redireccionamiento del bot&oacute;n para abrir detalles de pago.</td>
+<td>4</td>
+<td>Erick V&aacute;squez</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US18</td>
+<td>Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
+<td colspan="2">&nbsp;</td>
+<td>W17-2</td>
+<td>Dise&ntilde;o b&aacute;sico del bot&oacute;n "Elija un plan"</td>
+<td>Agregar dise&ntilde;o b&aacute;sico al bot&oacute;n para mejorar visibilidad.</td>
+<td>4</td>
+<td>Erick V&aacute;squez</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US20</td>
+<td>Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
+<td colspan="2">&nbsp;</td>
+<td>W19-1</td>
+<td>Activar bot&oacute;n para publicar veh&iacute;culos</td>
+<td>Habilitar bot&oacute;n para permitir que usuarios publiquen veh&iacute;culos.</td>
+<td>4</td>
+<td>Juan Calisaya</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US20</td>
+<td>Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
+<td colspan="2">&nbsp;</td>
+<td>W19-2</td>
+<td>Validaci&oacute;n de datos para publicar veh&iacute;culo</td>
+<td>Validaci&oacute;n b&aacute;sica de datos en el formulario de publicaci&oacute;n.</td>
+<td>6</td>
+<td>Juan Calisaya</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US26</td>
+<td>B&uacute;squeda de veh&iacute;culos</td>
+<td colspan="2">&nbsp;</td>
+<td>W21-1</td>
+<td>Filtrar veh&iacute;culos por tipo</td>
+<td>Habilitar filtro b&aacute;sico por tipo de veh&iacute;culo.</td>
+<td>4</td>
+<td>Mathias Hidalgo</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US26</td>
+<td>B&uacute;squeda de veh&iacute;culos</td>
+<td colspan="2">&nbsp;</td>
+<td>W21-2</td>
+<td>Filtrar veh&iacute;culos por ubicaci&oacute;n</td>
+<td>Habilitar filtro adicional para buscar veh&iacute;culos por ubicaci&oacute;n.</td>
+<td>5</td>
+<td>Mathias Hidalgo</td>
+<td>To-do</td>
+</tr>
+<tr>
+<td>US27</td>
+<td>Crear discusi&oacute;n en el foro</td>
+<td colspan="2">&nbsp;</td>
+<td>W22-1</td>
+<td>Permitir creaci&oacute;n de discusiones en foro</td>
+<td>Permitir a los usuarios iniciar una discusi&oacute;n en el foro.</td>
+<td>6</td>
+<td>Beth Oneglio</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US27</td>
+<td>Crear discusi&oacute;n en el foro</td>
+<td colspan="2">&nbsp;</td>
+<td>W22-2</td>
+<td>Notificar al usuario sobre respuestas en el foro</td>
+<td>Implementar notificaciones para alertar al usuario sobre respuestas a sus discusiones en el foro.</td>
+<td>5</td>
+<td>Beth Oneglio</td>
+<td>To-do</td>
+</tr>
+<tr>
+<td>US28</td>
+<td>Actualizar perfil</td>
+<td colspan="2">&nbsp;</td>
+<td>W23-1</td>
+<td>Formulario para actualizaci&oacute;n de perfil</td>
+<td>Habilitar formulario para actualizaci&oacute;n de datos del perfil.</td>
+<td>5</td>
+<td>David Gallo</td>
+<td>Done</td>
+</tr>
+<tr>
+<td>US28</td>
+<td>Actualizar perfil</td>
+<td colspan="2">&nbsp;</td>
+<td>W23-2</td>
+<td>Validaci&oacute;n de campos en perfil de usuario</td>
+<td>A&ntilde;adir validaci&oacute;n de campos b&aacute;sicos en perfil.</td>
+<td>4</td>
+<td>David Gallo</td>
+<td>Done</td>
+</tr>
+</tbody>
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review
