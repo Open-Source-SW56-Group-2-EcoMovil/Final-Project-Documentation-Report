@@ -954,51 +954,51 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
     <th> Done </th>
   </tr>
   <tr>
-    <td>US26</td>
-    <td>Buscar vehículos</td>
-    <td>Como usuario, quiero buscar y filtrar vehículos disponibles, para encontrar el que mejor se adapta a mis necesidades.</td>
-    <td>Escenario 1: Buscar un vehículo disponible por tipo <br><br> Dado que un usuario está en la página de búsqueda de vehículos y quiere encontrar un tipo específico de vehículo, <br> cuando el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles, <br> entonces se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado.</td>
-    <td> W10 </td>
-    <td> Buscar vehículos por tipo </td>
-    <td> La implementación de la búsqueda de vehículos por tipo ayuda a los usuarios a filtrar y encontrar el vehículo que mejor se adapta a sus necesidades. </td>
-    <td> 5 </td>
-    <td> Juan Calisaya </td>
-    <td> To-do </td>
-  </tr>
-  <tr>
-    <td>US27</td>
-    <td>Crear discusión</td>
-    <td>Como usuario, quiero crear y participar en discusiones, para compartir y obtener información.</td>
-    <td>Escenario 1: Crear una nueva discusión <br><br> Dado que un usuario ha iniciado sesión y se encuentra en la sección de discusiones del foro, <br> cuando el usuario selecciona la opción para crear una nueva discusión, ingresa un título y un mensaje inicial, y presiona el botón "Publicar", <br> entonces se crea una nueva discusión visible para otros usuarios del foro, <br> y entonces otros usuarios pueden visualizar la discusión y agregar respuestas.</td>
-    <td> W11 </td>
-    <td> Crear discusión </td>
-    <td> Implementar la capacidad de crear discusiones permitirá a los usuarios participar en el foro y obtener información útil de otros usuarios. </td>
+    <td>US18</td>
+    <td>Sección Botón “Elija un plan”</td>
+    <td>Como usuario, quiero ver el botón “Elija un plan” para poder elegir una suscripción y registrar vehículos menores.</td>
+    <td>Escenario 1: Visualización del botón “Elija un plan” <br><br> Dado que el usuario ha iniciado sesión y está en la página principal de la plataforma, <br> cuando el usuario ve el botón “Elija un plan” y hace clic en él, <br> entonces se le redirige a la página para elegir su plan de suscripción y registrar sus vehículos. </td>
+    <td> W05 </td>
+    <td> Button "Elija un plan" Section </td>
+    <td> La implementación del botón permitirá a los usuarios seleccionar su plan de suscripción y registrar sus vehículos para ser alquilados. </td>
     <td> 6 </td>
     <td> Beth Oneglio</td>
     <td> To-do </td>
   </tr>
   <tr>
-    <td>US28</td>
-    <td>Actualizar perfil</td>
-    <td>Como usuario, quiero actualizar mi perfil, para que mi información esté siempre correcta.</td>
-    <td>Escenario 1: Actualizar la información personal del perfil <br><br> Dado que un usuario ha iniciado sesión y accede a la página de su perfil, <br> cuando el usuario modifica su información personal (como nombre, correo electrónico o número de teléfono) y guarda los cambios, <br> entonces la información actualizada se almacena correctamente en el sistema, <br> y entonces el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.</td>
-    <td> W12 </td>
-    <td> Actualizar perfil </td>
-    <td> Permitir que los usuarios actualicen su perfil les asegura mantener la información correcta y actualizada en la plataforma. </td>
+    <td>US19</td>
+    <td>Sección Mensaje de “Pago exitoso”</td>
+    <td>Como usuario, quiero recibir un mensaje de “Pago exitoso” para confirmar que mi pago ha sido procesado correctamente.</td>
+    <td>Escenario 1: Mostrar mensaje de “Pago exitoso” <br><br> Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo, <br> cuando el pago es procesado y confirmado con éxito, <br> entonces se muestra un mensaje que indica que el pago fue exitoso y el alquiler o compra fue procesado.</td>
+    <td> W06 </td>
+    <td> Message "Pago exitoso" Section </td>
+    <td> Mostrar un mensaje de pago exitoso ayudará a los usuarios a confirmar que su transacción fue correcta y permitirá un proceso de compra o alquiler más claro. </td>
     <td> 5 </td>
-    <td> David Gallo </td>
+    <td> Erick Vásquez</td>
     <td> To-do </td>
   </tr>
   <tr>
-    <td>US29</td>
-    <td>Notificación de pago</td>
-    <td>Como usuario, quiero recibir notificaciones de pago exitoso, para asegurarme de que todo está correcto.</td>
-    <td>Escenario 1: Recibir notificación de pago exitoso <br><br> Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo en la plataforma, <br> cuando el sistema procesa el pago y la transacción es exitosa, <br> entonces el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito, <br> y entonces el usuario recibe un correo electrónico de confirmación con los detalles de la transacción.</td>
-    <td> W13 </td>
-    <td> Notificación de pago </td>
-    <td> Implementar notificaciones de pago exitoso garantiza que los usuarios sean informados correctamente sobre el estado de sus transacciones. </td>
-    <td> 4 </td>
-    <td> Erick Vásquez</td>
+    <td>US20</td>
+    <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+    <td>Como usuario, quiero buscar vehículos cercanos a mi ubicación para poder alquilar el vehículo más cercano.</td>
+    <td>Escenario 1: Buscar vehículos cercanos por geolocalización <br><br> Dado que un usuario ha iniciado sesión y está en la página de búsqueda de vehículos, <br> cuando el usuario activa la geolocalización en su dispositivo y aplica los filtros de búsqueda, <br> entonces el sistema muestra los vehículos cercanos disponibles en su área, utilizando la información de ubicación en tiempo real.</td>
+    <td> W07 </td>
+    <td> Geolocation Section </td>
+    <td> La implementación de la API de búsqueda geolocalizada permitirá que los usuarios encuentren vehículos más cercanos y eficientes para alquilar. </td>
+    <td> 7 </td>
+    <td> David Gallo</td>
+    <td> To-do </td>
+  </tr>
+  <tr>
+    <td>US25</td>
+    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
+    <td>Como usuario, quiero poder ver la ubicación exacta de los vehículos disponibles para comprar o alquilar.</td>
+    <td>Escenario 1: Visualizar vehículos en un mapa <br><br> Dado que el usuario está en la página de búsqueda de vehículos y tiene activada la geolocalización, <br> cuando el sistema muestra la ubicación de los vehículos en un mapa interactivo, <br> entonces el usuario puede ver claramente las ubicaciones de los vehículos y decidir cuál desea alquilar o comprar.</td>
+    <td> W09 </td>
+    <td> API Geolocalitation </td>
+    <td> La API de geolocalización para mostrar vehículos ayudará a los usuarios a visualizar los vehículos disponibles más cercanos a su ubicación. </td>
+    <td> 7 </td>
+    <td> Juan Calisaya </td>
     <td> To-do </td>
   </tr>
 </table>
