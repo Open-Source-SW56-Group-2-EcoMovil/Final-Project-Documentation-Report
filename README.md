@@ -492,13 +492,72 @@ En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cua
 
 El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
-| Sprint # | Date       | Time                     | Location                                 | Preparing By                  | Attendees                                           |
-|----------|------------|--------------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
-| 2        | 12/09/2024 | 17:00 horas (GMT-5)     | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  19/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Oneglio De Paz, Beth Shantal <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Calisaya Sánchez, Juan Jesús
+            <br>
+             Gallo Quintana, David Ivanoff
+            <br>
+            Hidalgo Lopez, Mathias Adriano
+            <br>
+             Oneglio De Paz, Beth Shantal
+            <br>
+            Vasquez Goicochea, Erick Alessander
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el front-end de la aplicación web para que sea tanto atractiva como funcional. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  26  <td
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 26 <td>
+      </tr>
 
-| Sprint 2 Goal   | Sprint 2 Velocity              | Sum of Story Points |
-|-----------|-----------|-----------|
-| Detectamos algunas áreas que pueden optimizarse en las funcionalidades existentes y también planeamos incorporar la funcionalidad de i18n en la landing page. Además, desarrollaremos el front-end de la aplicación web para que sea tanto atractiva como funcional. | 26 | 26 |
+
+  </table>
+
 
 ### 5.2.2.2. Sprint Backlog 2
 
@@ -760,14 +819,72 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
 
 ### 5.2.3.1. Sprint Planning 3
 
-| Sprint # | Date       | Time                | Location                                 | Preparing By                  | Attendees                                           |
-|----------|------------|---------------------|------------------------------------------|-------------------------------|-----------------------------------------------------|
-| 3       | 17/10/2024 | 18:00 horas (GMT-5) | Modalidad remota a través de Discord    | Oneglio De Paz, Beth Shantal  | Juan Calisaya, David Gallo, Mathias Hidalgo, Beth Oneglio, Erick Vasquez |
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  28/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Oneglio De Paz, Beth Shantal <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Calisaya Sánchez, Juan Jesús
+            <br>
+             Gallo Quintana, David Ivanoff
+            <br>
+            Hidalgo Lopez, Mathias Adriano
+            <br>
+             Oneglio De Paz, Beth Shantal
+            <br>
+            Vasquez Goicochea, Erick Alessander
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> Dado que este es nuestro primer sprint de desarrollo, aún no hemos identificado planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td>  Nuestro equipo logró avances significativos en el desarrollo del front-end y en la estructuración del back-end. Se estableció una arquitectura sólida, implementando distintos bounded contexts con sus respectivos aggregate roots, así como la división adecuada entre entidades y value objects. Esta organización permite una clara separación de responsabilidades y facilita la gestión de tareas dentro del proyecto.  Se aplicó parcialmente giel patrón CQRS (Command Query Responsibility Segregation) para separar las operaciones de lectura y escritura en el sistema. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td>  34  <td
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 34 <td>
+      </tr>
 
-| Sprint 3 Goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Sprint 3 Velocity | Sum of Story Points |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---------------------|
-| Nuestro equipo logró avances significativos en el desarrollo del front-end y en la estructuración del back-end. Se estableció una arquitectura sólida, implementando distintos bounded contexts con sus respectivos aggregate roots, así como la división adecuada entre entidades y value objects. Esta organización permite una clara separación de responsabilidades y facilita la gestión de tareas dentro del proyecto.  Se aplicó parcialmente giel patrón CQRS (Command Query Responsibility Segregation) para separar las operaciones de lectura y escritura en el sistema. | 34| 34                  |
 
+  </table>
+  
 
 ### 5.2.3.2. Sprint Backlog 3
 
