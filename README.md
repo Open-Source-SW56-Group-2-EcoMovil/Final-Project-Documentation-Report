@@ -890,10 +890,6 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
 
 En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del back-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-![trello](./assets/perfil/sprin3.png)
-
-Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
-
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr>
@@ -1029,6 +1025,10 @@ Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
 </tr>
 </tbody>
 </table>
+
+![Trello](./assets/perfil/sprint_backlog_3.png)
+
+Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
