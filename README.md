@@ -920,8 +920,8 @@ Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
     <td>Sección Botón “Elija un plan”</td>
     <td>Como usuario, quiero tener un botón que me permita elegir un plan de suscripción, para poder registrar mis vehículos menores y alquilarlos a otros usuarios.</td>
     <td>Escenario 1: <br>Dado que el usuario está en la sección de planes de suscripción, <br> cuando el usuario hace clic en el botón “Elija un plan”, <br> entonces el sistema debe redirigirlo a la página de registro de vehículos, para que el usuario pueda registrar sus vehículos y comenzar a alquilarlos.</td>
-    <td>W05</td>
-    <td>Botón Sección "Elija un plan"</td>
+    <td> W17 </td>
+    <td>Plan Bounded Context</td>
     <td>La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos.</td>
     <td>6</td>
     <td>Beth Oneglio</td>
@@ -931,10 +931,10 @@ Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
   <!-- Task 2 -->
   <tr>
     <td>US19</td>
-    <td>Sección Mensaje de “Pago exitoso”</td>
+    <td>Payment Bounded Context</td>
     <td>Como usuario, quiero ver un mensaje de “Pago exitoso” después de completar mi transacción, para confirmar que mi pago se realizó correctamente y continuar con el proceso de alquiler de vehículos.</td>
     <td>Escenario 1: <br>Dado que el usuario ha completado el proceso de pago, <br> cuando el sistema procesa el pago y lo aprueba, <br> entonces el sistema debe mostrar un mensaje “Pago exitoso” para confirmar que el pago fue exitoso y permitir al usuario continuar con el alquiler o compra.</td>
-    <td>W06</td>
+    <td>W18</td>
     <td>Mensaje Sección "Pago exitoso"</td>
     <td>Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente.</td>
     <td>5</td>
@@ -953,8 +953,8 @@ cuando el usuario completa el formulario de agregar vehículo con la informació
 cuando hace clic en el botón "Publicar Vehículo",
 entonces el vehículo debería ser añadido a su lista de vehículos disponibles para alquiler o venta,
 entonces el usuario debería recibir una confirmación de que el vehículo se ha publicado exitosamente.</td>
-    <td>W07</td>
-    <td>Botón "Publicar Vehículo"</td>
+    <td>W19</td>
+    <td>Public Bounded Context</td>
     <td>Agregar funcionalidad para permitir que los usuarios publiquen vehículos con la información relevante y obtengan confirmación de que la publicación fue exitosa.</td>
     <td>4</td>
     <td>David Gallo</td>
@@ -969,8 +969,8 @@ entonces el usuario debería recibir una confirmación de que el vehículo se ha
     <td>Escenario 1: Implementación de API para Búsqueda Geolocalizada de Vehículos<br><br> Dado que el equipo de desarrollo ha configurado la infraestructura para la API y ha definido los endpoints necesarios para la búsqueda de vehículos,
 cuando un usuario realiza una solicitud de búsqueda geolocalizada a través de la aplicación,
 entonces la API debe recibir la ubicación actual del usuario y devolver una lista de vehículos disponibles cercanos, entonces cada vehículo en la lista debe incluir información sobre la distancia desde la ubicación del usuario, la disponibilidad actual y los detalles relevantes del vehículo.</td>
-    <td>W09</td>
-    <td>API Geolocalización Vehículos</td>
+    <td>W20</td>
+    <td>API Geolocation Bounded Context</td>
     <td>Desarrollar y probar la API que permita buscar vehículos cercanos según la ubicación del usuario.</td>
     <td>7</td>
     <td>Juan Calisaya</td>
@@ -985,8 +985,8 @@ entonces la API debe recibir la ubicación actual del usuario y devolver una lis
     <td>Escenario 1: Buscar un vehículo disponible por tipo <br>Dado que un usuario está en la página de búsqueda de vehículos y quiere encontrar un tipo específico de vehículo,
 cuando el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles,
 entonces se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado.</td>
-    <td>W05</td>
-    <td>Buscar Vehículos</td>
+    <td>W21</td>
+    <td>Vehicles Bounded Context</td>
     <td>Desarrollar la funcionalidad para permitir a los usuarios buscar vehículos por tipo.</td>
     <td>4</td>
     <td>Beth Oneglio</td>
@@ -1002,8 +1002,8 @@ entonces se muestran todos los vehículos disponibles que coinciden con el tipo 
 cuando el usuario selecciona la opción para crear una nueva discusión, ingresa un título y un mensaje inicial, y presiona el botón "Publicar",
 entonces se crea una nueva discusión visible para otros usuarios del foro,
 y entonces otros usuarios pueden visualizar la discusión y agregar respuestas.</td>
-    <td>W06</td>
-    <td>Foro de Discusión</td>
+    <td>W22</td>
+    <td>Forum Bounded Context</td>
     <td>Implementar la funcionalidad para crear discusiones dentro del foro de la aplicación.</td>
     <td>6</td>
     <td>Erick Vásquez</td>
@@ -1019,8 +1019,8 @@ y entonces otros usuarios pueden visualizar la discusión y agregar respuestas.<
 cuando el usuario modifica su información personal (como nombre, correo electrónico o número de teléfono) y guarda los cambios,
 entonces la información actualizada se almacena correctamente en el sistema,
 y entonces el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.</td>
-    <td>W07</td>
-    <td>Actualizar Perfil</td>
+    <td>W23</td>
+    <td>User Bounded Context</td>
     <td>Permitir a los usuarios actualizar su perfil y confirmar que la operación fue exitosa.</td>
     <td>5</td>
     <td>David Gallo</td>
@@ -1036,8 +1036,8 @@ y entonces el usuario ve un mensaje de confirmación indicando que el perfil ha 
 cuando el sistema procesa el pago y la transacción es exitosa,
 entonces el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito,
 y entonces el usuario recibe un correo electrónico de confirmación con los detalles de la transacción.</td>
-    <td>W09</td>
-    <td>Notificación de Pago</td>
+    <td>W24</td>
+    <td>Notification Bounded Context</td>
     <td>Enviar una notificación de pago exitoso a los usuarios después de que realicen una transacción.</td>
     <td>4</td>
     <td>Juan Calisaya</td>
