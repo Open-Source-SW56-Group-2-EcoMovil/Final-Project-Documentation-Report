@@ -894,65 +894,133 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
-<table style="width:400px; height:100px;">
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <th colspan="4"> Sprint # </th>
-    <th colspan="7"> Sprint 3 </th>
+    <th colspan="4">Sprint #</th>
+    <th colspan="7">Sprint 3</th>
   </tr>
   <tr>
-    <th colspan="4"> User Story </th>
-    <th colspan="7"> Work-Item / Task</th>
+    <th colspan="4">User Story</th>
+    <th colspan="7">Work-Item / Task</th>
   </tr>
   <tr>
-    <th> Id </th>
-    <th colspan="3"> Title </th>
-    <th> Id </th>
-    <th> Title </th>
-    <th> Description </th>
-    <th> Estimation (Hours) </th>
-    <th> Assigned To </th>
-    <th> Status (To-do / In-Process / To-Review / Done) </th>
+    <th>Id</th>
+    <th colspan="3">Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
   </tr>
+  
+  <!-- Task 1 -->
   <tr>
-    <th> US18 </th>
-    <th colspan="3"> Sección Botón “Elija un plan” </th>
-    <th> W05 </th>
-    <th> Button "Elija un plan" Section </th>
-    <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
-    <th> 6 </th>
-    <th> Beth Oneglio</th>
-    <th> Done </th>
+    <td>US18</td>
+    <td>Sección Botón “Elija un plan”</td>
+    <td>Como usuario, quiero tener un botón que me permita elegir un plan de suscripción, para poder registrar mis vehículos menores y alquilarlos a otros usuarios.</td>
+    <td>Escenario 1: <br>Dado que el usuario está en la sección de planes de suscripción, <br> cuando el usuario hace clic en el botón “Elija un plan”, <br> entonces el sistema debe redirigirlo a la página de registro de vehículos, para que el usuario pueda registrar sus vehículos y comenzar a alquilarlos.</td>
+    <td>W05</td>
+    <td>Botón Sección "Elija un plan"</td>
+    <td>La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos.</td>
+    <td>6</td>
+    <td>Beth Oneglio</td>
+    <td>Done</td>
   </tr>
+
+  <!-- Task 2 -->
   <tr>
-    <th> US19 </th>
-    <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
-    <th> W06 </th>
-    <th> Message "Pago exitoso" Section </th>
-    <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
-    <th> 5 </th>
-    <th> Erick Vásquez</th>
-    <th> Done </th>
+    <td>US19</td>
+    <td>Sección Mensaje de “Pago exitoso”</td>
+    <td>Como usuario, quiero ver un mensaje de “Pago exitoso” después de completar mi transacción, para confirmar que mi pago se realizó correctamente y continuar con el proceso de alquiler de vehículos.</td>
+    <td>Escenario 1: <br>Dado que el usuario ha completado el proceso de pago, <br> cuando el sistema procesa el pago y lo aprueba, <br> entonces el sistema debe mostrar un mensaje “Pago exitoso” para confirmar que el pago fue exitoso y permitir al usuario continuar con el alquiler o compra.</td>
+    <td>W06</td>
+    <td>Mensaje Sección "Pago exitoso"</td>
+    <td>Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente.</td>
+    <td>5</td>
+    <td>Erick Vásquez</td>
+    <td>Done</td>
   </tr>
+
+  <!-- Task 3 -->
   <tr>
-    <th> US20 </th>
-    <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos </th>
-    <th> W07 </th>
-    <th> Geolocation Section </th>
-    <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
-    <th> 7 </th>
-    <th> David Gallo</th>
-    <th> Done </th>
+    <td>US20</td>
+    <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+    <td>Como usuario, quiero poder ver la ubicación geolocalizada de los vehículos disponibles para alquiler, para saber en qué punto se encuentran y decidir cuál alquilar según su cercanía.</td>
+    <td>Escenario 1: <br>Dado que el usuario está buscando vehículos para alquilar, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar en un mapa los vehículos disponibles en las cercanías, para que el usuario pueda elegir el más cercano.</td>
+    <td>W07</td>
+    <td>Sección de geolocalización</td>
+    <td>Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados, mejorando la experiencia de selección al encontrar vehículos cercanos.</td>
+    <td>7</td>
+    <td>David Gallo</td>
+    <td>Done</td>
   </tr>
+
+  <!-- Task 4 -->
   <tr>
-    <th> US25 </th>
-    <th colspan="3"> Implementación de API para búsqueda geolocalizada de vehículos </th>
-    <th> W09 </th>
-    <th> API Geolocalitation </th>
-    <th> Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta </th>
-    <th> 7 </th>
-    <th> Juan Calisaya </th>
-    <th> Done </th>
+    <td>US25</td>
+    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
+    <td>Como usuario, quiero poder ver la ubicación de los vehículos disponibles para compra o venta a través de geolocalización, para que pueda encontrar vehículos cercanos a mi ubicación.</td>
+    <td>Escenario 1: <br>Dado que el usuario está en la página de búsqueda de vehículos, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar los vehículos disponibles en un mapa con la ubicación geolocalizada de cada uno, para elegir el vehículo más cercano.</td>
+    <td>W09</td>
+    <td>Geolocalización API</td>
+    <td>Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta. Esto permitirá a los usuarios encontrar vehículos cercanos a su ubicación de manera eficiente.</td>
+    <td>7</td>
+    <td>Juan Calisaya</td>
+    <td>Done</td>
   </tr>
+
+  <!-- Task 5 -->
+  <tr>
+    <td>US18</td>
+    <td>Sección Botón “Elija un plan”</td>
+    <td>Como usuario, quiero ver el botón “Elija un plan” para poder elegir una suscripción y registrar vehículos menores.</td>
+    <td>Escenario 1: Visualización del botón “Elija un plan” <br>Dado que el usuario ha iniciado sesión y está en la página principal de la plataforma, <br> cuando el usuario ve el botón “Elija un plan” y hace clic en él, <br> entonces se le redirige a la página para elegir su plan de suscripción y registrar sus vehículos.</td>
+    <td>W05</td>
+    <td>Botón Sección "Elija un plan"</td>
+    <td>La implementación del botón permitirá a los usuarios seleccionar su plan de suscripción y registrar sus vehículos para ser alquilados.</td>
+    <td>6</td>
+    <td>Beth Oneglio</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Task 6 -->
+  <tr>
+    <td>US19</td>
+    <td>Sección Mensaje de “Pago exitoso”</td>
+    <td>Como usuario, quiero recibir un mensaje de “Pago exitoso” para confirmar que mi pago ha sido procesado correctamente.</td>
+    <td>Escenario 1: Mostrar mensaje de “Pago exitoso” <br>Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo, <br> cuando el pago es procesado y confirmado con éxito, <br> entonces se muestra un mensaje que indica que el pago fue exitoso y el alquiler o compra fue procesado.</td>
+    <td>W06</td>
+    <td>Mensaje Sección "Pago exitoso"</td>
+    <td>Mostrar un mensaje de pago exitoso ayudará a los usuarios a confirmar que su transacción fue correcta y permitirá un proceso de compra o alquiler más claro.</td>
+    <td>5</td>
+    <td>Erick Vásquez</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Task 7 -->
+  <tr>
+    <td>US20</td>
+    <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
+    <td>Como usuario, quiero buscar vehículos cercanos a mi ubicación para poder alquilar el vehículo más cercano.</td>
+    <td>Escenario 1: Buscar vehículos cercanos por geolocalización <br>Dado que un usuario ha iniciado sesión y está en la página de búsqueda de vehículos, <br> cuando el usuario activa la geolocalización en su dispositivo y aplica los filtros de búsqueda, <br> entonces el sistema muestra los vehículos cercanos disponibles en su área, utilizando la información de ubicación en tiempo real.</td>
+    <td>W07</td>
+    <td>Sección de geolocalización</td>
+    <td>La implementación de la API de búsqueda geolocalizada permitirá que los usuarios encuentren vehículos más cercanos y eficientes para alquilar.</td>
+    <td>7</td>
+    <td>David Gallo</td>
+    <td>To-do</td>
+  </tr>
+
+  <!-- Task 8 -->
+  <tr>
+    <td>US25</td>
+    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
+    <td>Como usuario, quiero poder ver la ubicación exacta de los vehículos disponibles para comprar o alquilar.</td>
+    <td>Escenario 1: Visualizar vehículos en un mapa <br>Dado que el usuario está en la página de búsqueda de vehículos y tiene activada la geolocalización, <br> cuando el sistema muestra la ubicación de los vehículos en un mapa interactivo, <br> entonces el usuario puede ver claramente las ubicaciones de los vehículos y decidir cuál desea alquilar o comprar.</td>
+    <td>W09</td>
+    <td>Geolocalización API</td>
+ </tr>   
   <tr>
     <td>US18</td>
     <td>Sección Botón “Elija un plan”</td>
