@@ -957,20 +957,18 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
   </tr>
 
   <!-- Task 4 -->
-  <tr>
-    <td>US25</td>
-    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
-    <td>Como usuario, quiero poder ver la ubicación de los vehículos disponibles para compra o venta a través de geolocalización, para que pueda encontrar vehículos cercanos a mi ubicación.</td>
-    <td>Escenario 1: <br>Dado que el usuario está en la página de búsqueda de vehículos, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar los vehículos disponibles en un mapa con la ubicación geolocalizada de cada uno, para elegir el vehículo más cercano.</td>
-    <td>W09</td>
-    <td>Geolocalización API</td>
-    <td>Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta. Esto permitirá a los usuarios encontrar vehículos cercanos a su ubicación de manera eficiente.</td>
-    <td>7</td>
-    <td>Juan Calisaya</td>
-    <td>Done</td>
-  </tr>
-
-  <!-- Task 5 -->
+<tr>
+  <td>US25</td>
+  <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
+  <td>Como usuario, quiero poder ver la ubicación de los vehículos disponibles para compra o venta a través de geolocalización, para que pueda encontrar vehículos cercanos a mi ubicación.</td>
+  <td>Escenario 1: <br><br> Dado que el usuario está en la página de búsqueda de vehículos, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar los vehículos disponibles en un mapa con la ubicación geolocalizada de cada uno, para elegir el vehículo más cercano.</td>
+  <td> W09 </td>
+  <td> Geolocalización API </td>
+  <td>Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta. Esto permitirá a los usuarios encontrar vehículos cercanos a su ubicación de manera eficiente.</td>
+  <td> 7 </td>
+  <td> Juan Calisaya </td>
+  <td> Done </td>
+</tr>
   <tr>
     <td>US18</td>
     <td>Sección Botón “Elija un plan”</td>
