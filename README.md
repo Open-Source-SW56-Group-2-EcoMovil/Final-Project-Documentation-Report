@@ -893,7 +893,6 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 ![trello](./assets/perfil/sprin3.png)
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
-
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <th colspan="4">Sprint #</th>
@@ -957,18 +956,20 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
   </tr>
 
   <!-- Task 4 -->
-<tr>
-  <td>US25</td>
-  <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
-  <td>Como usuario, quiero poder ver la ubicación de los vehículos disponibles para compra o venta a través de geolocalización, para que pueda encontrar vehículos cercanos a mi ubicación.</td>
-  <td>Escenario 1: <br><br> Dado que el usuario está en la página de búsqueda de vehículos, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar los vehículos disponibles en un mapa con la ubicación geolocalizada de cada uno, para elegir el vehículo más cercano.</td>
-  <td> W09 </td>
-  <td> Geolocalización API </td>
-  <td>Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta. Esto permitirá a los usuarios encontrar vehículos cercanos a su ubicación de manera eficiente.</td>
-  <td> 7 </td>
-  <td> Juan Calisaya </td>
-  <td> Done </td>
-</tr>
+  <tr>
+    <td>US25</td>
+    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
+    <td>Como usuario, quiero poder ver la ubicación de los vehículos disponibles para compra o venta a través de geolocalización, para que pueda encontrar vehículos cercanos a mi ubicación.</td>
+    <td>Escenario 1: <br><br> Dado que el usuario está en la página de búsqueda de vehículos, <br> cuando el sistema obtiene la ubicación actual del usuario, <br> entonces el sistema debe mostrar los vehículos disponibles en un mapa con la ubicación geolocalizada de cada uno, para elegir el vehículo más cercano.</td>
+    <td> W09 </td>
+    <td> Geolocalización API </td>
+    <td>Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta. Esto permitirá a los usuarios encontrar vehículos cercanos a su ubicación de manera eficiente.</td>
+    <td> 7 </td>
+    <td> Juan Calisaya </td>
+    <td> Done </td>
+  </tr>
+
+  <!-- Task 5 -->
   <tr>
     <td>US18</td>
     <td>Sección Botón “Elija un plan”</td>
@@ -1018,54 +1019,10 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
     <td>Escenario 1: Visualizar vehículos en un mapa <br>Dado que el usuario está en la página de búsqueda de vehículos y tiene activada la geolocalización, <br> cuando el sistema muestra la ubicación de los vehículos en un mapa interactivo, <br> entonces el usuario puede ver claramente las ubicaciones de los vehículos y decidir cuál desea alquilar o comprar.</td>
     <td>W09</td>
     <td>Geolocalización API</td>
- </tr>   
-  <tr>
-    <td>US18</td>
-    <td>Sección Botón “Elija un plan”</td>
-    <td>Como usuario, quiero ver el botón “Elija un plan” para poder elegir una suscripción y registrar vehículos menores.</td>
-    <td>Escenario 1: Visualización del botón “Elija un plan” <br><br> Dado que el usuario ha iniciado sesión y está en la página principal de la plataforma, <br> cuando el usuario ve el botón “Elija un plan” y hace clic en él, <br> entonces se le redirige a la página para elegir su plan de suscripción y registrar sus vehículos. </td>
-    <td> W05 </td>
-    <td> Button "Elija un plan" Section </td>
-    <td> La implementación del botón permitirá a los usuarios seleccionar su plan de suscripción y registrar sus vehículos para ser alquilados. </td>
-    <td> 6 </td>
-    <td> Beth Oneglio</td>
-    <td> To-do </td>
-  </tr>
-  <tr>
-    <td>US19</td>
-    <td>Sección Mensaje de “Pago exitoso”</td>
-    <td>Como usuario, quiero recibir un mensaje de “Pago exitoso” para confirmar que mi pago ha sido procesado correctamente.</td>
-    <td>Escenario 1: Mostrar mensaje de “Pago exitoso” <br><br> Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo, <br> cuando el pago es procesado y confirmado con éxito, <br> entonces se muestra un mensaje que indica que el pago fue exitoso y el alquiler o compra fue procesado.</td>
-    <td> W06 </td>
-    <td> Message "Pago exitoso" Section </td>
-    <td> Mostrar un mensaje de pago exitoso ayudará a los usuarios a confirmar que su transacción fue correcta y permitirá un proceso de compra o alquiler más claro. </td>
-    <td> 5 </td>
-    <td> Erick Vásquez</td>
-    <td> To-do </td>
-  </tr>
-  <tr>
-    <td>US20</td>
-    <td>Implementación de API para Búsqueda Geolocalizada de Vehículos</td>
-    <td>Como usuario, quiero buscar vehículos cercanos a mi ubicación para poder alquilar el vehículo más cercano.</td>
-    <td>Escenario 1: Buscar vehículos cercanos por geolocalización <br><br> Dado que un usuario ha iniciado sesión y está en la página de búsqueda de vehículos, <br> cuando el usuario activa la geolocalización en su dispositivo y aplica los filtros de búsqueda, <br> entonces el sistema muestra los vehículos cercanos disponibles en su área, utilizando la información de ubicación en tiempo real.</td>
-    <td> W07 </td>
-    <td> Geolocation Section </td>
-    <td> La implementación de la API de búsqueda geolocalizada permitirá que los usuarios encuentren vehículos más cercanos y eficientes para alquilar. </td>
-    <td> 7 </td>
-    <td> David Gallo</td>
-    <td> To-do </td>
-  </tr>
-  <tr>
-    <td>US25</td>
-    <td>Implementación de API para búsqueda geolocalizada de vehículos</td>
-    <td>Como usuario, quiero poder ver la ubicación exacta de los vehículos disponibles para comprar o alquilar.</td>
-    <td>Escenario 1: Visualizar vehículos en un mapa <br><br> Dado que el usuario está en la página de búsqueda de vehículos y tiene activada la geolocalización, <br> cuando el sistema muestra la ubicación de los vehículos en un mapa interactivo, <br> entonces el usuario puede ver claramente las ubicaciones de los vehículos y decidir cuál desea alquilar o comprar.</td>
-    <td> W09 </td>
-    <td> API Geolocalitation </td>
-    <td> La API de geolocalización para mostrar vehículos ayudará a los usuarios a visualizar los vehículos disponibles más cercanos a su ubicación. </td>
-    <td> 7 </td>
-    <td> Juan Calisaya </td>
-    <td> To-do </td>
+    <td>Implementar la API para geolocalizar vehículos permitirá que los usuarios vean la ubicación de vehículos cercanos a ellos y realicen una elección más rápida y cómoda.</td>
+    <td>7</td>
+    <td>Juan Calisaya</td>
+    <td>To-do</td>
   </tr>
 </table>
 
