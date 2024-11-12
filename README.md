@@ -894,65 +894,113 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
-<table style="width:400px; height:100px;"> 
-   <tr>
-      <th colspan="4"> Sprint # </th>
-      <th colspan="7"> Sprint 3 </th>
-   </tr>
-   <tr >
-     <th colspan="4"> User Story </th>
-     <th colspan="7"> Work-Item /Task</th>
-   </tr>
-   <tr>
-     <th > Id </th>
-     <th colspan="3"> Title </th>
-     <th> Id </th>
-     <th > Title </th>
-     <th> Description </th>
-     <th> Estimation (Hours) </th>
-     <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To- Review / Done) </th>
-   </tr>
-      <th> US18 </th>
-     <th colspan="3"> Sección Botón “Elija un plan” </th>
-      <th> W05  </th>
-     <th> Button "Elija un plan" Section </th>
-     <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
-     <th> 2  </th>
-     <th> Beth </th> 
-     <th> Done </th>
-   </tr>
-   <tr>
-      <th> US19</th>
-     <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
-      <th> W06  </th>
-     <th> Message "Pago exitoso" Section </th>
-     <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
-     <th> 7  </th>
-     <th> Erick </th> 
-     <th> Done </th>
-   </tr>
-    </tr>
-   <tr>
-      <th> US20</th>
-     <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
-      <th> W07  </th>
-     <th> Geolocation Section </th>
-     <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
-     <th> 5  </th>
-     <th> David </th> 
-     <th> Done </th>
-   </tr>
-    <tr>
-      <th> US25 </th>
-     <th colspan="3"> Implementacion de API para busqueda geolocalizada de vehículos </th>
-      <th> W09  </th>
-     <th> API Geolocalitation  </th>
-     <th> agregar geolocalizacion para la ubicacion de los vehiculos al momento de su compra o venta  </th>
-     <th> 3 </th>
-     <th> Juan Calisaya </th> 
-     <th> Done </th>
-   </tr>
+<table style="width:400px; height:100px;">
+  <tr>
+    <th colspan="4"> Sprint # </th>
+    <th colspan="7"> Sprint 3 </th>
+  </tr>
+  <tr>
+    <th colspan="4"> User Story </th>
+    <th colspan="7"> Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th> Id </th>
+    <th colspan="3"> Title </th>
+    <th> Id </th>
+    <th> Title </th>
+    <th> Description </th>
+    <th> Estimation (Hours) </th>
+    <th> Assigned To </th>
+    <th> Status (To-do / In-Process / To-Review / Done) </th>
+  </tr>
+  <tr>
+    <th> US18 </th>
+    <th colspan="3"> Sección Botón “Elija un plan” </th>
+    <th> W05 </th>
+    <th> Button "Elija un plan" Section </th>
+    <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
+    <th> 6 </th>
+    <th> Beth Oneglio</th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US19 </th>
+    <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
+    <th> W06 </th>
+    <th> Message "Pago exitoso" Section </th>
+    <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
+    <th> 5 </th>
+    <th> Erick Vásquez</th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US20 </th>
+    <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos </th>
+    <th> W07 </th>
+    <th> Geolocation Section </th>
+    <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
+    <th> 7 </th>
+    <th> David Gallo</th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <th> US25 </th>
+    <th colspan="3"> Implementación de API para búsqueda geolocalizada de vehículos </th>
+    <th> W09 </th>
+    <th> API Geolocalitation </th>
+    <th> Agregar geolocalización para la ubicación de los vehículos al momento de su compra o venta </th>
+    <th> 7 </th>
+    <th> Juan Calisaya </th>
+    <th> Done </th>
+  </tr>
+  <tr>
+    <td>US26</td>
+    <td>Buscar vehículos</td>
+    <td>Como usuario, quiero buscar y filtrar vehículos disponibles, para encontrar el que mejor se adapta a mis necesidades.</td>
+    <td>Escenario 1: Buscar un vehículo disponible por tipo <br><br> Dado que un usuario está en la página de búsqueda de vehículos y quiere encontrar un tipo específico de vehículo, <br> cuando el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles, <br> entonces se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado.</td>
+    <td> W10 </td>
+    <td> Buscar vehículos por tipo </td>
+    <td> La implementación de la búsqueda de vehículos por tipo ayuda a los usuarios a filtrar y encontrar el vehículo que mejor se adapta a sus necesidades. </td>
+    <td> 5 </td>
+    <td> Juan Calisaya </td>
+    <td> To-do </td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Crear discusión</td>
+    <td>Como usuario, quiero crear y participar en discusiones, para compartir y obtener información.</td>
+    <td>Escenario 1: Crear una nueva discusión <br><br> Dado que un usuario ha iniciado sesión y se encuentra en la sección de discusiones del foro, <br> cuando el usuario selecciona la opción para crear una nueva discusión, ingresa un título y un mensaje inicial, y presiona el botón "Publicar", <br> entonces se crea una nueva discusión visible para otros usuarios del foro, <br> y entonces otros usuarios pueden visualizar la discusión y agregar respuestas.</td>
+    <td> W11 </td>
+    <td> Crear discusión </td>
+    <td> Implementar la capacidad de crear discusiones permitirá a los usuarios participar en el foro y obtener información útil de otros usuarios. </td>
+    <td> 6 </td>
+    <td> Beth Oneglio</td>
+    <td> To-do </td>
+  </tr>
+  <tr>
+    <td>US28</td>
+    <td>Actualizar perfil</td>
+    <td>Como usuario, quiero actualizar mi perfil, para que mi información esté siempre correcta.</td>
+    <td>Escenario 1: Actualizar la información personal del perfil <br><br> Dado que un usuario ha iniciado sesión y accede a la página de su perfil, <br> cuando el usuario modifica su información personal (como nombre, correo electrónico o número de teléfono) y guarda los cambios, <br> entonces la información actualizada se almacena correctamente en el sistema, <br> y entonces el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.</td>
+    <td> W12 </td>
+    <td> Actualizar perfil </td>
+    <td> Permitir que los usuarios actualicen su perfil les asegura mantener la información correcta y actualizada en la plataforma. </td>
+    <td> 5 </td>
+    <td> David Gallo </td>
+    <td> To-do </td>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Notificación de pago</td>
+    <td>Como usuario, quiero recibir notificaciones de pago exitoso, para asegurarme de que todo está correcto.</td>
+    <td>Escenario 1: Recibir notificación de pago exitoso <br><br> Dado que un usuario ha realizado un pago para alquilar o comprar un vehículo en la plataforma, <br> cuando el sistema procesa el pago y la transacción es exitosa, <br> entonces el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito, <br> y entonces el usuario recibe un correo electrónico de confirmación con los detalles de la transacción.</td>
+    <td> W13 </td>
+    <td> Notificación de pago </td>
+    <td> Implementar notificaciones de pago exitoso garantiza que los usuarios sean informados correctamente sobre el estado de sus transacciones. </td>
+    <td> 4 </td>
+    <td> Erick Vásquez</td>
+    <td> To-do </td>
+  </tr>
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review
