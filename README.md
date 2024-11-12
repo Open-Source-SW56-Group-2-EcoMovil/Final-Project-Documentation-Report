@@ -860,7 +860,7 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-        <td> Dado que este es nuestro primer sprint de desarrollo, no hay un resumen de revisión del sprint disponible. <td>
+        <td> para el sprint 3 pondrías. Durante el desarrollo del Sprint 2, se logró implementar con éxito el frontend de EcoMovil y se realizó el despliegue utilizando GitHub Pages. Se cumplió con todos los requisitos funcionales establecidos para el sprint. <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
