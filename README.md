@@ -441,6 +441,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>cuando</b> el usuario ingresa el tipo de vehículo deseado (por ejemplo, "bicicleta", "scooter") en el campo de búsqueda y aplica los filtros disponibles, <br> 
         <b>entonces</b> se muestran todos los vehículos disponibles que coinciden con el tipo seleccionado. 
     </td>
+     <td>4</td>
 </tr>
 <tr> 
     <td>US27</td> 
@@ -453,6 +454,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>entonces</b> se crea una nueva discusión visible para otros usuarios del foro, <br> 
         <b>y entonces</b> otros usuarios pueden visualizar la discusión y agregar respuestas. 
     </td>
+     <td>6</td>
 </tr>
 
 <tr>
@@ -470,6 +472,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>y entonces</b> el usuario ve un mensaje de confirmación indicando que el perfil ha sido actualizado exitosamente.
     </td>
+     <td>5</td>
 </tr>
 <tr> 
     <td>US29</td> 
@@ -482,6 +485,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <b>entonces</b> el usuario recibe una notificación inmediata en la aplicación indicando que el pago se ha realizado con éxito, <br> 
         <b>y entonces</b> el usuario recibe un correo electrónico de confirmación con los detalles de la transacción. 
     </td>
+     <td>3</td>
 </tr>
  </tbody>
 </table>
