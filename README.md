@@ -891,138 +891,137 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
 En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del back-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
 <table style="width: 100%; border-collapse: collapse;">
-<thead>
-<tr>
-<th colspan="4">Sprint #</th>
-<th colspan="7">Sprint 3</th>
-</tr>
-<tr>
-<th colspan="4">User Story</th>
-<th colspan="7">Work-Item / Task</th>
-</tr>
-<tr>
-<th>Id</th>
-<th>Title</th>
-<th colspan="2">&nbsp;</th>
-<th>Id</th>
-<th>Title</th>
-<th>Description</th>
-<th>Estimation (Hours)</th>
-<th>Assigned To</th>
-<th>Status (To-do / In-Process / To-Review / Done)</th>
-</tr>
-</thead>
+   <thead>
+      <tr>
+         <th colspan="1">Sprint #</th>
+         <th colspan="7">Sprint 3</th>
+      </tr>
+      <tr>
+         <th colspan="2">User Story</th>
+         <th colspan="6">Work-Item / Task</th>
+      </tr>
+      <tr>
+         <th>Id</th>
+         <th>Title</th>         
+         <th>Id</th>
+         <th>Title</th>
+         <th>Description</th>
+         <th>Estimation (Hours)</th>
+         <th>Assigned To</th>
+         <th>Status (To-do / In-Process / To-Review / Done)</th>
+      </tr>
+   </thead>
 <tbody>
-<tr>
-<td>US18</td>
-<td>Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
-<td colspan="2">&nbsp;</td>
-<td>W17-1</td>
-<td>Configurar redirecci&oacute;n en bot&oacute;n "Elija un plan"</td>
-<td>Configurar redireccionamiento del bot&oacute;n para abrir detalles de pago.</td>
-<td>4</td>
-<td>Erick V&aacute;squez</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US18</td>
-<td>Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
-<td colspan="2">&nbsp;</td>
-<td>W17-2</td>
-<td>Dise&ntilde;o b&aacute;sico del bot&oacute;n "Elija un plan"</td>
-<td>Agregar dise&ntilde;o b&aacute;sico al bot&oacute;n para mejorar visibilidad.</td>
-<td>4</td>
-<td>Erick V&aacute;squez</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US20</td>
-<td>Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
-<td colspan="2">&nbsp;</td>
-<td>W19-1</td>
-<td>Activar bot&oacute;n para publicar veh&iacute;culos</td>
-<td>Habilitar bot&oacute;n para permitir que usuarios publiquen veh&iacute;culos.</td>
-<td>4</td>
-<td>Juan Calisaya</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US20</td>
-<td>Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
-<td colspan="2">&nbsp;</td>
-<td>W19-2</td>
-<td>Validaci&oacute;n de datos para publicar veh&iacute;culo</td>
-<td>Validaci&oacute;n b&aacute;sica de datos en el formulario de publicaci&oacute;n.</td>
-<td>6</td>
-<td>Juan Calisaya</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US26</td>
-<td>B&uacute;squeda de veh&iacute;culos</td>
-<td colspan="2">&nbsp;</td>
-<td>W21-1</td>
-<td>Filtrar veh&iacute;culos por tipo</td>
-<td>Habilitar filtro b&aacute;sico por tipo de veh&iacute;culo.</td>
-<td>4</td>
-<td>Mathias Hidalgo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US26</td>
-<td>B&uacute;squeda de veh&iacute;culos</td>
-<td colspan="2">&nbsp;</td>
-<td>W21-2</td>
-<td>Filtrar veh&iacute;culos por ubicaci&oacute;n</td>
-<td>Habilitar filtro adicional para buscar veh&iacute;culos por ubicaci&oacute;n.</td>
-<td>5</td>
-<td>Mathias Hidalgo</td>
-<td>To-do</td>
-</tr>
-<tr>
-<td>US27</td>
-<td>Crear discusi&oacute;n en el foro</td>
-<td colspan="2">&nbsp;</td>
-<td>W22-1</td>
-<td>Permitir creaci&oacute;n de discusiones en foro</td>
-<td>Permitir a los usuarios iniciar una discusi&oacute;n en el foro.</td>
-<td>6</td>
-<td>Beth Oneglio</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US27</td>
-<td>Crear discusi&oacute;n en el foro</td>
-<td colspan="2">&nbsp;</td>
-<td>W22-2</td>
-<td>Notificar al usuario sobre respuestas en el foro</td>
-<td>Implementar notificaciones para alertar al usuario sobre respuestas a sus discusiones en el foro.</td>
-<td>5</td>
-<td>Beth Oneglio</td>
-<td>To-do</td>
-</tr>
-<tr>
-<td>US28</td>
-<td>Actualizar perfil</td>
-<td colspan="2">&nbsp;</td>
-<td>W23-1</td>
-<td>Formulario para actualizaci&oacute;n de perfil</td>
-<td>Habilitar formulario para actualizaci&oacute;n de datos del perfil.</td>
-<td>5</td>
-<td>David Gallo</td>
-<td>Done</td>
-</tr>
-<tr>
-<td>US28</td>
-<td>Actualizar perfil</td>
-<td colspan="2">&nbsp;</td>
-<td>W23-2</td>
-<td>Validaci&oacute;n de campos en perfil de usuario</td>
-<td>A&ntilde;adir validaci&oacute;n de campos b&aacute;sicos en perfil.</td>
-<td>4</td>
-<td>David Gallo</td>
-<td>Done</td>
-</tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US18</td>
+         <td rowspan="3">Bot&oacute;n &ldquo;Elija un plan&rdquo;</td>
+      </tr>
+      <tr>
+         <td>TK17</td>
+         <td>Endpoint para redirecci&oacute;n de planes</td>
+         <td>Configurar endpoint que gestione la redirecci&oacute;n del bot&oacute;n para mostrar detalles de pago.</td>
+         <td>4</td>
+         <td>Erick V&aacute;squez</td>
+         <td>Done</td>            
+      </tr>   
+      <tr>
+         <td>TK18</td>
+         <td>L&oacute;gica de control para selecci&oacute;n de planes</td>
+         <td>Implementar l&oacute;gica de backend para almacenar selecci&oacute;n de planes en la base de datos.</td>
+         <td>8</td>
+         <td>Erick V&aacute;squez</td>
+         <td>Done</td>            
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US20</td>
+         <td rowspan="3">Bot&oacute;n &ldquo;Agregar veh&iacute;culo&rdquo;</td>
+      </tr>
+      <tr>
+         <td>TK19</td>
+         <td>Servicio para publicar veh&iacute;culos</td>
+         <td>Crear servicio que gestione la publicaci&oacute;n de veh&iacute;culos en la plataforma.</td>
+         <td>6</td>
+         <td>Juan Calisaya</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK20</td>            
+         <td>Validaci&oacute;n de datos para veh&iacute;culo</td>
+         <td>Implementar validaci&oacute;n en backend para datos de publicaci&oacute;n de veh&iacute;culo.</td>
+         <td>6</td>
+         <td>Juan Calisaya</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US26</td>
+         <td rowspan="3">B&uacute;squeda de veh&iacute;culos</td>
+      </tr>
+      <tr>
+         <td>TK21</td>
+         <td>Filtrar veh&iacute;culos por tipo</td>
+         <td>Desarrollar l&oacute;gica de backend para filtrar veh&iacute;culos por tipo.</td>
+         <td>6</td>
+         <td>Juan Calisaya</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK22</td>            
+         <td>Filtrar veh&iacute;culos por ubicaci&oacute;n</td>
+         <td>Implementar l&oacute;gica para filtrar veh&iacute;culos por ubicaci&oacute;n en el backend.</td>
+         <td>5</td>
+         <td>Mathias Hidalgo</td>
+         <td>To-do</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US27</td>
+         <td rowspan="3">Crear discusi&oacute;n en el foro</td>
+      </tr>
+      <tr>
+         <td>TK23</td>
+         <td>API para creaci&oacute;n de discusiones en foro</td>
+         <td>Desarrollar endpoint que permita crear discusiones en el foro.</td>
+         <td>6</td>
+         <td>Beth Oneglio</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK24</td>            
+         <td>Notificaci&oacute;n de respuestas en foro</td>
+         <td>Implementar notificaciones en backend para alertar al usuario sobre respuestas.</td>
+         <td>5</td>
+         <td>Beth Oneglio</td>
+         <td>To-do</td>          
+      </tr>      
+   </tr>
+   <tr>
+      <tr>
+         <td rowspan="3">US28</td>
+         <td rowspan="3">Actualizar perfil</td>
+      </tr>
+      <tr>
+         <td>TK25</td>
+         <td>API para actualizaci&oacute;n de perfil</td>
+         <td>Crear servicio para permitir a usuarios actualizar sus datos de perfil.</td>
+         <td>8</td>
+         <td>David Gallo</td>
+         <td>Done</td>
+      </tr>   
+      <tr>
+         <td>TK26</td>            
+         <td>Validaci&oacute;n en backend de perfil de usuario</td>
+         <td>Incluir validaci&oacute;n de campos en la actualizaci&oacute;n del perfil desde backend.</td>
+         <td>6</td>
+         <td>David Gallo</td>
+         <td>Done</td>          
+      </tr>      
+   </tr>
 </tbody>
 </table>
 
