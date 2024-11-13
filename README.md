@@ -1129,7 +1129,6 @@ Durante el presente sprint hemos logrado desplegar el back-end, usando SQLServer
 
 Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
-
 ### 5.2.3.8. Team Collaboration Insights during Sprint 
 
 En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
@@ -1145,6 +1144,234 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 Repositorio Web-Application-EcoMovil:
 
 ![Insights](assets/chapter-5/insight-back.png) 
+
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+El Sprint #4 comienza el 13/11/2024 y tiene como objetivo completar, integrar y lanzar tanto el Front-end como el Back-end de la aplicación.
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td>  13/11/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 11:00 A.M. </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de Discord <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Oneglio De Paz, Beth Shantal <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            <br>
+             Calisaya Sánchez, Juan Jesús
+            <br>
+             Gallo Quintana, David Ivanoff
+            <br>
+            Hidalgo Lopez, Mathias Adriano
+            <br>
+             Oneglio De Paz, Beth Shantal
+            <br>
+            Vasquez Goicochea, Erick Alessander
+        <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Review Summary </td>
+        <td> El sprint anterior planteó seguir avanzando en el desarrollo del Front-end de la aplicación y lanzar una versión inicial del Back-end con endpoints operativos. Se ha comprobado que el equipo alcanzó todos los objetivos establecidos. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 4 Retrospective Summary </td>
+        <td> Los story points no fueron completamente apropiados. Aunque la comunicación constante mantuvo al equipo al tanto, las historias de usuario fueron poco claras. Es necesario mejorar la documentación del testing y hacer las historias de usuario más simples para que los desarrolladores las comprendan fácilmente. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td>  Nuestro equipo logró importantes avances durante este sprint: completamos la landing page, finalizamos el i18n en el front end y la adaptación responsive, desarrollamos los endpoints, y terminamos el testing. Los próximos pasos incluyen conectar el front end con el back end y realizar el despliegue final. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td>  33  <td
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 33 <td>
+      </tr>
+  </table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+En el backlog del cuarto sprint, el equipo finalizó tanto el front end como el back end de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, que facilitó dividir las historias de usuario en tareas manejables y asignarlas a los distintos miembros según sus habilidades.
+
+(Imagen)
+
+Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9369ef45e8ff47bfdc01816f4e798ABCAD3B0/ecomovil-product-backlog-sprint-4
+
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+   <thead>
+      <tr>
+         <th style="border: 1px solid black;" colspan="1">Sprint #</th>
+         <th style="border: 1px solid black;" colspan="7">Sprint 4</th>
+      </tr>
+      <tr>
+         <th style="border: 1px solid black;" colspan="2">User Story</th>
+         <th style="border: 1px solid black;" colspan="6">Work-Item / Task</th>
+      </tr>
+      <tr>
+         <th style="border: 1px solid black;">Id</th>
+         <th style="border: 1px solid black;">Title</th>         
+         <th style="border: 1px solid black;">Id</th>
+         <th style="border: 1px solid black;">Title</th>
+         <th style="border: 1px solid black;">Description</th>
+         <th style="border: 1px solid black;">Estimation (Hours)</th>
+         <th style="border: 1px solid black;">Assigned To</th>
+         <th style="border: 1px solid black;">Status (To-do / In-Process / To-Review / Done)</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td rowspan="3" style="border: 1px solid black;"></td>
+         <td rowspan="3" style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;"></td>
+      </tr>
+   </tbody>
+</table>
+
+5.2.4.3. Development Evidence for Sprint Review
+
+Como evidencia del Sprint Review, se muestra una tabla de commits realizados en este tercer sprint, abarcando los repositorios de frontend y backend de la aplicación web.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| --------- | --------- | --------- | -------------- | -------------- | --------------------- |
+|           |           |           |                |                |                       |
+|           |           |           |                |                |                       |
+|           |           |           |                |                |                       |
+|           |           |           |                |                |                       |
+|           |           |           |                |                |                       |
+
+5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Para la entrega del Sprint 4, nos centramos en alcanzar un desarrollo completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+|            |        |           |                |                     |                     |
+
+(Subir capturas del Testing)
+
+5.2.4.5. Execution Evidence for Sprint Review
+
+En el Sprint 4, se completó el desarrollo tanto del frontend como del backend de la aplicación web, incluyendo su versión responsiva, en español e inglés. A continuación, se presentan algunas evidencias.
+
+(Que sean divididas por US)
+(Subir las capturas del I18N)
+(Subir las capturas del Backend)
+
+Enlace para ver el video que explica los logros alcanzados en el Sprint: (Subir el enlace de la exposición final)
+
+5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para el Sprint 4, se planificó desarrollar únicamente el front-end y back-end. Inicialmente, se utilizó un servidor JSON local. El back-end fue creado y está vinculado al front-end para realizar consultas y obtener datos.
+
+- Web Service:
+  
+| Endpoint | Operaciones | Parámetros | URL | 
+|----------|-------------|------------|-----|
+|          |             |            |     |                 
+
+- Web Service Images:
+
+(Capturas del Swagger)
+
+Enlace del repositorio: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Front-End-EcoMovil
+
+- Web Service Commit Details:
+
+| Repository | Branch | Commit Id | Commit Message | User | Commited Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ---- | --------------------- | ------------------ |
+|            |        |           |                |      |                       |                    |
+|            |        |           |                |      |                       |                    |
+
+5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En la entrega del cuarto sprint, se completó y desplegó el landing page funcional, cumpliendo con las user stories establecidas. Además, se desplegaron tanto la aplicación web como el back-end en su totalidad.
+
+- Capturas de la pantalla Landing Page:
+
+ (Imagenes)
+
+ - Web Application Front-end:
+
+(Agregar imagenes del deploy del Frontend)
+(Imagenes del Front-end)
+
+- Web Services Back-end:
+
+(Agregar el despliegue del Backend)
+(Capturas del Backend)
+
+5.2.4.8. Team Collaboration Insights during Sprint
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno | Actividad | 
+| ------------ | ------------------------------------------- | 
+| Calisaya Sánchez, Juan Jesús | Elaborar el testing | 
+| Gallo Quintana, David Ivanoff | Elaborar el despliegue del Back-end  | 
+| Hidalgo Lopez, Mathias Adriano | Implementar el i18n y el responsive en el Front-end | 
+| Oneglio De Paz, Beth Shantal | Elaborar el testing y el informe | 
+| Vasquez Goicochea, Erick Alessander | Implementar la conexión del Front-end y Back-end | 
+
+Repositorio Web-Application-EcoMovil:
+
+-Repositorio Landing:
+
+(Imagen de los insights)
+
+-Repositorio Front-end:
+
+(Imagen de los insights)
+
+-Repositorio Back-end:
+
+(Imagen de los insights)
 
 ## 5.3. Validation Interviews 
 
@@ -1534,9 +1761,17 @@ Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/p
 
 # Conclusiones
 
-Las tareas asignadas para la entrega TB1 han sido completadas y están documentadas en el repositorio de GitHub de la organización del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios según las herramientas del proyecto, y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
+Las tareas asignadas para la entrega TB1 han sido completadas y documentadas en el repositorio de GitHub del equipo. Durante la elaboración del informe, se redactaron y graficaron los contenidos en formato Markdown, se realizaron commits para monitorear el progreso, se generaron los artefactos necesarios con las herramientas del proyecto y se organizaron reuniones para asignar tareas y coordinar el avance del informe.
 
-Las tareas asignadas para la entrega del TP1 incluyeron la implementación y validación del producto utilizando un enfoque ágil, dividido en sprints manejables que facilitaron una rápida iteración e integración continua de retroalimentación. La gestión de la configuración del software garantizó un entorno de desarrollo optimizado y bien gestionado, mientras que la página de inicio, los servicios y las aplicaciones se implementaron de manera eficiente y organizada, con cada sprint planificado y ejecutado de forma transparente. Durante el desarrollo de la aplicación web, aplicamos la arquitectura de DDD (Domain-Driven Design), identificando y modelando los dominios de negocio y estableciendo límites claros entre ellos para asegurar una adecuada separación de responsabilidades. Esta metodología permitió crear un sistema más robusto y flexible, facilitando tanto el mantenimiento como la evolución del software.
+En cuanto a la entrega del TP1, se implementó y validó el producto utilizando un enfoque ágil, dividido en sprints manejables que permitieron una rápida iteración e integración continua de retroalimentación. La gestión de la configuración del software aseguró un entorno de desarrollo optimizado y bien gestionado, y la implementación de la página de inicio, los servicios y las aplicaciones se realizó de forma eficiente y organizada, con sprints planificados y ejecutados de manera transparente. Durante el desarrollo de la aplicación web, se aplicó la arquitectura de DDD (Domain-Driven Design), que permitió identificar y modelar los dominios de negocio, estableciendo límites claros entre ellos para asegurar una adecuada separación de responsabilidades. Esto facilitó la creación de un sistema robusto y flexible, favoreciendo tanto el mantenimiento como la evolución del software.
+
+Para la entrega TB2 y el trabajo final, se concluye que es fundamental establecer una base sólida de diseño antes de comenzar a escribir el código. En este sentido, la creación de un diagrama de clases adecuado ayuda a visualizar cómo se interrelacionan las entidades implementadas.
+
+La redacción de los criterios de aceptación en lenguaje Gherkin para las historias de usuario en este sprint asegura que se cubran los posibles escenarios de interacción entre el usuario y la plataforma, lo que ayuda a eliminar resultados no deseados y garantizar el correcto funcionamiento de las funcionalidades.
+
+Es importante considerar tiempo adicional para cada sprint con el fin de corregir las historias de usuario pendientes o no planificadas. Este sprint presentó restricciones de tiempo debido a imprevistos.
+
+Finalmente, la documentación de los módulos y artefactos facilita la comprensión de las funcionalidades disponibles, proporcionando ejemplos prácticos e interactivos.
 
 Recomendaciones para optimizar el proceso:
 
@@ -1584,3 +1819,6 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 | **Video About the Product**                  | https://www.youtube.com/watch?v=Na3BHmdkkm0                                                                                                                                                                                                                   |
 | **Video About the Team**                     |  https://www.youtube.com/watch?v=e4aK1I1ep-I                                                                                                                                                                                                                  |
 | **Deployment Back-End**                     |  https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/                                                                                                                                                                                                                 |
+
+
+(Agregar el link del Trello, del despliegue del Fronted, de la conexion del frontend y back, del landing page, del despliegue del back)
