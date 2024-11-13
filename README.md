@@ -73,7 +73,7 @@ El proyecto implementará el modelo **GitFlow** como estándar para el control d
 - Enlace al repositorio de la **Landing Page**: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 <br>
 
-![gitflow](./assets/perfil/gitflow.png)
+![gitflow](assets/chapter-5/gitflow.png)
 
 **Estructura de Ramas (Branches) en GitFlow:**
 
@@ -144,27 +144,27 @@ A continuación, se detallarán las acciones llevadas a cabo para alcanzar este 
 
 Lo primero es garantizar que el repositorio esté configurado de manera adecuada.
 
-![Merged-Picture](./assets/perfil/merged1.png)
+![Merged-Picture](assets/chapter-5/merged1.png)
 
 En este caso, se ha utilizado Angular para desarrollar una Landing Page, optando por la herramienta angular-cli-pages, que simplifica tanto la actualización de la página como su despliegue en GitHub Pages.
 
-![Angular-Cli](./assets/perfil/angular-cli.png)
+![Angular-Cli](assets/chapter-5/angular-cli.png)
 
 A continuación, se utiliza la herramienta "ngh" para crear una nueva rama llamada "gh-pages", que contendrá los archivos de despliegue y recibe su nombre de la herramienta mencionada.
 
-![Dist](./assets/perfil/dist.png)
+![Dist](assets/chapter-5/dist.png)
 
 Usamos "ngh" para crear una nueva rama llamada "gh-pages", que almacenará todos los archivos necesarios para el despliegue. El nombre de la rama proviene de la herramienta que estamos utilizando.
 
-![gh-pages](./assets/perfil/gh.png)
+![gh-pages](assets/chapter-5/gh.png)
 
 Una vez que los archivos se han publicado en la rama correspondiente, accedemos a "Settings" y, en la sección "Pages", seleccionamos la rama "gh-pages" y la opción / (root). Después de guardar los cambios y esperar un momento, podremos ver la página publicada.
 
-![publish](./assets/perfil/publish.png)
+![publish](assets/chapter-5/publish.png)
 
 Así es cómo se verá la página final.
 
-![page](./assets/perfil/ecomo1.png)
+![page](assets/chapter-5/ecomo1.png)
 
 Enlace del Landing Page EcoMovil: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
@@ -248,7 +248,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
 
 En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
 
-![Trello](./assets/perfil/image4.png) 
+![Trello](assets/chapter-5/image4.png) 
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -422,17 +422,17 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 En el sprint 1 se logró un avance parcial en la implementación y despliegue de la landing page. Esta página presenta varias secciones donde el usuario puede encontrar información relevante sobre el producto y la startup. A continuación, se presentan algunas evidencias:
 
-![page](./assets/perfil/ecomo1.png)
+![page](assets/chapter-5/ecomo1.png)
 
-![page](./assets/perfil/ecomo2.png)
+![page](assets/chapter-5/ecomo2.png)
 
-![page](./assets/perfil/ecomo3.png)
+![page](assets/chapter-5/ecomo3.png)
 
-![page](./assets/perfil/ecomo4.png)
+![page](assets/chapter-5/ecomo4.png)
 
-![page](./assets/perfil/ecomo5.png)
+![page](assets/chapter-5/ecomo5.png)
 
-![page](./assets/perfil/ecomo6.png)
+![page](assets/chapter-5/ecomo6.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -446,31 +446,31 @@ En la entrega del segundo sprint, se desplegó un Landing Page completamente fun
 
 Finalizando la implementación de los cambios y fusionándolos en la rama principal (`main`).
 
-![Main-Capture](./assets/perfil/main.png)
+![Main-Capture](assets/chapter-5/main.png)
 
 Nos dirigimos a la sección de "Settings" del repositorio y seleccionamos el apartado de "Pages".
 
-![Seeting-Capture](./assets/perfil/settingandpages.png)
+![Seeting-Capture](assets/chapter-5/settingandpages.png)
 
 Seleccionamos la rama `gh-pages` como fuente de despliegue, luego hacemos clic en "Save" para ejecutar el deploy.
 
-![GhPages-Capture](./assets/perfil/ghpages.png)
+![GhPages-Capture](assets/chapter-5/ghpages.png)
 
 Accedemos al dominio del Landing Page, verificamos que todo esté correctamente configurado y hacemos clic en "Guardar" para finalizar el proceso.
 
 - Imágenes de la pantalla del Landing Page:
 
-![page](./assets/perfil/ecomo1.png)
+![page](assets/chapter-5/ecomo1.png)
 
-![page](./assets/perfil/ecomo2.png)
+![page](assets/chapter-5/ecomo2.png)
 
-![page](./assets/perfil/ecomo3.png)
+![page](assets/chapter-5/ecomo3.png)
 
-![page](./assets/perfil/ecomo4.png)
+![page](assets/chapter-5/ecomo4.png)
 
-![page](./assets/perfil/ecomo5.png)
+![page](assets/chapter-5/ecomo5.png)
 
-![page](./assets/perfil/ecomo6.png)
+![page](assets/chapter-5/ecomo6.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -563,7 +563,7 @@ El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño
 
 En el backlog del segundo sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del front-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-![trello](./assets/perfil/Trello.jpg)
+![trello](assets/chapter-5/Trello.jpg)
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
@@ -724,29 +724,29 @@ Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la
 
 En el sprint 2, se logró un avance parcial en la implementación y despliegue del front-end. Se desarrollaron varias secciones clave donde el usuario puede interactuar con las funcionalidades principales del sistema. A continuación, se presentan algunas evidencias:
 
-![page](./assets/perfil/Capture6.png)
+![page](assets/chapter-5/Capture6.png)
 
-![page](./assets/perfil/Capture7.png)
+![page](assets/chapter-5/Capture7.png)
 
-![page](./assets/perfil/Capture8.png)
+![page](assets/chapter-5/Capture8.png)
 
-![page](./assets/perfil/Capture9.png)
+![page](assets/chapter-5/Capture9.png)
 
-![page](./assets/perfil/Capture10.png)
+![page](assets/chapter-5/Capture10.png)
 
-![page](./assets/perfil/Capture11.png)
+![page](assets/chapter-5/Capture11.png)
 
-![page](./assets/perfil/Capture12.png)
+![page](assets/chapter-5/Capture12.png)
 
-![page](./assets/perfil/Capture13.png)
+![page](assets/chapter-5/Capture13.png)
 
-![page](./assets/perfil/Capture14.png)
+![page](assets/chapter-5/Capture14.png)
 
-![page](./assets/perfil/Capture15.png)
+![page](assets/chapter-5/Capture15.png)
 
-![page](./assets/perfil/Capture16.png)
+![page](assets/chapter-5/Capture16.png)
 
-![page](./assets/perfil/Capture17.png)
+![page](assets/chapter-5/Capture17.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -759,21 +759,21 @@ En la entrega del segundo sprint, se lanzó el landing page completamente funcio
 
 El despliegue de la página de destino en GitHub Pages se actualizó, lo que permitió actualizar la implementación de la página de destino.
 
-![LandingPage](./assets/perfil/deployment-landing-page.png) 
+![LandingPage](assets/chapter-5/deployment-landing-page.png) 
 
 **Capturas de pantalla de la Landing Page**:
 
-![page](./assets/perfil/ecomo1.png)
+![page](assets/chapter-5/ecomo1.png)
 
-![page](./assets/perfil/ecomo2.png)
+![page](assets/chapter-5/ecomo2.png)
 
-![page](./assets/perfil/ecomo3.png)
+![page](assets/chapter-5/ecomo3.png)
 
-![page](./assets/perfil/ecomo4.png)
+![page](assets/chapter-5/ecomo4.png)
 
-![page](./assets/perfil/ecomo5.png)
+![page](assets/chapter-5/ecomo5.png)
 
-![page](./assets/perfil/ecomo6.png)
+![page](assets/chapter-5/ecomo6.png)
 
 **Web Applications**: 
 
@@ -781,19 +781,19 @@ Se certifica la correcta implementación del frontend de la aplicación web en A
 
 Enlace del Deployment: https://happy-tree-09edbd910.5.azurestaticapps.net/
 
-![page](./assets/perfil/deployment-front-end-1.jpg)
+![page](assets/chapter-5/deployment-front-end-1.jpg)
 
-![page](./assets/perfil/deployment-front-end-2.jpg)
+![page](assets/chapter-5/deployment-front-end-2.jpg)
 
-![page](./assets/perfil/deployment-front-end-3.jpg)
+![page](assets/chapter-5/deployment-front-end-3.jpg)
 
-![page](./assets/perfil/deployment-front-end-4.jpg)
+![page](assets/chapter-5/deployment-front-end-4.jpg)
 
-![page](./assets/perfil/deployment-front-end-5.jpg)
+![page](assets/chapter-5/deployment-front-end-5.jpg)
 
-![page](./assets/perfil/deployment-front-end-6.jpg)
+![page](assets/chapter-5/deployment-front-end-6.jpg)
 
-![page](./assets/perfil/deployment-front-end-7.jpg)
+![page](assets/chapter-5/deployment-front-end-7.jpg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -809,7 +809,7 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 Repositorio Web-Application-EcoMovil:
 
-![Insights](./assets/perfil/insights-front-end.png) 
+![Insights](assets/chapter-5/insights-front-end.png) 
 
 ### 5.2.3. Sprint 3 
 
@@ -1025,7 +1025,7 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 </tbody>
 </table>
 
-![Trello](./assets/perfil/sprint_backlog_3.png)
+![Trello](assets/chapter-5/sprint_backlog_3.png)
 
 Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
 
@@ -1079,53 +1079,53 @@ Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi compl
 
 En el sprint 3, se logró un avance parcial en el desarrollo del frontend y backend de la aplicación. Este progreso incluye nuevas vistas relevantes sobre el producto y la startup, además de su versión responsive. A continuación, se presentan algunas evidencias.
 
-![page](./assets/perfil/Capture6.png)
+![page](assets/chapter-5/Capture6.png)
 
-![page](./assets/perfil/Capture7.png)
+![page](assets/chapter-5/Capture7.png)
 
-![page](./assets/perfil/Capture8.png)
+![page](assets/chapter-5/Capture8.png)
 
-![page](./assets/perfil/Capture9.png)
+![page](assets/chapter-5/Capture9.png)
 
-![page](./assets/perfil/Capture10.png)
+![page](assets/chapter-5/Capture10.png)
 
-![page](./assets/perfil/Capture11.png)
+![page](assets/chapter-5/Capture11.png)
 
-![page](./assets/perfil/Capture12.png)
+![page](assets/chapter-5/Capture12.png)
 
-![page](./assets/perfil/Capture13.png)
+![page](assets/chapter-5/Capture13.png)
 
-![page](./assets/perfil/Capture14.png)
+![page](assets/chapter-5/Capture14.png)
 
-![page](./assets/perfil/Capture15.png)
+![page](assets/chapter-5/Capture15.png)
 
-![page](./assets/perfil/Capture16.png)
+![page](assets/chapter-5/Capture16.png)
 
-![page](./assets/perfil/Capture17.png)
+![page](assets/chapter-5/Capture17.png)
 
-![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
+![bounded-context-profile](/assets/chapter-5/profile-boundedcontext.png)
 
-![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
+![bounded-context-plan](/assets/chapter-5/plan-boundedcontext.png)
 
-![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
+![bounded-context-vehicle](/assets/chapter-5/vehicle-bounded-context.png)
 
-![bounded-context-post](/assets/perfil/post-bounded-context.png)
+![bounded-context-post](/assets/chapter-5/post-bounded-context.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review 
 
 En este Sprint 3, el enfoque principal ha sido la creación del back-end de la aplicación, con todos sus componentes, servicios respectivos.
 A continuación se incluiran las imágenes de los endpoints generados durante este sprint.
 
-![bounded-context-profile](/assets/perfil/profile-boundedcontext.png)
-![bounded-context-plan](/assets/perfil/plan-boundedcontext.png)
-![bounded-context-vehicle](/assets/perfil/vehicle-bounded-context.png)
-![bounded-context-post](/assets/perfil/post-bounded-context.png)
+![bounded-context-profile](/assets/chapter-5/profile-boundedcontext.png)
+![bounded-context-plan](/assets/chapter-5/plan-boundedcontext.png)
+![bounded-context-vehicle](/assets/chapter-5/vehicle-bounded-context.png)
+![bounded-context-post](/assets/chapter-5/post-bounded-context.png)
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Durante el presente sprint hemos logrado desplegar el back-end, usando SQLServer y Azure.
 
-![deployment-evidence](/assets/perfil/deployment.png)
+![deployment-evidence](/assets/chapter-5/deployment.png)
 
 Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
@@ -1144,7 +1144,7 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 
 Repositorio Web-Application-EcoMovil:
 
-![Insights](./assets/perfil/insight-back.png) 
+![Insights](assets/chapter-5/insight-back.png) 
 
 ## 5.3. Validation Interviews 
 
@@ -1265,17 +1265,17 @@ Entrevista de validaciones usuarios Universitarios.
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
-| <center>![Andres_Valle](./assets/perfil/validation_valle.png)</center>  | <center>Abel Valle considera que la aplicación cumple con los requisitos sin necesidad de mejoras o funciones adicionales. En la sección de visualización de vehículos, aprecia ver los vehículos claramente y encuentra el diseño intuitivo, sin necesidad de guías para orientarse en los pasos. Sugiere agregar detalles sobre el propietario de cada vehículo publicado. Le agrada la disposición distribuida de los vehículos y percibe la interfaz como funcional y visualmente atractiva.</center>  | 
+| <center>![Andres_Valle](assets/chapter-5/validation_valle.png)</center>  | <center>Abel Valle considera que la aplicación cumple con los requisitos sin necesidad de mejoras o funciones adicionales. En la sección de visualización de vehículos, aprecia ver los vehículos claramente y encuentra el diseño intuitivo, sin necesidad de guías para orientarse en los pasos. Sugiere agregar detalles sobre el propietario de cada vehículo publicado. Le agrada la disposición distribuida de los vehículos y percibe la interfaz como funcional y visualmente atractiva.</center>  | 
 | <center>Timing: 0:05 </center>  | <center>URL: https://acortar.link/UZ35w3 </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
-| <center>![Rodrigo_Garcia](./assets/perfil/validation_garcia.png)</center>  | <center>Rodrigo García ha explorado la aplicación y la encuentra completa en general. Le gustaría que el sistema de rastreo fuera más eficiente. Considera que la aplicación es muy intuitiva y aprecia los detalles de cada vehículo, lo que le brinda una experiencia más personalizada y distintiva en comparación con otras aplicaciones similares. Para él, esta personalización es clave para visualizar los vehículos publicados. También le agradó la interfaz de la aplicación.</center>  | 
+| <center>![Rodrigo_Garcia](assets/chapter-5/validation_garcia.png)</center>  | <center>Rodrigo García ha explorado la aplicación y la encuentra completa en general. Le gustaría que el sistema de rastreo fuera más eficiente. Considera que la aplicación es muy intuitiva y aprecia los detalles de cada vehículo, lo que le brinda una experiencia más personalizada y distintiva en comparación con otras aplicaciones similares. Para él, esta personalización es clave para visualizar los vehículos publicados. También le agradó la interfaz de la aplicación.</center>  | 
 | <center>Timing: 4:19 </center>  | <center>URL: https://acortar.link/UZ35w3</center>  | 
 | **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Rímac</center>  | 
-| <center>![Brissa_Hoyos](./assets/perfil/validation_hoyos.png)</center>  | <center>A Brissa Hoyos le gustó la página y considera que tiene una estructura muy organizada. Destaca la eficiencia y lo completa que es, ya que facilita encontrar cada sección. Le gustaría añadir una función de comunicación directa con el cliente y no eliminaría ningún elemento de la aplicación.</center>  | 
+| <center>![Brissa_Hoyos](assets/chapter-5/validation_hoyos.png)</center>  | <center>A Brissa Hoyos le gustó la página y considera que tiene una estructura muy organizada. Destaca la eficiencia y lo completa que es, ya que facilita encontrar cada sección. Le gustaría añadir una función de comunicación directa con el cliente y no eliminaría ningún elemento de la aplicación.</center>  | 
 | <center>Timing: 8:02 </center>  | <center>URL: https://acortar.link/UZ35w3 </center>  | 
  
 **Entrevista a Adquirientes.**
@@ -1286,17 +1286,17 @@ Entrevista de validaciones usuarios Adquirientes.
 |:---------------:|:-------------------------------:|
 | <center>Edad</center> | <center>22 Años</center> |
 | <center>Distrito</center> | <center>Barcelona</center> |
-| <center>![Camila_Perez](./assets/perfil/validation_perez.png)</center> | <center>Camila Pérez opina que la calidad de los vehículos y la tipografía son adecuadas, siendo comprensibles y bien presentadas. Encuentra que la aplicación es fácil de usar y valora la variedad de vehículos disponibles. Considera que la información sobre el alquiler o la venta es clara, pero le gustaría que se incluyeran comentarios, sugiriendo un apartado de reseñas para guiar a los usuarios.</center> |
+| <center>![Camila_Perez](assets/chapter-5/validation_perez.png)</center> | <center>Camila Pérez opina que la calidad de los vehículos y la tipografía son adecuadas, siendo comprensibles y bien presentadas. Encuentra que la aplicación es fácil de usar y valora la variedad de vehículos disponibles. Considera que la información sobre el alquiler o la venta es clara, pero le gustaría que se incluyeran comentarios, sugiriendo un apartado de reseñas para guiar a los usuarios.</center> |
 | <center>Timing: 12:48 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
-| <center>![Paola_Vasquez](./assets/perfil/validation_vasquez.png)</center> | <center>Paola Vásquez considera que la aplicación es útil y le gusta poder seleccionar vehículos según sus necesidades, promoviendo la sostenibilidad e innovando en ecología. Describe la experiencia como fácil y manejable, cumpliendo con lo esperado. También le agrada la personalización en la búsqueda, especialmente los filtros, que encuentra muy útiles para satisfacer las necesidades tanto de los usuarios como de los vehículos disponibles.</center> |
+| <center>![Paola_Vasquez](assets/chapter-5/validation_vasquez.png)</center> | <center>Paola Vásquez considera que la aplicación es útil y le gusta poder seleccionar vehículos según sus necesidades, promoviendo la sostenibilidad e innovando en ecología. Describe la experiencia como fácil y manejable, cumpliendo con lo esperado. También le agrada la personalización en la búsqueda, especialmente los filtros, que encuentra muy útiles para satisfacer las necesidades tanto de los usuarios como de los vehículos disponibles.</center> |
 | <center>Timing: 19:09 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
-| <center>![Silvia_Flores](./assets/perfil/validation_flores.png)</center> | <center>Silvia Flores considera que la aplicación es muy interactiva y le agrada su diseño ecológico. Opina que la usaría, ya que le parece innovadora, especialmente por los filtros que facilitan la búsqueda de distintos modelos. Sugeriría hacer más visibles los filtros, aunque en general se entiende bien su uso. También señala que la aplicación se adapta a los distintos gustos de cada persona, con variedad en precios y modelos, lo que le parece alineado con la innovación y el enfoque ecológico.</center> |
+| <center>![Silvia_Flores](assets/chapter-5/validation_flores.png)</center> | <center>Silvia Flores considera que la aplicación es muy interactiva y le agrada su diseño ecológico. Opina que la usaría, ya que le parece innovadora, especialmente por los filtros que facilitan la búsqueda de distintos modelos. Sugeriría hacer más visibles los filtros, aunque en general se entiende bien su uso. También señala que la aplicación se adapta a los distintos gustos de cada persona, con variedad en precios y modelos, lo que le parece alineado con la innovación y el enfoque ecológico.</center> |
 | <center>Timing: 23:05 </center> | <center>URL: https://acortar.link/UZ35w3</center> |
 
 ### 5.3.3. Evaluaciones según heurísticas 
@@ -1394,7 +1394,7 @@ Desktop Landing Page
 #### Problema:
 Actualmente, la aplicación carece de un video de introducción que presente al equipo detrás de la aplicación. Esto limita la posibilidad de que los usuarios conozcan mejor a quienes desarrollan el producto, afectando su percepción de confianza y conexión.
 
-![Landing_1](./assets/perfil/problema_1.png)
+![Landing_1](assets/chapter-5/problema_1.png)
 
 #### Recomendación:
 Incluir un video breve en la página "Acerca de nosotros" donde el equipo se presente y explique su misión y valores en relación con la aplicación. Esto permitirá a los usuarios sentirse más conectados y confiados en el servicio ofrecido, al ver quiénes están detrás y cómo comparten sus intereses o preocupaciones.
@@ -1407,7 +1407,7 @@ Incluir un video breve en la página "Acerca de nosotros" donde el equipo se pre
 #### Problema:
 En la Landing Page, se ha utilizado un apóstrofe incorrecto en una palabra, lo que puede dar una impresión negativa al usuario al percibirse como un error de redacción. Esto afecta la claridad del mensaje y reduce la percepción de profesionalidad de la página, pudiendo generar desconfianza en algunos usuarios.
 
-![Landing_2](./assets/perfil/problema_2.png)
+![Landing_2](assets/chapter-5/problema_2.png)
 
 #### Recomendación:
 Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe incorrecto. Es recomendable hacer una revisión ortográfica completa para evitar errores similares en el futuro y asegurar que el contenido sea claro, profesional y de fácil lectura para los usuarios.
@@ -1420,7 +1420,7 @@ Revisar cuidadosamente el texto de la Landing Page y corregir el apóstrofe inco
 #### Problema:
 La aplicación actualmente solo está disponible en un idioma, lo que dificulta el acceso para usuarios que no hablan ese idioma. Esto limita la usabilidad y accesibilidad del sitio, restringiendo su alcance y la posibilidad de atraer a un público más amplio de diferentes países o regiones. La falta de soporte multilingüe puede generar frustración en los usuarios que no comprenden el idioma principal de la plataforma.
 
-![Landing_3](./assets/perfil/problema_3.png)
+![Landing_3](assets/chapter-5/problema_3.png)
 
 #### Recomendación:
 Implementar un sistema de internacionalización (i18n) en la aplicación que permita seleccionar el idioma preferido del usuario. Esto incluiría traducciones precisas de todos los textos de la interfaz, botones y mensajes, asegurando una experiencia de usuario coherente en cada idioma. También se recomienda agregar una opción visible de cambio de idioma en el menú principal o en la cabecera para mejorar la accesibilidad y facilitar el uso de la aplicación para usuarios de diferentes regiones.
@@ -1433,7 +1433,7 @@ Implementar un sistema de internacionalización (i18n) en la aplicación que per
 #### Problema:
 El botón de registro en la interfaz muestra la palabra "Regístrate" sin tilde, apareciendo como "Registrate". Esto representa un error ortográfico que puede afectar la percepción de profesionalidad y cuidado en los detalles de la aplicación. Los errores gramaticales en la interfaz pueden reducir la confianza del usuario en la aplicación, al parecer descuidada o poco profesional.
 
-![Landing_4](./assets/perfil/problema_4.png)
+![Landing_4](assets/chapter-5/problema_4.png)
 
 #### Recomendación:
 Corregir el texto del botón para incluir la tilde en “Regístrate”. Además, es recomendable hacer una revisión completa de la ortografía y gramática en toda la interfaz para garantizar la consistencia y corrección en todos los elementos de texto. Esto contribuirá a una mejor experiencia de usuario y a una percepción más profesional de la plataforma.
@@ -1446,7 +1446,7 @@ Corregir el texto del botón para incluir la tilde en “Regístrate”. Además
 #### Problema:
 La interfaz contiene un botón que no ofrece ninguna funcionalidad adicional ni necesaria para el flujo de usuario. Este botón innecesario crea desorden visual, distrae al usuario y complica la navegación, ya que añade elementos superfluos en la interfaz. La presencia de componentes sin función específica rompe con el principio de minimalismo en el diseño, afectando la claridad y la eficiencia de uso.
 
-![Landing_5](./assets/perfil/problema_5.png)
+![Landing_5](assets/chapter-5/problema_5.png)
 
 #### Recomendación:
 Eliminar el botón innecesario para simplificar la interfaz y mejorar la experiencia de usuario. Revisar la aplicación para identificar otros posibles elementos redundantes o superfluos y mantener únicamente aquellos componentes que aporten valor o funcionalidad clara al usuario. Esto ayudará a lograr un diseño más limpio y fácil de navegar.
@@ -1468,7 +1468,7 @@ Web Application
 #### Problema:
 La proximidad entre los botones de "Log In" en la interfaz puede llevar a errores al usarlos, dificultando que el usuario seleccione el botón correcto con facilidad. Esta falta de espacio adecuado entre los elementos afecta la usabilidad al no seguir los estándares de diseño consistentes que faciliten la interacción.
 
-![Frontend_1](./assets/perfil/frontend_1.png)
+![Frontend_1](assets/chapter-5/frontend_1.png)
 
 #### Recomendación:
 Aumentar la separación entre los botones de "Log In" para reducir la posibilidad de errores de clic y mejorar la precisión en la interacción. Mantener una distancia adecuada entre los elementos interactivos siguiendo las pautas de diseño de usabilidad para mejorar la experiencia del usuario.
@@ -1481,7 +1481,7 @@ Aumentar la separación entre los botones de "Log In" para reducir la posibilida
 #### Problema:
 La interfaz del mapa no es responsiva, lo que genera problemas de visualización en dispositivos móviles y pantallas pequeñas. Este problema afecta la accesibilidad y estética del diseño, ya que los usuarios no pueden visualizar ni interactuar con el mapa de forma eficiente en diferentes tamaños de pantalla.
 
-![Frontend_2](./assets/perfil/frontend_2.png)
+![Frontend_2](assets/chapter-5/frontend_2.png)
 
 #### Recomendación:
 Optimizar el diseño del mapa para que se adapte correctamente a pantallas de diferentes tamaños, especialmente en dispositivos móviles. Implementar un diseño responsivo y minimalista que mantenga la funcionalidad del mapa sin comprometer la claridad visual.
@@ -1494,7 +1494,7 @@ Optimizar el diseño del mapa para que se adapte correctamente a pantallas de di
 #### Problema:
 Los botones de "Rent" y "Buy" en la interfaz no están habilitados o no realizan ninguna acción al ser seleccionados, lo que afecta la eficiencia de uso y genera confusión en el usuario, al no cumplir con las expectativas de navegación y funcionalidad en la aplicación.
 
-![Frontend_3](./assets/perfil/frontend_3.png)
+![Frontend_3](assets/chapter-5/frontend_3.png)
 
 #### Recomendación:
 Activar la funcionalidad de los botones de "Rent" y "Buy" para que cumplan con el propósito esperado y mejoren la experiencia de usuario. Asegurarse de que todos los botones en la interfaz tengan una función clara y accesible.
@@ -1507,7 +1507,7 @@ Activar la funcionalidad de los botones de "Rent" y "Buy" para que cumplan con e
 #### Problema:
 Al intentar hacer clic para acceder a la información de alquiler o compra de un vehículo específico, el enlace o botón no responde, limitando el control y la libertad del usuario para explorar opciones. Esto genera frustración al no poder navegar fluidamente en la plataforma.
 
-![Frontend_4](./assets/perfil/frontend_4.png)
+![Frontend_4](assets/chapter-5/frontend_4.png)
 
 #### Recomendación:
 Activar la función de clic para acceder a la información de alquiler o compra de cada vehículo. Verificar que todos los enlaces y botones críticos estén operativos para facilitar la navegación y otorgar al usuario el control necesario para explorar opciones.
@@ -1516,7 +1516,7 @@ Activar la función de clic para acceder a la información de alquiler o compra 
 
 A continuación, se muestra el video "Video About-the-Product", que destaca el propósito, las ventajas y las características clave de la aplicación. 
 
-![product](./assets/perfil/image_the_product.png)
+![product](assets/chapter-5/image_the_product.png)
 
 Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=Na3BHmdkkm0
 
@@ -1526,7 +1526,7 @@ Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/p
 
 A continuación, se muestra el video "Video About-the-Team".
 
-![Video_About_the_Team](./assets/perfil/video_about_the_team.png)
+![Video_About_the_Team](assets/chapter-5/video_about_the_team.png)
 
 Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=e4aK1I1ep-I&t=12s
 
