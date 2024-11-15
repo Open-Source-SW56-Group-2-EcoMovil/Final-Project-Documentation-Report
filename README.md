@@ -820,7 +820,7 @@ Plan Bounded Context
 
 Post Bounded Context
 
-![PostBC.png](./assets/chapter-4/PostBC.png)
+![PostBC.png](./assets/chapter-4/Post_Bounded.png)
 
 Vehicle Bounded Context
 
