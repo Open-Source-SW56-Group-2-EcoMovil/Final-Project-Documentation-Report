@@ -1755,9 +1755,9 @@ A continuación, se muestra el video "Video About-the-Team".
 
 ![Video_About_the_Team](assets/chapter-5/video_about_the_team.png)
 
-Enlace del video publicado en YouTube: https://www.youtube.com/watch?v=e4aK1I1ep-I&t=12s
+Enlace del video publicado en YouTube: https://youtu.be/UFqRGq8VyIg
 
-Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EaIZ4jlhC2ZPjlgMQEVjyxgB48UarlQYY9jbDfdZrAXf2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eM9pdc
+Enlace del video publicado en Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ESVmq7eIuTdMisUnHizweHUBMSJujUcv6CZkeGVkeDSAeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KRoi8C
 
 # Conclusiones
 
@@ -1817,7 +1817,7 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 | **My JSON Server**                           | [Servidor JSON - EcoMovil](https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil)                                                                                                          |
 | **Conexión del Landing Page con el Front-end** | [Landing Page y Front-end](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                           |
 | **Video About the Product**                  | https://www.youtube.com/watch?v=Na3BHmdkkm0                                                                                                                                                                                                                   |
-| **Video About the Team**                     |  https://www.youtube.com/watch?v=e4aK1I1ep-I                                                                                                                                                                                                                  |
+| **Video About the Team**                     |   https://youtu.be/UFqRGq8VyIg                                                                                                                                                                                                                 |
 | **Deployment Back-End**                     |  https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/                                                                                                                                                                                                                 |
 
 
