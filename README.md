@@ -248,7 +248,7 @@ Un sprint es un intervalo breve y definido durante el cual se completan tareas o
 
 En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landing page. Para organizar y gestionar a los miembros del equipo, se utilizó Trello, una herramienta que permitió dividir las user stories en tareas manejables y asignarlas a los miembros según sus habilidades. El objetivo principal del sprint era desarrollar completamente la landing page, asegurando que fuera tanto atractiva como funcional.
 
-![Trello](assets/chapter-5/image4.png) 
+![Trello](assets/chapter-5/Sprint-1.png)
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -408,8 +408,6 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 | landing-page | gh-pages       | f8695f0          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
 | landing-page | gh-pages       | c74bd50          |   Auto-generated commit         | David Gallo |   Sep 1, 2024  |
 
-
-
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
@@ -554,16 +552,13 @@ El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño
           <td style="font-weight: bold;"> Sum of Story Points </td>
           <td> 26 <td>
       </tr>
-
-
   </table>
-
 
 ### 5.2.2.2. Sprint Backlog 2
 
 En el backlog del segundo sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del front-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
 
-![trello](assets/chapter-5/Trello.jpg)
+![Trello](assets/chapter-5/Sprint-2.png)
 
 Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
@@ -1024,7 +1019,9 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
 </tbody>
 </table>
 
-![Trello](assets/chapter-5/sprint_backlog_3.png)
+![Trello](assets/chapter-5/Sprint-3.png)
+
+Enlace del Sprint 3: https://trello.com/invite/b/6723f3fa38d9a3b46f930233/ATTI49b7970eb0dbb929c08c831aa8e5a1deCEE8E93E/ecomovil-product-backlog-tb2-sprint-3
 
 Link del Trello: https://trello.com/b/Wi4vZd7O/ecomovil-product-backlog-sprint-3
 
