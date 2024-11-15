@@ -816,7 +816,7 @@ Profile Bounded Context
 
 Plan Bounded Context
 
-![PlanBC.png](./assets/chapter-4/PlanBC.png)
+![EcoMovilSquad](/assets/chapter-4/Bounded_Plans2.png)
 
 Post Bounded Context
 
