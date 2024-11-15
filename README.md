@@ -634,4 +634,6 @@ El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio
 </table>
 <br>
 
-Enlace del Product Backlog: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1 
+![Product_Backlog](/assets/sprint1/Sprint-1.png)
+
+Enlace: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTId873230114b58cf1283849f79a6c16f00E74F0C5/ecomovil-product-backlog-tb1-sprint-1
