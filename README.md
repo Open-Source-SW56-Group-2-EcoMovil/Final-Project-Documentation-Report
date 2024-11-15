@@ -250,96 +250,165 @@ En el primer sprint backlog, el equipo se propuso comenzar y finalizar la landin
 
 ![Trello](assets/chapter-5/Sprint-1.png)
 
-<table style="width:400px; height:100px;"> 
+<table style="width:100%; height:auto; border-collapse: collapse;">
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 1 </th>
    </tr>
-   <tr >
+   <tr>
      <th colspan="4"> User Story </th>
-     <th colspan="7"> Work-Item /Task</th>
+     <th colspan="7"> Work-Item / Task </th>
    </tr>
    <tr>
-     <th > Id </th>
+     <th> Id </th>
      <th colspan="3"> Title </th>
      <th> Id </th>
-     <th > Title </th>
+     <th> Title </th>
      <th> Description </th>
      <th> Estimation (Hours) </th>
-     <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To- Review / Done) </th>
+     <th> Assigned To </th>
+     <th> Status (To-do / In-Process / To-Review / Done) </th>
    </tr>
    <tr>
       <th> US01 </th>
      <th colspan="3"> Barra de navegación en la Landing Page </th>
-      <th> W01  </th>
-     <th> Navbar Section</th>
-     <th> Desarrollar el navbar de la landing page de EcoMovil con distintas opciones que nos redirige a otros apartados  </th>
-     <th> 1  </th>
+      <th> UT01 </th>
+     <th> Sección de la barra de navegación </th>
+     <th> Desarrollar el navbar de la landing page de EcoMovil y asegurar que las opciones de navegación sean intuitivas </th>
+     <th> 1 </th>
      <th> Erick Vasquez </th> 
      <th> Done </th>
    </tr>
-    <tr>
+   <tr>
+      <th> US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> UT02</th>
+     <th> Mejoras en la barra de navegación </th>
+     <th> Mejorar la interacción del usuario con el navbar añadiendo animaciones o transiciones suaves </th>
+     <th> 5 </th>
+     <th> Erick Vasquez </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
       <th> US02 </th>
      <th colspan="3"> Sección Hero en la Landing Page </th>
-      <th> W03  </th>
-     <th> Hero Section </th>
-     <th> Agregar un apartado con una imagen y un título llamativo al ingresar al landing page de EcoMovil   </th>
-     <th> 0.8  </th>
+      <th> UT03</th>
+     <th> Sección de Hero </th>
+     <th> Crear una sección destacada con una imagen impactante y un título atractivo en la landing page </th>
+     <th> 8 </th>
+     <th> David Gallo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US02 </th>
+     <th colspan="3"> Sección Hero en la Landing Page </th>
+      <th> UT04 </th>
+     <th> Ajustes de la sección de Hero </th>
+     <th> Ajustar el diseño y la responsividad de la sección hero para diferentes tamaños de pantalla </th>
+     <th> 4 </th>
      <th> David Gallo </th> 
      <th> Done </th>
    </tr>
    <tr>
       <th> US03 </th>
      <th colspan="3"> Sección Footer en la Landing Page </th>
-      <th> W05  </th>
-     <th> Footer Section </th>
-     <th> Implementar la sección del footer con las direcciones a al información del equipo y los términos de nuestra página web  </th>
-     <th> 1.2  </th>
+      <th> UT05 </th>
+     <th> Sección de pie de página </th>
+     <th> Desarrollar la sección del pie de página con enlaces a la información sobre el equipo y los términos de uso </th>
+     <th> 2 </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
    <tr>
-      <th> US04</th>
+      <th> US03 </th>
      <th colspan="3"> Sección Footer en la Landing Page </th>
-      <th> W06  </th>
-     <th> About us Section </th>
-     <th> Implementar la sección "About us" donde se muestra la información adicional. </th>
-     <th> 0.8  </th>
+      <th> UT06 </th>
+     <th> Funcionalidad del pie de página </th>
+     <th> Asegurar que los enlaces en el pie de página sean funcionales y estén correctamente organizados </th>
+     <th> 5 </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
-    </tr>
    <tr>
-      <th> US05</th>
-     <th colspan="3"> Sección de Beneficios en la Landing Page</th>
-      <th> W07  </th>
-     <th> Beneficios Section </th>
-     <th> Implementar la sección Beneficios donde se muestran las caracteristicas principales.   </th>
-     <th> 0.7  </th>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT07 </th>
+     <th> Sobre nosotros sección </th>
+     <th> Implementar la sección "About us" para ofrecer detalles sobre el equipo y la misión de la empresa </th>
+     <th> 8 </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US04 </th>
+     <th colspan="3"> Sección "About Us" en la Landing Page </th>
+      <th> UT08 </th>
+     <th> Sobre nosotras Contenido de la sección </th>
+     <th> Agregar contenido detallado sobre la historia y misión de la empresa en la sección "About us" </th>
+     <th> 7 </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
+      <th> UT09</th>
+     <th> Sección Beneficios </th>
+     <th> Desarrollar una sección que resuma las características clave y beneficios de EcoMovil </th>
+     <th> 7 </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
    </tr>
-    <tr>
+   <tr>
+      <th> US05 </th>
+     <th colspan="3"> Sección de Beneficios en la Landing Page </th>
+      <th> UT10 </th>
+     <th> Disposición de la sección de beneficios </th>
+     <th> Ajustar el diseño y los elementos visuales para una mejor presentación de los beneficios </th>
+     <th> 6 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
       <th> US06 </th>
      <th colspan="3"> Sección de Contacto en la Landing Page </th>
-      <th> W09  </th>
-     <th> Contact Section </th>
-     <th> Agregar información del equipo para que los usuarios puedan contactarnos. </th>
-     <th> 0.5 </th>
+      <th> UT11 </th>
+     <th> Sección de contacto </th>
+     <th> Agregar la información de contacto del equipo para facilitar la comunicación con los usuarios </th>
+     <th> 5 </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
    </tr>
-    <tr>
-        <th> US07 </th>
-         <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
-          <th> W10  </th>
-         <th> Landing page responsive Section </th>
-         <th> Agregar la funcionalidad de responsividad a toda la aplicación web.   </th>
-         <th> 0.6 </th>
-         <th> Juan Calisaya </th> 
-         <th> Done </th>
-    </tr>
+   <tr>
+      <th> US06 </th>
+     <th colspan="3"> Sección de Contacto en la Landing Page </th>
+      <th> UT12 </th>
+     <th> Formulario de contacto </th>
+     <th> Implementar un formulario de contacto funcional en la sección </th>
+     <th> 5 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT13 </th>
+     <th> Página de destino adaptable </th>
+     <th> Asegurar que la landing page sea completamente funcional y visualmente adecuada en diferentes dispositivos y tamaños de pantalla </th>
+     <th> 6 </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> US07 </th>
+     <th colspan="3"> Landing Page Responsive con diferentes dispositivos </th>
+      <th> UT14 </th>
+     <th> Optimización para dispositivos móviles </th>
+     <th> Optimizar el diseño de la página para una mejor experiencia en dispositivos móviles </th>
+     <th> 4 </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
 </table>
 
 ### 5.2.1.3. Development Evidence for Sprint Review
@@ -584,75 +653,145 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
    <tr>
       <th> US16 </th>
      <th colspan="3"> Sección Crear una cuenta en EcoMovil </th>
-      <th> W01  </th>
-     <th> Create-User Section</th>
+      <th> TK01  </th>
+     <th> Sección de creación de usuarios</th>
      <th> Desarrollar el Create-User de nuestro front-end de EcoMovil nos permite que el usuario pueda registrarse en la página. </th>
      <th> 1  </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
-    <tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK02 </th>
+     <th> Validación de formulario </th>
+     <th> Implementar validaciones de los formularios para garantizar que la información ingresada sea correcta antes de registrarse. </th>
+     <th> 5 </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
       <th> US17 </th>
      <th colspan="3"> Sección Inicio de sesión en EcoMovil </th>
-      <th> W03  </th>
-     <th> Login Section </th>
+      <th> TK03  </th>
+     <th> Sección de inicio de sesión</th>
      <th> Implementar el inicio de sesión en nuestro front-end ayuda a que el usuario pueda entrar con su cuenta ya creada. </th>
-     <th> 0.8  </th>
+     <th> 8  </th>
+     <th> Beth Oneglio </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK04 </th>
+     <th> Persistencia de la sesión </th>
+     <th> Implementar la persistencia de sesión para mantener al usuario logueado mientras navega en la aplicación. </th>
+     <th> 4 </th>
      <th> Beth Oneglio </th> 
      <th> Done </th>
    </tr>
    <tr>
       <th> US18 </th>
      <th colspan="3"> Sección Botón “Elija un plan” </th>
-      <th> W05  </th>
-     <th> Button "Elija un plan" Section </th>
+      <th> TK05  </th>
+     <th> Botón Sección "Elija un plan" </th>
      <th> La implementación del botón es para que los universitarios puedan comprar una suscripción y registrar sus vehículos menores para que los usuarios puedan alquilarlos. </th>
-     <th> 1.2  </th>
+     <th> 2  </th>
+     <th> Erick </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK06 </th>
+     <th> Flujo de suscripción </th>
+     <th> Implementar el flujo de suscripción para que los usuarios puedan seleccionar un plan y proceder con el pago. </th>
+     <th> 7 </th>
      <th> Erick </th> 
      <th> Done </th>
    </tr>
    <tr>
       <th> US19</th>
      <th colspan="3"> Sección Mensaje de “Pago exitoso” </th>
-      <th> W06  </th>
-     <th> Message "Pago exitoso" Section </th>
+      <th> TK07  </th>
+     <th> Mensaje Sección "Pago exitoso" </th>
      <th> Implementar el mensaje es para confirmar al usuario que su pago se realizó correctamente. </th>
-     <th> 0.8  </th>
+     <th> 8  </th>
      <th> Erick </th> 
      <th> Done </th>
    </tr>
-    </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK08</th>
+     <th>Confirmación de pago </th>
+     <th> Implementar la lógica de confirmación de pago para asegurar que el usuario reciba un mensaje tras completar su transacción. </th>
+     <th> 5 </th>
+     <th> Erick </th> 
+     <th> Done </th>
+   </tr>
    <tr>
       <th> US20</th>
      <th colspan="3"> Implementación de API para Búsqueda Geolocalizada de Vehículos</th>
-      <th> W07  </th>
-     <th> Geolocation Section </th>
+      <th> TK09  </th>
+     <th> Sección de geolocalización </th>
      <th> Implementar una API para Búsqueda Geolocalizada de Vehículos permite que los clientes puedan visualizar en qué punto están los vehículos alquilados. </th>
-     <th> 0.7  </th>
+     <th> 7  </th>
      <th> David </th> 
      <th> Done </th>
    </tr>
-    <tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th>TK10 </th>
+     <th> Precisión de geolocalización </th>
+     <th> Mejorar la precisión de la geolocalización para garantizar que los usuarios puedan ver la ubicación exacta de los vehículos. </th>
+     <th> 1 </th>
+     <th> David </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
       <th> US21 </th>
      <th colspan="3"> Sección Historial de Vehículos </th>
-      <th> W09  </th>
-     <th> History Vehicle Section </th>
+      <th> TK11  </th>
+     <th> Sección de Historia del Vehículo </th>
      <th> Agregar un historial de vehículos permite visualizar todos los vehículos que tiene un universitario en alquiler y por alquilar. </th>
-     <th> 0.5 </th>
+     <th> 5 </th>
      <th> Juan Calisaya </th> 
      <th> Done </th>
    </tr>
-    <tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th>TK12 </th>
+     <th> Filtros de historial </th>
+     <th> Implementar filtros de búsqueda para que los usuarios puedan ordenar su historial de vehículos por fecha, estado o tipo de vehículo. </th>
+     <th> 4 </th>
+     <th> Juan Calisaya </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
         <th> US23 </th>
          <th colspan="3"> Foro de Contactos </th>
-          <th> W10  </th>
-         <th> Contact Forum Section </th>
+          <th> TK13  </th>
+         <th> Sección del foro de contacto </th>
          <th> Implementar el foro de contacto ayuda a visualizar las opiniones que tienen los clientes sobre los vehículos. </th>
-         <th> 5.0 </th>
+         <th> 5 </th>
          <th> Mathias Hidalgo </th> 
          <th> Done </th>
     </tr>
+   <tr>
+      <th> </th>
+     <th colspan="3"></th>
+      <th> TK14 </th>
+     <th>Interacción en el foro </th>
+     <th> Mejorar la interacción en el foro permitiendo que los usuarios puedan responder y valorar los comentarios. </th>
+     <th> 2 </th>
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
 </table>
+
 
 ### 5.2.2.3. Development Evidence for Sprint Review
 
