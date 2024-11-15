@@ -885,7 +885,6 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
 
   </table>
   
-
 ### 5.2.3.2. Sprint Backlog 3
 
 En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar la creación y despliegue del back-end. Para coordinar y gestionar al equipo, se utilizó Trello, una herramienta que facilitó la división de las user stories en tareas más manejables, asignándolas a los miembros según sus habilidades. El objetivo principal del sprint fue desarrollar y desplegar un front-end que fuera tanto atractivo como funcional.
@@ -975,7 +974,7 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
          <td>Implementar l&oacute;gica para filtrar veh&iacute;culos por ubicaci&oacute;n en el backend.</td>
          <td>5</td>
          <td>Mathias Hidalgo</td>
-         <td>To-do</td>          
+         <td>Done</td>          
       </tr>      
    </tr>
    <tr>
@@ -997,7 +996,7 @@ En el backlog del tercer sprint, el equipo se comprometió a iniciar y completar
          <td>Implementar notificaciones en backend para alertar al usuario sobre respuestas.</td>
          <td>5</td>
          <td>Beth Oneglio</td>
-         <td>To-do</td>          
+         <td>Done</td>          
       </tr>      
    </tr>
    <tr>
@@ -1798,27 +1797,40 @@ Tailwind CSS. (n.d.). Tailwind CSS documentation. Recuperado de https://v2.tailw
 
 # Anexos
 
-| Sección                                      | Enlace                                                                                                                                                                                                                           |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Product Backlog TB1**                      | [Trello - Product Backlog TB1](https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTIe08b35a362a9b35b5e0152e660a454e79586C6AA/ecomovil-product-backlog-tb1)                                                                  |
-| **Organización en GitHub**                   | [Repositorio GitHub - Open Source SW56 Group](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                           |
-| **Landing Page de EcoMovil**                 | [Página de Inicio de EcoMovil](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                       |
-| **Product Backlog TP1**                      | [Trello - Product Backlog TP1](https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp)                                                                                                                                         |
-| **Lean UX Canvas**                           | [Lean UX Canvas - EcoMovil](https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                                     |
-| **Entrevistas de Usuario**                   | [Link a Entrevistas](https://acortar.link/uMdFvk)                                                                                                                                                                                 |
-| **To-Be Mapping**                            | [Mapa de Procesos - EcoMovil](https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053)                    |
-| **General Style Guidelines**                 | [Guía de Estilo General - EcoMovil](https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?node-id=0-1&t=MRGVDtnKEXSGH8Cy-1)                                                                                               |
-| **Landing Page Wireframe**                   | [Wireframe de la Landing Page](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                                           |
-| **Landing Page Mock-up**                     | [Mock-up de la Landing Page](https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories)                                                                                                                             |
-| **Web Applications UX/UI Design**            | [Diseño UX/UI - Mock-ups](https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1)                                                                                                        |
-| **Landing Page Deployment**                  | [Despliegue de la Landing Page](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                      |
-| **Video del Product Backlog TB1**            | [Video de Introducción al TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EesqdEsTMD1OojOu3R3mNcYBIm0dqUSJWg66hAF8Db7ZHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEWvCF)                                                                                                    |
-| **Video del Product Backlog TP1**            | [Video de Introducción al TP1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/Ecdct2y6JdJKi09iLeeWPAsBk0XPFIV3uJCPXULBShtLyw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=a7Tt5K)                                   |
-| **My JSON Server**                           | [Servidor JSON - EcoMovil](https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil)                                                                                                          |
-| **Conexión del Landing Page con el Front-end** | [Landing Page y Front-end](https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/)                                                                                                                           |
-| **Video About the Product**                  | https://www.youtube.com/watch?v=Na3BHmdkkm0                                                                                                                                                                                                                   |
-| **Video About the Team**                     |   https://youtu.be/UFqRGq8VyIg                                                                                                                                                                                                                 |
-| **Deployment Back-End**                     |  https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/                                                                                                                                                                                                                 |
+To-Be Mapping: https://miro.com/welcomeonboard/ZmlsbFNLbkZuM3Q1NlBVd3ZqcUMzZWFsbGxKaFZRUGJmWjJBUWo0VnlOQUVROThlc0t5SzZEcVh0SWdYWjVJVXwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=116933273053
 
+Enlace del Lean Ux Canvas: https://www.canva.com/design/DAGOEXan6rE/pJTlXgHJBmfhVfeAe3pFgA/editutm_content=DAGOEXan6rE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-(Agregar el link del Trello, del despliegue del Fronted, de la conexion del frontend y back, del landing page, del despliegue del back)
+Enlace de Entrevistas: https://acortar.link/uMdFvk
+
+Enlace Web Applications UX/UI Design: https://www.figma.com/design/WATKX4mlDctquazhZwgUB9/Mock-ups?node-id=0-1&t=XIYVHrHcrTEoUWbN-1
+
+Enlace General Style Guidelines: https://www.figma.com/design/GnGrty8UpoDQsPbgKYdQ7E/EcoMovil?node-id=0-1&t=MRGVDtnKEXSGH8Cy-1
+
+Enlace Landing Page Mock-up: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
+
+Enlace Landing Page Wireframes: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
+
+Enlace del Sprint 1: https://trello.com/b/Z7J4iU6N/ecomovil-sprint-1
+
+Enlace del Sprint 2: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
+
+Enlace del Sprint 3: https://trello.com/b/asdWkojU/ruedarent-sprint-3
+
+Enlace del Sprint 4:
+
+Enlace Video About the Team: https://youtu.be/UFqRGq8VyIg
+
+Enlace Video About the Product: https://www.youtube.com/watch?v=Na3BHmdkkm0 
+
+Enlace My JSON Server: https://my-json-server.typicode.com/Open-Source-SW56-Group-2-EcoMovil/Json-Server-EcoMovil
+
+Enlace de la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
+
+Enlace del Frontend: 
+
+Enlace de la conexión del Frontend y Backend:
+
+Enlace del Landing Page:
+
+Enlace del Backend:
