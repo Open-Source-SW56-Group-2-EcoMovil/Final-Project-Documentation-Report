@@ -1970,3 +1970,5 @@ Enlace de la conexión del Frontend y Backend:
 Enlace del Landing Page:
 
 Enlace del Backend:
+
+Enlace del Diagrama de Base de Datos: https://lucid.app/lucidchart/e06db2ed-90a9-4d18-9e17-cdc374991f9c/edit?viewport_loc=415%2C329%2C2176%2C904%2C0_0&invitationId=inv_9c243997-a36f-4661-8b63-4d07191632d1
