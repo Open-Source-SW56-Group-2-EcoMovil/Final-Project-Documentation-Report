@@ -792,7 +792,6 @@ Link del Trello: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
    </tr>
 </table>
 
-
 ### 5.2.2.3. Development Evidence for Sprint Review
 
 Como evidencia del sprint review, se presenta una tabla que muestra los commits realizados durante este segundo sprint. Dado que se acordó trabajar en los ajustes finales de la landing page y en el frontend de la aplicación web, se incluyen commits de varios repositorios en los que se realizaron dichas tareas.
@@ -1015,8 +1014,6 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
           <td style="font-weight: bold;"> Sum of Story Points </td>
           <td> 34 <td>
       </tr>
-
-
   </table>
   
 ### 5.2.3.2. Sprint Backlog 3
@@ -1354,7 +1351,7 @@ El Sprint #4 comienza el 13/11/2024 y tiene como objetivo completar, integrar y 
 
 En el backlog del cuarto sprint, el equipo finalizó tanto el front end como el back end de la aplicación web. Para organizar y gestionar al equipo se utilizó Trello, que facilitó dividir las historias de usuario en tareas manejables y asignarlas a los distintos miembros según sus habilidades.
 
-(Imagen)
+![Sprint-4](assets/chapter-5/Sprint_4.png) 
 
 Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9369ef45e8ff47bfdc01816f4e798ABCAD3B0/ecomovil-product-backlog-sprint-4
 
@@ -1387,7 +1384,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear sección "About Product"</td>
          <td style="border: 1px solid black;">Crear un componente modular en Angular para la sección "About the Product"</td>
          <td style="border: 1px solid black;">4</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1395,7 +1392,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Refinar diseño responsivo</td>
          <td style="border: 1px solid black;">Ajustar los estilos CSS del componente para que sea completamente responsivo en diferentes dispositivos</td>
          <td style="border: 1px solid black;">2</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1405,7 +1402,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear sección "About the Team"</td>
          <td style="border: 1px solid black;">Crear un componente modular en Angular para la sección "About the Team"</td>
          <td style="border: 1px solid black;">4</td>
-         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Beth Oneglio</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1413,7 +1410,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Refinar diseño responsivo</td>
          <td style="border: 1px solid black;">Ajustar los estilos CSS del componente para que sea completamente responsivo en diferentes dispositivos</td>
          <td style="border: 1px solid black;">2</td>
-         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Beth Oneglio</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1423,7 +1420,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Configuración e integración del selector de idioma</td>
          <td style="border: 1px solid black;">Implementar la configuración de internacionalización usando @ngx-translate/core. Integrar el componente de selección de idioma y conectar la lógica para cambiar y persistir dinámicamente el idioma.</td>
          <td style="border: 1px solid black;">2</td>
-         <td style="border: 1px solid black;">Juan</td>
+         <td style="border: 1px solid black;">Juan Calisaya</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1431,7 +1428,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Implementar traducciones en toda la aplicación</td>
          <td style="border: 1px solid black;">Reemplaza los textos estáticos de la aplicación con claves de traducción de los archivos JSON, asegurando que todas las páginas y componentes reflejen el idioma seleccionado.</td>
          <td style="border: 1px solid black;">7</td>
-         <td style="border: 1px solid black;">Mathias</td>
+         <td style="border: 1px solid black;">Mathias Hidalgo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1441,7 +1438,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Implementar lógica de búsqueda y filtrado en el servicio</td>
          <td style="border: 1px solid black;">Diseña y ajusta la entidad Vehicle con atributos como tipo, precio, ubicación y disponibilidad. Configura el repositorio con métodos personalizados para búsquedas avanzadas usando Spring Data JPA.</td>
          <td style="border: 1px solid black;">6</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1449,7 +1446,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear endpoints RESTful para buscar vehículos</td>
          <td style="border: 1px solid black;">Implementa controladores RESTful con endpoints para buscar y filtrar vehículos, incluyendo parámetros de consulta (tipo, precioMin, precioMax, ubicación) y valida las entradas de los usuarios.</td>
          <td style="border: 1px solid black;">5</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1457,7 +1454,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Implementar pruebas unitarias y de integración</td>
          <td style="border: 1px solid black;">Crea pruebas unitarias para el servicio y pruebas de integración para los endpoints. Simula escenarios con datos de ejemplo y valida que los resultados sean precisos para las combinaciones de filtros aplicados.</td>
          <td style="border: 1px solid black;">8</td>
-         <td style="border: 1px solid black;">Juan</td>
+         <td style="border: 1px solid black;">Juan Calisaya</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1467,7 +1464,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Implementar el agregado User en la Domain Layer</td>
          <td style="border: 1px solid black;">Crear el agregado User con atributos como id, nombre, email, password (encriptado) y role. Implementar lógica de negocio, como validaciones de datos y reglas para crear nuevos usuarios.</td>
          <td style="border: 1px solid black;">5</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1475,7 +1472,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear el servicio de registro en la Application Layer</td>
          <td style="border: 1px solid black;">Implementar un servicio en la capa de aplicación para manejar la lógica del registro de usuarios, incluyendo validaciones y uso del repositorio para persistencia.</td>
          <td style="border: 1px solid black;">5</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1483,7 +1480,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear el endpoint de registro en la Interfaces Layer</td>
          <td style="border: 1px solid black;">Exponer un endpoint RESTful para que los usuarios puedan registrarse enviando su nombre, email y contraseña. Manejar errores como email duplicado o entradas inválidas.</td>
          <td style="border: 1px solid black;">4</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1493,7 +1490,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear el servicio de autenticación en la Application Layer</td>
          <td style="border: 1px solid black;">Implementar un servicio que valide las credenciales del usuario contra los datos almacenados. Generar un token JWT para los usuarios autenticados.</td>
          <td style="border: 1px solid black;">5</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1501,7 +1498,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear el endpoint de inicio de sesión en la Interfaces Layer</td>
          <td style="border: 1px solid black;">Exponer un endpoint RESTful para que los usuarios inicien sesión enviando su email y contraseña. Manejar respuestas para credenciales inválidas o usuarios no registrados.</td>
          <td style="border: 1px solid black;">5</td>
-         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">David Gallo</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
@@ -1509,7 +1506,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Crear pruebas unitarias y de integración para autenticación</td>
          <td style="border: 1px solid black;">Implementar pruebas unitarias para los servicios de autenticación y pruebas de integración para los endpoints de inicio de sesión y acceso a rutas protegidas.</td>
          <td style="border: 1px solid black;">8</td>
-         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Beth Oneglio</td>
          <td style="border: 1px solid black;">Done</td>
       </tr>
    </tbody>
@@ -1541,9 +1538,21 @@ Para la entrega del Sprint 4, nos centramos en alcanzar un desarrollo completo. 
 
 En el Sprint 4, se completó el desarrollo tanto del frontend como del backend de la aplicación web, incluyendo su versión responsiva, en español e inglés. A continuación, se presentan algunas evidencias.
 
-(Que sean divididas por US)
-(Subir las capturas del I18N)
-(Subir las capturas del Backend)
+- US24:
+
+![US24](assets/chapter-5/US_24.jpg) 
+
+- US28:
+
+![US28](assets/chapter-5/US_28.jpg) 
+
+![](assets/chapter-5/Backend_1.jpg) 
+
+![](assets/chapter-5/Backend_2.jpg) 
+
+![](assets/chapter-5/Backend_3.jpg) 
+
+![](assets/chapter-5/Backend_4.jpg) 
 
 Enlace para ver el video que explica los logros alcanzados en el Sprint: (Subir el enlace de la exposición final)
 
@@ -1552,14 +1561,59 @@ Enlace para ver el video que explica los logros alcanzados en el Sprint: (Subir 
 Para el Sprint 4, se planificó desarrollar únicamente el front-end y back-end. Inicialmente, se utilizó un servidor JSON local. El back-end fue creado y está vinculado al front-end para realizar consultas y obtener datos.
 
 - Web Service:
+
+- Universitario:
   
-| Endpoint | Operaciones | Parámetros | URL | 
-|----------|-------------|------------|-----|
-|          |             |            |     |                 
+| **Endpoint**      | **Operaciones**    | **Parametros**  | **URL**  |
+|-------------------|-------------------|------------------|-----------|
+| **Profile**       | GET               | {id}           | api/v1/profiles/{id}    |
+|                   | POST              | No tiene.      | api/v1/profiles    |
+|                   | PUT               | {id}           | api/v1/profiles/{id}    |
+| **Reservation**   | GET               | No tiene.      | api/v1/reservations   |
+|                   | GET               | {ProfileId}    | api/v1/reservations/{ProfileId}    |
+|                   | POST              | No tiene.      | api/v1/reservations    |
+|                   | PUT               | {id}           | api/v1/reservations?ProfileId={id}    |
+|                   | DELETE            | {id}           | api/v1/reservations/{id}    |
+| **Posts**         | GET               | No tiene.      | api/v1/posts    |
+|                   | GET               | {name}         | api/v1/posts/{name}    |
+|                   | POST              | No tiene.      | api/v1/posts    |
+|                   | PUT               | {id}           | api/v1/posts/{id}   |
+|                   | DELETE            | {id}           | api/v1/posts/{id}   |
+               
+- Adquiriente:
+
+| **Endpoint**      | **Operaciones**    | **Parametros**  | **URL**  |
+|-------------------|-------------------|------------------|-----------|
+| **Vehicles**       | GET               | No tiene.      | api/v1/vehicles                           |
+|                    | GET               | {id}           | api/v1/vehicles/{id}                           |
+|                    | POST              | No tiene.      | api/v1/vehicles                           |
+|                    | PUT               | {id}           | api/v1/vehicles/{id}                           |
+|                    | DELETE            | {id}           | api/v1/vehicles/{id}                           |
+| **Profile**        | GET               | {id}           | api/v1/profiles/{id}                           |
+|                    | POST              | No tiene.      | api/v1/profiles                           |
+|                    | PUT               | {id}           | api/v1/profiles/{id}                           |
+| **Reservation**    | GET               | No tiene.      | api/v1/reservations                           |
+|                    | GET               | {ProfileId}    | api/v1/reservations/{ProfileId}                           |
+|                    | POST              | No tiene.      | api/v1/reservations                           |
+|                    | PUT               | {id}           | api/v1/reservations?ProfileId={id}                           |
+|                    | DELETE            | {id}           | api/v1/reservations/{id}                           |
+| **Posts**          | GET               | No tiene.      | api/v1/posts                           |
+|                    | GET               | {word}         | api/v1/posts/{word}                           |
+|                    | POST              | No tiene.      | api/v1/posts                           |
+|                    | PUT               | {id}           | api/v1/posts/{id}                           |
+|                    | DELETE            | {id}           | api/v1/posts/{id}                    |
+
+
 
 - Web Service Images:
 
-(Capturas del Swagger)
+![](assets/chapter-5/Backend_1.jpg) 
+
+![](assets/chapter-5/Backend_2.jpg) 
+
+![](assets/chapter-5/Backend_3.jpg) 
+
+![](assets/chapter-5/Backend_4.jpg) 
 
 Enlace del repositorio: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Front-End-EcoMovil
 
@@ -1576,17 +1630,59 @@ En la entrega del cuarto sprint, se completó y desplegó el landing page funcio
 
 - Capturas de la pantalla Landing Page:
 
- (Imagenes)
+![](assets/chapter-5/Landing_1.jpg) 
+
+![](assets/chapter-5/Landing_2.jpg) 
+
+![](assets/chapter-5/Landing_3.jpg) 
+
+![](assets/chapter-5/Landing_4.jpg) 
 
  - Web Application Front-end:
 
 (Agregar imagenes del deploy del Frontend)
-(Imagenes del Front-end)
+
+![](assets/chapter-5/Imagen_1.jpg) 
+
+![](assets/chapter-5/Imagen_2.jpg) 
+
+![](assets/chapter-5/Imagen_3.jpg) 
+
+![](assets/chapter-5/Imagen_4.jpg) 
+
+![](assets/chapter-5/Imagen_5.jpg) 
+
+![](assets/chapter-5/Imagen_6.jpg) 
+
+![](assets/chapter-5/Imagen_7.jpg) 
+
+![](assets/chapter-5/Imagen_8.jpg) 
+
+![](assets/chapter-5/Imagen_9.jpg) 
+
+![](assets/chapter-5/Imagen_10.jpg) 
+
+![](assets/chapter-5/Imagen_11.jpg) 
+
+![](assets/chapter-5/Imagen_12.jpg) 
+
+![](assets/chapter-5/Imagen_13.jpg) 
 
 - Web Services Back-end:
 
-(Agregar el despliegue del Backend)
-(Capturas del Backend)
+Ultimo despliegue del Web Service: 
+
+(Falta imagen)
+
+- Capturas de pantalla del Web Application:
+
+![](assets/chapter-5/Backend_1.jpg) 
+
+![](assets/chapter-5/Backend_2.jpg) 
+
+![](assets/chapter-5/Backend_3.jpg) 
+
+![](assets/chapter-5/Backend_4.jpg) 
 
 5.2.4.8. Team Collaboration Insights during Sprint
 
