@@ -1381,30 +1381,136 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
    </thead>
    <tbody>
       <tr>
-         <td rowspan="3" style="border: 1px solid black;"></td>
-         <td rowspan="3" style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
+         <td rowspan="2" style="border: 1px solid black;">US29</td>
+         <td rowspan="2" style="border: 1px solid black;">Implementar una sección de video para "About the Product"</td>
+         <td style="border: 1px solid black;">TK28</td>
+         <td style="border: 1px solid black;">Crear sección "About Product"</td>
+         <td style="border: 1px solid black;">Crear un componente modular en Angular para la sección "About the Product"</td>
+         <td style="border: 1px solid black;">4</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
+         <td style="border: 1px solid black;">TK29</td>
+         <td style="border: 1px solid black;">Refinar diseño responsivo</td>
+         <td style="border: 1px solid black;">Ajustar los estilos CSS del componente para que sea completamente responsivo en diferentes dispositivos</td>
+         <td style="border: 1px solid black;">2</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
-         <td style="border: 1px solid black;"></td>
+         <td rowspan="2" style="border: 1px solid black;">US30</td>
+         <td rowspan="2" style="border: 1px solid black;">Implementar una sección de video para "About the Team"</td>
+         <td style="border: 1px solid black;">TK30</td>
+         <td style="border: 1px solid black;">Crear sección "About the Team"</td>
+         <td style="border: 1px solid black;">Crear un componente modular en Angular para la sección "About the Team"</td>
+         <td style="border: 1px solid black;">4</td>
+         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK31</td>
+         <td style="border: 1px solid black;">Refinar diseño responsivo</td>
+         <td style="border: 1px solid black;">Ajustar los estilos CSS del componente para que sea completamente responsivo en diferentes dispositivos</td>
+         <td style="border: 1px solid black;">2</td>
+         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td rowspan="2" style="border: 1px solid black;">US31</td>
+         <td rowspan="2" style="border: 1px solid black;">Implementar la internacionalización de la Aplicación</td>
+         <td style="border: 1px solid black;">TK32</td>
+         <td style="border: 1px solid black;">Configuración e integración del selector de idioma</td>
+         <td style="border: 1px solid black;">Implementar la configuración de internacionalización usando @ngx-translate/core. Integrar el componente de selección de idioma y conectar la lógica para cambiar y persistir dinámicamente el idioma.</td>
+         <td style="border: 1px solid black;">2</td>
+         <td style="border: 1px solid black;">Juan</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK33</td>
+         <td style="border: 1px solid black;">Implementar traducciones en toda la aplicación</td>
+         <td style="border: 1px solid black;">Reemplaza los textos estáticos de la aplicación con claves de traducción de los archivos JSON, asegurando que todas las páginas y componentes reflejen el idioma seleccionado.</td>
+         <td style="border: 1px solid black;">7</td>
+         <td style="border: 1px solid black;">Mathias</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td rowspan="3" style="border: 1px solid black;">US26</td>
+         <td rowspan="3" style="border: 1px solid black;">Buscar vehículos (API)</td>
+         <td style="border: 1px solid black;">TK34</td>
+         <td style="border: 1px solid black;">Implementar lógica de búsqueda y filtrado en el servicio</td>
+         <td style="border: 1px solid black;">Diseña y ajusta la entidad Vehicle con atributos como tipo, precio, ubicación y disponibilidad. Configura el repositorio con métodos personalizados para búsquedas avanzadas usando Spring Data JPA.</td>
+         <td style="border: 1px solid black;">6</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK35</td>
+         <td style="border: 1px solid black;">Crear endpoints RESTful para buscar vehículos</td>
+         <td style="border: 1px solid black;">Implementa controladores RESTful con endpoints para buscar y filtrar vehículos, incluyendo parámetros de consulta (tipo, precioMin, precioMax, ubicación) y valida las entradas de los usuarios.</td>
+         <td style="border: 1px solid black;">5</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK36</td>
+         <td style="border: 1px solid black;">Implementar pruebas unitarias y de integración</td>
+         <td style="border: 1px solid black;">Crea pruebas unitarias para el servicio y pruebas de integración para los endpoints. Simula escenarios con datos de ejemplo y valida que los resultados sean precisos para las combinaciones de filtros aplicados.</td>
+         <td style="border: 1px solid black;">8</td>
+         <td style="border: 1px solid black;">Juan</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td rowspan="3" style="border: 1px solid black;">US16</td>
+         <td rowspan="3" style="border: 1px solid black;">Crear una cuenta en EcoMovil</td>
+         <td style="border: 1px solid black;">TK37</td>
+         <td style="border: 1px solid black;">Implementar el agregado User en la Domain Layer</td>
+         <td style="border: 1px solid black;">Crear el agregado User con atributos como id, nombre, email, password (encriptado) y role. Implementar lógica de negocio, como validaciones de datos y reglas para crear nuevos usuarios.</td>
+         <td style="border: 1px solid black;">5</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK38</td>
+         <td style="border: 1px solid black;">Crear el servicio de registro en la Application Layer</td>
+         <td style="border: 1px solid black;">Implementar un servicio en la capa de aplicación para manejar la lógica del registro de usuarios, incluyendo validaciones y uso del repositorio para persistencia.</td>
+         <td style="border: 1px solid black;">5</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK39</td>
+         <td style="border: 1px solid black;">Crear el endpoint de registro en la Interfaces Layer</td>
+         <td style="border: 1px solid black;">Exponer un endpoint RESTful para que los usuarios puedan registrarse enviando su nombre, email y contraseña. Manejar errores como email duplicado o entradas inválidas.</td>
+         <td style="border: 1px solid black;">4</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td rowspan="3" style="border: 1px solid black;">US17</td>
+         <td rowspan="3" style="border: 1px solid black;">Inicio de sesión en EcoMovil</td>
+         <td style="border: 1px solid black;">TK40</td>
+         <td style="border: 1px solid black;">Crear el servicio de autenticación en la Application Layer</td>
+         <td style="border: 1px solid black;">Implementar un servicio que valide las credenciales del usuario contra los datos almacenados. Generar un token JWT para los usuarios autenticados.</td>
+         <td style="border: 1px solid black;">5</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK41</td>
+         <td style="border: 1px solid black;">Crear el endpoint de inicio de sesión en la Interfaces Layer</td>
+         <td style="border: 1px solid black;">Exponer un endpoint RESTful para que los usuarios inicien sesión enviando su email y contraseña. Manejar respuestas para credenciales inválidas o usuarios no registrados.</td>
+         <td style="border: 1px solid black;">5</td>
+         <td style="border: 1px solid black;">David</td>
+         <td style="border: 1px solid black;">Done</td>
+      </tr>
+      <tr>
+         <td style="border: 1px solid black;">TK42</td>
+         <td style="border: 1px solid black;">Crear pruebas unitarias y de integración para autenticación</td>
+         <td style="border: 1px solid black;">Implementar pruebas unitarias para los servicios de autenticación y pruebas de integración para los endpoints de inicio de sesión y acceso a rutas protegidas.</td>
+         <td style="border: 1px solid black;">8</td>
+         <td style="border: 1px solid black;">Beth</td>
+         <td style="border: 1px solid black;">Done</td>
       </tr>
    </tbody>
 </table>
