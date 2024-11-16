@@ -2149,13 +2149,13 @@ Enlace Landing Page Mock-up: https://github.com/orgs/Open-Source-SW56-Group-2-Ec
 
 Enlace Landing Page Wireframes: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
 
-Enlace del Sprint 1: https://trello.com/b/Z7J4iU6N/ecomovil-sprint-1
+Enlace del Backlog 1: https://trello.com/b/Z7J4iU6N/ecomovil-sprint-1
 
-Enlace del Sprint 2: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
+Enlace del Backlog 2: https://trello.com/b/48W0tEjF/ecomovil-product-backlog-tp
 
-Enlace del Sprint 3: https://trello.com/b/asdWkojU/ruedarent-sprint-3
+Enlace del Backlog 3: https://trello.com/b/asdWkojU/ruedarent-sprint-3
 
-Enlace del Sprint 4:
+Enlace del Backlog 4: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9369ef45e8ff47bfdc01816f4e798ABCAD3B0/ecomovil-product-backlog-sprint-4
 
 Enlace Video About the Team: https://youtu.be/UFqRGq8VyIg
 
@@ -2169,7 +2169,7 @@ Enlace del Frontend:
 
 Enlace de la conexión del Frontend y Backend:
 
-Enlace del Landing Page:
+Enlace del Landing Page: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
 Enlace del Backend:
 
