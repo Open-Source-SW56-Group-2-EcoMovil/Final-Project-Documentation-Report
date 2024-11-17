@@ -1656,6 +1656,44 @@ Enlace del repositorio: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Fro
 |            |        |           |                |      |                       |                    |
 |            |        |           |                |      |                       |                    |
 
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------- | ------------------ |
+| Back-End-Ecomovil | feature/i18n-internationalization       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya |    | Nov 14, 2024         | 
+| Back-End-Ecomovil | feature/i18n-internationalization       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya |     |Nov 14, 2024    |
+| Back-End-Ecomovil | feature/i18n-internationalization       | fb74fc1         | feat: updated package.json | Juan Calisaya |    | Nov 14, 2024       |
+| Back-End-Ecomovil | feature/i18n-internationalization       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya |    | Nov 14, 2024   |
+| Back-End-Ecomovil | feature/i18n-internationalization       | 389ac85             |  feat(fake-api): setup fake api configuration.               | Juan Calisaya |    |  Nov 14, 2024 |
+| Back-End-Ecomovil | feature/i18n-internationalization       | 8b29671              |    feat: updated i18n          | Juan Calisaya |     |     Nov 15, 2024 |
+| Back-End-Ecomovil | feature/i18n-internationalization       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |     | Nov 16, 2024 |
+| Back-End-Ecomovil | develop       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya |    | Nov 14, 2024         | 
+| Back-End-Ecomovil | develop       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya |     |Nov 14, 2024    |
+| Back-End-Ecomovil | develop       | fb74fc1         | feat: updated package.json | Juan Calisaya |    | Nov 14, 2024       |
+| Back-End-Ecomovil | develop       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya |    | Nov 14, 2024                |
+| Back-End-Ecomovil | develop       | 389ac85             |  feat(fake-api): setup fake api configuration.                   | Juan Calisaya |    |  Nov 14, 2024 |
+| Back-End-Ecomovil | develop       | 8b29671              |    feat: updated i18n          | Juan Calisaya |     |     Nov 15, 2024 |
+| Back-End-Ecomovil | develop       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |     | Nov 16, 2024 |
+| Back-End-Ecomovil | develop       | 3b9b52b  |   feat: added information for deployment  | David Gallo |     |   Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 10b6576  |  feat: added vehicles  | David Gallo |     | Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 080bc99  |  feat: add vehicle| David Gallo |     | Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 4b931fe  |  feat: added type, name, year   | David Gallo |    |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | cf207f2  |     feat: added price | David Gallo |     | Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | aac51e0  |        feat: finished vehicles  | David Gallo |    |   Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | ce45beb  |   feat: fixed endpoints   | David Gallo |     | Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | c770a5d  |   feat: plan2       | David Gallo |     | Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | c16cb7e  |     feat: added iam without swagger token config         | David Gallo |     | Nov 14, 2024 |
+| Back-End-Ecomovil | develop       | 8a4774c  |   feat: deleted iam      | David Gallo |     | Nov 14, 2024  |
+| Back-End-Ecomovil | develop       | 416416f  |     feat: added iam | David Gallo |      |  Nov 14, 2024 |
+| Back-End-Ecomovil | develop       | e2788d0  |  feat: added facade for Plan  | David Gallo |     | Nov 15, 2024|
+| Back-End-Ecomovil | develop       | 631e20f  |   feat: added getAllStudentsByPlanId      | David Gallo |     | Nov 15, 20244 |
+| Back-End-Ecomovil | develop       | aedaa88  |  feat: added student facade to connect with vehicle      | David Gallo |     |  Nov 15, 2024 |
+| Back-End-Ecomovil | develop       | 9c7a41b  | feat: added reservations        | David Gallo |     |  Nov 15, 2024  |
+| Back-End-Ecomovil | develop       | 6c1c30d  |   feat: added reservations conection with vehicles     | David Gallo |     | Nov 15, 2024         | 
+| Back-End-Ecomovil | develop       | 186a5e5  | feat: added ExternalProfileService to forum bounded context | David Gallo |     | Nov 15, 2024    |
+| Back-End-Ecomovil | develop       | 7d10993  | feat: added update reservation | David Gallo |     | Nov 15, 2024       |
+| Back-End-Ecomovil | develop       | 5ee3027  |  feat: added update to plan   | David Gallo |     |    Nov 16, 2024  |
+| Back-End-Ecomovil | develop       | 492a1a1  |  test(auth): add unit tests for JWT-based login functionality     | Beth Oneglio |      |  Nov 16, 2024  |
+| Back-End-Ecomovil | develop       | 52f9ef   |  test(auth): add unit tests for JWT-based login functionality       | Beth Oneglio |      |  Nov 16, 2024  |
+
 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 En la entrega del cuarto sprint, se completó y desplegó el landing page funcional, cumpliendo con las user stories establecidas. Además, se desplegaron tanto la aplicación web como el back-end en su totalidad.
