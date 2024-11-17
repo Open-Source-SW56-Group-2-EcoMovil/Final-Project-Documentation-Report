@@ -1555,14 +1555,13 @@ Como evidencia del Sprint Review, se muestra una tabla de commits realizados en 
 | Back-End-Ecomovil | develop       | 492a1a1  |  test(auth): add unit tests for JWT-based login functionality     | Beth Oneglio |    Nov 16, 2024  |
 | Back-End-Ecomovil | develop       | 52f9ef   |  test(auth): add unit tests for JWT-based login functionality       | Beth Oneglio |    Nov 16, 2024  |
 
-
 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 Para la entrega del Sprint 4, nos centramos en alcanzar un desarrollo completo. Por ello, la fase de "Testing" se orientó a implementar las necesidades de los usuarios, priorizando secciones que fueran intuitivas y fáciles de comprender.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
-| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Back-End-EcoMovil | "develop" | test(auth): add unit tests for JWT-based login functionality | 16/11/2024 |                     |                     |
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Back-End-EcoMovil | "develop" | test(auth) | test(auth): add unit tests for JWT-based login functionality | 16/11/2024 |                     |
 
 ![](assets/chapter-5/Testing_1.jpg) 
 
@@ -1636,8 +1635,6 @@ Para el Sprint 4, se planificó desarrollar únicamente el front-end y back-end.
 |                    | POST              | No tiene.      | api/v1/posts                           |
 |                    | PUT               | {id}           | api/v1/posts/{id}                           |
 |                    | DELETE            | {id}           | api/v1/posts/{id}                    |
-
-
 
 - Web Service Images:
 
