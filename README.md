@@ -832,545 +832,163 @@ Reservation Bounded Context
 
 ### 4.7.2. Class Dictionary
 
-**Acquirers Bounded Context**
-
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">Observer</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
   </tr>
-   <tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
     <td colspan="1" valign="top">id</td>
-    <td colspan="2" valign="top"> Identificador único del observador</td>
+    <td colspan="2" valign="top">Unique identifier of the observer</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top">observadorId</td>
-    <td colspan="2" valign="top">  Identificador adicional del suscriptor</td>
+    <td colspan="1" valign="top">observerId</td>
+    <td colspan="2" valign="top">Additional identifier for the subscriber</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
+    <td colspan="1" valign="top" width="40%">Method</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
-   <tr>
+  <tr>
     <td colspan="1" valign="top">update()</td>
-    <td colspan="2" valign="top">Método que se llama cuando hay una actualización en el sujeto observado.</td>
+    <td colspan="2" valign="top">Method called when there is an update in the observed subject.</td>
   </tr>
-<table>
+</table>
 
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">AcquirersObserver</td>
-
+  </tr>
   <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
+    <td colspan="1" valign="top" width="40%">Method</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
-   <tr>
+  <tr>
     <td colspan="1" valign="top">update()</td>
-    <td colspan="2" valign="top">Implementación del método update específico para gestionar actualizaciones relacionadas con alquileres o compras.</td>
+    <td colspan="2" valign="top">Implementation of the update method specific to handling updates related to rentals or purchases.</td>
   </tr>
-<table>
+</table>
 
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">Rental or Buy</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del alquiler o compra</td>
+    <td colspan="2" valign="top">Unique identifier of the rental or purchase</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">startDate</td>
-    <td colspan="2" valign="top">Fecha de inicio del alquiler o compra</td>
+    <td colspan="2" valign="top">Start date of the rental or purchase</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">endDate</td>
-    <td colspan="2" valign="top">Fecha de fin del alquiler</td>
+    <td colspan="2" valign="top">End date of the rental</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">status</td>
-    <td colspan="2" valign="top"> Estado del alquiler o compra (activo, terminado, espera)</td>
+    <td colspan="2" valign="top">Status of the rental or purchase (active, completed, pending)</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top">totalCost </td>
-    <td colspan="2" valign="top">Costo total del alquiler o compra</td>
+    <td colspan="1" valign="top">totalCost</td>
+    <td colspan="2" valign="top">Total cost of the rental or purchase</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
+    <td colspan="1" valign="top" width="40%">Method</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
-   <tr>
+  <tr>
     <td colspan="1" valign="top">startRental()</td>
-    <td colspan="2" valign="top">Método para crear un nuevo alquiler o compra.</td>
+    <td colspan="2" valign="top">Method to create a new rental or purchase.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">endRental()</td>
-    <td colspan="2" valign="top"> Método para finalizar un alquiler o compra.</td>
+    <td colspan="2" valign="top">Method to end a rental or purchase.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">cancelRent()</td>
-    <td colspan="2" valign="top"> Método para cancelar un alquiler o compra.</td>
+    <td colspan="2" valign="top">Method to cancel a rental or purchase.</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">calculateCost()</td>
-    <td colspan="2" valign="top">Método para calcular el costo final.</td>
+    <td colspan="2" valign="top">Method to calculate the final cost.</td>
   </tr>
-<table>
+</table>
 
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">Vehicle</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
   </tr>
-<tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del vehículo</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">status</td>
-    <td colspan="2" valign="top">Disponibilidad del vehículo</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">priceperHour</td>
-    <td colspan="2" valign="top">Precio del vehículo</td>
-  </tr>
-
   <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
-   <tr>
+  <tr>
+    <td colspan="1" valign="top">Id</td>
+    <td colspan="2" valign="top">Unique identifier of the vehicle</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">status</td>
+    <td colspan="2" valign="top">Availability of the vehicle</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">priceperHour</td>
+    <td colspan="2" valign="top">Price of the vehicle</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Method</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
     <td colspan="1" valign="top">isitAvailability()</td>
-    <td colspan="2" valign="top"> Método para verificar la disponibilidad del vehículo.</td>
+    <td colspan="2" valign="top">Method to check the availability of the vehicle.</td>
   </tr>
-<tr>
+  <tr>
     <td colspan="1" valign="top">changeStatus(status:String)</td>
-    <td colspan="2" valign="top"> Método para cambiar el status del vehículo</td>
+    <td colspan="2" valign="top">Method to change the status of the vehicle</td>
   </tr>
-<tr>
+  <tr>
     <td colspan="1" valign="top">updatePrice()</td>
-    <td colspan="2" valign="top"> Método para cambiar el precio del vehículo</td>
+    <td colspan="2" valign="top">Method to update the price of the vehicle</td>
   </tr>
-<table>
+</table>
 
 <table border="0" width="50%">
   <tr>
     <td colspan="2" valign="top">UniversityStudent</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
   </tr>
-   <tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
     <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top"> Identificador único del universitario</td>
+    <td colspan="2" valign="top">Unique identifier of the university student</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">name</td>
-    <td colspan="2" valign="top"> Nombre del universitario</td>
+    <td colspan="2" valign="top">Name of the university student</td>
   </tr>
   <tr>
     <td colspan="1" valign="top">email</td>
-    <td colspan="2" valign="top"> Información de contacto electrónico del universitario</td>
+    <td colspan="2" valign="top">Email contact information of the university student</td>
   </tr>
   <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
+    <td colspan="1" valign="top" width="40%">Method</td>
+    <td colspan="2" valign="top">Description</td>
   </tr>
-   <tr>
+  <tr>
     <td colspan="1" valign="top">updateOwnerInfo()</td>
-    <td colspan="2" valign="top">Método para actualizar la información del universitario.</td>
+    <td colspan="2" valign="top">Method to update the student's information.</td>
   </tr>
-<tr>
-    <td colspan="1" valign="top">addVehicle()</td>
-    <td colspan="2" valign="top">Método para agregar un vehículo del universitario.</td>
-  </tr>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Acquirers History</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del historial de alquileres o compras.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">Rentals and purchases</td>
-    <td colspan="2" valign="top">Lista de alquileres o compras asociados al adquiriente.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">showDetail()</td>
-    <td colspan="2" valign="top">Método para obtener el historial de alquileres o compras.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Brand</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único de la marca del vehículo.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">name</td>
-    <td colspan="2" valign="top"> Nombre de la marca</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Model</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del modelo del vehículo.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">name</td>
-    <td colspan="2" valign="top">Nombre del modelo</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">type</td>
-    <td colspan="2" valign="top">Versión del modelo</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">updateType()</td>
-    <td colspan="2" valign="top">Método para actualizar el tipo del vehículo.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Acquirers</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del adquiriente.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">name</td>
-    <td colspan="2" valign="top">Nombre del adquiriente.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">email</td>
-    <td colspan="2" valign="top">Información de correo electrónico del adquiriente.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">phoneNumber</td>
-    <td colspan="2" valign="top">Número telefónico del arrendatario del adquiriente.</td>
-  </tr>
-
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">AcquirersHistory</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del historial de alquileres o compras.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">Adquirentes</td>
-    <td colspan="2" valign="top">Lista de alquileres o compras asociados al adquiriente.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">showDetail()</td>
-    <td colspan="2" valign="top">Método para obtener el historial de alquileres o compras.</td>
-  </tr>
-<table>
-<br>
-User Bounded Context
-<br>
-  
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">User</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del usuario</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">name</td>
-    <td colspan="2" valign="top">Nombre del usuario</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">email</td>
-    <td colspan="2" valign="top">Información del correo electrónico del usuario</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">phoneNumber</td>
-    <td colspan="2" valign="top">Número de contacto del usuario</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">password</td>
-    <td colspan="2" valign="top">Contraseña del usuario</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">LogIn(email: string, password: string)</td>
-    <td colspan="2" valign="top">Método para ingresar a la cuenta de un usuario.</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">UpdateProfeil(name: string, email: string, phoneNumber: string)</td>
-    <td colspan="2" valign="top">Método para actualizar la información de un usuario.</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">LogOut()</td>
-    <td colspan="2" valign="top">Método para salir de la cuenta de un usuario</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Acquirers</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">vehiclesRentedorBuyer</td>
-    <td colspan="2" valign="top">Cantidad de vehiculos rentados o comprados.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">UserFactory</td>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">createUser(): User</td>
-    <td colspan="2" valign="top">Método abstracto que define la creación de nuevos tipos de usuarios.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">UniversityStudentFactory</td>
-
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">createUser()</td>
-    <td colspan="2" valign="top">Método para crear nuevos objetos de tipo Owner.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">AcquirersFactory</td>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">createUser()</td>
-    <td colspan="2" valign="top">Método para crear nuevos objetos. </td>
-  </tr>
-<table>
-<br>
-Payment Bounded Context
-<br>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Payment</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del pago</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">amount</td>
-    <td colspan="2" valign="top">Monto del pago</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">TransactionDate</td>
-    <td colspan="2" valign="top">Fecha en la que se realizó el pago</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">status</td>
-    <td colspan="2" valign="top">Estado del pago (Exitoso)</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">processPayment()</td>
-    <td colspan="2" valign="top">Método para procesar el pago</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">PaymentMethod</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del método del pago.</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">type</td>
-    <td colspan="2" valign="top">Tipo de método de pago</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">validateMethod()</td>
-    <td colspan="2" valign="top">Método para validar la información del método de pago.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Vehicle</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del vehículo</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">brand</td>
-    <td colspan="2" valign="top">Marca del vehículo</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">priceperHour</td>
-    <td colspan="2" valign="top">Precio del vehículo</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">calculateCostRent(duration: int, durationType: string)</td>
-    <td colspan="2" valign="top">Método para obtener la cantidad total del precio del servicio del vehículo.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Plan</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Atributo</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">Id</td>
-    <td colspan="2" valign="top">Identificador único del plan</td>
-  </tr>
-<tr>
-    <td colspan="1" valign="top">#publicaciones</td>
-    <td colspan="2" valign="top">Cantidad de publicaciones permitidas</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del plan.</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Cachimbo</td>
-
-  <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del "Plan cachimbo".</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Universitario</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del "Plan universitario".</td>
-  </tr>
-<table>
-
-<table border="0" width="50%">
-  <tr>
-    <td colspan="2" valign="top">Graduado</td>
-    <tr>
-    <td colspan="1" valign="top" width="40%">Método</td>
-    <td colspan="2" valign="top">Descripción</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top">calculatePrice()</td>
-    <td colspan="2" valign="top">Método para obtener el costo del "Plan graduado".</td>
-  </tr>
-<table>
+</table>
 
 ## 4.8. Database Design
 
