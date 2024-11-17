@@ -487,6 +487,51 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
     </td>
      <td>3</td>
 </tr>
+<tr> 
+    <td>US30</td> 
+    <td>Implementar una sección de video para "About the Product"</td> 
+    <td>Como usuario, quiero recibir notificaciones de pago exitoso, para asegurarme de que todo está correcto. Implementar una sección de video para "About the Product"
+</td> 
+    <td> 
+    Escenario: Visualizar video de "Acerca del Producto"
+    Dado El usuario está en la página de "Acerca del Producto" (frontend)
+    Cuando Visualiza la sección de video
+    Entonces el sistema muestra el video correctamente con controles visibles (frontend)
+    Y el video se reproduce correctamente al hacer clic en el botón de reproducción (frontend)
+    Y el video tiene una duración máxima de 3 minutos (frontend)
+    </td>
+     <td>4</td>
+</tr>
+<tr> 
+    <td>US31</td> 
+    <td>Implementar una sección de video para "About the Team"</td> 
+    <td>Como usuario quiero ver un video sobre el equipo, para conocer mejor al equipo detrás del producto.
+</td> 
+    <td> 
+    Escenario: Visualizar video de "Acerca del Equipo" 
+    Dado que El usuario está en la página de "Acerca del Equipo" (frontend) 
+    Cuando Visualiza la sección de video 
+    Entonces el sistema muestra el video correctamente con controles visibles (frontend) 
+    Y el video se reproduce correctamente al hacer clic en el botón de reproducción (frontend) 
+    Y el video tiene una duración máxima de 3 minutos (frontend)
+    </td>
+    <td>4</td>
+</tr>
+</tr>
+<tr> 
+    <td>US32</td> 
+    <td>Implementar la internacionalización de la Aplicación</td> 
+    <td>Como usuario, quiero poder cambiar el idioma de la aplicación para usar la aplicación en el idioma que me resulte más cómodo.
+</td> 
+    <td> 
+    Escenario: Cambiar idioma de la aplicación
+     Dado el usuario está en cualquier página de la aplicación (frontend)
+     Cuando el usuario selecciona el idioma "<idioma>" en el menú de idiomas
+     Entonces el sistema cambia el idioma de la aplicación a "<idioma>" (frontend)
+     Y todos los textos en la interfaz se actualizan correctamente al idioma seleccionado (frontend)
+    </td>
+    <td>4</td>
+</tr>
  </tbody>
 </table>
 
