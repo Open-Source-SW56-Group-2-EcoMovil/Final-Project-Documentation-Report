@@ -1379,7 +1379,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
    </thead>
    <tbody>
       <tr>
-         <td rowspan="2" style="border: 1px solid black;">US29</td>
+         <td rowspan="2" style="border: 1px solid black;">US32</td>
          <td rowspan="2" style="border: 1px solid black;">Implementar una sección de video para "About the Product"</td>
          <td style="border: 1px solid black;">TK28</td>
          <td style="border: 1px solid black;">Crear sección "About Product"</td>
@@ -1397,7 +1397,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
-         <td rowspan="2" style="border: 1px solid black;">US30</td>
+         <td rowspan="2" style="border: 1px solid black;">US31</td>
          <td rowspan="2" style="border: 1px solid black;">Implementar una sección de video para "About the Team"</td>
          <td style="border: 1px solid black;">TK30</td>
          <td style="border: 1px solid black;">Crear sección "About the Team"</td>
@@ -1415,7 +1415,7 @@ Enlace del Trello: https://trello.com/invite/b/6735240cb8e0131932666410/ATTIfbe9
          <td style="border: 1px solid black;">Done</td>
       </tr>
       <tr>
-         <td rowspan="2" style="border: 1px solid black;">US31</td>
+         <td rowspan="2" style="border: 1px solid black;">US30</td>
          <td rowspan="2" style="border: 1px solid black;">Implementar la internacionalización de la Aplicación</td>
          <td style="border: 1px solid black;">TK32</td>
          <td style="border: 1px solid black;">Configuración e integración del selector de idioma</td>
@@ -1562,9 +1562,11 @@ Para la entrega del Sprint 4, nos centramos en alcanzar un desarrollo completo. 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
-|            |        |           |                |                     |                     |
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Back-End-EcoMovil | "develop" | test(auth): add unit tests for JWT-based login functionality | 16/11/2024 |                     |                     |
 
-(Subir capturas del Testing)
+![](assets/chapter-5/Testing_1.jpg) 
+
+![](assets/chapter-5/Testing_2.jpg) 
 
 5.2.4.5. Execution Evidence for Sprint Review
 
