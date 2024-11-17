@@ -1519,52 +1519,42 @@ Como evidencia del Sprint Review, se muestra una tabla de commits realizados en 
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Front-End-Ecomovil | main       | bfd8076         | initial commit       | David Gallo | Sep 16, 2024         | 
-| Front-End-Ecomovil | main       | e01d04a         | feat(main): Added packages for Angular Material, primeflex, tailwindcss and i18n | David Gallo | Sep 16, 2024    |
-| Front-End-Ecomovil | main       | cfad3b1         | feat: added header component for acquirer and Student | David Gallo| Sep 16, 2024       |
-| Front-End-Ecomovil | main       | 7d81c3f   |feat(vehicle-section): add vehicle-section component         | David Gallo| Sep 16, 2024                |
-| Front-End-Ecomovil | main       | 0f88d27             |  feat(fake-api): setup fake api configuration.                   | David Gallo|  Sep 18, 2024 |
-| Front-End-Ecomovil | contact-forum       | aa74bd2              |    feat: add feactures-contact-forum          | Mathias Hidalgo |      Sep 20, 2024 |
-| Front-End-Ecomovil | log-in       | 43fee81  |  feat: add log in     | Beth Oneglio |  Sep 19, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer      | 3920ff8  |   feat: add dashboard component  | Erick Vasquez |   Sep 23, 2024|
-| Front-End-Ecomovil | planes-profileAcquirer       | 570aaef  |  feat: add profileAcquirer component  | Erick Vasquez | Sep 23, 2024|
-| Front-End-Ecomovil | planes-profileAcquirer       | df680b1  |  feat: add confirmation component| Erick Vasquez | Sep 23, 2024|
-| Front-End-Ecomovil | planes-profileAcquirer       | e832ad4   |  feat: update db.json   | Erick Vasquez | Sep 23, 2024|
-| Front-End-Ecomovil | planes-profileAcquirer       | 0f960b4    |     feat: add profile-page component | Erick Vasquez | Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 98d085e |        feat: update routes  | Erick Vasquez |  Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer      | 2a22d45 |   fix: delete unused imports   | Erick Vasquez | Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 6ae8312  |   feature: update routes       | Erick Vasquez | Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 736f5a9   |     fix: delete unused imports         | Erick Vasquez |  Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 5f46c1a |   feature: add plan-item & plan-list components      | Erick Vasquez | Sep 23, 2024  |
-| Front-End-Ecomovil | planes-profileAcquirer      | f7a7f0d |     feature: add payment component | Erick Vasquez |    Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | aa7233d |  feature: add payment Service Shared  | Erick Vasquez |Sep 23, 2024|
-| Front-End-Ecomovil | planes-profileAcquirer      | db9fd87 |   feature: add planes-page component      | Erick Vasquez |  Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer     | 0b65553|  feature: add global variables      | Erick Vasquez |   Sep 23, 2024 |
-| Front-End-Ecomovil | planes-profileAcquirer       | 09d5c98 | feature: update routes        | Erick Vasquez |   Sep 23, 2024  |
-| Front-End-Ecomovil | planes-profileAcquirer       | db7ddf9        |   feature: add payment-page.component      | Erick Vasquez | Sep 23, 2024         | 
-| Front-End-Ecomovil | planes-profileAcquirer       | e578368        | feature: add paypal script | Erick Vasquez | Sep 23, 2024    |
-| Front-End-Ecomovil | planes-profileAcquirer       | 8949cce      | feature: update routes | Erick Vasquez | Sep 23, 2024       |
-| Front-End-Ecomovil | planes-profileAcquirer      | 0e4e6a5      |  feature: update db.json   | Erick Vasquez |   Sep 23, 2024  |
-| Front-End-Ecomovil | planes-profileAcquirer     | d03086c         |  feature: add validation to profile form     | Erick Vasquez |   Sep 23, 2024  |
-| Front-End-Ecomovil | profile-university-student       | 7da6ae    |  feat: added markers        | David Gallo |   Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student       | 81c37bd      |  feat(interactive-map): Added more markers and new values to entity    | David Gallo| Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student       | 0f0c36d|  feat(interactive-map): add router       | David Gallo |   Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student       | dd1d6b0|  feat: added localization to vehicle post component       | David Gallo|   Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student     | 99bb5ed   |  eat(vehicle-post): add commentaries   | David Gallo|   Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student       | 14d53d4     |   feat(vehicle-details): add vehicle-details component        | David Gallo|   Sep 19, 2024  |
-| Front-End-Ecomovil | profile-university-student       | 8fa0f80       |   featvehicle-details: added stars component for vehicle details    | David Gallo|   Sep 19, 2024 |
-| Front-End-Ecomovil | profile-university-student       | 07dc164  | feat(vehicle-details): change stars review distribution  | David Gallo|   Sep 19, 2024 |
-| Front-End-Ecomovil | register-acquirer      | e35baed       |      feat: add register acquirer.      | Beth Oneglio |  Sep 19, 2024  |
-| Front-End-Ecomovil | register-university-student      | b6f895  |   feat: add register university page component.| Beth Oneglio |   Sep 19, 2024  |
-| Front-End-Ecomovil | vehicles-choose    | d13329 |  feat: add vehiclesAcquirers component| Erick Vasquez|   Sep 24, 2024  |
-| Front-End-Ecomovil | profile-university-student    | 4680ab7 |feat(profile): update db.json with university student and acquirer profiles |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | profile-university-student    | 297c474 |feat(auth): create class user.entity |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | profile-university-student    | 69d5443 |feat(user): implemented user service |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | profile-university-student    | ca74814 |feat(pages): implemented profile university component |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | profile-university-student    | 32ac7a4 |feat(profile): add path profile in router |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | filter-acquirer    | 2711518 | feat(server): update db.json for filter |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | filter-acquirer    | bc48403 | feat(server): update db.json for filter(2) |Juan Calisaya|   Sep 24, 2024  |
-| Front-End-Ecomovil | filter-acquirer    | d604484 | feat(filter): implement filter acquirer component |Juan Calisaya|   Sep 24, 2024  |
+| Front-End-Ecomovil | feature/i18n-internationalization       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya | Nov 14, 2024         | 
+| Front-End-Ecomovil | feature/i18n-internationalization       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya | Nov 14, 2024    |
+| Front-End-Ecomovil | feature/i18n-internationalization       | fb74fc1         | feat: updated package.json | Juan Calisaya | Nov 14, 2024       |
+| Front-End-Ecomovil | feature/i18n-internationalization       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya | Nov 14, 2024   |
+| Front-End-Ecomovil | feature/i18n-internationalization       | 389ac85             |  feat(fake-api): setup fake api configuration.                   | Juan Calisaya |  Nov 14, 2024 |
+| Front-End-Ecomovil | feature/i18n-internationalization       | 8b29671              |    feat: updated i18n          | Juan Calisaya |      Nov 15, 2024 |
+| Front-End-Ecomovil | feature/i18n-internationalization       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |  Nov 16, 2024 |
+| Front-End-Ecomovil | develop       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya | Nov 14, 2024         | 
+| Front-End-Ecomovil | develop       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya | Nov 14, 2024    |
+| Front-End-Ecomovil | develop       | fb74fc1         | feat: updated package.json | Juan Calisaya | Nov 14, 2024       |
+| Front-End-Ecomovil | develop       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya | Nov 14, 2024                |
+| Front-End-Ecomovil | develop       | 389ac85             |  feat(fake-api): setup fake api configuration.                   | Juan Calisaya |  Nov 14, 2024 |
+| Front-End-Ecomovil | develop       | 8b29671              |    feat: updated i18n          | Juan Calisaya |      Nov 15, 2024 |
+| Front-End-Ecomovil | develop       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |  Nov 16, 2024 |
+| Back-End-Ecomovil | develop       | 3b9b52b  |   feat: added information for deployment  | David Gallo |    Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 10b6576  |  feat: added vehicles  | David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 080bc99  |  feat: add vehicle| David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | 4b931fe  |  feat: added type, name, year   | David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | cf207f2  |     feat: added price | David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | aac51e0  |        feat: finished vehicles  | David Gallo |   Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | ce45beb  |   feat: fixed endpoints   | David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | c770a5d  |   feat: plan2       | David Gallo |  Nov 13, 2024 |
+| Back-End-Ecomovil | develop       | c16cb7e  |     feat: added iam without swagger token config         | David Gallo |  Nov 14, 2024 |
+| Back-End-Ecomovil | develop       | 8a4774c  |   feat: deleted iam      | David Gallo | Nov 14, 2024  |
+| Back-End-Ecomovil | develop       | 416416f  |     feat: added iam | David Gallo |    Nov 14, 2024 |
+| Back-End-Ecomovil | develop       | e2788d0  |  feat: added facade for Plan  | David Gallo |Nov 15, 2024|
+| Back-End-Ecomovil | develop       | 631e20f  |   feat: added getAllStudentsByPlanId      | David Gallo | Nov 15, 20244 |
+| Back-End-Ecomovil | develop       | aedaa88  |  feat: added student facade to connect with vehicle      | David Gallo |   Nov 15, 2024 |
+| Back-End-Ecomovil | develop       | 9c7a41b  | feat: added reservations        | David Gallo |   Nov 15, 2024  |
+| Back-End-Ecomovil | develop       | 6c1c30d  |   feat: added reservations conection with vehicles     | David Gallo | Nov 15, 2024         | 
+| Back-End-Ecomovil | develop       | 186a5e5  | feat: added ExternalProfileService to forum bounded context | David Gallo | Nov 15, 2024    |
+| Back-End-Ecomovil | develop       | 7d10993  | feat: added update reservation | David Gallo | Nov 15, 2024       |
+| Back-End-Ecomovil | develop       | 5ee3027  |  feat: added update to plan   | David Gallo |    Nov 16, 2024  |
+| Back-End-Ecomovil | develop       | 492a1a1  |  test(auth): add unit tests for JWT-based login functionality     | Beth Oneglio |    Nov 16, 2024  |
+| Back-End-Ecomovil | develop       | 52f9ef   |  test(auth): add unit tests for JWT-based login functionality       | Beth Oneglio |    Nov 16, 2024  |
+
 
 5.2.4.4. Testing Suite Evidence for Sprint Review
 
