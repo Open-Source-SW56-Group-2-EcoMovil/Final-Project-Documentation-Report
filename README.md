@@ -1651,27 +1651,40 @@ Enlace del repositorio: https://github.com/Open-Source-SW56-Group-2-EcoMovil/Fro
 
 - Web Service Commit Details:
 
-| Repository | Branch | Commit Id | Commit Message | User | Commited Message Body | Commited on (Date) |
-| ---------- | ------ | --------- | -------------- | ---- | --------------------- | ------------------ |
-|            |        |           |                |      |                       |                    |
-|            |        |           |                |      |                       |                    |
-
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------- | ------------------ |
-| Back-End-Ecomovil | feature/i18n-internationalization       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya |    | Nov 14, 2024         | 
-| Back-End-Ecomovil | feature/i18n-internationalization       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya |     |Nov 14, 2024    |
-| Back-End-Ecomovil | feature/i18n-internationalization       | fb74fc1         | feat: updated package.json | Juan Calisaya |    | Nov 14, 2024       |
-| Back-End-Ecomovil | feature/i18n-internationalization       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya |    | Nov 14, 2024   |
-| Back-End-Ecomovil | feature/i18n-internationalization       | 389ac85             |  feat(fake-api): setup fake api configuration.               | Juan Calisaya |    |  Nov 14, 2024 |
-| Back-End-Ecomovil | feature/i18n-internationalization       | 8b29671              |    feat: updated i18n          | Juan Calisaya |     |     Nov 15, 2024 |
-| Back-End-Ecomovil | feature/i18n-internationalization       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |     | Nov 16, 2024 |
-| Back-End-Ecomovil | develop       | 432c543         | feat: add i18n-internationalization       | Juan Calisaya |    | Nov 14, 2024         | 
-| Back-End-Ecomovil | develop       | d962d1f         | feat: add i18n-internationalization | Juan Calisaya |     |Nov 14, 2024    |
-| Back-End-Ecomovil | develop       | fb74fc1         | feat: updated package.json | Juan Calisaya |    | Nov 14, 2024       |
-| Back-End-Ecomovil | develop       | 64c41c0   | chore: configure providers for http client and translate service.  | Juan Calisaya |    | Nov 14, 2024                |
-| Back-End-Ecomovil | develop       | 389ac85             |  feat(fake-api): setup fake api configuration.                   | Juan Calisaya |    |  Nov 14, 2024 |
-| Back-End-Ecomovil | develop       | 8b29671              |    feat: updated i18n          | Juan Calisaya |     |     Nov 15, 2024 |
-| Back-End-Ecomovil | develop       | af1fb28  |  feat: updated i18n-internationalization     | Juan Calisaya |     | Nov 16, 2024 |
+| Back-End-Ecomovil | main       | fd74c6a         | Initial commit       | Beth Oneglio |    | Sep 19, 2024         | 
+| Back-End-Ecomovil | main       | aa5f5cc         | Delete README.md | Juan Calisaya |     | Oct 22, 2024    |
+| Back-End-Ecomovil | main       | 841182a         | chore: initial commit | Juan Calisaya |    | Oct 30, 2024      |
+| Back-End-Ecomovil | main       | dc4a276   | feat(shared): add infrastructure layer for shared bounded context.  | Juan Calisaya |    | Oct 31, 2024   |
+| Back-End-Ecomovil | main       | 335568a             |  feat(shared): add domain layer for shared bounded context.              | Juan Calisaya |    |  Oct 31, 2024 |
+| Back-End-Ecomovil | main       | adc5904              |    feat(shared): add interface layer for shared bounded context.          | Juan Calisaya |     |     Oct 31, 2024 |
+| Back-End-Ecomovil | main       | 6a3dd36  |  Merge branch 'master'     | Juan Calisaya |     | Oct 31, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-forum       | 7d4d26f      | feat(forum): add forum bounded context.       | Beth Oneglio |    |  Nov 1, 2024         | 
+| Back-End-Ecomovil | feacture/bounded-context-forum       | c68621d       | feat(forum): add forum bounded context.  | Beth Oneglio |     | Nov 1, 2024    |
+| Back-End-Ecomovil | feacture/bounded-context-plans       | 39f6ca1       | feat: Model | Erick Vasquez |    |  Nov 1, 2024       |
+| Back-End-Ecomovil | feacture/bounded-context-plans       | ad03479       | feat: Model   | Erick Vasqueza |    |  Nov 1, 2024                |
+| Back-End-Ecomovil | feacture/bounded-context-plans       | e622c26        |  feat: Patron CQRS       | Erick Vasquez |    |   Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-plans       | ea9d328       |    feat:add Controller and Reposiotory       | Erick Vasquez |     |    Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | 61c4082  | feat(domain): add CreateVehicleCommand to handle vehicle creation commands | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | c8e42d9  | feat(domain): add Vehicle entity to represent vehicle data in domain     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | fbb9fb2  | feat(application): add VehicleCommandService to process vehicle commands     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | 5cf45ae  | feat(interfaces): add VehicleController for REST endpoints     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | a117207  | feat(application): add VehicleQueryService to handle vehicle queries     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | 7da53dc  | feat(infrastructure): add VehicleRepository for database operations     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-vehicle     | 4ff53a1  | fix(vehicle): correct vehicle controller logic     | Juan Calisaya |     |  Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | cf54f3a  | feat: Added profile bounded context and student entity      | David Gallo |     | Oct 31, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | 6d9042d  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | e6313ba  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | db4d6a7  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | fe2a576  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | 50ad053  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | 643f56c  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | 33692c7  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | bfbe237  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | d79a22f  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | 6623725  | feat: Added profile bounded context and acquirer entity     | Mathias Hidalgo |     | Nov 1, 2024 |
+| Back-End-Ecomovil | feacture/bounded-context-profile     | d5f4961  | feat: fixed acquirer bounded context     | David Gallo |     | Nov 1, 2024 |
 | Back-End-Ecomovil | develop       | 3b9b52b  |   feat: added information for deployment  | David Gallo |     |   Nov 13, 2024 |
 | Back-End-Ecomovil | develop       | 10b6576  |  feat: added vehicles  | David Gallo |     | Nov 13, 2024 |
 | Back-End-Ecomovil | develop       | 080bc99  |  feat: add vehicle| David Gallo |     | Nov 13, 2024 |
