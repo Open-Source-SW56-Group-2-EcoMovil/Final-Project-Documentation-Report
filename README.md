@@ -1782,7 +1782,7 @@ Repositorio Web-Application-EcoMovil:
 
 -Repositorio Landing:
 
-(Imagen de los insights)
+![](assets/chapter-5/Landing_1.png) 
 
 -Repositorio Front-end:
 
