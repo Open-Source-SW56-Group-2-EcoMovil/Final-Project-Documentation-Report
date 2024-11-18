@@ -6,11 +6,11 @@ Para elaborar el To-be Scenario Mapping, el equipo definió cómo sería el fluj
 
 - Segmento Universitarios:
 
-![ImpactMapping1](/assets/sprint1/tobe1.png)
+![ImpactMapping1](/assets/chapter-3/tobe1.png)
 
 - Segmento Adquiriente:
 
-![ToBeMapping2](/assets/sprint1/tobe2.png)
+![ToBeMapping2](/assets/chapter-3/tobe2.png)
 
 ## 3.2. User Stories
 
@@ -48,7 +48,7 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
     <td>US02</td>
     <td>Sección Hero en la Landing Page</td>
     <td>
-<b>Como universitario o adquiriente quiero ver una sección hero atractiva y clara al acceder a la Landing Page para entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
+<b>Como</b> universitario o adquiriente <b>quiero</b> ver una sección hero atractiva y clara al acceder a la Landing Page <b>para</b> entender el valor de la aplicación y decidir si deseo saber más sobre ella.</td>
     <td>
 Escenario 1: Visualización de la Sección Hero
 
@@ -86,7 +86,7 @@ Escenario 1: Visualización de la Sección de Beneficios
 <br>
 Dado que el universitario o adquiriente se encuentre en la landing page,  
 cuando se carga la página,  
-entonces la sección de “Cómo funciona”  debe ser visible en la página con una descripción clara y atractiva de cómo EcoMovil puede mejorar la experiencia ecológica y la interacción con la aplicación.
+entonces la sección de “Cómo funciona” debe ser visible en la página con una descripción clara y atractiva de cómo EcoMovil puede mejorar la experiencia ecológica y la interacción con la aplicación.
     </td>
     <td>1</td>
 </tr>
@@ -197,7 +197,7 @@ entonces la sección dedicada a universitarios debe ser visible y accesible, mos
 </tr>
 <tr>
     <td>US12</td>
-    <td>Sección de conozca más sobre nosotros en la Landing Page</td>
+    <td>Sección de "conozca más sobre nosotros" en la Landing Page</td>
     <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección de “Conozca más sobre nosotros” <b>para</b> obtener información detallada sobre EcoMovil.</td>
     <td>
 Escenario 1: Visualización de la Sección “Conozca Más Sobre Nosotros”
@@ -369,7 +369,7 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>entonces</b> la página debe mostrar claramente el nombre completo, correo electrónico, número de contacto y RUC del usuario.
     </td>
-    <td>4</td>
+    <td>5</td>
 </tr>
 <tr>
     <td>US22</td>
@@ -395,10 +395,10 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
         <br>
         <b>Dado que</b> el usuario está autenticado y se encuentra en la página del foro de contacto en EcoMovil,  
         <br>
-        <b>cuando</b> el usuario accede a la sección "Foro de Contacto" desde el menú,  
+        <b>cuando</b> el usuario accede a la sección "Foro" desde el menú,  
         <br>
         <b>entonces</b> el usuario debería ver una lista de propietarios que han publicado sus datos de contacto a través de WhatsApp.
-    <td>4</td>
+    <td>6</td>
 </tr>
 <tr>
     <td>US24</td>
@@ -517,22 +517,19 @@ entonces la sección de “Todos los derechos reservados” debe ser visible al 
     </td>
     <td>4</td>
 </tr>
-</tr>
 <tr> 
     <td>US32</td> 
     <td>Implementar la internacionalización de la Aplicación</td> 
-    <td>Como usuario, quiero poder cambiar el idioma de la aplicación para usar la aplicación en el idioma que me resulte más cómodo.
-</td> 
+    <td>Como usuario, quiero poder cambiar el idioma de la aplicación para usar la aplicación en el idioma que me resulte más cómodo.</td> 
     <td> 
     Escenario: Cambiar idioma de la aplicación
      Dado el usuario está en cualquier página de la aplicación (frontend)
-     Cuando el usuario selecciona el idioma "<idioma>" en el menú de idiomas
-     Entonces el sistema cambia el idioma de la aplicación a "<idioma>" (frontend)
+     Cuando el usuario selecciona el idioma en el menú de idiomas
+     Entonces el sistema cambia el idioma de la aplicación a idioma (frontend)
      Y todos los textos en la interfaz se actualizan correctamente al idioma seleccionado (frontend)
     </td>
     <td>4</td>
-</tr>
- </tbody>
+</tr> 
 </table>
 
 ## 3.3. Impact Mapping
@@ -541,7 +538,7 @@ En esta sección, presentamos el **Impact Mapping** para el proyecto de **EcoMov
 
 El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio, las necesidades de los usuarios y las funcionalidades propuestas se interconectan. Asegura que cada elemento del desarrollo esté alineado con nuestras metas, contribuyendo al éxito de **EcoMovil** y mejorando tanto la experiencia de los universitarios como la de los adquirientes.
 
-![ImpactMapping](/assets/sprint1/Impactmap1.png)
+![ImpactMapping](/assets/chapter-3/Impactmap1.png)
 
 ## 3.4. Product Backlog
 
@@ -636,7 +633,7 @@ El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio
         <tr>
             <td>12</td>
             <td>US12</td>
-            <td>Sección de conozca más sobre nosotros en la Landing Page</td>
+            <td>Sección de "conozca más sobre nosotros" en la Landing Page</td>
             <td><b>Como</b> universitario o adquiriente, <b>quiero</b> acceder a una sección de "Conozca más sobre nosotros" <b>para</b> ingresar a EcoMovil.</td>
             <td>4</td>
         </tr>
@@ -679,6 +676,6 @@ El **Impact Mapping** ofrece una visión clara de cómo los objetivos de negocio
 </table>
 <br>
 
-![Product_Backlog](/assets/sprint1/Sprint-1.png)
+![Product_Backlog](/assets/chapter-3/Sprint-1.png)
 
 Enlace: https://trello.com/invite/b/661b0a12e3392a7cd56479b3/ATTId873230114b58cf1283849f79a6c16f00E74F0C5/ecomovil-product-backlog-tb1-sprint-1
