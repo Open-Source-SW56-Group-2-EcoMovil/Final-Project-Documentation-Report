@@ -1267,7 +1267,7 @@ Las user stories son una manera de transformar el lenguaje informal de los clien
         <td>
 
 <b>**Como** universitario o adquiriente **quiero** visualizar una landing page **para** conocer las funciones de la aplicación.</td>
-<td>**Escenario 1: Visualización de la Barra de Navegación**
+<td>Escenario 1: Visualización de la Barra de Navegación
 <br>
 
 **Dado que** el universitario o adquiriente se encuentre en la landing page,
@@ -3478,7 +3478,7 @@ En Scrum, un Sprint es un intervalo de tiempo corto y determinado durante el cua
 
 ### 5.2.2.1. Sprint Planning 2
 
-El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
+El Sprint #2, que inicia el 19 de septiembre de 2024, se centrará en el diseño del front-end, concretamente en la creación de la landing page de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la página web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
 <table>
      <tr> 
@@ -3868,7 +3868,7 @@ Repositorio Web-Application-EcoMovil:
 
 ### 5.2.3. Sprint 3
 
-El Sprint #3, que inicia el 17 de octubre de 2024, se centrará en el diseño del front-end de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la aplicación web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
+El Sprint #3, que inicia el 28 de octubre de 2024, se centrará en el diseño del front-end de EcoMovil. El objetivo es permitir que nuestro público pueda visualizar e interactuar con la aplicación web una vez esté desplegada, siguiendo el enfoque ágil de metodologías como Scrum, donde un sprint es un período corto y definido para completar tareas clave del proyecto.
 
 Durante este sprint, nuestro equipo completó los aspectos finales del front-end y comenzó a establecer la estructura del back-end.
 
@@ -4181,7 +4181,7 @@ Durante el presente sprint hemos logrado desplegar el back-end, usando SQLServer
 
 ![deployment-evidence](/assets/chapter-5/deployment.png)
 
-Url: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
+Enlace del Deployment: https://ecomovil-back3.azurewebsites.net/swagger-ui/index.html#/
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
