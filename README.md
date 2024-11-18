@@ -847,11 +847,11 @@ Como evidencia del sprint review, se presenta una tabla que muestra los commits 
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-Para la entrega del Sprint 1, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
+Para la entrega del Sprint 2, nos enfocamos en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
 
-| Repository                          | Branch         | Commit Id | Commit Message                  | Commited Message Body | Commited on (Date) |
-|---------------------------------------|----------------|-----------|----------------------------------|--------------------|--------------------|
-| [https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests](https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests) | Epic/Acceptance-Tests/main | 32d605bd8dedccda9d4c5db78c6d8ce96ae5ca51 | feat: Initial commit  | 06/09/24    |
+| Repository                                    | Branch    | Commit Id      | Commit Message                              | Commit Message Body                   | Committed on (Date) |
+|-----------------------------------------------|-----------|----------------|---------------------------------------------|---------------------------------------|----------------------|
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests | Epic/Acceptance-Tests/epic-02 | 700b47e7810dc889051eec663b8447fcef58ca98 | feat: add epic 2 and 3 | | 18/11/2024 |
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -994,7 +994,7 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-        <td> para el sprint 3 pondrías. Durante el desarrollo del Sprint 2, se logró implementar con éxito el frontend de EcoMovil y se realizó el despliegue utilizando GitHub Pages. Se cumplió con todos los requisitos funcionales establecidos para el sprint. <td>
+        <td> Durante el desarrollo del Sprint 2, se logró implementar con éxito el frontend de EcoMovil y se realizó el despliegue utilizando GitHub Pages. Se cumplió con todos los requisitos funcionales establecidos para el sprint. <td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
@@ -1206,7 +1206,7 @@ Para la entrega del Sprint 3, nos centramos en alcanzar un desarrollo casi compl
 
 | Repository                                    | Branch    | Commit Id      | Commit Message                              | Commit Message Body                   | Committed on (Date) |
 |-----------------------------------------------|-----------|----------------|---------------------------------------------|---------------------------------------|----------------------|
-| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests | Epic/Acceptance-Tests/epic-01 | c4eef98 | chore: uploaded acceptance test for user stories | | 1/11/2024 |
+| https://github.com/Open-Source-SW56-Group-2-EcoMovil/Acceptance-Tests | Epic/Acceptance-Tests/epic-03 | 700b47e7810dc889051eec663b8447fcef58ca98 | feat: add epic 2 and 3 | | 18/11/2024 |
 
 ### 5.2.3.5. Execution Evidence for Sprint Review 
 
@@ -1587,7 +1587,7 @@ En el Sprint 4, se completó el desarrollo tanto del frontend como del backend d
 
 ![](assets/chapter-5/Backend_4.jpg) 
 
-Enlace para ver el video que explica los logros alcanzados en el Sprint: (Subir el enlace de la exposición final)
+Enlace para ver el video que explica los logros alcanzados en el Sprint: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EWRFicbfLOBCmMH02n9CBJEBKMKGdXdYpHIIOLWwqFlFPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=n50lwC 
 
 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -1722,7 +1722,7 @@ En la entrega del cuarto sprint, se completó y desplegó el landing page funcio
 
  - Web Application Front-end:
 
-(Agregar imagenes del deploy del Frontend)
+Enlace del Front-end: https://happy-tree-09edbd910.5.azurestaticapps.net/login
 
 ![](assets/chapter-5/Imagen_1.jpg) 
 
@@ -1754,7 +1754,7 @@ En la entrega del cuarto sprint, se completó y desplegó el landing page funcio
 
 Ultimo despliegue del Web Service: 
 
-(Falta imagen)
+Enlace del Back-end: https://back-end-ecomovil-deploy-production.up.railway.app/swagger-ui/index.html#/
 
 - Capturas de pantalla del Web Application:
 
@@ -1784,13 +1784,9 @@ Repositorio Web-Application-EcoMovil:
 
 ![](assets/chapter-5/Landing_1.png) 
 
--Repositorio Front-end:
-
-(Imagen de los insights)
-
 -Repositorio Back-end:
 
-(Imagen de los insights)
+![](assets/chapter-5/Frontend_Person.png) 
 
 ## 5.3. Validation Interviews 
 
@@ -2247,12 +2243,12 @@ Enlace My JSON Server: https://my-json-server.typicode.com/Open-Source-SW56-Grou
 
 Enlace de la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
 
-Enlace del Frontend: 
-
-Enlace de la conexión del Frontend y Backend:
+Enlace del Frontend: https://happy-tree-09edbd910.5.azurestaticapps.net/login
 
 Enlace del Landing Page: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
 
-Enlace del Backend:
+Enlace del Backend: https://back-end-ecomovil-deploy-production.up.railway.app/swagger-ui/index.html#/
 
 Enlace del Diagrama de Base de Datos: https://lucid.app/lucidchart/e06db2ed-90a9-4d18-9e17-cdc374991f9c/edit?viewport_loc=415%2C329%2C2176%2C904%2C0_0&invitationId=inv_9c243997-a36f-4661-8b63-4d07191632d1
+
+Enlace del video del trabajo final: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EWRFicbfLOBCmMH02n9CBJEBKMKGdXdYpHIIOLWwqFlFPg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RvrmLV
