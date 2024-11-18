@@ -153,19 +153,19 @@ Los gráficos siguientes muestran los análisis de commits en el repositorio del
 
 **TB1**
 
-![insights](/assets/insights.png)
+![insights](/assets/main/insights.png)
 
 **TP1**
 
-![insights](/assets/insights-front-end.png)
+![insights](/assets/main/insights-front-end.png)
 
 **TB2**
 
-![insights](/assets/insights_tb2.png)
+![insights](/assets/main/insights_tb2.png)
 
 **TF**
 
-![insights](/assets/Tf_Insights.png)
+![insights](/assets/main/Tf_Insights.png)
 
 # Contenido 
 ## Tabla de contenidos
