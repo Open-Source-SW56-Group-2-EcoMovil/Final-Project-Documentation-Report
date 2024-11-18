@@ -615,7 +615,7 @@ El Sprint #2, que inicia el 12 de septiembre de 2024, se centrará en el diseño
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-          <td>  26  <td
+          <td>  26  </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -1009,7 +1009,7 @@ Durante este sprint, nuestro equipo completó los aspectos finales del front-end
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-          <td>  34  <td
+          <td>  34  </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
@@ -1290,7 +1290,7 @@ El Sprint #4 comienza el 13/11/2024 y tiene como objetivo completar, integrar y 
         <th> Sprint 4 </th>
      </tr>
      <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planning Background</td>
+        <td style="font-weight: bold;" colspan="3"> Sprint Planning Background</td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
@@ -1332,7 +1332,7 @@ El Sprint #4 comienza el 13/11/2024 y tiene como objetivo completar, integrar y 
         <td> Los story points no fueron completamente apropiados. Aunque la comunicación constante mantuvo al equipo al tanto, las historias de usuario fueron poco claras. Es necesario mejorar la documentación del testing y hacer las historias de usuario más simples para que los desarrolladores las comprendan fácilmente. <td>
      </tr>
      <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+        <td style="font-weight: bold;" colspan="3"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Goal</td>
@@ -1340,7 +1340,7 @@ El Sprint #4 comienza el 13/11/2024 y tiene como objetivo completar, integrar y 
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
-          <td>  33  <td
+          <td>  33  </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
