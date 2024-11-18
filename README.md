@@ -25,15 +25,15 @@ Es un conjunto de normas y directrices que determinan cómo se deben redactar, d
 
 EcoMovil es una solución que surge de la combinación de "Eco", representando ecología y sostenibilidad, y "Movil", destacando la movilidad urbana. Esta aplicación está diseñada para fomentar el emprendimiento universitario y la sostenibilidad en Perú, brindando a los estudiantes la oportunidad de generar ingresos alquilando o vendiendo vehículos ecológicos. Al mismo tiempo, contribuye a reducir la contaminación y promueve un estilo de vida más activo.
 
-<img src="/assets/perfil/ecomovil.jpg">
+<img src="/assets/chapter-4/ecomovil.jpg">
 
 **Colores:**
 
 Los colores desempeñan un papel fundamental en la primera impresión que los usuarios tienen de la aplicación. Basándose en los principios de la psicología del color, se ha seleccionado el verde como el color principal de la paleta cromática. Este color simboliza crecimiento y creatividad, que son valores esenciales de la startup. Además, el verde está asociado con la ecología, que es el enfoque principal de la aplicación, y con la armonía, un concepto que buscamos reflejar en la interacción con el servicio. Las tonalidades secundarias elegidas abarcan distintos matices de verde claro, verde oscuro y verde pálido. Como colores secundarios, también se incluyen variantes de verde fosforescente, crema claro y anaranjado amarillo.
 
-<img src="/assets/perfil/primaryandsecondary.png">
-<img src="/assets/perfil/wireframeandtext.png">
-<img src="/assets/perfil/gradient.png">
+<img src="/assets/chapter-4/primaryandsecondary.png">
+<img src="/assets/chapter-4/wireframeandtext.png">
+<img src="/assets/chapter-4/gradient.png">
 
 **Tipografia:**
 
@@ -46,7 +46,7 @@ La estructura tipográfica del proyecto se organiza en cuatro niveles de jerarqu
 - Heading 03: Tamaño de 17px.
 - Heading 04: Tamaño de 15px.
 
-<img src="/assets/perfil/typography2.png">
+<img src="/assets/chapter-4/typography2.png">
 
 ### 4.1.2. Web Style Guidelines
 
