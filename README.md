@@ -17,9 +17,9 @@ El análisis competitivo es fundamental para la toma de decisiones estratégicas
     <tr>
       <td colspan="2"></td>
       <td align="center">EcoMovil<br>
-        <img src="/assets/perfil/ecomovil.jpg"></td>
+        <img src="/assets/chapter-2/ecomovil.jpg"></td>
       <td align="center">Tembici<br>
-        <img src="/assets/perfil/tembici.png"></td>
+        <img src="/assets/chapter-2/tembici.png"></td>
       <td align="center">Airbnb<br> 
         <img src="https://i.ibb.co/BzbnJ7z/image.png"></td>
       <td align="center">CityBikeLima 
@@ -275,17 +275,17 @@ Preguntas dirigidas a Adquirientes.
 |:-------------------:|:-------------------:|
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Miraflores</center>  | 
-| <center>![Interview_Abel](./assets/Chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la aplicación le facilita el proceso de rentar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
+| <center>![Interview_Abel](assets/chapter-2/entrevistavalle.png)</center>  | <center>El usuario valora la aplicación **EcoMovil** porque le proporciona una solución efectiva para aprovechar tres vehículos que no usa. Aprecia cómo la aplicación le facilita el proceso de rentar o vender estos vehículos, permitiéndole generar ingresos adicionales. Además, le gusta que la aplicación le ayuda a contribuir a la movilidad sostenible, haciendo un mejor uso de sus recursos. En general, el usuario encuentra que **EcoMovil** es una herramienta útil y beneficiosa que maximiza el valor de sus vehículos inactivos.</center>  | 
 | <center>Timing: 0:00-4:57 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 2**        | **Rodrigo André García Yauri**         | 
 | <center>Edad</center>  | <center>21 Años</center>  |
 | <center>Distrito</center>  | <center>Molina</center>  | 
-| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere rentarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
+| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaRodrigo.png)</center>  | <center> En esta oportunidad, se entrevistó a Rodrigo García, un joven de 21 años que reside en el distrito de La Molina y es estudiante de la UPC. Rodrigo utiliza dispositivos como laptop y celular para mantenerse conectado y prefiere Microsoft Edge por ser un navegador ligero. Rodrigo tiene una bicicleta de 3 años, la cual sabe utilizar y lleva regularmente a un establecimiento para darle mantenimiento. Al preguntarle sobre los factores que considera al comprar una bicicleta, menciona el precio y el diseño del vehículo como los más importantes. Además, nos cuenta que decidió comprar una bicicleta para pasar tiempo con amigos y disfrutar de paseos en grupo. Rodrigo también comentó que alquila su bicicleta, a la cual le realiza mantenimiento cada dos meses llevándola a un técnico. Prefiere rentarla a personas cercanas o a quienes no la lleven demasiado lejos. Para verificar la identidad de los arrendatarios, solicita los números de DNI y generalmente se comunica a través de WhatsApp o Messenger para coordinar un punto de encuentro para la entrega del vehículo. Finalmente, Rodrigo expresó su interés en contar con promociones u ofertas para alquilar su bicicleta y mencionó que le gustaría tener una aplicación que le permita alcanzar a más personas, ya que en ocasiones no encuentra suficiente público interesado. </center>  | 
 | <center>Timing: 4:58-10:04 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 | **Entrevista 3**        | **Brissa Arakemi Hoyos Arevalo**         | 
 | <center>Edad</center>  | <center>19 Años</center>  |
 | <center>Distrito</center>  | <center>Rímac</center>  | 
-| <center>![Interview Brissa](./assets/Chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora **EcoMovil** porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen la renta o compra.</center>  | 
+| <center>![Interview Brissa](assets/chapter-2/entrevistaBrissa.png)</center>  | <center>Brissa valora **EcoMovil** porque le ofrece una solución para utilizar un vehículo menor que no usa. Le interesa nuestra metodología para facilitar el alquiler y la venta de estos vehículos, así como el registro de los mismos. Aprecia la simplicidad con la que una persona puede ofrecer servicios de alquiler y venta a través de nuestra aplicación. Sin embargo, sugiere que deberíamos mejorar las interacciones entre quienes alquilan y quienes ofrecen la renta o compra.</center>  | 
 | <center>Timing: 10:04-14:52 </center>  | <center>URL: https://acortar.link/uMdFvk </center>  | 
 
 **Entrevista a Adquirientes.**
@@ -294,17 +294,17 @@ Preguntas dirigidas a Adquirientes.
 |:---------------:|:-------------------------------:|
 | <center>Edad</center> | <center>22 Años</center> |
 | <center>Distrito</center> | <center>Barcelona</center> |
-| <center>![Interview_Camila](./assets/Chapter-2/Interview2.1.png)</center> | <center>Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabaja durante sus vacaciones. Aprovechando su tiempo libre, ha decidido viajar a Perú con una amiga y ha considerado realizar paseos en bicicleta por Miraflores. Camila compartió las características que le gustaría ver en una aplicación para alquilar o comprar bicicletas, basándose en sus experiencias con sus padres. Mencionó que encontró interesante la propuesta y destacó que una de las características más importantes para ella sería un mapa interactivo.</center> |
+| <center>![Interview_Camila](assets/chapter-2/Interview2.1.png)</center> | <center>Se entrevistó a Camila, una joven de 21 años de Cuba que actualmente reside en España. Camila está estudiando Medicina y trabaja durante sus vacaciones. Aprovechando su tiempo libre, ha decidido viajar a Perú con una amiga y ha considerado realizar paseos en bicicleta por Miraflores. Camila compartió las características que le gustaría ver en una aplicación para alquilar o comprar bicicletas, basándose en sus experiencias con sus padres. Mencionó que encontró interesante la propuesta y destacó que una de las características más importantes para ella sería un mapa interactivo.</center> |
 | <center>Timing: 14:53-20:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 | **Entrevista 2** | **Paola Andrea Vasquez Goicochea** | 
 | <center>Edad</center> | <center>27 Años</center> |
 | <center>Distrito</center> | <center>Independencia</center> |
-| <center>![Interview_Paola](./assets/Chapter-2/entrevistaPaola.png)</center> | <center>Paola, residente en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas con aplicaciones de alquiler y compra de vehículos. Su principal motivación para usar estos servicios fue recorrer distancias medias y disfrutar del paisaje. Valora la amplia gama de vehículos disponibles y la existencia de un foro de ayuda en la aplicación. Sin embargo, tuvo una mala experiencia debido a un cobro inesperado en su tarjeta al utilizar una aplicación de renta y venta de vehículos. Sugirió mejoras como opciones de personalización del vehículo, para añadir comodidades extras como cascos y soportes para teléfono, entre otros.</center> |
+| <center>![Interview_Paola](assets/chapter-2/entrevistaPaola.png)</center> | <center>Paola, residente en Lima, Independencia, de nivel socioeconómico medio, compartió su experiencia y expectativas con aplicaciones de alquiler y compra de vehículos. Su principal motivación para usar estos servicios fue recorrer distancias medias y disfrutar del paisaje. Valora la amplia gama de vehículos disponibles y la existencia de un foro de ayuda en la aplicación. Sin embargo, tuvo una mala experiencia debido a un cobro inesperado en su tarjeta al utilizar una aplicación de renta y venta de vehículos. Sugirió mejoras como opciones de personalización del vehículo, para añadir comodidades extras como cascos y soportes para teléfono, entre otros.</center> |
 | <center>Timing: 20:02-25:01 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 | **Entrevista 3** | **Silvia Alexandra Flores Garcia** | 
 | <center>Edad</center> | <center>19 Años</center> |
 | <center>Distrito</center> | <center>San Martín</center> |
-| <center>![Interview_Rodrigo](./assets/Chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para obtener información valiosa para nuestro proyecto, expresó que la idea de alquilar y vender vehículos menores a través de una aplicación es innovadora, especialmente por su enfoque en opciones que benefician al medio ambiente. Destacó la conveniencia de los métodos de pago por su rapidez y eficiencia. Finalmente, mencionó que le gustaría poder comunicarse directamente con el universitario para discutir detalles de la renta y compra, conocer el estado del vehículo y dejar una valoración.</center> |
+| <center>![Interview_Rodrigo](assets/chapter-2/entrevistaSilvia.png)</center> | <center>Silvia, una estudiante de veterinaria a la que entrevistamos para obtener información valiosa para nuestro proyecto, expresó que la idea de alquilar y vender vehículos menores a través de una aplicación es innovadora, especialmente por su enfoque en opciones que benefician al medio ambiente. Destacó la conveniencia de los métodos de pago por su rapidez y eficiencia. Finalmente, mencionó que le gustaría poder comunicarse directamente con el universitario para discutir detalles de la renta y compra, conocer el estado del vehículo y dejar una valoración.</center> |
 | <center>Timing: 25:02-29:34 </center> | <center>URL: https://acortar.link/uMdFvk </center> |
 
 ### 2.2.3. Análisis de entrevistas
@@ -327,11 +327,11 @@ Algunos usuarios también sugirieron incluir características adicionales, como 
 
 - Segmento Universitarios:
 
-![User Persona Propietario](/assets/Chapter-2/AlexHidalgo.png)
+![User Persona Propietario](/assets/chapter-2/AlexHidalgo.png)
 
 - Segmento Adquirientes:
 
-![User Persona Rentador](/assets/Chapter-2/CamilaSolano.png)
+![User Persona Rentador](/assets/chapter-2/CamilaSolano.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -582,60 +582,55 @@ En esta sección se ilustra el recorrido completo del usuario (end-to-end journe
 
 - Segmento Universitarios:
   
-![Journey](/assets/Chapter-2/journey1.png)
+![Journey](/assets/chapter-2/journey1.png)
 
 - Segmento Adquirientes:
 
-![Journey](/assets/Chapter-2/journey2.png)
+![Journey](/assets/chapter-2/journey2.png)
 
 ### 2.3.4. Empathy Mapping
 
 - Segmento Universitarios:
   
-![Empathy Mapping 1](/assets/Chapter-2/AlexHidalgo_EmpathyMap.png)
+![Empathy Mapping 1](/assets/chapter-2/AlexHidalgo_EmpathyMap.png)
 
 - Segmento Adquirientes:
   
-![Empathy Mapping 2](/assets/Chapter-2/CamilaSolano_EmpathyMap.png)
+![Empathy Mapping 2](/assets/chapter-2/CamilaSolano_EmpathyMap.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
 - Segmento Universitarios:
   
-![As-Is Mapping 1](/assets/Chapter-2/AsIsMappingUniversitario.png)
+![As-Is Mapping 1](/assets/chapter-2/AsIsMappingUniversitario.png)
 
 - Segmento Adquirientes:
   
-![As-Is Mapping 2](/assets/Chapter-2/AsIsMappingAdquiriente.png)
+![As-Is Mapping 2](/assets/chapter-2/AsIsMappingAdquiriente.png)
 
 ## 2.4. Ubiquitous Language
 
-- **Urban Mobility**: Se refiere a los medios de transporte que facilitan el desplazamiento dentro de un entorno urbano, como bicicletas, scooters, motos eléctricas y otros vehículos alternativos.
-
-- **Owner**: Usuario que posee un vehículo y lo publica en la aplicación para rentar o vender, con el objetivo de obtener un beneficio económico.
-
-- **Renting**: Proceso mediante el cual un Renter paga una cantidad específica por el uso temporal de un vehículo al Owner.
-
-- **Advanced Search**: Funcionalidad en la aplicación que permite a los usuarios filtrar y encontrar vehículos específicos según criterios como tipo de vehículo y precio.
-
-- **Temporary Insurance**: Opción disponible para los Adquirientes al rentar o vender un vehículo, que ofrece cobertura contra accidentes o daños durante el período de renta o compra.
-
-- **Review and Rating**: Sección en la que los usuarios pueden calificar su experiencia con un vehículo, que ayuda a otros usuarios a tomar decisiones informadas.
-
-- **Subscription Plan**: Diferentes niveles de membresía que los Owners pueden adquirir para acceder a beneficios adicionales en la aplicación.
-
-- **Flexible Income**: Ingresos generados por los Owners al rentar o vender sus vehículos, permitiendo una fuente de ingresos variable.
-
-- **Marketplace**: Área en la aplicación donde los usuarios pueden interactuar para rentar o comprar vehículos.
-
-- **Eco-Friendly**: Características de ciertos vehículos en la aplicación que reducen el impacto ambiental.
-
-- **Gamification**: Sistema que incorpora elementos de juego en la aplicación para motivar a los usuarios a realizar ciertas acciones.
-
-- **Cachimbo Plan**: Plan básico para universitarios que permite realizar hasta 2 publicaciones de vehículos al mes con soporte limitado.
-
-- **University Plan**: Plan intermedio de suscripción que ofrece hasta 10 publicaciones mensuales, con soporte prioritario y otros beneficios.
-
-- **Graduate Plan**: Plan premium de suscripción que permite publicaciones ilimitadas de vehículos, con soporte 24/7 y máxima visibilidad en la aplicación.
-
-- **Forum**: Sección de la aplicación donde los usuarios pueden hacer preguntas, compartir experiencias y comunicarse entre ellos.
+- **Vehicle (Vehículo)**: Entidad central en la plataforma que representa cualquier medio de transporte ecológico disponible para alquiler o compra, como bicicletas, scooters, skateboards, o motos eléctricas.
+- **University Student (Universitario)**: Persona que posee un vehículo y lo publica en la plataforma con el objetivo de generar ingresos al rentarlo o venderlo.
+- **Acquirer (Adquiriente)**: Usuario que busca alquilar o comprar un vehículo para su transporte personal o recreativo, ya sea a corto o largo plazo.
+- **Renting (Alquiler)**: Proceso mediante el cual un Universitario otorga el uso temporal de su vehículo a un Adquiriente a cambio de un pago.
+- **Vehicle Listing (Publicación de Vehículo)**: Acción realizada por el Universitario para colocar su vehículo en la plataforma, especificando detalles relevantes como precio, disponibilidad y condiciones de uso.
+- **Vehicle Sale (Venta de Vehículo)**: Proceso en el cual un Universitario ofrece un vehículo para su venta definitiva a un Adquiriente.
+- **Transaction (Transacción)**: Proceso financiero que ocurre al completar una acción de alquiler o venta, involucrando el pago y la entrega del vehículo.
+- **Transaction History (Historial de Transacciones)**: Registro de todas las acciones de alquiler o venta realizadas por un Universitario o Adquiriente en la plataforma.
+- **WhatsApp Coordination (Coordinación por WhatsApp)**: Comunicación directa entre un Universitario y un Adquiriente para acordar detalles logísticos como la entrega o recolección del vehículo.
+- **Forum (Foro)**: Espacio colaborativo donde los usuarios pueden publicar preguntas, compartir experiencias y resolver dudas relacionadas con vehículos, alquileres, ventas o la plataforma en general.
+- **Review and Rating (Calificación y Reseña)**: Sistema donde los Adquirientes pueden calificar su experiencia con un vehículo o Universitario, aportando información relevante para otros usuarios.
+- **Temporary Insurance (Seguro Temporal)**: Servicio adicional opcional que brinda cobertura contra accidentes o daños durante el alquiler de un vehículo.
+- **Subscription Plan (Plan de Suscripción)**: Niveles de membresía que los Universitarios pueden adquirir para acceder a funcionalidades y beneficios específicos de la plataforma.
+- **Flexible Income (Ingreso Flexible)**: Beneficio monetario obtenido por los Universitarios mediante la renta o venta de sus vehículos.
+- **Marketplace (Mercado)**: Espacio de la plataforma donde los usuarios pueden buscar, alquilar o comprar vehículos disponibles.
+- **Pick-up/Drop-off Point (Punto de Entrega y Recolección)**: Ubicación designada donde los Adquirientes pueden recoger o entregar los vehículos alquilados o comprados.
+- **Gamification (Gamificación)**: Estrategia que implementa retos, logros y recompensas para motivar a los usuarios a interactuar más activamente en la plataforma.
+- **Cachimbo Plan (Plan Cachimbo)**: Plan básico de suscripción para Universitarios, con un límite de publicaciones y soporte limitado.
+- **University Plan (Plan Universitario)**: Plan intermedio de suscripción que ofrece más publicaciones mensuales y soporte prioritario.
+- **Graduate Plan (Plan Graduado)**: Plan de suscripción avanzado que brinda a los Universitarios publicaciones ilimitadas y soporte completo.
+- **Plan Payment (Pago de Plan)**: Evento en el cual un Universitario realiza una transacción para adquirir o renovar un Plan de Suscripción en la plataforma.
+- **Reminder Notification (Notificación de Recordatorio)**: Mensaje automático que se envía a los Universitarios y Adquirientes para recordar eventos importantes como la renovación de un plan, la recolección de un vehículo o la finalización de un período de alquiler.
+- **Vehicle Verification (Validación de Vehículo)**: Proceso por el cual la plataforma verifica los detalles y la condición de los vehículos publicados por los Universitarios para garantizar la calidad y seguridad del servicio.
+- **Achievement (Logro)**: Recompensas o insignias virtuales que los usuarios pueden obtener al cumplir ciertos objetivos, como alcanzar un número específico de alquileres o recibir calificaciones positivas.
